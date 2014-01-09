@@ -23,7 +23,10 @@ import numpy as np
 from pylab import *
 import sqlite3
 
-TrashWord = ['氣炸','鍋','我','有','是','來','為','你','他','這樣','說']
+TrashWord = []
+f_trash = open('TrashWordsFile.txt','r')
+for row in f_trash:
+	TrashWord.append(re.sub(r"\n", "", row ))
 
 def CkipCrawlerData(file_name):
 	f = open(file_name,'r')
@@ -32,15 +35,17 @@ def CkipCrawlerData(file_name):
 	PostId=0
 	for row in csv.DictReader(f):
 		ckip_json = CkipReturn(row['內容'])
-		CkipDataContent =''
+		CkipDataContent = ''
 		for sentence in ckip_json['result']:
 			for term in sentence:
 				if term['pos']=='N' or term['pos'] == 'Vi' or term['pos'] == 'Vt':
 					CkipDataContent += '-'+term['term']
-					if str(term['term']) not in TrashWord:
+					if term['term'] not in TrashWord:
 						term_frequency[term['term']]+=1
+		
+					else:
+						print term['term']
 		data+=str(PostId)+','+CkipDataContent+'\n'
-		print data
 		PostId+=1
 
 	
@@ -51,7 +56,7 @@ def CkipCrawlerData(file_name):
         filtered_term_table = open('FilteredTermTable.txt','w')
         for key in term_frequency:
 		if key not in TrashWord:
-			if term_frequency[key]>5:
+			if term_frequency[key]>7:
                 		filtered_term_table.write(str(key)+':'+str(term_frequency[key])+'\n')
 	filtered_term_table.close()
 	
@@ -64,40 +69,48 @@ def CkipReturn(in_text): #in_text is string
 		segmented_in_text_result = segmenter.process(unicode('got an error'))
 	return segmented_in_text_result
 
-def CreateTable(term_table,data_table):
+def CreateBasket(term_table,data_table):
 	feature_set = [] #for possible bursty feature which total frequency is more than 2
+	syn_dict = Synonym('synonym.txt')
 	f = open(term_table,'r') #termset
 	df = open(data_table,'r')
-	term_post_table = open('TermPostTable.csv','w')
-	term_post_table.seek(0)
+	term_post_table = open('TermPost.basket','w')
 	data = 'PostId'
 	for row in f:
 		term = row.split(':')
-		feature_set.append(term[0])
-	for feature in feature_set:
-		data+=','+feature
-	data+='\n'
+		if term[0] in syn_dict:
+			if syn_dict[term[0]] not in feature_set:
+				feature_set.append(syn_dict[term[0]])
+		else:
+			feature_set.append(term[0])
+	data=''
 	for row in csv.DictReader(df):
-		num=0
+		print  row['CkipDataContent']
 		token = row['CkipDataContent'].split('-')
-		feature_dict = defaultdict(int)
-		for feature in feature_set:
-			feature_dict[feature]+=0
 		for word in token:
-			feature_dict[word]+=1
-
-		row_data = str(row['PostId'])
-		for feature in feature_set:
-			num=num+1
-			if feature_dict[feature]==0:
-				row_data+=','+'0'
+			if word in syn_dict:
+				data+=','+syn_dict[word]
 			else:
-				row_data+=','+'1'
-		data+=row_data+'\n'
+				if word in feature_set:
+					data+=','+word	
+		data+='\n'
 	f.close()
 	df.close()
 	term_post_table.write(str(data))
 	term_post_table.close()
 
+
+def Synonym(f_name):
+	f = open('synonym.txt','r')
+	syn_dict = defaultdict(str)
+	for row in f:
+		print row
+		syn = row.split(':')
+		syn_dict[syn[0]]=syn[1]
+
+	return syn_dict
+
 CkipCrawlerData('Opview.csv')
-CreateTable('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
+#CreateTable('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
+CreateBasket('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
+#Synonym('test')
