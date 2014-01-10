@@ -70,6 +70,7 @@ def FilterWord():
 		else:
 			print 'not OK:'+key
 	filtered_term_table.close()
+	print term_frequency
 
 def TrashWord():
 	f_trash = open('TrashWordsFile.txt','r')
