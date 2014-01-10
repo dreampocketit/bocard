@@ -23,16 +23,12 @@ import numpy as np
 from pylab import *
 import sqlite3
 
-TrashWord = []
-f_trash = open('TrashWordsFile.txt','r')
-for row in f_trash:
-	TrashWord.append(re.sub(r"\n", "", row ))
 
 def CkipCrawlerData(file_name):
 	f = open(file_name,'r')
-	data = 'PostId,CkipDataContent\n'
+	data = 'CkipDataContent\n'
 	term_frequency= defaultdict( int )
-	PostId=0
+
 	for row in csv.DictReader(f):
 		ckip_json = CkipReturn(row['內容'])
 		CkipDataContent = ''
@@ -40,26 +36,47 @@ def CkipCrawlerData(file_name):
 			for term in sentence:
 				if term['pos']=='N' or term['pos'] == 'Vi' or term['pos'] == 'Vt':
 					CkipDataContent += '-'+term['term']
-					if term['term'] not in TrashWord:
-						term_frequency[term['term']]+=1
+					term_frequency[term['term']]+=1
 		
-					else:
-						print term['term']
-		data+=str(PostId)+','+CkipDataContent+'\n'
-		PostId+=1
-
+		data+=CkipDataContent+'\n'
 	
-        CkipCrawlerDataTable = open('CkipCrawlerDataTable.csv','w')
-        CkipCrawlerDataTable.write(data)
-        CkipCrawlerDataTable.close()
+	ckiped_data = open('CkipedData.csv','w')
+	ckiped_data.write(data)
+	ckiped_data.close()
 
-        filtered_term_table = open('FilteredTermTable.txt','w')
-        for key in term_frequency:
-		if key not in TrashWord:
+	data_for_term = ''
+	for word in term_frequency:
+		data_for_term += word+':'+str(term_frequency[word])+'\n'
+
+	term_freq = open('TermFerq.txt','w')
+	term_freq.write(data_for_term)
+	term_freq.close()
+
+
+def FilterWord():
+	term_freq_table = open('TermFerq.txt','r')
+	term_frequency = defaultdict( int )
+	for row in term_freq_table:
+		row = row.split(':')
+		term_frequency[row[0]]=row[1]
+
+	trash_word = TrashWord()
+	filtered_term_table = open('FilteredTermTable.txt','w')
+	for key in term_frequency:
+		if key not in trash_word:
 			if term_frequency[key]>7:
-                		filtered_term_table.write(str(key)+':'+str(term_frequency[key])+'\n')
+				print 'ok:' + key
+				filtered_term_table.write(str(key)+':'+str(term_frequency[key])+'\n')
+		else:
+			print 'not OK:'+key
 	filtered_term_table.close()
-	
+
+def TrashWord():
+	f_trash = open('TrashWordsFile.txt','r')
+	TrashWord = []
+	for row in f_trash:
+		TrashWord.append(re.sub(r"\n", "", row ))
+	return TrashWord
 
 def CkipReturn(in_text): #in_text is string
 	segmenter = CKIPSegmenter('changcheng.tu', 'a10206606')
@@ -75,7 +92,6 @@ def CreateBasket(term_table,data_table):
 	f = open(term_table,'r') #termset
 	df = open(data_table,'r')
 	term_post_table = open('TermPost.basket','w')
-	data = 'PostId'
 	for row in f:
 		term = row.split(':')
 		if term[0] in syn_dict:
@@ -85,8 +101,7 @@ def CreateBasket(term_table,data_table):
 			feature_set.append(term[0])
 	data=''
 	for row in csv.DictReader(df):
-		print  row['CkipDataContent']
-		token = row['CkipDataContent'].split('-')
+		token = str(row['CkipDataContent']).split('-')
 		for word in token:
 			if word in syn_dict:
 				data+=','+syn_dict[word]
@@ -104,13 +119,13 @@ def Synonym(f_name):
 	f = open('synonym.txt','r')
 	syn_dict = defaultdict(str)
 	for row in f:
-		print row
 		syn = row.split(':')
 		syn_dict[syn[0]]=syn[1]
 
 	return syn_dict
 
 CkipCrawlerData('Opview.csv')
+FilterWord()
 #CreateTable('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
-CreateBasket('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
+CreateBasket('FilteredTermTable.txt','CkipedData.csv')
 #Synonym('test')
