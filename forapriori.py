@@ -1,14 +1,7 @@
 #Create your views here
 # -*- coding: utf-8 -*-
-import random
-import simplejson
-import Orange
 from ckip import CKIPSegmenter, CKIPParser
-import urllib2
-import json
 import string
-import re
-import time
 from collections import defaultdict #for tf
 import csv
 import sys
@@ -17,12 +10,11 @@ sys.setdefaultencoding("utf-8")
 import os, sys, urllib, json
 import urllib2
 from dateutil import parser
-from operator import itemgetter
-import matplotlib.pyplot as plt
-import numpy as np
-from pylab import *
-import sqlite3
+import re
 
+TERM_FREQ_THRESHOLE = 7
+TRASH_WORD_FILE = 'TrashWordsFile.txt'
+SYNONYM_FILE = 'synonym.txt'
 
 def CkipCrawlerData(file_name):
 	f = open(file_name,'r')
@@ -31,6 +23,7 @@ def CkipCrawlerData(file_name):
 
 	for row in csv.DictReader(f):
 		ckip_json = CkipReturn(row['內容'])
+		print 'CKIPing:  '+ row['內容']
 		CkipDataContent = ''
 		for sentence in ckip_json['result']:
 			for term in sentence:
@@ -64,16 +57,16 @@ def FilterWord():
 	filtered_term_table = open('FilteredTermTable.txt','w')
 	for key in term_frequency:
 		if key not in trash_word:
-			if term_frequency[key]>7:
-				print 'ok:' + key
+			if term_frequency[key]>TERM_FREQ_THRESHOLE:
 				filtered_term_table.write(str(key)+':'+str(term_frequency[key])+'\n')
+			else:
+				print 'filter out: '+key
 		else:
-			print 'not OK:'+key
+			print 'filter out: '+key
 	filtered_term_table.close()
-	print term_frequency
 
 def TrashWord():
-	f_trash = open('TrashWordsFile.txt','r')
+	f_trash = open( TRASH_WORD_FILE ,'r')
 	TrashWord = []
 	for row in f_trash:
 		TrashWord.append(re.sub(r"\n", "", row ))
@@ -89,7 +82,7 @@ def CkipReturn(in_text): #in_text is string
 
 def CreateBasket(term_table,data_table):
 	feature_set = [] #for possible bursty feature which total frequency is more than 2
-	syn_dict = Synonym('synonym.txt')
+	syn_dict = Synonym()
 	f = open(term_table,'r') #termset
 	df = open(data_table,'r')
 	term_post_table = open('TermPost.basket','w')
@@ -116,8 +109,8 @@ def CreateBasket(term_table,data_table):
 	term_post_table.close()
 
 
-def Synonym(f_name):
-	f = open('synonym.txt','r')
+def Synonym():
+	f = open( SYNONYM_FILE ,'r')
 	syn_dict = defaultdict(str)
 	for row in f:
 		syn = row.split(':')
@@ -125,7 +118,7 @@ def Synonym(f_name):
 
 	return syn_dict
 
-CkipCrawlerData('Opview.csv')
+#CkipCrawlerData('Opview.csv')
 FilterWord()
 #CreateTable('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
 CreateBasket('FilteredTermTable.txt','CkipedData.csv')
