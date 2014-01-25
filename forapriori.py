@@ -22,6 +22,9 @@ def CkipCrawlerData(file_name):
 	term_frequency= defaultdict( int )
 
 	for row in csv.DictReader(f):
+		if row['來源']=='新聞':
+			print 'this is news'+row['內容']
+			continue
 		ckip_json = CkipReturn(row['內容'])
 		print 'CKIPing:  '+ row['內容']
 		CkipDataContent = ''
@@ -118,7 +121,7 @@ def Synonym():
 
 	return syn_dict
 
-#CkipCrawlerData('Opview.csv')
+CkipCrawlerData('Opview.csv')
 FilterWord()
 #CreateTable('FilteredTermTable.txt','CkipCrawlerDataTable.csv')
 CreateBasket('FilteredTermTable.txt','CkipedData.csv')
