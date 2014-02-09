@@ -1,0 +1,9738 @@
+液<consonant>: no consonant
+液<vowels>: ㄧ ㄧㄝ
+晶<consonant>: ㄐ
+晶<vowels>: ㄧㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+視<consonant>: ㄕ
+視<vowels>: no vowels
+張<consonant>: ㄓ
+張<vowels>: ㄤ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+江<consonant>: ㄐ
+江<vowels>: ㄧㄤ
+優<consonant>: no consonant
+優<vowels>: ㄧㄡ
+足<consonant>: ㄗㄐㄓ
+足<vowels>: ㄨ ㄩ ㄨ
+樂<consonant>: ㄌ
+樂<vowels>: ㄜ ㄩㄝ ㄧㄠ
+湯<consonant>: ㄊㄕ
+湯<vowels>: ㄤ ㄤ
+皇<consonant>: ㄏ
+皇<vowels>: ㄨㄤ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+尊<consonant>: ㄗ
+尊<vowels>: ㄨㄣ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+段<consonant>: ㄉ
+段<vowels>: ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+基<consonant>: ㄐ
+基<vowels>: ㄧ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+護<consonant>: ㄏ
+護<vowels>: ㄨ
+貼<consonant>: ㄊ
+貼<vowels>: ㄧㄝ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+護<consonant>: ㄏ
+護<vowels>: ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+壞<consonant>: ㄏ
+壞<vowels>: ㄨㄞ
+掉<consonant>: ㄉ
+掉<vowels>: ㄧㄠ
+直<consonant>: ㄓ
+直<vowels>: no vowels
+接<consonant>: ㄐ
+接<vowels>: ㄧㄝ
+換<consonant>: ㄏ
+換<vowels>: ㄨㄢ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+廠<consonant>: ㄔ
+廠<vowels>: ㄤ
+處<consonant>: ㄔㄔ
+處<vowels>: ㄨ ㄨ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+宜<consonant>: no consonant
+宜<vowels>: ㄧ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+弟<consonant>: ㄉ
+弟<vowels>: ㄧ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+目<consonant>: ㄇ
+目<vowels>: ㄨ
+前<consonant>: ㄑ
+前<vowels>: ㄧㄢ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+東<consonant>: ㄉ
+東<vowels>: ㄨㄥ
+西<consonant>: ㄒ
+西<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+魔<consonant>: ㄇ
+魔<vowels>: ㄛ
+術<consonant>: ㄕ
+術<vowels>: ㄨ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+厲<consonant>: ㄌ
+厲<vowels>: ㄧ
+害<consonant>: ㄏ
+害<vowels>: ㄞ
+麥<consonant>: ㄇ
+麥<vowels>: ㄞ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+知<consonant>: ㄓㄓ
+知<vowels>:  
+道<consonant>: ㄉ
+道<vowels>: ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+效<consonant>: ㄒ
+效<vowels>: ㄧㄠ
+果<consonant>: ㄍ
+果<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+錯<consonant>: ㄘㄘ
+錯<vowels>: ㄨㄛ ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+率<consonant>: ㄌㄕ
+率<vowels>: ㄩ ㄨㄞ
+高<consonant>: ㄍㄎ
+高<vowels>: ㄠ ㄞ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+境<consonant>: ㄐ
+境<vowels>: ㄧㄥ
+遷<consonant>: ㄑ
+遷<vowels>: ㄧㄢ
+玻<consonant>: ㄅ
+玻<vowels>: ㄛ
+璃<consonant>: ㄌ
+璃<vowels>: ㄧ
+製<consonant>: ㄓ
+製<vowels>: no vowels
+烘<consonant>: ㄏ
+烘<vowels>: ㄨㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+線<consonant>: ㄒ
+線<vowels>: ㄧㄢ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+移<consonant>: no consonant
+移<vowels>: ㄧ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+陸<consonant>: ㄌㄌㄏ
+陸<vowels>: ㄨ ㄧㄡ ㄞ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+庭<consonant>: ㄊ
+庭<vowels>: ㄧㄥ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+身<consonant>: ㄕㄐ
+身<vowels>: ㄣ ㄩㄢ
+族<consonant>: ㄗ
+族<vowels>: ㄨ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+烘<consonant>: ㄏ
+烘<vowels>: ㄨㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+改<consonant>: ㄍ
+改<vowels>: ㄞ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+貌<consonant>: ㄇ
+貌<vowels>: ㄠ ㄠ
+叫<consonant>: ㄐ
+叫<vowels>: ㄧㄠ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+使<consonant>: ㄕ
+使<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+同<consonant>: ㄊㄊ
+同<vowels>: ㄨㄥ ㄨㄥ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+當<consonant>: ㄉㄉ
+當<vowels>: ㄤ ㄤ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+更<consonant>: ㄍㄐㄍ
+更<vowels>: ㄥ ㄧㄥ ㄥ
+甚<consonant>: ㄕㄕ
+甚<vowels>: ㄣ ㄜ
+者<consonant>: ㄓ
+者<vowels>: ㄜ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+標<consonant>: ㄅ
+標<vowels>: ㄧㄠ
+示<consonant>: ㄕ
+示<vowels>: no vowels
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+持<consonant>: ㄔ
+持<vowels>: no vowels
+是<consonant>: ㄕ
+是<vowels>: no vowels
+讓<consonant>: ㄖ
+讓<vowels>: ㄤ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+憂<consonant>: no consonant
+憂<vowels>: ㄧㄡ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+像<consonant>: ㄒ
+像<vowels>: ㄧㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+豆<consonant>: ㄉ
+豆<vowels>: ㄡ
+漿<consonant>: ㄐㄐㄐ
+漿<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+鬆<consonant>: ㄙ
+鬆<vowels>: ㄨㄥ
+餅<consonant>: ㄅ
+餅<vowels>: ㄧㄥ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+段<consonant>: ㄉ
+段<vowels>: ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+基<consonant>: ㄐ
+基<vowels>: ㄧ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+姑<consonant>: ㄍ
+姑<vowels>: ㄨ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+喝<consonant>: ㄏㄏ
+喝<vowels>: ㄜ ㄜ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+叫<consonant>: ㄐ
+叫<vowels>: ㄧㄠ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+錢<consonant>: ㄑ
+錢<vowels>: ㄧㄢ ㄨㄣ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+宜<consonant>: no consonant
+宜<vowels>: ㄧ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+滿<consonant>: ㄇㄒ
+滿<vowels>: ㄢ ㄧㄢ
+額<consonant>: no consonant
+額<vowels>: ㄜ
+贈<consonant>: ㄗ
+贈<vowels>: ㄥ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+果<consonant>: ㄍ
+果<vowels>: ㄨㄛ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+錯<consonant>: ㄘㄘ
+錯<vowels>: ㄨㄛ ㄨ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+段<consonant>: ㄉ
+段<vowels>: ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+你<consonant>: ㄋ
+你<vowels>: ㄧ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+牌<consonant>: ㄆ
+牌<vowels>: ㄞ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+是<consonant>: ㄕ
+是<vowels>: no vowels
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+際<consonant>: ㄐ
+際<vowels>: ㄧ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+段<consonant>: ㄉ
+段<vowels>: ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+基<consonant>: ㄐ
+基<vowels>: ㄧ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+麗<consonant>: ㄌㄌ
+麗<vowels>: ㄧ ㄧ
+蔬<consonant>: ㄕ
+蔬<vowels>: ㄨ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+捲<consonant>: ㄐ
+捲<vowels>: ㄩㄢ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+準<consonant>: ㄓ
+準<vowels>: ㄨㄣ
+備<consonant>: ㄅ
+備<vowels>: ㄟ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+塊<consonant>: ㄎ
+塊<vowels>: ㄨㄞ
+搭<consonant>: ㄉ
+搭<vowels>: ㄚ
+配<consonant>: ㄆ
+配<vowels>: ㄟ
+陳<consonant>: ㄔ
+陳<vowels>: ㄣ
+秉<consonant>: ㄅ
+秉<vowels>: ㄧㄥ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+老<consonant>: ㄌ
+老<vowels>: ㄠ
+師<consonant>: ㄕ
+師<vowels>: no vowels
+創<consonant>: ㄔㄔ
+創<vowels>: ㄨㄤ ㄨㄤ
+意<consonant>: no consonant
+意<vowels>: ㄧ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+糖<consonant>: ㄊ
+糖<vowels>: ㄤ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+酵<consonant>: ㄒ
+酵<vowels>: ㄧㄠ
+母<consonant>: ㄇ
+母<vowels>: ㄨ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+鮮<consonant>: ㄒㄒ
+鮮<vowels>: ㄧㄢ ㄧㄢ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+葡<consonant>: ㄆ
+葡<vowels>: ㄨ
+萄<consonant>: ㄊ
+萄<vowels>: ㄠ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+配<consonant>: ㄆ
+配<vowels>: ㄟ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+份<consonant>: ㄈ
+份<vowels>: ㄣ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+設<consonant>: ㄕ
+設<vowels>: ㄜ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+搞<consonant>: ㄍ
+搞<vowels>: ㄠ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+清<consonant>: ㄑ
+清<vowels>: ㄧㄥ
+潔<consonant>: ㄐ
+潔<vowels>: ㄧㄝ
+容<consonant>: ㄖ
+容<vowels>: ㄨㄥ
+易<consonant>: no consonant
+易<vowels>: ㄧ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+清<consonant>: ㄑ
+清<vowels>: ㄧㄥ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+喜<consonant>: ㄒㄙ
+喜<vowels>: ㄧ ㄨㄢ
+歡<consonant>: ㄏ
+歡<vowels>: ㄨㄢ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+實<consonant>: ㄕ
+實<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+登<consonant>: ㄉ
+登<vowels>: ㄥ
+站<consonant>: ㄓ
+站<vowels>: ㄢ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+段<consonant>: ㄉ
+段<vowels>: ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+後<consonant>: ㄏ
+後<vowels>: ㄡ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+後<consonant>: ㄏ
+後<vowels>: ㄡ
+事<consonant>: ㄕ
+事<vowels>: no vowels
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+菲<consonant>: ㄈㄈ
+菲<vowels>: ㄟ ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+改<consonant>: ㄍ
+改<vowels>: ㄞ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+他<consonant>: ㄊ
+他<vowels>: ㄚ
+籃<consonant>: ㄌ
+籃<vowels>: ㄢ
+底<consonant>: ㄉ
+底<vowels>: ㄧ
+盤<consonant>: ㄆ
+盤<vowels>: ㄢ
+拆<consonant>: ㄔ
+拆<vowels>: ㄞ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+舊<consonant>: ㄐ
+舊<vowels>: ㄧㄡ
+款<consonant>: ㄎ
+款<vowels>: ㄨㄢ
+拆<consonant>: ㄔ
+拆<vowels>: ㄞ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+碗<consonant>: no consonant
+碗<vowels>: ㄨㄢ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+幫<consonant>: ㄅ
+幫<vowels>: ㄤ
+忙<consonant>: ㄇ
+忙<vowels>: ㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+泡<consonant>: ㄆ
+泡<vowels>: ㄠ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+玩<consonant>: no consonant
+玩<vowels>: ㄨㄢ ㄨㄢ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+使<consonant>: ㄕ
+使<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+需<consonant>: ㄒ
+需<vowels>: ㄩ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+技<consonant>: ㄐ
+技<vowels>: ㄧ
+巧<consonant>: ㄑ
+巧<vowels>: ㄧㄠ
+像<consonant>: ㄒ
+像<vowels>: ㄧㄤ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+立<consonant>: ㄌ
+立<vowels>: ㄧ
+系<consonant>: ㄒ
+系<vowels>: ㄧ
+列<consonant>: ㄌ
+列<vowels>: ㄧㄝ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+標<consonant>: ㄅ
+標<vowels>: ㄧㄠ
+榜<consonant>: ㄅ
+榜<vowels>: ㄤ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+化<consonant>: ㄏㄏ
+化<vowels>: ㄨㄚ ㄨㄚ
+介<consonant>: ㄐ
+介<vowels>: ㄧㄝ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+讚<consonant>: ㄗ
+讚<vowels>: ㄢ
+留<consonant>: ㄌㄉ
+留<vowels>: ㄧㄡ ㄚ
+言<consonant>: no consonant
+言<vowels>: ㄧㄢ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+書<consonant>: ㄕ
+書<vowels>: ㄨ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+幸<consonant>: ㄒ
+幸<vowels>: ㄧㄥ
+運<consonant>: no consonant
+運<vowels>: ㄩㄣ
+兒<consonant>: no consonant
+兒<vowels>: ㄦ ㄦ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+周<consonant>: ㄓ
+周<vowels>: ㄡ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+誠<consonant>: ㄔ
+誠<vowels>: ㄥ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+舉<consonant>: ㄐ
+舉<vowels>: ㄩ
+辦<consonant>: ㄅ
+辦<vowels>: ㄢ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+體<consonant>: ㄊ
+體<vowels>: ㄧ
+驗<consonant>: no consonant
+驗<vowels>: ㄧㄢ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+場<consonant>: ㄔㄔ
+場<vowels>: ㄤ ㄤ
+邀<consonant>: no consonant
+邀<vowels>: ㄧㄠ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+男<consonant>: ㄋ
+男<vowels>: ㄢ
+主<consonant>: ㄓ
+主<vowels>: ㄨ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+陳<consonant>: ㄔ
+陳<vowels>: ㄣ
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+馬<consonant>: ㄇ
+馬<vowels>: ㄚ
+鈴<consonant>: ㄌ
+鈴<vowels>: ㄧㄥ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+鴨<consonant>: no consonant
+鴨<vowels>: ㄧㄚ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+馬<consonant>: ㄇ
+馬<vowels>: ㄚ
+鈴<consonant>: ㄌ
+鈴<vowels>: ㄧㄥ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+滾<consonant>: ㄍ
+滾<vowels>: ㄨㄣ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+瀝<consonant>: ㄌ
+瀝<vowels>: ㄧ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+涼<consonant>: ㄌ
+涼<vowels>: ㄧㄤ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+馬<consonant>: ㄇ
+馬<vowels>: ㄚ
+鈴<consonant>: ㄌ
+鈴<vowels>: ㄧㄥ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+均<consonant>: ㄐ
+均<vowels>: ㄩㄣ
+勻<consonant>: no consonant
+勻<vowels>: ㄩㄣ
+沾<consonant>: ㄓ
+沾<vowels>: ㄢ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+鴨<consonant>: no consonant
+鴨<vowels>: ㄧㄚ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+問<consonant>: no consonant
+問<vowels>: ㄨㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+豬<consonant>: ㄓ
+豬<vowels>: ㄨ
+蹄<consonant>: ㄊ
+蹄<vowels>: ㄧ
+膀<consonant>: ㄅㄆ
+膀<vowels>: ㄤ ㄤ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+酵<consonant>: ㄒ
+酵<vowels>: ㄧㄠ
+讓<consonant>: ㄖ
+讓<vowels>: ㄤ
+她<consonant>: ㄊ
+她<vowels>: ㄚ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+行<consonant>: ㄒㄏㄒ
+行<vowels>: ㄧㄥ ㄤ ㄧㄥ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+捏<consonant>: ㄋ
+捏<vowels>: ㄧㄝ
+黏<consonant>: ㄋ
+黏<vowels>: ㄧㄢ
+土<consonant>: ㄊ
+土<vowels>: ㄨ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+酵<consonant>: ㄒ
+酵<vowels>: ㄧㄠ
+完<consonant>: no consonant
+完<vowels>: ㄨㄢ ㄨㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+酵<consonant>: ㄒ
+酵<vowels>: ㄧㄠ
+表<consonant>: ㄅ
+表<vowels>: ㄧㄠ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+塗<consonant>: ㄊ
+塗<vowels>: ㄨ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+古<consonant>: ㄍ
+古<vowels>: ㄨ
+溜<consonant>: ㄌㄌ
+溜<vowels>: ㄧㄡ ㄧㄡ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+觀<consonant>: ㄍㄍ
+觀<vowels>: ㄨㄢ ㄨㄢ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+帶<consonant>: ㄉ
+帶<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+幸<consonant>: ㄒ
+幸<vowels>: ㄧㄥ
+福<consonant>: ㄈ
+福<vowels>: ㄨ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+收<consonant>: ㄕ
+收<vowels>: ㄡ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+的<consonant>: ㄉㄉㄉ
+的<vowels>: ㄜ ㄧ ㄧ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+圖<consonant>: ㄊ
+圖<vowels>: ㄨ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+孩<consonant>: ㄏ
+孩<vowels>: ㄞ
+照<consonant>: ㄓ
+照<vowels>: ㄠ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+傳<consonant>: ㄔㄓ
+傳<vowels>: ㄨㄢ ㄨㄢ
+填<consonant>: ㄊ
+填<vowels>: ㄧㄢ
+資<consonant>: ㄗ
+資<vowels>: no vowels
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+豐<consonant>: ㄈ
+豐<vowels>: ㄥ
+富<consonant>: ㄈ
+富<vowels>: ㄨ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+期<consonant>: ㄑㄐㄉㄑ
+期<vowels>: ㄧ ㄧ ㄧㄢ ㄧ
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+薑<consonant>: ㄐ
+薑<vowels>: ㄧㄤ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+清<consonant>: ㄑ
+清<vowels>: ㄧㄥ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+鱗<consonant>: ㄌ
+鱗<vowels>: ㄧㄣ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+頭<consonant>: ㄊㄊ
+頭<vowels>: ㄡ ㄡ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+腹<consonant>: ㄈ
+腹<vowels>: ㄨ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+巾<consonant>: ㄐㄐ
+巾<vowels>: ㄧㄣ ㄩㄣ
+紙<consonant>: ㄓ
+紙<vowels>: no vowels
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+薑<consonant>: ㄐ
+薑<vowels>: ㄧㄤ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+塗<consonant>: ㄊ
+塗<vowels>: ㄨ
+抹<consonant>: ㄇㄇ
+抹<vowels>: ㄛ ㄛ
+身<consonant>: ㄕㄐ
+身<vowels>: ㄣ ㄩㄢ
+抹<consonant>: ㄇㄇ
+抹<vowels>: ㄛ ㄛ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+覆<consonant>: ㄈ
+覆<vowels>: ㄨ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+鮮<consonant>: ㄒㄒ
+鮮<vowels>: ㄧㄢ ㄧㄢ
+膜<consonant>: ㄇㄇ
+膜<vowels>: ㄛ ㄛ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+冰<consonant>: ㄅ
+冰<vowels>: ㄧㄥ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+冷<consonant>: ㄌ
+冷<vowels>: ㄥ
+藏<consonant>: ㄘㄗ
+藏<vowels>: ㄤ ㄤ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+身<consonant>: ㄕㄐ
+身<vowels>: ㄣ ㄩㄢ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+巾<consonant>: ㄐㄐ
+巾<vowels>: ㄧㄣ ㄩㄣ
+紙<consonant>: ㄓ
+紙<vowels>: no vowels
+擦<consonant>: ㄘ
+擦<vowels>: ㄚ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+畫<consonant>: ㄏ
+畫<vowels>: ㄨㄚ
+表<consonant>: ㄅ
+表<vowels>: ㄧㄠ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+抹<consonant>: ㄇㄇ
+抹<vowels>: ㄛ ㄛ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+友<consonant>: no consonant
+友<vowels>: ㄧㄡ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+給<consonant>: ㄍㄐ
+給<vowels>: ㄟ ㄧ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+站<consonant>: ㄓ
+站<vowels>: ㄢ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+圖<consonant>: ㄊ
+圖<vowels>: ㄨ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+孩<consonant>: ㄏ
+孩<vowels>: ㄞ
+照<consonant>: ㄓ
+照<vowels>: ㄠ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+傳<consonant>: ㄔㄓ
+傳<vowels>: ㄨㄢ ㄨㄢ
+填<consonant>: ㄊ
+填<vowels>: ㄧㄢ
+資<consonant>: ㄗ
+資<vowels>: no vowels
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+給<consonant>: ㄍㄐ
+給<vowels>: ㄟ ㄧ
+力<consonant>: ㄌ
+力<vowels>: ㄧ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+禮<consonant>: ㄌ
+禮<vowels>: ㄧ
+券<consonant>: ㄑ
+券<vowels>: ㄩㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+咪<consonant>: ㄇ
+咪<vowels>: ㄧ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+它<consonant>: ㄊ
+它<vowels>: ㄚ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+蜂<consonant>: ㄈ
+蜂<vowels>: ㄥ
+蜜<consonant>: ㄇ
+蜜<vowels>: ㄧ
+芥<consonant>: ㄐ
+芥<vowels>: ㄧㄝ
+末<consonant>: ㄇ
+末<vowels>: ㄛ
+鮪<consonant>: no consonant
+鮪<vowels>: ㄨㄟ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+沙<consonant>: ㄕ
+沙<vowels>: ㄚ
+拉<consonant>: ㄌ
+拉<vowels>: ㄚ
+搭<consonant>: ㄉ
+搭<vowels>: ㄚ
+配<consonant>: ㄆ
+配<vowels>: ㄟ
+鮪<consonant>: no consonant
+鮪<vowels>: ㄨㄟ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+帕<consonant>: ㄆ
+帕<vowels>: ㄚ
+里<consonant>: ㄌㄌ
+里<vowels>: ㄧ ㄧ ㄧ
+尼<consonant>: ㄋ
+尼<vowels>: ㄧ
+採<consonant>: ㄘ
+採<vowels>: ㄞ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+師<consonant>: ㄕ
+師<vowels>: no vowels
+吳<consonant>: no consonant
+吳<vowels>: ㄨ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+春<consonant>: ㄔ
+春<vowels>: ㄨㄣ
+師<consonant>: ㄕ
+師<vowels>: no vowels
+傅<consonant>: ㄈ
+傅<vowels>: ㄨ
+監<consonant>: ㄐㄐ
+監<vowels>: ㄧㄢ ㄧㄢ
+製<consonant>: ㄓ
+製<vowels>: no vowels
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+喜<consonant>: ㄒㄙ
+喜<vowels>: ㄧ ㄨㄢ
+歡<consonant>: ㄏ
+歡<vowels>: ㄨㄢ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+帕<consonant>: ㄆ
+帕<vowels>: ㄚ
+里<consonant>: ㄌㄌ
+里<vowels>: ㄧ ㄧ ㄧ
+尼<consonant>: ㄋ
+尼<vowels>: ㄧ
+朋<consonant>: ㄆ
+朋<vowels>: ㄥ
+友<consonant>: no consonant
+友<vowels>: ㄧㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+秘<consonant>: ㄇㄅ
+秘<vowels>: ㄧ ㄧ
+訣<consonant>: ㄐ
+訣<vowels>: ㄩㄝ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+記<consonant>: ㄐ
+記<vowels>: ㄧ
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+夠<consonant>: ㄍ
+夠<vowels>: ㄡ
+裹<consonant>: ㄍ
+裹<vowels>: ㄨㄛ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+秘<consonant>: ㄇㄅ
+秘<vowels>: ㄧ ㄧ
+訣<consonant>: ㄐ
+訣<vowels>: ㄩㄝ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+鹹<consonant>: ㄒ
+鹹<vowels>: ㄧㄢ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+姐<consonant>: ㄐ
+姐<vowels>: ㄧㄝ
+懶<consonant>: ㄌ
+懶<vowels>: ㄢ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+區<consonant>: ㄑ
+區<vowels>: ㄩ ㄡ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+始<consonant>: ㄕ
+始<vowels>: no vowels
+使<consonant>: ㄕ
+使<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+朋<consonant>: ㄆ
+朋<vowels>: ㄥ
+友<consonant>: no consonant
+友<vowels>: ㄧㄡ
+燒<consonant>: ㄕ
+燒<vowels>: ㄠ
+體<consonant>: ㄊ
+體<vowels>: ㄧ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+完<consonant>: no consonant
+完<vowels>: ㄨㄢ ㄨㄢ
+膚<consonant>: ㄈ
+膚<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+收<consonant>: ㄕ
+收<vowels>: ㄡ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+智<consonant>: ㄓ
+智<vowels>: no vowels
+慧<consonant>: ㄏ
+慧<vowels>: ㄨㄟ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+雙<consonant>: ㄕ
+雙<vowels>: ㄨㄤ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+肩<consonant>: ㄐ
+肩<vowels>: ㄧㄢ
+嘴<consonant>: ㄗ
+嘴<vowels>: ㄨㄟ
+裡<consonant>: ㄌ
+裡<vowels>: ㄧ
+搭<consonant>: ㄉ
+搭<vowels>: ㄚ
+同<consonant>: ㄊㄊ
+同<vowels>: ㄨㄥ ㄨㄥ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+高<consonant>: ㄍㄎ
+高<vowels>: ㄠ ㄞ
+舉<consonant>: ㄐ
+舉<vowels>: ㄩ
+囉<consonant>: ㄌㄌ
+囉<vowels>: ㄨㄛ ㄨㄛ
+嗦<consonant>: ㄙ
+嗦<vowels>: ㄨㄛ
+懶<consonant>: ㄌ
+懶<vowels>: ㄢ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+直<consonant>: ㄓ
+直<vowels>: no vowels
+接<consonant>: ㄐ
+接<vowels>: ㄧㄝ
+敗<consonant>: ㄅ
+敗<vowels>: ㄞ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+件<consonant>: ㄐ
+件<vowels>: ㄧㄢ
+衛<consonant>: no consonant
+衛<vowels>: ㄨㄟ
+星<consonant>: ㄒ
+星<vowels>: ㄧㄥ
+導<consonant>: ㄉ
+導<vowels>: ㄠ
+航<consonant>: ㄏ
+航<vowels>: ㄤ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+殺<consonant>: ㄕㄕ
+殺<vowels>: ㄚ ㄚ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+件<consonant>: ㄐ
+件<vowels>: ㄧㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+殺<consonant>: ㄕㄕ
+殺<vowels>: ㄚ ㄚ
+帶<consonant>: ㄉ
+帶<vowels>: ㄞ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+件<consonant>: ㄐ
+件<vowels>: ㄧㄢ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+扇<consonant>: ㄕㄕ
+扇<vowels>: ㄢ ㄢ
+登<consonant>: ㄉ
+登<vowels>: ㄥ
+站<consonant>: ㄓ
+站<vowels>: ㄢ
+快<consonant>: ㄎ
+快<vowels>: ㄨㄞ
+容<consonant>: ㄖ
+容<vowels>: ㄨㄥ
+易<consonant>: no consonant
+易<vowels>: ㄧ
+希<consonant>: ㄒ
+希<vowels>: ㄧ
+望<consonant>: no consonant
+望<vowels>: ㄨㄤ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+容<consonant>: ㄖ
+容<vowels>: ㄨㄥ
+易<consonant>: no consonant
+易<vowels>: ㄧ
+叫<consonant>: ㄐ
+叫<vowels>: ㄧㄠ
+老<consonant>: ㄌ
+老<vowels>: ㄠ
+公<consonant>: ㄍ
+公<vowels>: ㄨㄥ
+登<consonant>: ㄉ
+登<vowels>: ㄥ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+賴<consonant>: ㄌ
+賴<vowels>: ㄞ
+直<consonant>: ㄓ
+直<vowels>: no vowels
+接<consonant>: ㄐ
+接<vowels>: ㄧㄝ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+浪<consonant>: ㄌㄌ
+浪<vowels>: ㄤ ㄤ
+費<consonant>: ㄈ
+費<vowels>: ㄟ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+蝴<consonant>: ㄏ
+蝴<vowels>: ㄨ
+蝶<consonant>: ㄉ
+蝶<vowels>: ㄧㄝ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+去<consonant>: ㄑ
+去<vowels>: ㄩ
+除<consonant>: ㄔ
+除<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+背<consonant>: ㄅㄅ
+背<vowels>: ㄟ ㄟ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+骨<consonant>: ㄍㄍ
+骨<vowels>: ㄨ ㄨ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+蝴<consonant>: ㄏ
+蝴<vowels>: ㄨ
+蝶<consonant>: ㄉ
+蝶<vowels>: ㄧㄝ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+這<consonant>: ㄓ
+這<vowels>: ㄜ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鮸<consonant>: no consonant
+鮸<vowels>: 
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+以<consonant>: no consonant
+以<vowels>: ㄧ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+宜<consonant>: no consonant
+宜<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+愛<consonant>: no consonant
+愛<vowels>: ㄞ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+族<consonant>: ㄗ
+族<vowels>: ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+鹹<consonant>: ㄒ
+鹹<vowels>: ㄧㄢ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+麻<consonant>: ㄇ
+麻<vowels>: ㄚ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+裡<consonant>: ㄌ
+裡<vowels>: ㄧ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+安<consonant>: no consonant
+安<vowels>: ㄢ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+以<consonant>: no consonant
+以<vowels>: ㄧ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+宜<consonant>: no consonant
+宜<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+愛<consonant>: no consonant
+愛<vowels>: ㄞ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+族<consonant>: ㄗ
+族<vowels>: ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+鹹<consonant>: ㄒ
+鹹<vowels>: ㄧㄢ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+麻<consonant>: ㄇ
+麻<vowels>: ㄚ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+裡<consonant>: ㄌ
+裡<vowels>: ㄧ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+安<consonant>: no consonant
+安<vowels>: ㄢ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+折<consonant>: ㄓㄕ
+折<vowels>: ㄜ ㄜ
+往<consonant>: no consonant
+往<vowels>: ㄨㄤ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+希<consonant>: ㄒ
+希<vowels>: ㄧ
+望<consonant>: no consonant
+望<vowels>: ㄨㄤ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+晶<consonant>: ㄐ
+晶<vowels>: ㄧㄥ
+球<consonant>: ㄑ
+球<vowels>: ㄧㄡ
+特<consonant>: ㄊ
+特<vowels>: ㄜ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+找<consonant>: ㄓ
+找<vowels>: ㄠ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+官<consonant>: ㄍ
+官<vowels>: ㄨㄢ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+報<consonant>: ㄅ
+報<vowels>: ㄠ
+導<consonant>: ㄉ
+導<vowels>: ㄠ
+查<consonant>: ㄔㄒ
+查<vowels>: ㄚ ㄩㄢ
+找<consonant>: ㄓ
+找<vowels>: ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+刮<consonant>: ㄍ
+刮<vowels>: ㄨㄚ
+鬍<consonant>: ㄏ
+鬍<vowels>: ㄨ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+找<consonant>: ㄓ
+找<vowels>: ㄠ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+格<consonant>: ㄍ
+格<vowels>: ㄜ
+實<consonant>: ㄕ
+實<vowels>: no vowels
+惠<consonant>: ㄏ
+惠<vowels>: ㄨㄟ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+途<consonant>: ㄊ
+途<vowels>: ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+湯<consonant>: ㄊㄕ
+湯<vowels>: ㄤ ㄤ
+匙<consonant>: ㄔㄕ
+匙<vowels>:  
+秤<consonant>: ㄔㄆ
+秤<vowels>: ㄥ ㄧㄥ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+位<consonant>: no consonant
+位<vowels>: ㄨㄟ
+選<consonant>: ㄒ
+選<vowels>: ㄩㄢ
+擇<consonant>: ㄗㄓ
+擇<vowels>: ㄜ ㄜ
+克<consonant>: ㄎ
+克<vowels>: ㄜ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+鎖<consonant>: ㄙ
+鎖<vowels>: ㄨㄛ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+足<consonant>: ㄗㄐㄓ
+足<vowels>: ㄨ ㄩ ㄨ
+顯<consonant>: ㄒ
+顯<vowels>: ㄧㄢ
+示<consonant>: ㄕ
+示<vowels>: no vowels
+省<consonant>: ㄕㄒ
+省<vowels>: ㄥ ㄧㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+關<consonant>: ㄍ
+關<vowels>: ㄨㄢ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+顯<consonant>: ㄒ
+顯<vowels>: ㄧㄢ
+示<consonant>: ㄕ
+示<vowels>: no vowels
+歌<consonant>: ㄍ
+歌<vowels>: ㄜ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+歌<consonant>: ㄍ
+歌<vowels>: ㄜ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+塔<consonant>: ㄊ
+塔<vowels>: ㄚ
+吉<consonant>: ㄐ
+吉<vowels>: ㄧ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+循<consonant>: ㄒ
+循<vowels>: ㄩㄣ
+環<consonant>: ㄏ
+環<vowels>: ㄨㄢ
+燜<consonant>: ㄇ
+燜<vowels>: ㄣ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+留<consonant>: ㄌㄉ
+留<vowels>: ㄧㄡ ㄚ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+烹<consonant>: ㄆ
+烹<vowels>: ㄥ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+省<consonant>: ㄕㄒ
+省<vowels>: ㄥ ㄧㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+煙<consonant>: no consonant
+煙<vowels>: ㄧㄢ
+囪<consonant>: ㄔ
+囪<vowels>: ㄨㄥ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+造<consonant>: ㄗ
+造<vowels>: ㄠ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+強<consonant>: ㄑㄐㄑㄑ
+強<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ ㄧㄥ
+化<consonant>: ㄏㄏ
+化<vowels>: ㄨㄚ ㄨㄚ
+玻<consonant>: ㄅ
+玻<vowels>: ㄛ
+璃<consonant>: ㄌ
+璃<vowels>: ㄧ
+蓋<consonant>: ㄍ
+蓋<vowels>: ㄞ
+烹<consonant>: ㄆ
+烹<vowels>: ㄥ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+目<consonant>: ㄇ
+目<vowels>: ㄨ
+了<consonant>: ㄌㄌㄌ
+了<vowels>: ㄧㄠ ㄜ ㄠ
+然<consonant>: ㄖ
+然<vowels>: ㄢ
+歌<consonant>: ㄍ
+歌<vowels>: ㄜ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+話<consonant>: ㄏㄌ
+話<vowels>: ㄨㄚ ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+話<consonant>: ㄏㄌ
+話<vowels>: ㄨㄚ ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+強<consonant>: ㄑㄐㄑㄑ
+強<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ ㄧㄥ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+盤<consonant>: ㄆ
+盤<vowels>: ㄢ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+需<consonant>: ㄒ
+需<vowels>: ㄩ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+準<consonant>: ㄓ
+準<vowels>: ㄨㄣ
+備<consonant>: ㄅ
+備<vowels>: ㄟ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+強<consonant>: ㄑㄐㄑㄑ
+強<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ ㄧㄥ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+盤<consonant>: ㄆ
+盤<vowels>: ㄢ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+需<consonant>: ㄒ
+需<vowels>: ㄩ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+準<consonant>: ㄓ
+準<vowels>: ㄨㄣ
+備<consonant>: ㄅ
+備<vowels>: ㄟ
+準<consonant>: ㄓ
+準<vowels>: ㄨㄣ
+備<consonant>: ㄅ
+備<vowels>: ㄟ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+豬<consonant>: ㄓ
+豬<vowels>: ㄨ
+柳<consonant>: ㄌ
+柳<vowels>: ㄧㄡ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+抹<consonant>: ㄇㄇ
+抹<vowels>: ㄛ ㄛ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+鐘<consonant>: ㄓ
+鐘<vowels>: ㄨㄥ
+翻<consonant>: ㄈ
+翻<vowels>: ㄢ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+準<consonant>: ㄓ
+準<vowels>: ㄨㄣ
+備<consonant>: ㄅ
+備<vowels>: ㄟ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+喜<consonant>: ㄒㄙ
+喜<vowels>: ㄧ ㄨㄢ
+歡<consonant>: ㄏ
+歡<vowels>: ㄨㄢ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+星<consonant>: ㄒ
+星<vowels>: ㄧㄥ
+羽<consonant>: no consonant
+羽<vowels>: ㄩ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+哇<consonant>: no consonant
+哇<vowels>: ㄨㄚ
+哩<consonant>: ㄌㄌㄌ
+哩<vowels>: ㄧ ㄧ ㄧ
+果<consonant>: ㄍ
+果<vowels>: ㄨㄛ
+仁<consonant>: ㄖ
+仁<vowels>: ㄣ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+精<consonant>: ㄐ
+精<vowels>: ㄧㄥ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+譜<consonant>: ㄆ
+譜<vowels>: ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+搞<consonant>: ㄍ
+搞<vowels>: ㄠ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+具<consonant>: ㄐ
+具<vowels>: ㄩ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+貴<consonant>: ㄍ
+貴<vowels>: ㄨㄟ
+死<consonant>: ㄙ
+死<vowels>: no vowels
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+掘<consonant>: ㄐ
+掘<vowels>: ㄩㄝ
+起<consonant>: ㄑㄐ
+起<vowels>: ㄧ ㄧㄣ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+豆<consonant>: ㄉ
+豆<vowels>: ㄡ
+漿<consonant>: ㄐㄐㄐ
+漿<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+榨<consonant>: ㄓ
+榨<vowels>: ㄚ
+果<consonant>: ㄍ
+果<vowels>: ㄨㄛ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+荒<consonant>: ㄏ
+荒<vowels>: ㄨㄤ
+旁<consonant>: ㄆㄅ
+旁<vowels>: ㄤ ㄤ
+邊<consonant>: ㄅ
+邊<vowels>: ㄧㄢ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+翻<consonant>: ㄈ
+翻<vowels>: ㄢ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+沙<consonant>: ㄕ
+沙<vowels>: ㄚ
+拉<consonant>: ㄌ
+拉<vowels>: ㄚ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+潛<consonant>: ㄑㄑ
+潛<vowels>: ㄧㄢ ㄧㄢ
+艇<consonant>: ㄊ
+艇<vowels>: ㄧㄥ
+堡<consonant>: ㄅ
+堡<vowels>: ㄠ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+餅<consonant>: ㄅ
+餅<vowels>: ㄧㄥ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+打<consonant>: ㄉㄉ
+打<vowels>: ㄚ ㄚ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+餅<consonant>: ㄅ
+餅<vowels>: ㄧㄥ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+見<consonant>: ㄐㄒ
+見<vowels>: ㄧㄢ ㄧㄢ
+了<consonant>: ㄌㄌㄌ
+了<vowels>: ㄧㄠ ㄜ ㄠ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+導<consonant>: ㄉ
+導<vowels>: ㄠ
+管<consonant>: ㄍ
+管<vowels>: ㄨㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+版<consonant>: ㄅ
+版<vowels>: ㄢ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+科<consonant>: ㄎ
+科<vowels>: ㄜ
+學<consonant>: ㄒㄒ
+學<vowels>: ㄩㄝ ㄧㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+精<consonant>: ㄐ
+精<vowels>: ㄧㄥ
+神<consonant>: ㄕ
+神<vowels>: ㄣ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+煙<consonant>: no consonant
+煙<vowels>: ㄧㄢ
+注<consonant>: ㄓ
+注<vowels>: ㄨ
+意<consonant>: no consonant
+意<vowels>: ㄧ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+煙<consonant>: no consonant
+煙<vowels>: ㄧㄢ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+著<consonant>: ㄓㄓㄓㄓㄓ
+著<vowels>: ㄜ ㄠ ㄨ ㄨㄛ ㄠ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+槽<consonant>: ㄘ
+槽<vowels>: ㄠ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+毒<consonant>: ㄉ
+毒<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+影<consonant>: no consonant
+影<vowels>: ㄧㄥ
+響<consonant>: ㄒ
+響<vowels>: ㄧㄤ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+版<consonant>: ㄅ
+版<vowels>: ㄢ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+科<consonant>: ㄎ
+科<vowels>: ㄜ
+學<consonant>: ㄒㄒ
+學<vowels>: ㄩㄝ ㄧㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+精<consonant>: ㄐ
+精<vowels>: ㄧㄥ
+神<consonant>: ㄕ
+神<vowels>: ㄣ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+煙<consonant>: no consonant
+煙<vowels>: ㄧㄢ
+注<consonant>: ㄓ
+注<vowels>: ㄨ
+意<consonant>: no consonant
+意<vowels>: ㄧ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+煙<consonant>: no consonant
+煙<vowels>: ㄧㄢ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+著<consonant>: ㄓㄓㄓㄓㄓ
+著<vowels>: ㄜ ㄠ ㄨ ㄨㄛ ㄠ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+槽<consonant>: ㄘ
+槽<vowels>: ㄠ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+毒<consonant>: ㄉ
+毒<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+影<consonant>: no consonant
+影<vowels>: ㄧㄥ
+響<consonant>: ㄒ
+響<vowels>: ㄧㄤ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+求<consonant>: ㄑ
+求<vowels>: ㄧㄡ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+款<consonant>: ㄎ
+款<vowels>: ㄨㄢ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+夜<consonant>: no consonant
+夜<vowels>: ㄧㄝ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+惡<consonant>: no consonant
+惡<vowels>: ㄜ ㄨ ㄨ
+夢<consonant>: ㄇ
+夢<vowels>: ㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+求<consonant>: ㄑ
+求<vowels>: ㄧㄡ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+款<consonant>: ㄎ
+款<vowels>: ㄨㄢ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+夜<consonant>: no consonant
+夜<vowels>: ㄧㄝ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+惡<consonant>: no consonant
+惡<vowels>: ㄜ ㄨ ㄨ
+夢<consonant>: ㄇ
+夢<vowels>: ㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+給<consonant>: ㄍㄐ
+給<vowels>: ㄟ ㄧ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+食<consonant>: ㄕㄙ
+食<vowels>:  
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+麴<consonant>: ㄑ
+麴<vowels>: ㄩ
+豬<consonant>: ㄓ
+豬<vowels>: ㄨ
+頸<consonant>: ㄐ
+頸<vowels>: ㄧㄥ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+佐<consonant>: ㄗ
+佐<vowels>: ㄨㄛ
+柚<consonant>: no consonant
+柚<vowels>: ㄧㄡ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+胡<consonant>: ㄏ
+胡<vowels>: ㄨ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+麴<consonant>: ㄑ
+麴<vowels>: ㄩ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+星<consonant>: ㄒ
+星<vowels>: ㄧㄥ
+期<consonant>: ㄑㄐㄉㄑ
+期<vowels>: ㄧ ㄧ ㄧㄢ ㄧ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+甜<consonant>: ㄊ
+甜<vowels>: ㄧㄢ
+鹹<consonant>: ㄒ
+鹹<vowels>: ㄧㄢ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+適<consonant>: ㄕ
+適<vowels>: no vowels
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+沾<consonant>: ㄓ
+沾<vowels>: ㄢ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+夠<consonant>: ㄍ
+夠<vowels>: ㄡ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+嘻<consonant>: ㄒ
+嘻<vowels>: ㄧ
+知<consonant>: ㄓㄓ
+知<vowels>:  
+道<consonant>: ㄉ
+道<vowels>: ㄠ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+道<consonant>: ㄉ
+道<vowels>: ㄠ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+完<consonant>: no consonant
+完<vowels>: ㄨㄢ ㄨㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+邊<consonant>: ㄅ
+邊<vowels>: ㄧㄢ
+角<consonant>: ㄐㄐ
+角<vowels>: ㄧㄠ ㄩㄝ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+抹<consonant>: ㄇㄇ
+抹<vowels>: ㄛ ㄛ
+嘴<consonant>: ㄗ
+嘴<vowels>: ㄨㄟ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+話<consonant>: ㄏㄌ
+話<vowels>: ㄨㄚ ㄠ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+地<consonant>: ㄉㄉ
+地<vowels>: ㄧ ㄜ
+瓜<consonant>: ㄍ
+瓜<vowels>: ㄨㄚ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+淨<consonant>: ㄐ
+淨<vowels>: ㄧㄥ
+扔<consonant>: ㄖ
+扔<vowels>: ㄥ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+東<consonant>: ㄉ
+東<vowels>: ㄨㄥ
+西<consonant>: ㄒ
+西<vowels>: ㄧ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+地<consonant>: ㄉㄉ
+地<vowels>: ㄧ ㄜ
+瓜<consonant>: ㄍ
+瓜<vowels>: ㄨㄚ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+貴<consonant>: ㄍ
+貴<vowels>: ㄨㄟ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+光<consonant>: ㄍ
+光<vowels>: ㄨㄤ
+三<consonant>: ㄙㄙ
+三<vowels>: ㄢ ㄢ
+越<consonant>: no consonant
+越<vowels>: ㄩㄝ
+禮<consonant>: ㄌ
+禮<vowels>: ㄧ
+券<consonant>: ㄑ
+券<vowels>: ㄩㄢ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+址<consonant>: ㄓ
+址<vowels>: no vowels
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+參<consonant>: ㄘㄕㄘ
+參<vowels>: ㄢ ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+費<consonant>: ㄈ
+費<vowels>: ㄟ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+取<consonant>: ㄑ
+取<vowels>: ㄩ
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+登<consonant>: ㄉ
+登<vowels>: ㄥ
+站<consonant>: ㄓ
+站<vowels>: ㄢ
+資<consonant>: ㄗ
+資<vowels>: no vowels
+格<consonant>: ㄍ
+格<vowels>: ㄜ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+圖<consonant>: ㄊ
+圖<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+玩<consonant>: no consonant
+玩<vowels>: ㄨㄢ ㄨㄢ
+具<consonant>: ㄐ
+具<vowels>: ㄩ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+主<consonant>: ㄓ
+主<vowels>: ㄨ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+晚<consonant>: no consonant
+晚<vowels>: ㄨㄢ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+青<consonant>: ㄑ
+青<vowels>: ㄧㄥ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+炒<consonant>: ㄔ
+炒<vowels>: ㄠ
+飯<consonant>: ㄈ
+飯<vowels>: ㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+翅<consonant>: ㄔ
+翅<vowels>: no vowels
+冬<consonant>: ㄉ
+冬<vowels>: ㄨㄥ
+瓜<consonant>: ㄍ
+瓜<vowels>: ㄨㄚ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+骨<consonant>: ㄍㄍ
+骨<vowels>: ㄨ ㄨ
+湯<consonant>: ㄊㄕ
+湯<vowels>: ㄤ ㄤ
+老<consonant>: ㄌ
+老<vowels>: ㄠ
+公<consonant>: ㄍ
+公<vowels>: ㄨㄥ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+班<consonant>: ㄅ
+班<vowels>: ㄢ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+孩<consonant>: ㄏ
+孩<vowels>: ㄞ
+睡<consonant>: ㄕ
+睡<vowels>: ㄨㄟ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+鄉<consonant>: ㄒ
+鄉<vowels>: ㄧㄤ
+村<consonant>: ㄘ
+村<vowels>: ㄨㄣ
+早<consonant>: ㄗ
+早<vowels>: ㄠ
+午<consonant>: no consonant
+午<vowels>: ㄨ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+樓<consonant>: ㄌ
+樓<vowels>: ㄡ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+亂<consonant>: ㄌ
+亂<vowels>: ㄨㄢ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+通<consonant>: ㄊ
+通<vowels>: ㄨㄥ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+七<consonant>: ㄑ
+七<vowels>: ㄧ
+早<consonant>: ㄗ
+早<vowels>: ㄠ
+八<consonant>: ㄅ
+八<vowels>: ㄚ
+早<consonant>: ㄗ
+早<vowels>: ㄠ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+撐<consonant>: ㄔ
+撐<vowels>: ㄥ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+爆<consonant>: ㄅ
+爆<vowels>: ㄠ
+救<consonant>: ㄐ
+救<vowels>: ㄧㄡ
+命<consonant>: ㄇ
+命<vowels>: ㄧㄥ
+蘿<consonant>: ㄌ
+蘿<vowels>: ㄨㄛ
+蔔<consonant>: ㄅㄅ
+蔔<vowels>: ㄛ ㄛ
+糕<consonant>: ㄍ
+糕<vowels>: ㄠ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+彤<consonant>: ㄊ
+彤<vowels>: ㄨㄥ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+腸<consonant>: ㄔ
+腸<vowels>: ㄤ
+拿<consonant>: ㄋ
+拿<vowels>: ㄚ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+房<consonant>: ㄈ
+房<vowels>: ㄤ
+玩<consonant>: no consonant
+玩<vowels>: ㄨㄢ ㄨㄢ
+具<consonant>: ㄐ
+具<vowels>: ㄩ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+溫<consonant>: no consonant
+溫<vowels>: ㄨㄣ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+底<consonant>: ㄉ
+底<vowels>: ㄧ
+部<consonant>: ㄅ
+部<vowels>: ㄨ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+錫<consonant>: ㄒ
+錫<vowels>: ㄧ
+箔<consonant>: ㄅ
+箔<vowels>: ㄛ
+紙<consonant>: ㄓ
+紙<vowels>: no vowels
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+怕<consonant>: ㄆ
+怕<vowels>: ㄚ
+起<consonant>: ㄑㄐ
+起<vowels>: ㄧ ㄧㄣ
+司<consonant>: ㄙ
+司<vowels>: no vowels
+融<consonant>: ㄖ
+融<vowels>: ㄨㄥ
+化<consonant>: ㄏㄏ
+化<vowels>: ㄨㄚ ㄨㄚ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+丟<consonant>: ㄉ
+丟<vowels>: ㄧㄡ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+系<consonant>: ㄒ
+系<vowels>: ㄧ
+列<consonant>: ㄌ
+列<vowels>: ㄧㄝ
+咖<consonant>: ㄎ
+咖<vowels>: ㄚ
+啡<consonant>: ㄈ
+啡<vowels>: ㄟ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+詳<consonant>: ㄒ
+詳<vowels>: ㄧㄤ
+細<consonant>: ㄒ
+細<vowels>: ㄧ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+同<consonant>: ㄊㄊ
+同<vowels>: ㄨㄥ ㄨㄥ
+類<consonant>: ㄌ
+類<vowels>: ㄟ
+暢<consonant>: ㄔ
+暢<vowels>: ㄤ
+銷<consonant>: ㄒ
+銷<vowels>: ㄧㄠ
+推<consonant>: ㄊ
+推<vowels>: ㄨㄟ
+薦<consonant>: ㄐ
+薦<vowels>: ㄧㄢ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+同<consonant>: ㄊㄊ
+同<vowels>: ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+減<consonant>: ㄐ
+減<vowels>: ㄧㄢ
+少<consonant>: ㄕㄕㄕ
+少<vowels>: ㄠ ㄠ ㄠ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+山<consonant>: ㄕ
+山<vowels>: ㄢ
+丘<consonant>: ㄑ
+丘<vowels>: ㄧㄡ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+獎<consonant>: ㄐ
+獎<vowels>: ㄧㄤ
+取<consonant>: ㄑ
+取<vowels>: ㄩ
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+登<consonant>: ㄉ
+登<vowels>: ㄥ
+站<consonant>: ㄓ
+站<vowels>: ㄢ
+資<consonant>: ㄗ
+資<vowels>: no vowels
+格<consonant>: ㄍ
+格<vowels>: ㄜ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+圖<consonant>: ㄊ
+圖<vowels>: ㄨ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+圖<consonant>: ㄊ
+圖<vowels>: ㄨ
+拼<consonant>: ㄆ
+拼<vowels>: ㄧㄣ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+全<consonant>: ㄑ
+全<vowels>: ㄩㄢ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+格<consonant>: ㄍ
+格<vowels>: ㄜ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+舊<consonant>: ㄐ
+舊<vowels>: ㄧㄡ
+狀<consonant>: ㄓ
+狀<vowels>: ㄨㄤ
+況<consonant>: ㄎ
+況<vowels>: ㄨㄤ
+試<consonant>: ㄕ
+試<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+餘<consonant>: no consonant
+餘<vowels>: ㄩ
+月<consonant>: ㄖ
+月<vowels>: ㄩㄝ ㄡ
+交<consonant>: ㄐ
+交<vowels>: ㄧㄠ
+易<consonant>: no consonant
+易<vowels>: ㄧ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+交<consonant>: ㄐ
+交<vowels>: ㄧㄠ
+聯<consonant>: ㄌ
+聯<vowels>: ㄧㄢ
+絡<consonant>: ㄌㄌ
+絡<vowels>: ㄨㄛ ㄠ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+站<consonant>: ㄓ
+站<vowels>: ㄢ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+信<consonant>: ㄒ
+信<vowels>: ㄧㄣ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+禮<consonant>: ㄌ
+禮<vowels>: ㄧ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+複<consonant>: ㄈ
+複<vowels>: ㄨ
+試<consonant>: ㄕ
+試<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+存<consonant>: ㄘ
+存<vowels>: ㄨㄣ
+良<consonant>: ㄌ
+良<vowels>: ㄧㄤ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+保<consonant>: ㄅ
+保<vowels>: ㄠ
+證<consonant>: ㄓ
+證<vowels>: ㄥ
+書<consonant>: ㄕ
+書<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+廠<consonant>: ㄔ
+廠<vowels>: ㄤ
+換<consonant>: ㄏ
+換<vowels>: ㄨㄢ
+特<consonant>: ㄊ
+特<vowels>: ㄜ
+殊<consonant>: ㄕ
+殊<vowels>: ㄨ
+底<consonant>: ㄉ
+底<vowels>: ㄧ
+部<consonant>: ㄅ
+部<vowels>: ㄨ
+鐵<consonant>: ㄊ
+鐵<vowels>: ㄧㄝ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+對<consonant>: ㄉ
+對<vowels>: ㄨㄟ
+窮<consonant>: ㄑ
+窮<vowels>: ㄩㄥ
+者<consonant>: ㄓ
+者<vowels>: ㄜ
+窮<consonant>: ㄑ
+窮<vowels>: ㄩㄥ
+富<consonant>: ㄈ
+富<vowels>: ㄨ
+者<consonant>: ㄓ
+者<vowels>: ㄜ
+富<consonant>: ㄈ
+富<vowels>: ㄨ
+社<consonant>: ㄕ
+社<vowels>: ㄜ
+會<consonant>: ㄏㄏㄎ
+會<vowels>: ㄨㄟ ㄨㄟ ㄨㄞ
+幸<consonant>: ㄒ
+幸<vowels>: ㄧㄥ
+福<consonant>: ㄈ
+福<vowels>: ㄨ
+哪<consonant>: ㄋ
+哪<vowels>: ㄚ
+裡<consonant>: ㄌ
+裡<vowels>: ㄧ
+痛<consonant>: ㄊ
+痛<vowels>: ㄨㄥ
+苦<consonant>: ㄎ
+苦<vowels>: ㄨ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+對<consonant>: ㄉ
+對<vowels>: ㄨㄟ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+臨<consonant>: ㄌ
+臨<vowels>: ㄧㄣ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+關<consonant>: ㄍ
+關<vowels>: ㄨㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+引<consonant>: no consonant
+引<vowels>: ㄧㄣ
+爆<consonant>: ㄅ
+爆<vowels>: ㄠ
+摳<consonant>: ㄎ
+摳<vowels>: ㄡ
+摳<consonant>: ㄎ
+摳<vowels>: ㄡ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+折<consonant>: ㄓㄕ
+折<vowels>: ㄜ ㄜ
+往<consonant>: no consonant
+往<vowels>: ㄨㄤ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+聲<consonant>: ㄕ
+聲<vowels>: ㄥ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+烈<consonant>: ㄌ
+烈<vowels>: ㄧㄝ
+搶<consonant>: ㄑㄑ
+搶<vowels>: ㄧㄤ ㄧㄤ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+欲<consonant>: no consonant
+欲<vowels>: ㄩ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+向<consonant>: ㄒ
+向<vowels>: ㄧㄤ
+隅<consonant>: no consonant
+隅<vowels>: ㄩ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+了<consonant>: ㄌㄌㄌ
+了<vowels>: ㄧㄠ ㄜ ㄠ
+解<consonant>: ㄐㄐㄒ
+解<vowels>: ㄧㄝ ㄧㄝ ㄧㄝ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+聲<consonant>: ㄕ
+聲<vowels>: ㄥ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+尋<consonant>: ㄒㄒ
+尋<vowels>: ㄩㄣ ㄧㄣ
+找<consonant>: ㄓ
+找<vowels>: ㄠ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+優<consonant>: no consonant
+優<vowels>: ㄧㄡ
+先<consonant>: ㄒ
+先<vowels>: ㄧㄢ
+他<consonant>: ㄊ
+他<vowels>: ㄚ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+問<consonant>: no consonant
+問<vowels>: ㄨㄣ
+他<consonant>: ㄊ
+他<vowels>: ㄚ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+候<consonant>: ㄏ
+候<vowels>: ㄡ
+他<consonant>: ㄊ
+他<vowels>: ㄚ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+這<consonant>: ㄓ
+這<vowels>: ㄜ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+關<consonant>: ㄍ
+關<vowels>: ㄨㄢ
+係<consonant>: ㄒ
+係<vowels>: ㄧ
+緊<consonant>: ㄐ
+緊<vowels>: ㄧㄣ
+密<consonant>: ㄇ
+密<vowels>: ㄧ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+學<consonant>: ㄒㄒ
+學<vowels>: ㄩㄝ ㄧㄠ
+通<consonant>: ㄊ
+通<vowels>: ㄨㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+話<consonant>: ㄏㄌ
+話<vowels>: ㄨㄚ ㄠ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+聊<consonant>: ㄌ
+聊<vowels>: ㄧㄠ
+地<consonant>: ㄉㄉ
+地<vowels>: ㄧ ㄜ
+哀<consonant>: no consonant
+哀<vowels>: ㄞ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+希<consonant>: ㄒ
+希<vowels>: ㄧ
+望<consonant>: no consonant
+望<vowels>: ㄨㄤ
+賺<consonant>: ㄓ
+賺<vowels>: ㄨㄢ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+錢<consonant>: ㄑ
+錢<vowels>: ㄧㄢ ㄨㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+邀<consonant>: no consonant
+邀<vowels>: ㄧㄠ
+稿<consonant>: ㄍ
+稿<vowels>: ㄠ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+對<consonant>: ㄉ
+對<vowels>: ㄨㄟ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+黑<consonant>: ㄏㄌ
+黑<vowels>: ㄟ ㄠ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+爆<consonant>: ㄅ
+爆<vowels>: ㄠ
+身<consonant>: ㄕㄐ
+身<vowels>: ㄣ ㄩㄢ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+職<consonant>: ㄓ
+職<vowels>: no vowels
+業<consonant>: no consonant
+業<vowels>: ㄧㄝ
+主<consonant>: ㄓ
+主<vowels>: ㄨ
+婦<consonant>: ㄈ
+婦<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+努<consonant>: ㄋ
+努<vowels>: ㄨ
+力<consonant>: ㄌ
+力<vowels>: ㄧ
+爭<consonant>: ㄓ
+爭<vowels>: ㄥ
+取<consonant>: ㄑ
+取<vowels>: ㄩ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+房<consonant>: ㄈ
+房<vowels>: ㄤ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+幸<consonant>: ㄒ
+幸<vowels>: ㄧㄥ
+運<consonant>: no consonant
+運<vowels>: ㄩㄣ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+拜<consonant>: ㄅ
+拜<vowels>: ㄞ
+科<consonant>: ㄎ
+科<vowels>: ㄜ
+技<consonant>: ㄐ
+技<vowels>: ㄧ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+步<consonant>: ㄅ
+步<vowels>: ㄨ
+賜<consonant>: ㄙㄘ
+賜<vowels>:  
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+婦<consonant>: ㄈ
+婦<vowels>: ㄨ
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+費<consonant>: ㄈ
+費<vowels>: ㄟ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+房<consonant>: ㄈ
+房<vowels>: ㄤ
+工<consonant>: ㄍ
+工<vowels>: ㄨㄥ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+朋<consonant>: ㄆ
+朋<vowels>: ㄥ
+堂<consonant>: ㄊ
+堂<vowels>: ㄤ
+三<consonant>: ㄙㄙ
+三<vowels>: ㄢ ㄢ
+洋<consonant>: no consonant
+洋<vowels>: ㄧㄤ
+工<consonant>: ㄍ
+工<vowels>: ㄨㄥ
+業<consonant>: no consonant
+業<vowels>: ㄧㄝ
+扇<consonant>: ㄕㄕ
+扇<vowels>: ㄢ ㄢ
+工<consonant>: ㄍ
+工<vowels>: ㄨㄥ
+業<consonant>: no consonant
+業<vowels>: ㄧㄝ
+扇<consonant>: ㄕㄕ
+扇<vowels>: ㄢ ㄢ
+朋<consonant>: ㄆ
+朋<vowels>: ㄥ
+堂<consonant>: ㄊ
+堂<vowels>: ㄤ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+際<consonant>: ㄐ
+際<vowels>: ㄧ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+際<consonant>: ㄐ
+際<vowels>: ㄧ
+牌<consonant>: ㄆ
+牌<vowels>: ㄞ
+北<consonant>: ㄅ
+北<vowels>: ㄟ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+嘉<consonant>: ㄐ
+嘉<vowels>: ㄧㄚ
+循<consonant>: ㄒ
+循<vowels>: ㄩㄣ
+環<consonant>: ㄏ
+環<vowels>: ㄨㄢ
+扇<consonant>: ㄕㄕ
+扇<vowels>: ㄢ ㄢ
+朋<consonant>: ㄆ
+朋<vowels>: ㄥ
+堂<consonant>: ㄊ
+堂<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+捐<consonant>: ㄐ
+捐<vowels>: ㄩㄢ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+山<consonant>: ㄕ
+山<vowels>: ㄢ
+載<consonant>: ㄗㄗㄉ
+載<vowels>: ㄞ ㄞ ㄞ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+農<consonant>: ㄋ
+農<vowels>: ㄨㄥ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+義<consonant>: no consonant
+義<vowels>: ㄧ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+搬<consonant>: ㄅ
+搬<vowels>: ㄢ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+卡<consonant>: ㄎ
+卡<vowels>: ㄚ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+饅<consonant>: ㄇ
+饅<vowels>: ㄢ
+頭<consonant>: ㄊㄊ
+頭<vowels>: ㄡ ㄡ
+帶<consonant>: ㄉ
+帶<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+房<consonant>: ㄈ
+房<vowels>: ㄤ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+飯<consonant>: ㄈ
+飯<vowels>: ㄢ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+滷<consonant>: ㄌ
+滷<vowels>: ㄨ
+豆<consonant>: ㄉ
+豆<vowels>: ㄡ
+干<consonant>: ㄍ
+干<vowels>: ㄢ
+義<consonant>: no consonant
+義<vowels>: ㄧ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+辣<consonant>: ㄌ
+辣<vowels>: ㄚ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+蒜<consonant>: ㄙ
+蒜<vowels>: ㄨㄢ
+頭<consonant>: ㄊㄊ
+頭<vowels>: ㄡ ㄡ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+末<consonant>: ㄇ
+末<vowels>: ㄛ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+胡<consonant>: ㄏ
+胡<vowels>: ㄨ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+檸<consonant>: ㄋ
+檸<vowels>: ㄧㄥ
+檬<consonant>: ㄇ
+檬<vowels>: ㄥ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+膏<consonant>: ㄍ
+膏<vowels>: ㄠ
+泰<consonant>: ㄊ
+泰<vowels>: ㄞ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+甜<consonant>: ㄊ
+甜<vowels>: ㄧㄢ
+辣<consonant>: ㄌ
+辣<vowels>: ㄚ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+腿<consonant>: ㄊ
+腿<vowels>: ㄨㄟ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+蒜<consonant>: ㄙ
+蒜<vowels>: ㄨㄢ
+頭<consonant>: ㄊㄊ
+頭<vowels>: ㄡ ㄡ
+擦<consonant>: ㄘ
+擦<vowels>: ㄚ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+沾<consonant>: ㄓ
+沾<vowels>: ㄢ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+高<consonant>: ㄍㄎ
+高<vowels>: ㄠ ㄞ
+麗<consonant>: ㄌㄌ
+麗<vowels>: ㄧ ㄧ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+今<consonant>: ㄐ
+今<vowels>: ㄧㄣ
+天<consonant>: ㄊㄊ
+天<vowels>: ㄧㄢ ㄧㄢ
+搬<consonant>: ㄅ
+搬<vowels>: ㄢ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+咪<consonant>: ㄇ
+咪<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+翅<consonant>: ㄔ
+翅<vowels>: no vowels
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+觀<consonant>: ㄍㄍ
+觀<vowels>: ㄨㄢ ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+尚<consonant>: ㄕ
+尚<vowels>: ㄤ
+實<consonant>: ㄕ
+實<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+性<consonant>: ㄒ
+性<vowels>: ㄧㄥ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+高<consonant>: ㄍㄎ
+高<vowels>: ㄠ ㄞ
+尚<consonant>: ㄕ
+尚<vowels>: ㄤ
+級<consonant>: ㄐ
+級<vowels>: ㄧ
+引<consonant>: no consonant
+引<vowels>: ㄧㄣ
+述<consonant>: ㄕ
+述<vowels>: ㄨ
+銘<consonant>: ㄇ
+銘<vowels>: ㄧㄥ
+言<consonant>: no consonant
+言<vowels>: ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+去<consonant>: ㄑ
+去<vowels>: ㄩ
+玩<consonant>: no consonant
+玩<vowels>: ㄨㄢ ㄨㄢ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+朋<consonant>: ㄆ
+朋<vowels>: ㄥ
+友<consonant>: no consonant
+友<vowels>: ㄧㄡ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+陣<consonant>: ㄓ
+陣<vowels>: ㄣ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+同<consonant>: ㄊㄊ
+同<vowels>: ㄨㄥ ㄨㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+紅<consonant>: ㄏㄍㄏ
+紅<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+烘<consonant>: ㄏ
+烘<vowels>: ㄨㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+模<consonant>: ㄇㄇ
+模<vowels>: ㄛ ㄨ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+樣<consonant>: no consonant
+樣<vowels>: ㄧㄤ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+使<consonant>: ㄕ
+使<vowels>: no vowels
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+均<consonant>: ㄐ
+均<vowels>: ㄩㄣ
+勻<consonant>: no consonant
+勻<vowels>: ㄩㄣ
+受<consonant>: ㄕ
+受<vowels>: ㄡ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+東<consonant>: ㄉ
+東<vowels>: ㄨㄥ
+西<consonant>: ㄒ
+西<vowels>: ㄧ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+麻<consonant>: ㄇ
+麻<vowels>: ㄚ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+平<consonant>: ㄆ
+平<vowels>: ㄧㄥ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+粿<consonant>: no consonant
+粿<vowels>: 
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+沾<consonant>: ㄓ
+沾<vowels>: ㄢ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+去<consonant>: ㄑ
+去<vowels>: ㄩ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+同<consonant>: ㄊㄊ
+同<vowels>: ㄨㄥ ㄨㄥ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+平<consonant>: ㄆ
+平<vowels>: ㄧㄥ
+底<consonant>: ㄉ
+底<vowels>: ㄧ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+去<consonant>: ㄑ
+去<vowels>: ㄩ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+後<consonant>: ㄏ
+後<vowels>: ㄡ
+丟<consonant>: ㄉ
+丟<vowels>: ㄧㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+憑<consonant>: ㄆ
+憑<vowels>: ㄧㄥ
+著<consonant>: ㄓㄓㄓㄓㄓ
+著<vowels>: ㄜ ㄠ ㄨ ㄨㄛ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+暹<consonant>: ㄒ
+暹<vowels>: ㄧㄢ
+羅<consonant>: ㄌ
+羅<vowels>: ㄨㄛ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+麻<consonant>: ㄇ
+麻<vowels>: ㄚ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+歌<consonant>: ㄍ
+歌<vowels>: ㄜ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+鏽<consonant>: ㄒ
+鏽<vowels>: ㄧㄡ
+鋼<consonant>: ㄍ
+鋼<vowels>: ㄤ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+荷<consonant>: ㄏㄏ
+荷<vowels>: ㄜ ㄜ
+蘭<consonant>: ㄌ
+蘭<vowels>: ㄢ
+公<consonant>: ㄍ
+公<vowels>: ㄨㄥ
+主<consonant>: ㄓ
+主<vowels>: ㄨ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+萬<consonant>: no consonant
+萬<vowels>: ㄨㄢ
+妹<consonant>: ㄇ
+妹<vowels>: ㄟ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+三<consonant>: ㄙㄙ
+三<vowels>: ㄢ ㄢ
+星<consonant>: ㄒ
+星<vowels>: ㄧㄥ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+裡<consonant>: ㄌ
+裡<vowels>: ㄧ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+完<consonant>: no consonant
+完<vowels>: ㄨㄢ ㄨㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+笑<consonant>: ㄒ
+笑<vowels>: ㄧㄠ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+模<consonant>: ㄇㄇ
+模<vowels>: ㄛ ㄨ
+仿<consonant>: ㄈ
+仿<vowels>: ㄤ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+哨<consonant>: ㄕ
+哨<vowels>: ㄠ
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+溫<consonant>: no consonant
+溫<vowels>: ㄨㄣ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+興<consonant>: ㄒㄒ
+興<vowels>: ㄧㄥ ㄧㄥ
+趣<consonant>: ㄑ
+趣<vowels>: ㄩ
+缺<consonant>: ㄑ
+缺<vowels>: ㄩㄝ
+缺<consonant>: ㄑ
+缺<vowels>: ㄩㄝ
+決<consonant>: ㄐ
+決<vowels>: ㄩㄝ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+剩<consonant>: ㄕ
+剩<vowels>: ㄥ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+漬<consonant>: ㄗ
+漬<vowels>: no vowels
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+章<consonant>: ㄓ
+章<vowels>: ㄤ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+裹<consonant>: ㄍ
+裹<vowels>: ㄨㄛ
+番<consonant>: ㄈ
+番<vowels>: ㄢ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+處<consonant>: ㄔㄔ
+處<vowels>: ㄨ ㄨ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+章<consonant>: ㄓ
+章<vowels>: ㄤ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+番<consonant>: ㄈ
+番<vowels>: ㄢ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+檸<consonant>: ㄋ
+檸<vowels>: ㄧㄥ
+檬<consonant>: ㄇ
+檬<vowels>: ㄥ
+角<consonant>: ㄐㄐ
+角<vowels>: ㄧㄠ ㄩㄝ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+蒜<consonant>: ㄙ
+蒜<vowels>: ㄨㄢ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+桌<consonant>: ㄓ
+桌<vowels>: ㄨㄛ
+青<consonant>: ㄑ
+青<vowels>: ㄧㄥ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+母<consonant>: ㄇ
+母<vowels>: ㄨ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+倆<consonant>: ㄌㄌ
+倆<vowels>: ㄧㄤ ㄧㄚ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+午<consonant>: no consonant
+午<vowels>: ㄨ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+約<consonant>: no consonant
+約<vowels>: ㄩㄝ
+會<consonant>: ㄏㄏㄎ
+會<vowels>: ㄨㄟ ㄨㄟ ㄨㄞ
+老<consonant>: ㄌ
+老<vowels>: ㄠ
+公<consonant>: ㄍ
+公<vowels>: ㄨㄥ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+當<consonant>: ㄉㄉ
+當<vowels>: ㄤ ㄤ
+哥<consonant>: ㄍㄍ
+哥<vowels>: ㄜ ㄜ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+創<consonant>: ㄔㄔ
+創<vowels>: ㄨㄤ ㄨㄤ
+起<consonant>: ㄑㄐ
+起<vowels>: ㄧ ㄧㄣ
+士<consonant>: ㄕ
+士<vowels>: no vowels
+茄<consonant>: ㄑㄐ
+茄<vowels>: ㄧㄝ ㄧㄚ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+通<consonant>: ㄊ
+通<vowels>: ㄨㄥ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+枝<consonant>: ㄓㄑ
+枝<vowels>:  ㄧ
+丸<consonant>: no consonant
+丸<vowels>: ㄨㄢ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+腿<consonant>: ㄊ
+腿<vowels>: ㄨㄟ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+右<consonant>: no consonant
+右<vowels>: ㄧㄡ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+冷<consonant>: ㄌ
+冷<vowels>: ㄥ
+凍<consonant>: ㄉ
+凍<vowels>: ㄨㄥ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+腿<consonant>: ㄊ
+腿<vowels>: ㄨㄟ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+冷<consonant>: ㄌ
+冷<vowels>: ㄥ
+凍<consonant>: ㄉ
+凍<vowels>: ㄨㄥ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+鐘<consonant>: ㄓ
+鐘<vowels>: ㄨㄥ
+搞<consonant>: ㄍ
+搞<vowels>: ㄠ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+注<consonant>: ㄓ
+注<vowels>: ㄨ
+意<consonant>: no consonant
+意<vowels>: ㄧ
+右<consonant>: no consonant
+右<vowels>: ㄧㄡ
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+圖<consonant>: ㄊ
+圖<vowels>: ㄨ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+逼<consonant>: ㄅ
+逼<vowels>: ㄧ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+宵<consonant>: ㄒ
+宵<vowels>: ㄧㄠ
+夜<consonant>: no consonant
+夜<vowels>: ㄧㄝ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+休<consonant>: ㄒ
+休<vowels>: ㄧㄡ
+息<consonant>: ㄒ
+息<vowels>: ㄧ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+陣<consonant>: ㄓ
+陣<vowels>: ㄣ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+紅<consonant>: ㄏㄍㄏ
+紅<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+惹<consonant>: ㄖ
+惹<vowels>: ㄜ
+廠<consonant>: ㄔ
+廠<vowels>: ㄤ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+模<consonant>: ㄇㄇ
+模<vowels>: ㄛ ㄨ
+仿<consonant>: ㄈ
+仿<vowels>: ㄤ
+衍<consonant>: no consonant
+衍<vowels>: ㄧㄢ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+討<consonant>: ㄊ
+討<vowels>: ㄠ
+論<consonant>: ㄌㄌ
+論<vowels>: ㄨㄣ ㄨㄣ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+改<consonant>: ㄍ
+改<vowels>: ㄞ
+良<consonant>: ㄌ
+良<vowels>: ㄧㄤ
+版<consonant>: ㄅ
+版<vowels>: ㄢ
+旋<consonant>: ㄒㄒ
+旋<vowels>: ㄩㄢ ㄩㄢ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+冒<consonant>: ㄇ
+冒<vowels>: ㄠ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+捲<consonant>: ㄐ
+捲<vowels>: ㄩㄢ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+目<consonant>: ㄇ
+目<vowels>: ㄨ
+前<consonant>: ㄑ
+前<vowels>: ㄧㄢ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+廠<consonant>: ㄔ
+廠<vowels>: ㄤ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+跟<consonant>: ㄍ
+跟<vowels>: ㄣ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+長<consonant>: ㄔㄓㄓ
+長<vowels>: ㄤ ㄤ ㄤ
+像<consonant>: ㄒ
+像<vowels>: ㄧㄤ
+杯<consonant>: ㄅ
+杯<vowels>: ㄟ
+使<consonant>: ㄕ
+使<vowels>: no vowels
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+吐<consonant>: ㄊㄊ
+吐<vowels>: ㄨ ㄨ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+始<consonant>: ㄕ
+始<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+恩<consonant>: no consonant
+恩<vowels>: ㄣ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+製<consonant>: ㄓ
+製<vowels>: no vowels
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+胸<consonant>: ㄒ
+胸<vowels>: ㄩㄥ
+里<consonant>: ㄌㄌ
+里<vowels>: ㄧ ㄧ ㄧ
+肌<consonant>: ㄐ
+肌<vowels>: ㄧ
+番<consonant>: ㄈ
+番<vowels>: ㄢ
+茄<consonant>: ㄑㄐ
+茄<vowels>: ㄧㄝ ㄧㄚ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+胡<consonant>: ㄏ
+胡<vowels>: ㄨ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+辣<consonant>: ㄌ
+辣<vowels>: ㄚ
+椒<consonant>: ㄐ
+椒<vowels>: ㄧㄠ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+義<consonant>: no consonant
+義<vowels>: ㄧ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+醃<consonant>: no consonant
+醃<vowels>: ㄧㄢ ㄧㄢ
+製<consonant>: ㄓ
+製<vowels>: no vowels
+晚<consonant>: no consonant
+晚<vowels>: ㄨㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+丟<consonant>: ㄉ
+丟<vowels>: ㄧㄡ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+諒<consonant>: ㄌ
+諒<vowels>: ㄧㄤ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+鮮<consonant>: ㄒㄒ
+鮮<vowels>: ㄧㄢ ㄧㄢ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+試<consonant>: ㄕ
+試<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+期<consonant>: ㄑㄐㄉㄑ
+期<vowels>: ㄧ ㄧ ㄧㄢ ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+十<consonant>: ㄕ
+十<vowels>: no vowels
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+鐘<consonant>: ㄓ
+鐘<vowels>: ㄨㄥ
+搞<consonant>: ㄍ
+搞<vowels>: ㄠ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+塊<consonant>: ㄎ
+塊<vowels>: ㄨㄞ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+逼<consonant>: ㄅ
+逼<vowels>: ㄧ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+適<consonant>: ㄕ
+適<vowels>: no vowels
+合<consonant>: ㄏ
+合<vowels>: ㄜ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+帶<consonant>: ㄉ
+帶<vowels>: ㄞ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+孩<consonant>: ㄏ
+孩<vowels>: ㄞ
+兼<consonant>: ㄐ
+兼<vowels>: ㄧㄢ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+飯<consonant>: ㄈ
+飯<vowels>: ㄢ
+杜<consonant>: ㄉ
+杜<vowels>: ㄨ
+比<consonant>: ㄅㄅ
+比<vowels>: ㄧ ㄧ
+坐<consonant>: ㄗ
+坐<vowels>: ㄨㄛ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+住<consonant>: ㄓ
+住<vowels>: ㄨ
+希<consonant>: ㄒ
+希<vowels>: ㄧ
+望<consonant>: no consonant
+望<vowels>: ㄨㄤ
+爸<consonant>: ㄅ
+爸<vowels>: ㄚ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+了<consonant>: ㄌㄌㄌ
+了<vowels>: ㄧㄠ ㄜ ㄠ
+解<consonant>: ㄐㄐㄒ
+解<vowels>: ㄧㄝ ㄧㄝ ㄧㄝ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+婦<consonant>: ㄈ
+婦<vowels>: ㄨ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+聲<consonant>: ㄕ
+聲<vowels>: ㄥ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+梅<consonant>: ㄇ
+梅<vowels>: ㄟ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+你<consonant>: ㄋ
+你<vowels>: ㄧ
+許<consonant>: ㄒㄏ
+許<vowels>: ㄩ ㄨ
+願<consonant>: no consonant
+願<vowels>: ㄩㄢ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+力<consonant>: ㄌ
+力<vowels>: ㄧ
+強<consonant>: ㄑㄐㄑㄑ
+強<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ ㄧㄥ
+昨<consonant>: ㄗ
+昨<vowels>: ㄨㄛ
+天<consonant>: ㄊㄊ
+天<vowels>: ㄧㄢ ㄧㄢ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+今<consonant>: ㄐ
+今<vowels>: ㄧㄣ
+天<consonant>: ㄊㄊ
+天<vowels>: ㄧㄢ ㄧㄢ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+台<consonant>: ㄊ
+台<vowels>: ㄞ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+許<consonant>: ㄒㄏ
+許<vowels>: ㄩ ㄨ
+願<consonant>: no consonant
+願<vowels>: ㄩㄢ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+視<consonant>: ㄕ
+視<vowels>: no vowels
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+色<consonant>: ㄙ
+色<vowels>: ㄜ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+身<consonant>: ㄕㄐ
+身<vowels>: ㄣ ㄩㄢ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+脂<consonant>: ㄓ
+脂<vowels>: no vowels
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+份<consonant>: ㄈ
+份<vowels>: ㄣ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+添<consonant>: ㄊ
+添<vowels>: ㄧㄢ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+程<consonant>: ㄔ
+程<vowels>: ㄥ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+身<consonant>: ㄕㄐ
+身<vowels>: ㄣ ㄩㄢ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+脂<consonant>: ㄓ
+脂<vowels>: no vowels
+瀝<consonant>: ㄌ
+瀝<vowels>: ㄧ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+傳<consonant>: ㄔㄓ
+傳<vowels>: ㄨㄢ ㄨㄢ
+統<consonant>: ㄊ
+統<vowels>: ㄨㄥ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+減<consonant>: ㄐ
+減<vowels>: ㄧㄢ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+達<consonant>: ㄉㄊㄉ
+達<vowels>: ㄚ ㄚ ㄚ
+擔<consonant>: ㄉㄉ
+擔<vowels>: ㄢ ㄢ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+劣<consonant>: ㄌ
+劣<vowels>: ㄧㄝ
+質<consonant>: ㄓ
+質<vowels>: no vowels
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+混<consonant>: ㄏㄏㄏ
+混<vowels>: ㄨㄣ ㄨㄣ ㄨㄣ
+淆<consonant>: no consonant
+淆<vowels>: ㄧㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+試<consonant>: ㄕ
+試<vowels>: no vowels
+試<consonant>: ㄕ
+試<vowels>: no vowels
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+了<consonant>: ㄌㄌㄌ
+了<vowels>: ㄧㄠ ㄜ ㄠ
+解<consonant>: ㄐㄐㄒ
+解<vowels>: ㄧㄝ ㄧㄝ ㄧㄝ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+浪<consonant>: ㄌㄌ
+浪<vowels>: ㄤ ㄤ
+費<consonant>: ㄈ
+費<vowels>: ㄟ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+話<consonant>: ㄏㄌ
+話<vowels>: ㄨㄚ ㄠ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+軟<consonant>: ㄖ
+軟<vowels>: ㄨㄢ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+洋<consonant>: no consonant
+洋<vowels>: ㄧㄤ
+蔥<consonant>: ㄘ
+蔥<vowels>: ㄨㄥ
+圈<consonant>: ㄑㄐ
+圈<vowels>: ㄩㄢ ㄩㄢ
+份<consonant>: ㄈ
+份<vowels>: ㄣ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+少<consonant>: ㄕㄕㄕ
+少<vowels>: ㄠ ㄠ ㄠ
+旁<consonant>: ㄆㄅ
+旁<vowels>: ㄤ ㄤ
+邊<consonant>: ㄅ
+邊<vowels>: ㄧㄢ
+番<consonant>: ㄈ
+番<vowels>: ㄢ
+茄<consonant>: ㄑㄐ
+茄<vowels>: ㄧㄝ ㄧㄚ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+蜂<consonant>: ㄈ
+蜂<vowels>: ㄥ
+蜜<consonant>: ㄇ
+蜜<vowels>: ㄧ
+芥<consonant>: ㄐ
+芥<vowels>: ㄧㄝ
+茉<consonant>: ㄇ
+茉<vowels>: ㄛ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+沾<consonant>: ㄓ
+沾<vowels>: ㄢ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+去<consonant>: ㄑ
+去<vowels>: ㄩ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+假<consonant>: ㄐㄐ
+假<vowels>: ㄧㄚ ㄧㄚ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+充<consonant>: ㄔ
+充<vowels>: ㄨㄥ ㄨ
+斥<consonant>: ㄔ
+斥<vowels>: no vowels
+廉<consonant>: ㄌ
+廉<vowels>: ㄧㄢ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+玉<consonant>: no consonant
+玉<vowels>: ㄩ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+澱<consonant>: ㄉ
+澱<vowels>: ㄧㄢ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+基<consonant>: ㄐ
+基<vowels>: ㄧ
+因<consonant>: no consonant
+因<vowels>: ㄧㄣ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+含<consonant>: ㄏ
+含<vowels>: ㄢ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+標<consonant>: ㄅ
+標<vowels>: ㄧㄠ
+示<consonant>: ㄕ
+示<vowels>: no vowels
+寬<consonant>: ㄎ
+寬<vowels>: ㄨㄢ
+鬆<consonant>: ㄙ
+鬆<vowels>: ㄨㄥ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+標<consonant>: ㄅ
+標<vowels>: ㄧㄠ
+示<consonant>: ㄕ
+示<vowels>: no vowels
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+實<consonant>: ㄕ
+實<vowels>: no vowels
+次<consonant>: ㄘ
+次<vowels>: no vowels
+級<consonant>: ㄐ
+級<vowels>: ㄧ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+冒<consonant>: ㄇ
+冒<vowels>: ㄠ
+稱<consonant>: ㄔㄔㄔ
+稱<vowels>: ㄥ ㄣ ㄥ
+高<consonant>: ㄍㄎ
+高<vowels>: ㄠ ㄞ
+級<consonant>: ㄐ
+級<vowels>: ㄧ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+情<consonant>: ㄑ
+情<vowels>: ㄧㄥ
+節<consonant>: ㄐ
+節<vowels>: ㄧㄝ
+輕<consonant>: ㄑ
+輕<vowels>: ㄧㄥ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+農<consonant>: ㄋ
+農<vowels>: ㄨㄥ
+糧<consonant>: ㄌ
+糧<vowels>: ㄧㄤ
+署<consonant>: ㄕㄕ
+署<vowels>: ㄨ ㄨ
+官<consonant>: ㄍ
+官<vowels>: ㄨㄢ
+僚<consonant>: ㄌ
+僚<vowels>: ㄧㄠ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+消<consonant>: ㄒ
+消<vowels>: ㄧㄠ
+基<consonant>: ㄐ
+基<vowels>: ㄧ
+會<consonant>: ㄏㄏㄎ
+會<vowels>: ㄨㄟ ㄨㄟ ㄨㄞ
+標<consonant>: ㄅ
+標<vowels>: ㄧㄠ
+局<consonant>: ㄐ
+局<vowels>: ㄩ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+檢<consonant>: ㄐㄎ
+檢<vowels>: ㄧㄢ ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+桂<consonant>: ㄍ
+桂<vowels>: ㄨㄟ
+冠<consonant>: ㄍㄍ
+冠<vowels>: ㄨㄢ ㄨㄢ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+球<consonant>: ㄑ
+球<vowels>: ㄧㄡ
+桂<consonant>: ㄍ
+桂<vowels>: ㄨㄟ
+冠<consonant>: ㄍㄍ
+冠<vowels>: ㄨㄢ ㄨㄢ
+鮭<consonant>: ㄍ
+鮭<vowels>: ㄨㄟ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+球<consonant>: ㄑ
+球<vowels>: ㄧㄡ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+主<consonant>: ㄓ
+主<vowels>: ㄨ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+幫<consonant>: ㄅ
+幫<vowels>: ㄤ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+蔡<consonant>: ㄘ
+蔡<vowels>: ㄞ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+桂<consonant>: ㄍ
+桂<vowels>: ㄨㄟ
+冠<consonant>: ㄍㄍ
+冠<vowels>: ㄨㄢ ㄨㄢ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+專<consonant>: ㄓㄔ
+專<vowels>: ㄨㄢ ㄨㄢ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+叉<consonant>: ㄔㄔㄔ
+叉<vowels>: ㄚ ㄚ ㄚ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+幫<consonant>: ㄅ
+幫<vowels>: ㄤ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+巧<consonant>: ㄑ
+巧<vowels>: ㄧㄠ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+腸<consonant>: ㄔ
+腸<vowels>: ㄤ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+球<consonant>: ㄑ
+球<vowels>: ㄧㄡ
+今<consonant>: ㄐ
+今<vowels>: ㄧㄣ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+晚<consonant>: no consonant
+晚<vowels>: ㄨㄢ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+鹹<consonant>: ㄒ
+鹹<vowels>: ㄧㄢ
+派<consonant>: ㄆ
+派<vowels>: ㄞ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+甜<consonant>: ㄊ
+甜<vowels>: ㄧㄢ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+蕉<consonant>: ㄐ
+蕉<vowels>: ㄧㄠ
+布<consonant>: ㄅ
+布<vowels>: ㄨ
+郎<consonant>: ㄌ
+郎<vowels>: ㄤ
+尼<consonant>: ㄋ
+尼<vowels>: ㄧ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+蕉<consonant>: ㄐ
+蕉<vowels>: ㄧㄠ
+巧<consonant>: ㄑ
+巧<vowels>: ㄧㄠ
+克<consonant>: ㄎ
+克<vowels>: ㄜ
+力<consonant>: ㄌ
+力<vowels>: ㄧ
+冰<consonant>: ㄅ
+冰<vowels>: ㄧㄥ
+淇<consonant>: ㄑ
+淇<vowels>: ㄧ
+淋<consonant>: ㄌ
+淋<vowels>: ㄧㄣ
+陳<consonant>: ㄔ
+陳<vowels>: ㄣ
+尼<consonant>: ㄋ
+尼<vowels>: ㄧ
+力<consonant>: ㄌ
+力<vowels>: ㄧ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+妳<consonant>: ㄋ
+妳<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+惠<consonant>: ㄏ
+惠<vowels>: ㄨㄟ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+冰<consonant>: ㄅ
+冰<vowels>: ㄧㄥ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+衣<consonant>: no consonant
+衣<vowels>: ㄧ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+衣<consonant>: no consonant
+衣<vowels>: ㄧ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+冷<consonant>: ㄌ
+冷<vowels>: ㄥ
+暖<consonant>: ㄋ
+暖<vowels>: ㄨㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+暖<consonant>: ㄋ
+暖<vowels>: ㄨㄢ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+除<consonant>: ㄔ
+除<vowels>: ㄨ
+濕<consonant>: ㄕ
+濕<vowels>: no vowels
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+清<consonant>: ㄑ
+清<vowels>: ㄧㄥ
+淨<consonant>: ㄐ
+淨<vowels>: ㄧㄥ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+場<consonant>: ㄔㄔ
+場<vowels>: ㄤ ㄤ
+數<consonant>: ㄕㄕㄕ
+數<vowels>: ㄨ ㄨ ㄨㄛ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+滿<consonant>: ㄇㄒ
+滿<vowels>: ㄢ ㄧㄢ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+實<consonant>: ㄕ
+實<vowels>: no vowels
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+格<consonant>: ㄍ
+格<vowels>: ㄜ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+除<consonant>: ㄔ
+除<vowels>: ㄨ
+濕<consonant>: ㄕ
+濕<vowels>: no vowels
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+宜<consonant>: no consonant
+宜<vowels>: ㄧ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+體<consonant>: ㄊ
+體<vowels>: ㄧ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+吹<consonant>: ㄔ
+吹<vowels>: ㄨㄟ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+陳<consonant>: ㄔ
+陳<vowels>: ㄣ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+今<consonant>: ㄐ
+今<vowels>: ㄧㄣ
+天<consonant>: ㄊㄊ
+天<vowels>: ㄧㄢ ㄧㄢ
+失<consonant>: ㄕ
+失<vowels>: no vowels
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+鱈<consonant>: ㄒ
+鱈<vowels>: ㄩㄝ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+半<consonant>: ㄅ
+半<vowels>: ㄢ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+黏<consonant>: ㄋ
+黏<vowels>: ㄧㄢ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+拔<consonant>: ㄅ
+拔<vowels>: ㄚ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+炒<consonant>: ㄔ
+炒<vowels>: ㄠ
+山<consonant>: ㄕ
+山<vowels>: ㄢ
+藥<consonant>: no consonant
+藥<vowels>: ㄧㄠ
+炒<consonant>: ㄔ
+炒<vowels>: ㄠ
+高<consonant>: ㄍㄎ
+高<vowels>: ㄠ ㄞ
+麗<consonant>: ㄌㄌ
+麗<vowels>: ㄧ ㄧ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+兒<consonant>: no consonant
+兒<vowels>: ㄦ ㄦ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+你<consonant>: ㄋ
+你<vowels>: ㄧ
+勉<consonant>: ㄇ
+勉<vowels>: ㄧㄢ
+強<consonant>: ㄑㄐㄑㄑ
+強<vowels>: ㄧㄤ ㄧㄤ ㄧㄤ ㄧㄥ
+鱈<consonant>: ㄒ
+鱈<vowels>: ㄩㄝ
+魚<consonant>: no consonant
+魚<vowels>: ㄩ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+則<consonant>: ㄗ
+則<vowels>: ㄜ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+質<consonant>: ㄓ
+質<vowels>: no vowels
+控<consonant>: ㄎ
+控<vowels>: ㄨㄥ
+制<consonant>: ㄓ
+制<vowels>: no vowels
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+若<consonant>: ㄖㄖㄋ
+若<vowels>: ㄨㄛ ㄜ ㄨㄛ
+囤<consonant>: ㄉㄊ
+囤<vowels>: ㄨㄣ ㄨㄣ
+積<consonant>: ㄐ
+積<vowels>: ㄧ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+毒<consonant>: ㄉ
+毒<vowels>: ㄨ
+素<consonant>: ㄙㄕ
+素<vowels>: ㄨ ㄨ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+安<consonant>: no consonant
+安<vowels>: ㄢ
+問<consonant>: no consonant
+問<vowels>: ㄨㄣ
+題<consonant>: ㄊ
+題<vowels>: ㄧ
+掀<consonant>: ㄒ
+掀<vowels>: ㄧㄢ
+起<consonant>: ㄑㄐ
+起<vowels>: ㄧ ㄧㄣ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+潮<consonant>: ㄔ
+潮<vowels>: ㄠ
+帶<consonant>: ㄉ
+帶<vowels>: ㄞ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+賣<consonant>: ㄇ
+賣<vowels>: ㄞ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+選<consonant>: ㄒ
+選<vowels>: ㄩㄢ
+擇<consonant>: ㄗㄓ
+擇<vowels>: ㄜ ㄜ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+豬<consonant>: ㄓ
+豬<vowels>: ㄨ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+潮<consonant>: ㄔ
+潮<vowels>: ㄠ
+吳<consonant>: no consonant
+吳<vowels>: ㄨ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+誠<consonant>: ㄔ
+誠<vowels>: ㄥ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+以<consonant>: no consonant
+以<vowels>: ㄧ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+然<consonant>: ㄖ
+然<vowels>: ㄢ
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+肋<consonant>: ㄌ
+肋<vowels>: ㄜ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+蒜<consonant>: ㄙ
+蒜<vowels>: ㄨㄢ
+頭<consonant>: ㄊㄊ
+頭<vowels>: ㄡ ㄡ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+肋<consonant>: ㄌ
+肋<vowels>: ㄜ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+塊<consonant>: ㄎ
+塊<vowels>: ㄨㄞ
+鑄<consonant>: ㄓ
+鑄<vowels>: ㄨ
+體<consonant>: ㄊ
+體<vowels>: ㄧ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+表<consonant>: ㄅ
+表<vowels>: ㄧㄠ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+焦<consonant>: ㄐ
+焦<vowels>: ㄧㄠ
+黃<consonant>: ㄏ
+黃<vowels>: ㄨㄤ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+肋<consonant>: ㄌ
+肋<vowels>: ㄜ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+拌<consonant>: ㄅ
+拌<vowels>: ㄢ
+勻<consonant>: no consonant
+勻<vowels>: ㄩㄣ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+值<consonant>: ㄓ
+值<vowels>: no vowels
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+提<consonant>: ㄊㄉ
+提<vowels>: ㄧ ㄧ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+因<consonant>: no consonant
+因<vowels>: ㄧㄣ
+應<consonant>: no consonant
+應<vowels>: ㄧㄥ ㄧㄥ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+安<consonant>: no consonant
+安<vowels>: ㄢ
+危<consonant>: no consonant
+危<vowels>: ㄨㄟ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+尾<consonant>: no consonant
+尾<vowels>: ㄨㄟ ㄧ
+牙<consonant>: no consonant
+牙<vowels>: ㄧㄚ
+夢<consonant>: ㄇ
+夢<vowels>: ㄥ
+幻<consonant>: ㄏ
+幻<vowels>: ㄨㄢ
+逸<consonant>: no consonant
+逸<vowels>: ㄧ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+喝<consonant>: ㄏㄏ
+喝<vowels>: ㄜ ㄜ
+喝<consonant>: ㄏㄏ
+喝<vowels>: ㄜ ㄜ
+表<consonant>: ㄅ
+表<vowels>: ㄧㄠ
+演<consonant>: no consonant
+演<vowels>: ㄧㄢ
+活<consonant>: ㄏ
+活<vowels>: ㄨㄛ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+尾<consonant>: no consonant
+尾<vowels>: ㄨㄟ ㄧ
+牙<consonant>: no consonant
+牙<vowels>: ㄧㄚ
+焦<consonant>: ㄐ
+焦<vowels>: ㄧㄠ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+班<consonant>: ㄅ
+班<vowels>: ㄢ
+族<consonant>: ㄗ
+族<vowels>: ㄨ
+男<consonant>: ㄋ
+男<vowels>: ㄢ
+女<consonant>: ㄋ
+女<vowels>: ㄩ
+藝<consonant>: no consonant
+藝<vowels>: ㄧ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+所<consonant>: ㄙ
+所<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+燕<consonant>: no consonant
+燕<vowels>: ㄧㄢ ㄧㄢ
+打<consonant>: ㄉㄉ
+打<vowels>: ㄚ ㄚ
+敗<consonant>: ㄅ
+敗<vowels>: ㄞ
+蔡<consonant>: ㄘ
+蔡<vowels>: ㄞ
+依<consonant>: no consonant
+依<vowels>: ㄧ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+榮<consonant>: ㄖ
+榮<vowels>: ㄨㄥ
+登<consonant>: ㄉ
+登<vowels>: ㄥ
+后<consonant>: ㄏ
+后<vowels>: ㄡ
+座<consonant>: ㄗ
+座<vowels>: ㄨㄛ
+蕭<consonant>: ㄒ
+蕭<vowels>: ㄧㄠ
+禮<consonant>: ㄌ
+禮<vowels>: ㄧ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+覺<consonant>: ㄐㄐ
+覺<vowels>: ㄩㄝ ㄧㄠ
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+錯<consonant>: ㄘㄘ
+錯<vowels>: ㄨㄛ ㄨ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+脆<consonant>: ㄘ
+脆<vowels>: ㄨㄟ
+轉<consonant>: ㄓㄓ
+轉<vowels>: ㄨㄢ ㄨㄢ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+體<consonant>: ㄊ
+體<vowels>: ㄧ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+計<consonant>: ㄐ
+計<vowels>: ㄧ
+計<consonant>: ㄐ
+計<vowels>: ㄧ
+步<consonant>: ㄅ
+步<vowels>: ㄨ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+送<consonant>: ㄙㄙ
+送<vowels>: ㄨㄥ ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+熊<consonant>: ㄒ
+熊<vowels>: ㄩㄥ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+宵<consonant>: ㄒ
+宵<vowels>: ㄧㄠ
+夜<consonant>: no consonant
+夜<vowels>: ㄧㄝ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+款<consonant>: ㄎ
+款<vowels>: ㄨㄢ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+搞<consonant>: ㄍ
+搞<vowels>: ㄠ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+少<consonant>: ㄕㄕㄕ
+少<vowels>: ㄠ ㄠ ㄠ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+影<consonant>: no consonant
+影<vowels>: ㄧㄥ
+響<consonant>: ㄒ
+響<vowels>: ㄧㄤ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+正<consonant>: ㄓㄓ
+正<vowels>: ㄥ ㄥ
+點<consonant>: ㄉ
+點<vowels>: ㄧㄢ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+款<consonant>: ㄎ
+款<vowels>: ㄨㄢ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+款<consonant>: ㄎ
+款<vowels>: ㄨㄢ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+尚<consonant>: ㄕ
+尚<vowels>: ㄤ
+輕<consonant>: ㄑ
+輕<vowels>: ㄧㄥ
+巧<consonant>: ㄑ
+巧<vowels>: ㄧㄠ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+菜<consonant>: ㄘ
+菜<vowels>: ㄞ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+廚<consonant>: ㄔ
+廚<vowels>: ㄨ
+娘<consonant>: ㄋ
+娘<vowels>: ㄧㄤ
+變<consonant>: ㄅ
+變<vowels>: ㄧㄢ
+巧<consonant>: ㄑ
+巧<vowels>: ㄧㄠ
+婦<consonant>: ㄈ
+婦<vowels>: ㄨ
+熊<consonant>: ㄒ
+熊<vowels>: ㄩㄥ
+喵<consonant>: no consonant
+喵<vowels>: 
+榮<consonant>: ㄖ
+榮<vowels>: ㄨㄥ
+幸<consonant>: ㄒ
+幸<vowels>: ㄧㄥ
+接<consonant>: ㄐ
+接<vowels>: ㄧㄝ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+測<consonant>: ㄘ
+測<vowels>: ㄜ
+試<consonant>: ㄕ
+試<vowels>: no vowels
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+看<consonant>: ㄎㄎ
+看<vowels>: ㄢ ㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+漂<consonant>: ㄆㄆㄆ
+漂<vowels>: ㄧㄠ ㄧㄠ ㄧㄠ
+亮<consonant>: ㄌ
+亮<vowels>: ㄧㄤ
+圓<consonant>: no consonant
+圓<vowels>: ㄩㄢ
+讚<consonant>: ㄗ
+讚<vowels>: ㄢ
+留<consonant>: ㄌㄉ
+留<vowels>: ㄧㄡ ㄚ
+言<consonant>: no consonant
+言<vowels>: ㄧㄢ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+折<consonant>: ㄓㄕ
+折<vowels>: ㄜ ㄜ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+券<consonant>: ㄑ
+券<vowels>: ㄩㄢ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+事<consonant>: ㄕ
+事<vowels>: no vowels
+件<consonant>: ㄐ
+件<vowels>: ㄧㄢ
+消<consonant>: ㄒ
+消<vowels>: ㄧㄠ
+費<consonant>: ㄈ
+費<vowels>: ㄟ
+者<consonant>: ㄓ
+者<vowels>: ㄜ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+重<consonant>: ㄓㄔ
+重<vowels>: ㄨㄥ ㄨㄥ
+視<consonant>: ㄕ
+視<vowels>: no vowels
+怕<consonant>: ㄆ
+怕<vowels>: ㄚ
+病<consonant>: ㄅ
+病<vowels>: ㄧㄥ
+從<consonant>: ㄘㄗㄘㄔ
+從<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ ㄨㄥ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+特<consonant>: ㄊ
+特<vowels>: ㄜ
+別<consonant>: ㄅ
+別<vowels>: ㄧㄝ
+邀<consonant>: no consonant
+邀<vowels>: ㄧㄠ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+舉<consonant>: ㄐ
+舉<vowels>: ㄩ
+辦<consonant>: ㄅ
+辦<vowels>: ㄢ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+希<consonant>: ㄒ
+希<vowels>: ㄧ
+望<consonant>: no consonant
+望<vowels>: ㄨㄤ
+今<consonant>: ㄐ
+今<vowels>: ㄧㄣ
+年<consonant>: ㄋ
+年<vowels>: ㄧㄢ
+尾<consonant>: no consonant
+尾<vowels>: ㄨㄟ ㄧ
+牙<consonant>: no consonant
+牙<vowels>: ㄧㄚ
+抽<consonant>: ㄔ
+抽<vowels>: ㄡ
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+持<consonant>: ㄔ
+持<vowels>: no vowels
+冰<consonant>: ㄅ
+冰<vowels>: ㄧㄥ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+衣<consonant>: no consonant
+衣<vowels>: ㄧ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+暖<consonant>: ㄋ
+暖<vowels>: ㄨㄢ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+音<consonant>: no consonant
+音<vowels>: ㄧㄣ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+牙<consonant>: no consonant
+牙<vowels>: ㄧㄚ
+刷<consonant>: ㄕㄕ
+刷<vowels>: ㄨㄚ ㄨㄚ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+鬍<consonant>: ㄏ
+鬍<vowels>: ㄨ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+台<consonant>: ㄊ
+台<vowels>: ㄞ
+北<consonant>: ㄅ
+北<vowels>: ㄟ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+中<consonant>: ㄓㄓ
+中<vowels>: ㄨㄥ ㄨㄥ
+山<consonant>: ㄕ
+山<vowels>: ㄢ
+區<consonant>: ㄑ
+區<vowels>: ㄩ ㄡ
+德<consonant>: ㄉ
+德<vowels>: ㄜ
+惠<consonant>: ㄏ
+惠<vowels>: ㄨㄟ
+街<consonant>: ㄐ
+街<vowels>: ㄧㄝ
+山<consonant>: ㄕ
+山<vowels>: ㄢ
+北<consonant>: ㄅ
+北<vowels>: ㄟ
+路<consonant>: ㄌ
+路<vowels>: ㄨ
+林<consonant>: ㄌ
+林<vowels>: ㄧㄣ
+森<consonant>: ㄙ
+森<vowels>: ㄣ
+北<consonant>: ㄅ
+北<vowels>: ㄟ
+路<consonant>: ㄌ
+路<vowels>: ㄨ
+拐<consonant>: ㄍ
+拐<vowels>: ㄨㄞ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+謝<consonant>: ㄒㄑ
+謝<vowels>: ㄧㄝ ㄧㄝ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+享<consonant>: ㄒ
+享<vowels>: ㄧㄤ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+裡<consonant>: ㄌ
+裡<vowels>: ㄧ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+需<consonant>: ㄒ
+需<vowels>: ㄩ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+台<consonant>: ㄊ
+台<vowels>: ㄞ
+玩<consonant>: no consonant
+玩<vowels>: ㄨㄢ ㄨㄢ
+怕<consonant>: ㄆ
+怕<vowels>: ㄚ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+灰<consonant>: ㄏ
+灰<vowels>: ㄨㄟ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+浪<consonant>: ㄌㄌ
+浪<vowels>: ㄤ ㄤ
+費<consonant>: ㄈ
+費<vowels>: ㄟ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+內<consonant>: ㄋ
+內<vowels>: ㄟ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+鐵<consonant>: ㄊ
+鐵<vowels>: ㄧㄝ
+氟<consonant>: ㄈ
+氟<vowels>: ㄨ
+龍<consonant>: ㄌ
+龍<vowels>: ㄨㄥ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+括<consonant>: ㄍㄎ
+括<vowels>: ㄨㄚ ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+泡<consonant>: ㄆ
+泡<vowels>: ㄠ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+清<consonant>: ㄑ
+清<vowels>: ㄧㄥ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+注<consonant>: ㄓ
+注<vowels>: ㄨ
+意<consonant>: no consonant
+意<vowels>: ㄧ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+白<consonant>: ㄅㄅ
+白<vowels>: ㄞ ㄛ
+朗<consonant>: ㄌ
+朗<vowels>: ㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+切<consonant>: ㄑㄑ
+切<vowels>: ㄧㄝ ㄧㄝ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+給<consonant>: ㄍㄐ
+給<vowels>: ㄟ ㄧ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+貼<consonant>: ㄊ
+貼<vowels>: ㄧㄝ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+選<consonant>: ㄒ
+選<vowels>: ㄩㄢ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+智<consonant>: ㄓ
+智<vowels>: no vowels
+慧<consonant>: ㄏ
+慧<vowels>: ㄨㄟ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+厚<consonant>: ㄏ
+厚<vowels>: ㄡ
+片<consonant>: ㄆ
+片<vowels>: ㄧㄢ
+防<consonant>: ㄈ
+防<vowels>: ㄤ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+瘋<consonant>: ㄈ
+瘋<vowels>: ㄥ
+狂<consonant>: ㄎ
+狂<vowels>: ㄨㄤ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+拍<consonant>: ㄆ
+拍<vowels>: ㄞ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+快<consonant>: ㄎ
+快<vowels>: ㄨㄞ
+月<consonant>: ㄖ
+月<vowels>: ㄩㄝ ㄡ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+東<consonant>: ㄉ
+東<vowels>: ㄨㄥ
+西<consonant>: ㄒ
+西<vowels>: ㄧ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+抓<consonant>: ㄓ
+抓<vowels>: ㄨㄚ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+分<consonant>: ㄈㄈ
+分<vowels>: ㄣ ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+後<consonant>: ㄏ
+後<vowels>: ㄡ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+直<consonant>: ㄓ
+直<vowels>: no vowels
+接<consonant>: ㄐ
+接<vowels>: ㄧㄝ
+退<consonant>: ㄊ
+退<vowels>: ㄨㄟ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+鬍<consonant>: ㄏ
+鬍<vowels>: ㄨ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+鬍<consonant>: ㄏ
+鬍<vowels>: ㄨ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+刮<consonant>: ㄍ
+刮<vowels>: ㄨㄚ
+鬍<consonant>: ㄏ
+鬍<vowels>: ㄨ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+破<consonant>: ㄆ
+破<vowels>: ㄛ
+盤<consonant>: ㄆ
+盤<vowels>: ㄢ
+原<consonant>: no consonant
+原<vowels>: ㄩㄢ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+熨<consonant>: no consonant
+熨<vowels>: ㄩㄣ ㄩ
+斗<consonant>: ㄉ
+斗<vowels>: ㄡ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+熨<consonant>: no consonant
+熨<vowels>: ㄩㄣ ㄩ
+斗<consonant>: ㄉ
+斗<vowels>: ㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+充<consonant>: ㄔ
+充<vowels>: ㄨㄥ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+念<consonant>: ㄋ
+念<vowels>: ㄧㄢ
+頭<consonant>: ㄊㄊ
+頭<vowels>: ㄡ ㄡ
+經<consonant>: ㄐㄐ
+經<vowels>: ㄧㄥ ㄧㄣ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+現<consonant>: ㄒ
+現<vowels>: ㄧㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+種<consonant>: ㄓㄓ
+種<vowels>: ㄨㄥ ㄨㄥ
+類<consonant>: ㄌ
+類<vowels>: ㄟ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+後<consonant>: ㄏ
+後<vowels>: ㄡ
+決<consonant>: ㄐ
+決<vowels>: ㄩㄝ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+誘<consonant>: no consonant
+誘<vowels>: ㄧㄡ
+因<consonant>: no consonant
+因<vowels>: ㄧㄣ
+在<consonant>: ㄗ
+在<vowels>: ㄞ
+於<consonant>: no consonant
+於<vowels>: ㄩ ㄨ ㄩ
+烘<consonant>: ㄏ
+烘<vowels>: ㄨㄥ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+間<consonant>: ㄐㄐ
+間<vowels>: ㄧㄢ ㄧㄢ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+目<consonant>: ㄇ
+目<vowels>: ㄨ
+前<consonant>: ㄑ
+前<vowels>: ㄧㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+要<consonant>: no consonant
+要<vowels>: ㄧㄠ ㄧㄠ
+了<consonant>: ㄌㄌㄌ
+了<vowels>: ㄧㄠ ㄜ ㄠ
+解<consonant>: ㄐㄐㄒ
+解<vowels>: ㄧㄝ ㄧㄝ ㄧㄝ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+份<consonant>: ㄈ
+份<vowels>: ㄣ
+尋<consonant>: ㄒㄒ
+尋<vowels>: ㄩㄣ ㄧㄣ
+找<consonant>: ㄓ
+找<vowels>: ㄠ
+資<consonant>: ㄗ
+資<vowels>: no vowels
+訊<consonant>: ㄒ
+訊<vowels>: ㄩㄣ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+課<consonant>: ㄎ
+課<vowels>: ㄜ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+找<consonant>: ㄓ
+找<vowels>: ㄠ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+份<consonant>: ㄈ
+份<vowels>: ㄣ
+相<consonant>: ㄒㄒ
+相<vowels>: ㄧㄤ ㄧㄤ
+關<consonant>: ㄍ
+關<vowels>: ㄨㄢ
+資<consonant>: ㄗ
+資<vowels>: no vowels
+訊<consonant>: ㄒ
+訊<vowels>: ㄩㄣ
+整<consonant>: ㄓ
+整<vowels>: ㄥ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+咳<consonant>: ㄎㄏ
+咳<vowels>: ㄜ ㄞ
+咳<consonant>: ㄎㄏ
+咳<vowels>: ㄜ ㄞ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+冒<consonant>: ㄇ
+冒<vowels>: ㄠ
+今<consonant>: ㄐ
+今<vowels>: ㄧㄣ
+天<consonant>: ㄊㄊ
+天<vowels>: ㄧㄢ ㄧㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+箱<consonant>: ㄒ
+箱<vowels>: ㄧㄤ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+湯<consonant>: ㄊㄕ
+湯<vowels>: ㄤ ㄤ
+圓<consonant>: no consonant
+圓<vowels>: ㄩㄢ
+撒<consonant>: ㄙㄙㄙ
+撒<vowels>: ㄚ ㄚ ㄚ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+生<consonant>: ㄕㄕ
+生<vowels>: ㄥ 
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+砂<consonant>: ㄕ
+砂<vowels>: ㄚ
+糖<consonant>: ㄊ
+糖<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+餃<consonant>: ㄐ
+餃<vowels>: ㄧㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+迷<consonant>: ㄇ
+迷<vowels>: ㄧ
+迭<consonant>: ㄉ
+迭<vowels>: ㄧㄝ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+腿<consonant>: ㄊ
+腿<vowels>: ㄨㄟ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+得<consonant>: ㄉㄉㄉ
+得<vowels>: ㄜ ㄜ ㄟ
+冷<consonant>: ㄌ
+冷<vowels>: ㄥ
+凍<consonant>: ㄉ
+凍<vowels>: ㄨㄥ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+退<consonant>: ㄊ
+退<vowels>: ㄨㄟ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+冰<consonant>: ㄅ
+冰<vowels>: ㄧㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+佳<consonant>: ㄐ
+佳<vowels>: ㄧㄚ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+骨<consonant>: ㄍㄍ
+骨<vowels>: ㄨ ㄨ
+沾<consonant>: ㄓ
+沾<vowels>: ㄢ
+醬<consonant>: ㄐ
+醬<vowels>: ㄧㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+份<consonant>: ㄈ
+份<vowels>: ㄣ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+色<consonant>: ㄙ
+色<vowels>: ㄜ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+取<consonant>: ㄑ
+取<vowels>: ㄩ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+調<consonant>: ㄉㄊ
+調<vowels>: ㄧㄠ ㄧㄠ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+骨<consonant>: ㄍㄍ
+骨<vowels>: ㄨ ㄨ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+蓋<consonant>: ㄍ
+蓋<vowels>: ㄞ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+骨<consonant>: ㄍㄍ
+骨<vowels>: ㄨ ㄨ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+火<consonant>: ㄏ
+火<vowels>: ㄨㄛ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+滾<consonant>: ㄍ
+滾<vowels>: ㄨㄣ
+關<consonant>: ㄍ
+關<vowels>: ㄨㄢ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+火<consonant>: ㄏ
+火<vowels>: ㄨㄛ
+燜<consonant>: ㄇ
+燜<vowels>: ㄣ
+煮<consonant>: ㄓ
+煮<vowels>: ㄨ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+軟<consonant>: ㄖ
+軟<vowels>: ㄨㄢ
+嫩<consonant>: ㄋ
+嫩<vowels>: ㄣ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+後<consonant>: ㄏ
+後<vowels>: ㄡ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+收<consonant>: ㄕ
+收<vowels>: ㄡ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+淋<consonant>: ㄌ
+淋<vowels>: ㄧㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+起<consonant>: ㄑㄐ
+起<vowels>: ㄧ ㄧㄣ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+完<consonant>: no consonant
+完<vowels>: ㄨㄢ ㄨㄢ
+成<consonant>: ㄔ
+成<vowels>: ㄥ
+三<consonant>: ㄙㄙ
+三<vowels>: ㄢ ㄢ
+菱<consonant>: ㄌ
+菱<vowels>: ㄧㄥ
+托<consonant>: ㄊ
+托<vowels>: ㄨㄛ
+特<consonant>: ㄊ
+特<vowels>: ㄜ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+吹<consonant>: ㄔ
+吹<vowels>: ㄨㄟ
+風<consonant>: ㄈㄈ
+風<vowels>: ㄥ ㄥ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+婕<consonant>: ㄐ
+婕<vowels>: ㄧㄝ
+洛<consonant>: ㄌ
+洛<vowels>: ㄨㄛ
+妮<consonant>: ㄋ
+妮<vowels>: ㄧ
+絲<consonant>: ㄙ
+絲<vowels>: no vowels
+印<consonant>: no consonant
+印<vowels>: ㄧㄣ
+石<consonant>: ㄕㄉ
+石<vowels>:  ㄢ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+運<consonant>: no consonant
+運<vowels>: ㄩㄣ
+男<consonant>: ㄋ
+男<vowels>: ㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+運<consonant>: no consonant
+運<vowels>: ㄩㄣ
+動<consonant>: ㄉ
+動<vowels>: ㄨㄥ
+飲<consonant>: no consonant
+飲<vowels>: ㄧㄣ ㄩㄢ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+狗<consonant>: ㄍ
+狗<vowels>: ㄡ
+餐<consonant>: ㄘ
+餐<vowels>: ㄢ
+罐<consonant>: ㄍ
+罐<vowels>: ㄨㄢ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+膜<consonant>: ㄇㄇ
+膜<vowels>: ㄛ ㄛ
+礦<consonant>: ㄎㄎ
+礦<vowels>: ㄨㄤ ㄨㄤ
+岩<consonant>: no consonant
+岩<vowels>: ㄧㄢ
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+緊<consonant>: ㄐ
+緊<vowels>: ㄧㄣ
+實<consonant>: ㄕ
+實<vowels>: no vowels
+系<consonant>: ㄒ
+系<vowels>: ㄧ
+列<consonant>: ㄌ
+列<vowels>: ㄧㄝ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+值<consonant>: ㄓ
+值<vowels>: no vowels
+訂<consonant>: ㄉ
+訂<vowels>: ㄧㄥ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+聲<consonant>: ㄕ
+聲<vowels>: ㄥ
+寶<consonant>: ㄅ
+寶<vowels>: ㄠ
+多<consonant>: ㄉㄉ
+多<vowels>: ㄨㄛ ㄨㄛ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+燉<consonant>: ㄉ
+燉<vowels>: ㄨㄣ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+透<consonant>: ㄊ
+透<vowels>: ㄡ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+蓋<consonant>: ㄍ
+蓋<vowels>: ㄞ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+功<consonant>: ㄍ
+功<vowels>: ㄨㄥ
+能<consonant>: ㄋ
+能<vowels>: ㄥ
+特<consonant>: ㄊ
+特<vowels>: ㄜ
+性<consonant>: ㄒ
+性<vowels>: ㄧㄥ
+詳<consonant>: ㄒ
+詳<vowels>: ㄧㄤ
+細<consonant>: ㄒ
+細<vowels>: ㄧ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+銷<consonant>: ㄒ
+銷<vowels>: ㄧㄠ
+商<consonant>: ㄕ
+商<vowels>: ㄤ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+最<consonant>: ㄗ
+最<vowels>: ㄨㄟ
+近<consonant>: ㄐ
+近<vowels>: ㄧㄣ
+狠<consonant>: ㄏ
+狠<vowels>: ㄣ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+敗<consonant>: ㄅ
+敗<vowels>: ㄞ
+回<consonant>: ㄏ
+回<vowels>: ㄨㄟ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+簡<consonant>: ㄐ
+簡<vowels>: ㄧㄢ
+單<consonant>: ㄉㄕㄔ
+單<vowels>: ㄢ ㄢ ㄢ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+米<consonant>: ㄇ
+米<vowels>: ㄧ
+花<consonant>: ㄏ
+花<vowels>: ㄨㄚ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+條<consonant>: ㄊ
+條<vowels>: ㄧㄠ
+開<consonant>: ㄎㄐ
+開<vowels>: ㄞ ㄧㄚ
+始<consonant>: ㄕ
+始<vowels>: no vowels
+豆<consonant>: ㄉ
+豆<vowels>: ㄡ
+乳<consonant>: ㄖ
+乳<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+蜜<consonant>: ㄇ
+蜜<vowels>: ㄧ
+汁<consonant>: ㄓ
+汁<vowels>: no vowels
+叉<consonant>: ㄔㄔㄔ
+叉<vowels>: ㄚ ㄚ ㄚ
+燒<consonant>: ㄕ
+燒<vowels>: ㄠ
+進<consonant>: ㄐ
+進<vowels>: ㄧㄣ
+階<consonant>: ㄐ
+階<vowels>: ㄧㄝ
+步<consonant>: ㄅ
+步<vowels>: ㄨ
+驟<consonant>: ㄗ
+驟<vowels>: ㄡ
+繁<consonant>: ㄈ
+繁<vowels>: ㄢ
+複<consonant>: ㄈ
+複<vowels>: ㄨ
+雞<consonant>: ㄐ
+雞<vowels>: ㄧ
+翅<consonant>: ㄔ
+翅<vowels>: no vowels
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+飯<consonant>: ㄈ
+飯<vowels>: ㄢ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+問<consonant>: no consonant
+問<vowels>: ㄨㄣ
+題<consonant>: ㄊ
+題<vowels>: ㄧ
+阿<consonant>: no consonant
+阿<vowels>: ㄚ ㄜ ㄚ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+錯<consonant>: ㄘㄘ
+錯<vowels>: ㄨㄛ ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+懶<consonant>: ㄌ
+懶<vowels>: ㄢ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+糖<consonant>: ㄊ
+糖<vowels>: ㄤ
+可<consonant>: ㄎㄎ
+可<vowels>: ㄜ ㄜ
+可<consonant>: ㄎㄎ
+可<vowels>: ㄜ ㄜ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+糖<consonant>: ㄊ
+糖<vowels>: ㄤ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+低<consonant>: ㄉ
+低<vowels>: ㄧ
+筋<consonant>: ㄐ
+筋<vowels>: ㄧㄣ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+核<consonant>: ㄏ
+核<vowels>: ㄜ
+桃<consonant>: ㄊ
+桃<vowels>: ㄠ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+杯<consonant>: ㄅ
+杯<vowels>: ㄟ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+溶<consonant>: ㄖ
+溶<vowels>: ㄨㄥ
+化<consonant>: ㄏㄏ
+化<vowels>: ㄨㄚ ㄨㄚ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+可<consonant>: ㄎㄎ
+可<vowels>: ㄜ ㄜ
+可<consonant>: ㄎㄎ
+可<vowels>: ㄜ ㄜ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+糖<consonant>: ㄊ
+糖<vowels>: ㄤ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+低<consonant>: ㄉ
+低<vowels>: ㄧ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+攪<consonant>: ㄐ
+攪<vowels>: ㄧㄠ
+拌<consonant>: ㄅ
+拌<vowels>: ㄢ
+均<consonant>: ㄐ
+均<vowels>: ㄩㄣ
+勻<consonant>: no consonant
+勻<vowels>: ㄩㄣ
+倒<consonant>: ㄉㄉ
+倒<vowels>: ㄠ ㄠ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+模<consonant>: ㄇㄇ
+模<vowels>: ㄛ ㄨ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+灑<consonant>: ㄙ
+灑<vowels>: ㄚ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+核<consonant>: ㄏ
+核<vowels>: ㄜ
+桃<consonant>: ㄊ
+桃<vowels>: ㄠ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+預<consonant>: no consonant
+預<vowels>: ㄩ
+熱<consonant>: ㄖ
+熱<vowels>: ㄜ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+鑄<consonant>: ㄓ
+鑄<vowels>: ㄨ
+鐵<consonant>: ㄊ
+鐵<vowels>: ㄧㄝ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+修<consonant>: ㄒ
+修<vowels>: ㄧㄡ
+邊<consonant>: ㄅ
+邊<vowels>: ㄧㄢ
+筋<consonant>: ㄐ
+筋<vowels>: ㄧㄣ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+表<consonant>: ㄅ
+表<vowels>: ㄧㄠ
+面<consonant>: ㄇ
+面<vowels>: ㄧㄢ
+微<consonant>: no consonant
+微<vowels>: ㄨㄟ
+焦<consonant>: ㄐ
+焦<vowels>: ㄧㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+洋<consonant>: no consonant
+洋<vowels>: ㄧㄤ
+蔥<consonant>: ㄘ
+蔥<vowels>: ㄨㄥ
+馬<consonant>: ㄇ
+馬<vowels>: ㄚ
+鈴<consonant>: ㄌ
+鈴<vowels>: ㄧㄥ
+薯<consonant>: ㄕ
+薯<vowels>: ㄨ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+鹽<consonant>: no consonant
+鹽<vowels>: ㄧㄢ
+牛<consonant>: ㄋ
+牛<vowels>: ㄧㄡ
+小<consonant>: ㄒ
+小<vowels>: ㄧㄠ
+排<consonant>: ㄆ
+排<vowels>: ㄞ
+邊<consonant>: ㄅ
+邊<vowels>: ㄧㄢ
+筋<consonant>: ㄐ
+筋<vowels>: ㄧㄣ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+混<consonant>: ㄏㄏㄏ
+混<vowels>: ㄨㄣ ㄨㄣ ㄨㄣ
+合<consonant>: ㄏ
+合<vowels>: ㄜ
+均<consonant>: ㄐ
+均<vowels>: ㄩㄣ
+勻<consonant>: no consonant
+勻<vowels>: ㄩㄣ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+做<consonant>: ㄗ
+做<vowels>: ㄨㄛ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+地<consonant>: ㄉㄉ
+地<vowels>: ㄧ ㄜ
+瓜<consonant>: ㄍ
+瓜<vowels>: ㄨㄚ
+橄<consonant>: ㄍ
+橄<vowels>: ㄢ
+欖<consonant>: ㄌ
+欖<vowels>: ㄢ
+佛<consonant>: ㄈㄈ
+佛<vowels>: ㄛ ㄨ
+卡<consonant>: ㄎ
+卡<vowels>: ㄚ
+夏<consonant>: ㄒㄐ
+夏<vowels>: ㄧㄚ ㄧㄚ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+陳<consonant>: ㄔ
+陳<vowels>: ㄣ
+秉<consonant>: ㄅ
+秉<vowels>: ㄧㄥ
+文<consonant>: no consonant
+文<vowels>: ㄨㄣ ㄨㄣ
+老<consonant>: ㄌ
+老<vowels>: ㄠ
+師<consonant>: ㄕ
+師<vowels>: no vowels
+創<consonant>: ㄔㄔ
+創<vowels>: ㄨㄤ ㄨㄤ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+清<consonant>: ㄑ
+清<vowels>: ㄧㄥ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+口<consonant>: ㄎ
+口<vowels>: ㄡ
+感<consonant>: ㄍ
+感<vowels>: ㄢ
+散<consonant>: ㄙㄙ
+散<vowels>: ㄢ ㄢ
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+彷<consonant>: ㄈㄆ
+彷<vowels>: ㄤ ㄤ
+彿<consonant>: ㄈ
+彿<vowels>: ㄨ
+義<consonant>: no consonant
+義<vowels>: ㄧ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+窯<consonant>: no consonant
+窯<vowels>: ㄧㄠ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+產<consonant>: ㄔ
+產<vowels>: ㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+暖<consonant>: ㄋ
+暖<vowels>: ㄨㄢ
+爐<consonant>: ㄌ
+爐<vowels>: ㄨ
+瞎<consonant>: ㄒ
+瞎<vowels>: ㄧㄚ
+老<consonant>: ㄌ
+老<vowels>: ㄠ
+妹<consonant>: ㄇ
+妹<vowels>: ㄟ
+陣<consonant>: ㄓ
+陣<vowels>: ㄣ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+朝<consonant>: ㄔㄓㄔ
+朝<vowels>: ㄠ ㄠ ㄤ
+思<consonant>: ㄙ
+思<vowels>: no vowels
+暮<consonant>: ㄇ
+暮<vowels>: ㄨ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+念<consonant>: ㄋ
+念<vowels>: ㄧㄢ
+夜<consonant>: no consonant
+夜<vowels>: ㄧㄝ
+念<consonant>: ㄋ
+念<vowels>: ㄧㄢ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+神<consonant>: ㄕ
+神<vowels>: ㄣ
+奇<consonant>: ㄑㄐ
+奇<vowels>: ㄧ ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+標<consonant>: ㄅ
+標<vowels>: ㄧㄠ
+榜<consonant>: ㄅ
+榜<vowels>: ㄤ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+味<consonant>: no consonant
+味<vowels>: ㄨㄟ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+逼<consonant>: ㄅ
+逼<vowels>: ㄧ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+傳<consonant>: ㄔㄓ
+傳<vowels>: ㄨㄢ ㄨㄢ
+統<consonant>: ㄊ
+統<vowels>: ㄨㄥ
+方<consonant>: ㄈㄈ
+方<vowels>: ㄤ ㄤ
+式<consonant>: ㄕ
+式<vowels>: no vowels
+少<consonant>: ㄕㄕㄕ
+少<vowels>: ㄠ ㄠ ㄠ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+脂<consonant>: ㄓ
+脂<vowels>: no vowels
+以<consonant>: no consonant
+以<vowels>: ㄧ
+為<consonant>: no consonant
+為<vowels>: ㄨㄟ ㄨㄟ
+豬<consonant>: ㄓ
+豬<vowels>: ㄨ
+肉<consonant>: ㄖㄖㄖ
+肉<vowels>: ㄡ ㄨ ㄨㄛ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+去<consonant>: ㄑ
+去<vowels>: ㄩ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+完<consonant>: no consonant
+完<vowels>: ㄨㄢ ㄨㄢ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+沒<consonant>: ㄇㄇ
+沒<vowels>: ㄟ ㄛ
+辦<consonant>: ㄅ
+辦<vowels>: ㄢ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+洗<consonant>: ㄒ
+洗<vowels>: ㄧ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+淨<consonant>: ㄐ
+淨<vowels>: ㄧㄥ
+豬<consonant>: ㄓ
+豬<vowels>: ㄨ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+厲<consonant>: ㄌ
+厲<vowels>: ㄧ
+害<consonant>: ㄏ
+害<vowels>: ㄞ
+專<consonant>: ㄓㄔ
+專<vowels>: ㄨㄢ ㄨㄢ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+潑<consonant>: ㄆ
+潑<vowels>: ㄛ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+級<consonant>: ㄐ
+級<vowels>: ㄧ
+波<consonant>: ㄆㄅ
+波<vowels>: ㄛ ㄛ
+士<consonant>: ㄕ
+士<vowels>: no vowels
+頓<consonant>: ㄉ
+頓<vowels>: ㄨㄣ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+通<consonant>: ㄊ
+通<vowels>: ㄨㄥ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+撥<consonant>: ㄅㄅ
+撥<vowels>: ㄛ ㄛ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+試<consonant>: ㄕ
+試<vowels>: no vowels
+驗<consonant>: no consonant
+驗<vowels>: ㄧㄢ
+收<consonant>: ㄕ
+收<vowels>: ㄡ
+裝<consonant>: ㄓ
+裝<vowels>: ㄨㄤ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+腳<consonant>: ㄐㄐㄐ
+腳<vowels>: ㄧㄠ ㄩㄝ ㄧㄠ
+架<consonant>: ㄐ
+架<vowels>: ㄧㄚ
+固<consonant>: ㄍ
+固<vowels>: ㄨ
+定<consonant>: ㄉ
+定<vowels>: ㄧㄥ
+帶<consonant>: ㄉ
+帶<vowels>: ㄞ
+裝<consonant>: ㄓ
+裝<vowels>: ㄨㄤ
+配<consonant>: ㄆ
+配<vowels>: ㄟ
+相<consonant>: ㄒㄒ
+相<vowels>: ㄧㄤ ㄧㄤ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+腳<consonant>: ㄐㄐㄐ
+腳<vowels>: ㄧㄠ ㄩㄝ ㄧㄠ
+架<consonant>: ㄐ
+架<vowels>: ㄧㄚ
+部<consonant>: ㄅ
+部<vowels>: ㄨ
+附<consonant>: ㄈ
+附<vowels>: ㄨ
+隔<consonant>: ㄍ
+隔<vowels>: ㄜ
+板<consonant>: ㄅ
+板<vowels>: ㄢ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+播<consonant>: ㄅㄅ
+播<vowels>: ㄛ ㄛ
+放<consonant>: ㄈ
+放<vowels>: ㄤ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+鬍<consonant>: ㄏ
+鬍<vowels>: ㄨ
+刀<consonant>: ㄉ
+刀<vowels>: ㄠ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+五<consonant>: no consonant
+五<vowels>: ㄨ ㄨ
+股<consonant>: ㄍ
+股<vowels>: ㄨ
+婦<consonant>: ㄈ
+婦<vowels>: ㄨ
+幼<consonant>: no consonant
+幼<vowels>: ㄧㄡ
+展<consonant>: ㄓ
+展<vowels>: ㄢ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+童<consonant>: ㄊ
+童<vowels>: ㄨㄥ
+思<consonant>: ㄙ
+思<vowels>: no vowels
+樂<consonant>: ㄌ
+樂<vowels>: ㄜ ㄩㄝ ㄧㄠ
+世<consonant>: ㄕ
+世<vowels>: no vowels
+界<consonant>: ㄐ
+界<vowels>: ㄧㄝ
+知<consonant>: ㄓㄓ
+知<vowels>:  
+名<consonant>: ㄇ
+名<vowels>: ㄧㄥ
+家<consonant>: ㄐㄍ
+家<vowels>: ㄧㄚ ㄨ
+電<consonant>: ㄉ
+電<vowels>: ㄧㄢ
+空<consonant>: ㄎㄎㄎ
+空<vowels>: ㄨㄥ ㄨㄥ ㄨㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+慢<consonant>: ㄇ
+慢<vowels>: ㄢ
+磨<consonant>: ㄇㄇ
+磨<vowels>: ㄛ ㄛ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+食<consonant>: ㄕㄙ
+食<vowels>:  
+物<consonant>: no consonant
+物<vowels>: ㄨ
+調<consonant>: ㄉㄊ
+調<vowels>: ㄧㄠ ㄧㄠ
+理<consonant>: ㄌ
+理<vowels>: ㄧ
+棒<consonant>: ㄅ
+棒<vowels>: ㄤ
+吸<consonant>: ㄒ
+吸<vowels>: ㄧ
+塵<consonant>: ㄔ
+塵<vowels>: ㄣ
+器<consonant>: ㄑ
+器<vowels>: ㄧ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+值<consonant>: ㄓ
+值<vowels>: no vowels
+三<consonant>: ㄙㄙ
+三<vowels>: ㄢ ㄢ
+菱<consonant>: ㄌ
+菱<vowels>: ㄧㄥ
+護<consonant>: ㄏ
+護<vowels>: ㄨ
+腿<consonant>: ㄊ
+腿<vowels>: ㄨㄟ
+德<consonant>: ㄉ
+德<vowels>: ㄜ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+時<consonant>: ㄕ
+時<vowels>: no vowels
+尚<consonant>: ㄕ
+尚<vowels>: ㄤ
+壁<consonant>: ㄅ
+壁<vowels>: ㄧ
+貼<consonant>: ㄊ
+貼<vowels>: ㄧㄝ
+金<consonant>: ㄐㄐ
+金<vowels>: ㄧㄣ ㄧㄣ
+安<consonant>: no consonant
+安<vowels>: ㄢ
+德<consonant>: ㄉ
+德<vowels>: ㄜ
+森<consonant>: ㄙ
+森<vowels>: ㄣ
+男<consonant>: ㄋ
+男<vowels>: ㄢ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+日<consonant>: ㄖㄖ
+日<vowels>:  ㄨ
+本<consonant>: ㄅ
+本<vowels>: ㄣ
+櫻<consonant>: no consonant
+櫻<vowels>: ㄧㄥ
+桃<consonant>: ㄊ
+桃<vowels>: ㄠ
+嚴<consonant>: no consonant
+嚴<vowels>: ㄧㄢ
+選<consonant>: ㄒ
+選<vowels>: ㄩㄢ
+童<consonant>: ㄊ
+童<vowels>: ㄨㄥ
+鞋<consonant>: ㄒ
+鞋<vowels>: ㄧㄝ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+衣<consonant>: no consonant
+衣<vowels>: ㄧ
+辦<consonant>: ㄅ
+辦<vowels>: ㄢ
+公<consonant>: ㄍ
+公<vowels>: ㄨㄥ
+桌<consonant>: ㄓ
+桌<vowels>: ㄨㄛ
+鞋<consonant>: ㄒ
+鞋<vowels>: ㄧㄝ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+水<consonant>: ㄕ
+水<vowels>: ㄨㄟ
+美<consonant>: ㄇ
+美<vowels>: ㄟ
+體<consonant>: ㄊ
+體<vowels>: ㄧ
+香<consonant>: ㄒ
+香<vowels>: ㄧㄤ
+氛<consonant>: ㄈ
+氛<vowels>: ㄣ
+法<consonant>: ㄈㄈㄈ
+法<vowels>: ㄚ ㄚ ㄚ
+國<consonant>: ㄍㄍ
+國<vowels>: ㄨㄛ ㄨㄛ
+超<consonant>: ㄔㄔ
+超<vowels>: ㄠ ㄠ
+值<consonant>: ㄓ
+值<vowels>: no vowels
+訂<consonant>: ㄉ
+訂<vowels>: ㄧㄥ
+請<consonant>: ㄑ
+請<vowels>: ㄧㄥ
+問<consonant>: no consonant
+問<vowels>: ㄨㄣ
+買<consonant>: ㄇ
+買<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+媽<consonant>: ㄇ
+媽<vowels>: ㄚ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+你<consonant>: ㄋ
+你<vowels>: ㄧ
+們<consonant>: ㄇㄇ
+們<vowels>: ㄣ ㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+杏<consonant>: ㄒ
+杏<vowels>: ㄧㄥ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+菇<consonant>: ㄍ
+菇<vowels>: ㄨ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+兒<consonant>: no consonant
+兒<vowels>: ㄦ ㄦ
+子<consonant>: ㄗㄗㄗ
+子<vowels>:   
+吃<consonant>: ㄔㄐ
+吃<vowels>:  ㄧ
+加<consonant>: ㄐ
+加<vowels>: ㄧㄚ
+州<consonant>: ㄓ
+州<vowels>: ㄡ
+來<consonant>: ㄌㄒ
+來<vowels>: ㄞ ㄧㄥ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+酥<consonant>: ㄙ
+酥<vowels>: ㄨ
+杏<consonant>: ㄒ
+杏<vowels>: ㄧㄥ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+菇<consonant>: ㄍ
+菇<vowels>: ㄨ
+念<consonant>: ㄋ
+念<vowels>: ㄧㄢ
+念<consonant>: ㄋ
+念<vowels>: ㄧㄢ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+忘<consonant>: no consonant
+忘<vowels>: ㄨㄤ ㄨㄤ
+吵<consonant>: ㄔ
+吵<vowels>: ㄠ
+吵<consonant>: ㄔ
+吵<vowels>: ㄠ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+杏<consonant>: ㄒ
+杏<vowels>: ㄧㄥ
+包<consonant>: ㄅ
+包<vowels>: ㄠ
+哇<consonant>: no consonant
+哇<vowels>: ㄨㄚ
+奇<consonant>: ㄑㄐ
+奇<vowels>: ㄧ ㄧ
+網<consonant>: no consonant
+網<vowels>: ㄨㄤ
+平<consonant>: ㄆ
+平<vowels>: ㄧㄥ
+台<consonant>: ㄊ
+台<vowels>: ㄞ
+幸<consonant>: ㄒ
+幸<vowels>: ㄧㄥ
+運<consonant>: no consonant
+運<vowels>: ㄩㄣ
+心<consonant>: ㄒ
+心<vowels>: ㄧㄣ
+夢<consonant>: ㄇ
+夢<vowels>: ㄥ
+幻<consonant>: ㄏ
+幻<vowels>: ㄨㄢ
+逸<consonant>: no consonant
+逸<vowels>: ㄧ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+免<consonant>: ㄇ
+免<vowels>: ㄧㄢ ㄨㄣ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+品<consonant>: ㄆ
+品<vowels>: ㄧㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+久<consonant>: ㄐ
+久<vowels>: ㄧㄡ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+購<consonant>: ㄍ
+購<vowels>: ㄡ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+價<consonant>: ㄐ
+價<vowels>: ㄧㄚ
+額<consonant>: no consonant
+額<vowels>: ㄜ
+斐<consonant>: ㄈ
+斐<vowels>: ㄟ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+愛<consonant>: no consonant
+愛<vowels>: ㄞ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+物<consonant>: no consonant
+物<vowels>: ㄨ
+想<consonant>: ㄒ
+想<vowels>: ㄧㄤ
+嚐<consonant>: ㄔ
+嚐<vowels>: ㄤ
+鮮<consonant>: ㄒㄒ
+鮮<vowels>: ㄧㄢ ㄧㄢ
+入<consonant>: ㄖ
+入<vowels>: ㄨ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+遇<consonant>: no consonant
+遇<vowels>: ㄩ
+到<consonant>: ㄉ
+到<vowels>: ㄠ
+哇<consonant>: no consonant
+哇<vowels>: ㄨㄚ
+奇<consonant>: ㄑㄐ
+奇<vowels>: ㄧ ㄧ
+隨<consonant>: ㄙ
+隨<vowels>: ㄨㄟ
+便<consonant>: ㄅㄆ
+便<vowels>: ㄧㄢ ㄧㄢ
+一<consonant>: no consonant
+一<vowels>: ㄧ ㄧ ㄧ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+人<consonant>: ㄖ
+人<vowels>: ㄣ
+討<consonant>: ㄊ
+討<vowels>: ㄠ
+論<consonant>: ㄌㄌ
+論<vowels>: ㄨㄣ ㄨㄣ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+盤<consonant>: ㄆ
+盤<vowels>: ㄢ
+適<consonant>: ㄕ
+適<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+煎<consonant>: ㄐ
+煎<vowels>: ㄧㄢ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+盤<consonant>: ㄆ
+盤<vowels>: ㄢ
+適<consonant>: ㄕ
+適<vowels>: no vowels
+用<consonant>: no consonant
+用<vowels>: ㄩㄥ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+發<consonant>: ㄈ
+發<vowels>: ㄚ
+明<consonant>: ㄇ
+明<vowels>: ㄧㄥ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+始<consonant>: ㄕ
+始<vowels>: no vowels
+祖<consonant>: ㄗㄓ
+祖<vowels>: ㄨ ㄨ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+銷<consonant>: ㄒ
+銷<vowels>: ㄧㄠ
+售<consonant>: ㄕ
+售<vowels>: ㄡ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+好<consonant>: ㄏㄏ
+好<vowels>: ㄠ ㄠ
+迅<consonant>: ㄒ
+迅<vowels>: ㄩㄣ
+雷<consonant>: ㄌ
+雷<vowels>: ㄟ
+不<consonant>: ㄅㄅㄈ
+不<vowels>: ㄨ ㄨ ㄡ
+及<consonant>: ㄐ
+及<vowels>: ㄧ
+掩<consonant>: no consonant
+掩<vowels>: ㄧㄢ
+耳<consonant>: no consonant
+耳<vowels>: ㄦ
+速<consonant>: ㄙ
+速<vowels>: ㄨ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+推<consonant>: ㄊ
+推<vowels>: ㄨㄟ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+是<consonant>: ㄕ
+是<vowels>: no vowels
+說<consonant>: ㄕㄕㄙ
+說<vowels>: ㄨㄛ ㄨㄟ ㄨㄛ
+我<consonant>: no consonant
+我<vowels>: ㄨㄛ
+猶<consonant>: no consonant
+猶<vowels>: ㄧㄡ
+豫<consonant>: no consonant
+豫<vowels>: ㄩ
+下<consonant>: ㄒ
+下<vowels>: ㄧㄚ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+容<consonant>: ㄖ
+容<vowels>: ㄨㄥ
+量<consonant>: ㄌㄌ
+量<vowels>: ㄧㄤ ㄧㄤ
+大<consonant>: ㄉㄉㄉ
+大<vowels>: ㄚ ㄞ ㄚ
+外<consonant>: no consonant
+外<vowels>: ㄨㄞ
+型<consonant>: ㄒ
+型<vowels>: ㄧㄥ
+搶<consonant>: ㄑㄑ
+搶<vowels>: ㄧㄤ ㄧㄤ
+眼<consonant>: no consonant
+眼<vowels>: ㄧㄢ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+機<consonant>: ㄐ
+機<vowels>: ㄧ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+烤<consonant>: ㄎ
+烤<vowels>: ㄠ
+餅<consonant>: ㄅ
+餅<vowels>: ㄧㄥ
+乾<consonant>: ㄍㄑ
+乾<vowels>: ㄢ ㄧㄢ
+麵<consonant>: ㄇ
+麵<vowels>: ㄧㄢ
+粉<consonant>: ㄈ
+粉<vowels>: ㄣ
+蛋<consonant>: ㄉ
+蛋<vowels>: ㄢ
+奶<consonant>: ㄋ
+奶<vowels>: ㄞ
+油<consonant>: no consonant
+油<vowels>: ㄧㄡ
+材<consonant>: ㄘ
+材<vowels>: ㄞ
+料<consonant>: ㄌ
+料<vowels>: ㄧㄠ
+扮<consonant>: ㄅ
+扮<vowels>: ㄢ
+勻<consonant>: no consonant
+勻<vowels>: ㄩㄣ
+壓<consonant>: no consonant
+壓<vowels>: ㄧㄚ
+出<consonant>: ㄔ
+出<vowels>: ㄨ
+自<consonant>: ㄗ
+自<vowels>: no vowels
+己<consonant>: ㄐ
+己<vowels>: ㄧ
+喜<consonant>: ㄒㄙ
+喜<vowels>: ㄧ ㄨㄢ
+歡<consonant>: ㄏ
+歡<vowels>: ㄨㄢ
+模<consonant>: ㄇㄇ
+模<vowels>: ㄛ ㄨ
+形<consonant>: ㄒ
+形<vowels>: ㄧㄥ
+讓<consonant>: ㄖ
+讓<vowels>: ㄤ
+手<consonant>: ㄕ
+手<vowels>: ㄡ
+作<consonant>: ㄗㄗ
+作<vowels>: ㄨㄛ ㄨㄛ
+溫<consonant>: no consonant
+溫<vowels>: ㄨㄣ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+陪<consonant>: ㄆ
+陪<vowels>: ㄟ
+你<consonant>: ㄋ
+你<vowels>: ㄧ
+度<consonant>: ㄉㄉ
+度<vowels>: ㄨ ㄨㄛ
+過<consonant>: ㄍ
+過<vowels>: ㄨㄛ
+周<consonant>: ㄓ
+周<vowels>: ㄡ
+末<consonant>: ㄇ
+末<vowels>: ㄛ
+代<consonant>: ㄉ
+代<vowels>: ㄞ
+飛<consonant>: ㄈ
+飛<vowels>: ㄟ
+利<consonant>: ㄌ
+利<vowels>: ㄧ
+浦<consonant>: ㄆ
+浦<vowels>: ㄨ
+健<consonant>: ㄐ
+健<vowels>: ㄧㄢ
+康<consonant>: ㄎ
+康<vowels>: ㄤ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+新<consonant>: ㄒ
+新<vowels>: ㄧㄣ
+上<consonant>: ㄕㄕ
+上<vowels>: ㄤ ㄤ
+市<consonant>: ㄕ
+市<vowels>: no vowels
+公<consonant>: ㄍ
+公<vowels>: ㄨㄥ
+司<consonant>: ㄙ
+司<vowels>: no vowels
+有<consonant>: no consonant
+有<vowels>: ㄧㄡ
+氣<consonant>: ㄑ
+氣<vowels>: ㄧ
+炸<consonant>: ㄓㄓ
+炸<vowels>: ㄚ ㄚ
+鍋<consonant>: ㄍ
+鍋<vowels>: ㄨㄛ
+蒸<consonant>: ㄓ
+蒸<vowels>: ㄥ
+籠<consonant>: ㄌㄌ
+籠<vowels>: ㄨㄥ ㄨㄥ
+等<consonant>: ㄉ
+等<vowels>: ㄥ
+於<consonant>: no consonant
+於<vowels>: ㄩ ㄨ ㄩ
+無<consonant>: no consonant
+無<vowels>: ㄨ
+敵<consonant>: ㄉ
+敵<vowels>: ㄧ

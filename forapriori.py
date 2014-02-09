@@ -22,7 +22,7 @@ def CkipCrawlerData(file_name):
 	term_frequency= defaultdict( int )
 
 	for row in csv.DictReader(f):
-		if row['來源']=='新聞':
+		if row['來源']=='討論區':
 			print 'this is news'+row['內容']
 			continue
 		ckip_json = CkipReturn(row['內容'])

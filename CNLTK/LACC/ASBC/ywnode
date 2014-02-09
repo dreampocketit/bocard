@@ -1,0 +1,628 @@
+%%  文類=評論
+%%  文體=論說
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=稀疏矩陣結點重排與消去樹自動分割之研究
+1.　。(PERIODCATEGORY)　第一(Neu)　章(Na)　導論(Na)　。(PERIODCATEGORY)
+***********************************************
+2.　。(PERIODCATEGORY)　１‧１(Neu)　研究(VE)[+nom]　背景(Na)　。(PERIODCATEGORY)
+***********************************************
+3.　。(PERIODCATEGORY)　近年(Nd)　來(Ng)　，(COMMACATEGORY)
+***********************************************
+4.　，(COMMACATEGORY)　由於(Cbb)　電子(Na)　計算機(Na)　的(DE)　發展(Na)　迅速(VH)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　以及(Caa)　高速(Na)　網路(Na)　的(DE)　普及(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+6.　，(COMMACATEGORY)　使得(VL)　傳統(VH)　的(DE)　計算(VC)[+nom]　方式(Na)　改變(Na)　，(COMMACATEGORY)
+***********************************************
+7.　，(COMMACATEGORY)　在(P)　工程(Na)　領域(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　以(P)　工程界(Nc)　廣泛(VH)　使用(VC)　的(DE)　有限(VH)　元素(Na)　分析(VC)[+nom]　法(Na)　，(COMMACATEGORY)
+***********************************************
+9.　，(COMMACATEGORY)　影響(Na)　最(Dfa)　大(VH)　。(PERIODCATEGORY)
+***********************************************
+10.　。(PERIODCATEGORY)　因為(Cbb)　有限(VH)　元素(Na)　分析(VC)[+nom]　法(Na)　主要(D)　為(P)　求解(VB)　ＡｘＢ(FW)　，(COMMACATEGORY)
+***********************************************
+11.　，(COMMACATEGORY)　其中(Nep)　的(DE)　Ａ(FW)　為(VG)　一(Neu)　大型(Na)　稀疏(VH)　矩陣(Na)　（(PARENTHESISCATEGORY)　Ｓｐａｅｓｅ(FW)　Ｍａｔｒｉｘ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+12.　，(COMMACATEGORY)　所以(Cbb)　如何(D)　增加(VHC)　計算(VC)[+nom]　效率(Na)　、(PAUSECATEGORY)　縮短(VC)　計算(VC)　求解(VB)　的(DE)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　對於(P)　工程(Na)　結構(Na)　分析(Na)　影響(Na)　甚(Dfa)　鉅(VH)　。(PERIODCATEGORY)
+***********************************************
+14.　。(PERIODCATEGORY)　目前(Nd)　提高(VC)　計算(VC)[+nom]　速度(Na)　的(DE)　方式(Na)　主要(D)　有(V_2)　：(COLONCATEGORY)
+***********************************************
+15.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　以(P)　超級(A)　電腦(Na)　作(VC)　平行(VH)　計算(VC)　。(PERIODCATEGORY)
+***********************************************
+16.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　以(P)　多(Neqa)　部(Nf)　工作站(Na)　作(VC)　分散式(A)　計算(VC)　。(PERIODCATEGORY)
+***********************************************
+17.　。(PERIODCATEGORY)　超級(A)　電腦(Na)　採用(VC)　多處理器(Na)　、(PAUSECATEGORY)　共享(VJ)　記憶體(Na)　及(Caa)　向量(Na)　處理(VC)　的(DE)　方式(Na)　作(VC)　平行(VH)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+18.　，(COMMACATEGORY)　以(P)　提高(VC)　計算(VC)[+nom]　速度(Na)　和(Caa)　能力(Na)　，(COMMACATEGORY)
+***********************************************
+19.　，(COMMACATEGORY)　因此(Cbb)　超級(A)　電腦(Na)　的(DE)　效能(Na)　當然(D)　非(D)　一般(A)　電腦(Na)　所(D)　能(D)　比擬(VE)　的(T)　。(PERIODCATEGORY)
+***********************************************
+20.　。(PERIODCATEGORY)　雖然(Cbb)　如此(VH)　，(COMMACATEGORY)
+***********************************************
+21.　，(COMMACATEGORY)　但是(Cbb)　超級(A)　電腦(Na)　的(DE)　昂貴(VH)　價格(Na)　，(COMMACATEGORY)
+***********************************************
+22.　，(COMMACATEGORY)　使得(VL)　其(Nep)　價格(Na)　效能比(Na)　變(VH)　得(DE)　很(Dfa)　差(VH)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　也(D)　因此(Cbb)　比較(Dfa)　不(D)　為(P)　工程界(Nc)　所(D)　普遍(VH)　使用(VC)　。(PERIODCATEGORY)
+***********************************************
+24.　。(PERIODCATEGORY)　以(P)　多(Neqa)　部(Nf)　工作站(Na)　作(VC)　分散式(A)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　則(D)　是(SHI)　利用(VC)　網路(Na)　將(P)　工作量(Na)　分配(VD)　至(P)　多(Neqa)　部(Nf)　工作站(Na)　電腦(Na)　上(Ncd)　分別(D)　運算(VC)　，(COMMACATEGORY)
+***********************************************
+26.　，(COMMACATEGORY)　以(P)　降低(VHC)　執行(VC)[+nom]　時間(Na)　。(PERIODCATEGORY)
+***********************************************
+27.　。(PERIODCATEGORY)　因(Cbb)　近年(Nd)　來(Ng)　工作站(Na)　的(DE)　速度(Na)　越來越(Dfa)　快(VH)　，(COMMACATEGORY)
+***********************************************
+28.　，(COMMACATEGORY)　而(Cbb)　價格(Na)　越來越(Dfa)　便宜(VH)　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　使得(VL)　其(Nep)　在(P)　價格(Na)　效能比(Na)　上(Ng)　遠(Dfa)　優於(VJ)　超級(A)　電腦(Na)　。(PERIODCATEGORY)
+***********************************************
+30.　。(PERIODCATEGORY)　而且(Cbb)　因為(Cbb)　網路(Na)　的(DE)　速度(Na)　不斷(D)　的(DE)　提升(VC)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　使得(VL)　以往(Nd)　分散式(A)　處理(VC)[+nom]　會(D)　因為(Cbb)　網路(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　速度(Na)　達到(VJ)　邊際(Ncd)　效益(Na)　不再(D)　提昇(VC)　的(DE)　因素(Na)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　得以(D)　突破(VC)　。(PERIODCATEGORY)
+***********************************************
+34.　。(PERIODCATEGORY)　另外(Cbb)　分散式(A)　計算(VC)[+nom]　軟體(Na)　的(DE)　日益(D)　成熟(VH)　，(COMMACATEGORY)
+***********************************************
+35.　，(COMMACATEGORY)　例如(P)　ＩＳＩＳ(FW)　，(COMMACATEGORY)
+***********************************************
+36.　，(COMMACATEGORY)　ＰＶＭ(FW)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　更(D)　使得(VL)　分散式(A)　平行(VH)　計算(VC)[+nom]　成為(VG)　重要(VH)　的(DE)　計算(VC)[+nom]　方式(Na)　。(PERIODCATEGORY)
+***********************************************
+38.　。(PERIODCATEGORY)　所以(Cbb)　就(D)　一般而言(Dk)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　分散式(A)　處理(VC)　的(DE)　方式(Na)　仍(D)　為(VG)　目前(Nd)　較(Dfa)　佳(VH)　的(DE)　計算(VC)[+nom]　方式(Na)　。(PERIODCATEGORY)
+***********************************************
+40.　。(PERIODCATEGORY)　１‧２(Neu)　研究(Na)　動機(Na)　及(Caa)　目的(Na)　。(PERIODCATEGORY)
+***********************************************
+41.　。(PERIODCATEGORY)　因(Cbb)　平行(VH)　與(Caa)　分散式(A)　計算(VC)[+nom]　技術(Na)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　應用(VC)　在(P)　加速(D)　耗時(VH)　分析(Na)　和(Caa)　設計(VC)[+nom]　成果(Na)　的(DE)　取得(VC)　之(DE)　時間(Na)　上(Ng)　遠(Dfa)　優於(VJ)　傳統(VH)　的(DE)　計算(VC)[+nom]　方式(Na)　，(COMMACATEGORY)
+***********************************************
+43.　，(COMMACATEGORY)　所以(Cbb)　本(Nes)　文(Na)　的(DE)　目的(Na)　，(COMMACATEGORY)
+***********************************************
+44.　，(COMMACATEGORY)　在於(VK)　研究(VE)　如何(D)　增加(VHC)　分散式(A)　有限(VH)　元素(Na)　分析(VC)[+nom]　法(Na)　的(DE)　效率(Na)　，(COMMACATEGORY)
+***********************************************
+45.　，(COMMACATEGORY)　以(P)　提高(VC)　整體(Na)　分析(VC)　之(DE)　速度(Na)　，(COMMACATEGORY)
+***********************************************
+46.　，(COMMACATEGORY)　並(Cbb)　探討(VE)　相關(VH)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+47.　。(PERIODCATEGORY)　１‧３(Neu)　研究(Na)　內容(Na)　。(PERIODCATEGORY)
+***********************************************
+48.　。(PERIODCATEGORY)　大型(Na)　稀疏(VH)　矩陣(Na)　之(DE)　解法(Na)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　一般(D)　被(P)　廣泛(VH)　使用(VC)　的(DE)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+50.　，(COMMACATEGORY)　主要(D)　有(V_2)　兩(Neu)　種(Nf)　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　帶寬法(Na)　以及(Caa)　通用(VJ)　稀疏(VH)　矩陣(Na)　法(Na)　，(COMMACATEGORY)
+***********************************************
+52.　，(COMMACATEGORY)　因(Cbb)　帶寬法(Na)　不(D)　適用(VJ)　分散式(A)　有限(VH)　元素(Na)　分析(VC)[+nom]　法(Na)　，(COMMACATEGORY)
+***********************************************
+53.　，(COMMACATEGORY)　故(Cbb)　本(Nes)　文(Na)　所(D)　採用(VC)　的(DE)　方法(Na)　為(VG)　通用(VJ)　稀疏(VH)　矩陣(Na)　法(Na)　中(Ng)　的(DE)　克雷斯基(Nb)　解法(Na)　及(Caa)　消去樹(Na)　的(DE)　架構(Na)　下(Ng)　的(DE)　多波前法(Na)　以(P)　求解(VB)　稀疏(VH)　矩陣(Na)　。(PERIODCATEGORY)
+***********************************************
+54.　。(PERIODCATEGORY)　利用(VC)　稀疏(VH)　矩陣(Na)　之(DE)　結點(Na)　重排(VC)　，(COMMACATEGORY)
+***********************************************
+55.　，(COMMACATEGORY)　以(P)　求(VC)　在(P)　減少(VHC)　記憶體(Na)　之(DE)　儲存量(Na)　的(DE)　考量(VE)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　使(VL)　其(Nep)　消去樹(Na)　於(P)　分解(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　利於(VK)　分散式(A)　之(DE)　計算(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+58.　。(PERIODCATEGORY)　另外(Cbb)　對於(P)　工作量(Na)　的(DE)　分配(VD)[+nom]　，(COMMACATEGORY)
+***********************************************
+59.　，(COMMACATEGORY)　則(D)　採用(VC)　經驗(Na)　法則(Na)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　以(P)　求(VC)　達到(VJ)　自動(VH)　分配(VD)　的(DE)　功能(Na)　。(PERIODCATEGORY)
+***********************************************
+61.　。(PERIODCATEGORY)　１‧４(Neu)　本(Nes)　文(Na)　架構(Na)　。(PERIODCATEGORY)
+***********************************************
+62.　。(PERIODCATEGORY)　本(Nes)　文(Na)　共(Da)　分(VC)　六(Neu)　章(Na)　：(COLONCATEGORY)
+***********************************************
+63.　：(COLONCATEGORY)　第一(Neu)　章(Na)　簡單(VH)　的(DE)　說明(VE)　本(Nes)　文(Na)　的(DE)　研究(Na)　動機(Na)　及(Caa)　目的(Na)　。(PERIODCATEGORY)
+***********************************************
+64.　。(PERIODCATEGORY)　第二(Neu)　章(Na)　簡單(VH)　的(DE)　介紹(VE)　有限(VH)　元素(Na)　分析(VC)[+nom]　法(Na)　中(Ng)　的(DE)　大型(Na)　稀疏(VH)　矩陣(Na)　之(DE)　解法(Na)　與(Caa)　基本(A)　概念(Na)　。(PERIODCATEGORY)
+***********************************************
+65.　。(PERIODCATEGORY)　第三(Neu)　章(Na)　針對(P)　考慮(VE)　分散式(A)　處理(VC)　的(DE)　大型(Na)　稀疏(VH)　矩陣(Na)　解法(Na)　及(Caa)　結點(Na)　重排(VC)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　討論(VE)　相關(VH)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+67.　。(PERIODCATEGORY)　第四(Neu)　章(Na)　針對(P)　消去樹(Na)　之(DE)　分割(VC)　與(Caa)　工作量(Na)　分配(VD)　、(PAUSECATEGORY)　實際(VH)　幾何(Na)　位置(Na)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+68.　，(COMMACATEGORY)　並(Cbb)　討論(VE)　相關(VH)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+69.　。(PERIODCATEGORY)　第五(Neu)　章(Na)　以(P)　實際(VH)　結構(Na)　工程(Na)　上(Ng)　的(DE)　例子(Na)　測試(VC)　本(Nes)　文(Na)　所(D)　提(VE)　之(DE)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　並(Cbb)　加以(D)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+71.　。(PERIODCATEGORY)　第六(Neu)　章(Na)　對(P)　本(Nes)　文(Na)　所(D)　得(VJ)　的(DE)　結果(Na)　做(VC)　一(Neu)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+72.　。(PERIODCATEGORY)　第三(Neu)　章(Na)　稀疏(VH)　矩陣(Na)　之(DE)　重(D)　排(VC)　。(PERIODCATEGORY)
+***********************************************
+73.　。(PERIODCATEGORY)　３‧１(Neu)　簡介(Na)　。(PERIODCATEGORY)
+***********************************************
+74.　。(PERIODCATEGORY)　在(P)　前(Nes)　一(Neu)　章(Na)　中(Ng)　曾(D)　提到(VE)　，(COMMACATEGORY)
+***********************************************
+75.　，(COMMACATEGORY)　大型(Na)　稀疏(VH)　矩陣(Na)　之(DE)　解法(Na)　，(COMMACATEGORY)
+***********************************************
+76.　，(COMMACATEGORY)　一般(D)　被(P)　廣泛(VH)　使用(VC)　的(DE)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+77.　，(COMMACATEGORY)　主要(D)　有(V_2)　兩(Neu)　種(Nf)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　帶寬法(Na)　以及(Caa)　通用(VJ)　稀疏(VH)　矩陣(Na)　法(Na)　。(PERIODCATEGORY)
+***********************************************
+79.　。(PERIODCATEGORY)　其中(Nep)　的(DE)　帶寬法(Na)　是(SHI)　利用(VC)　只(Da)　記錄(VE)　矩陣(Na)　中(Ncd)　的(DE)　非零外框(Na)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　以(P)　求(VC)　減少(VHC)　記憶體(Na)　之(DE)　儲存量(Na)　，(COMMACATEGORY)
+***********************************************
+81.　，(COMMACATEGORY)　但是(Cbb)　通常(D)　在(P)　外框(Na)　之內(Ng)　還是(D)　有(V_2)　很多(Neqa)　的(DE)　零(Neu)　存在(VA)　。(PERIODCATEGORY)
+***********************************************
+82.　。(PERIODCATEGORY)　所以(Cbb)　記憶體(Na)　之(DE)　儲存量(Na)　並(D)　非(D)　最(Dfa)　省(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　另外(Cbb)　在(P)　前面(Ncd)　已經(D)　提(VE)　過(Di)　了(Di)　此(Nep)　類(Nf)　之(DE)　方法(Na)　因(Cbb)　其(Nep)　演算法(Na)　上(Ng)　的(DE)　特性(Na)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　並(D)　不(D)　適用(VJ)　於(P)　平行式(A)　或(Caa)　分散式(A)　之(DE)　計算(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+85.　。(PERIODCATEGORY)　其(Nep)　原因(Na)　主要(D)　是(SHI)　因(Cbb)　其(Nep)　在(P)　求解(VB)　的(DE)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　高斯(Nb)　消去法(Na)　為(VG)　循序(D)　消去(VC)　，(COMMACATEGORY)
+***********************************************
+87.　，(COMMACATEGORY)　不(D)　適合(VH)　拆開成(VG)　獨立(VH)　的(DE)　部份(Neqa)　做(VC)　平行式(A)　或(Caa)　分散式(A)　消去(VC)　。(PERIODCATEGORY)
+***********************************************
+88.　。(PERIODCATEGORY)　而(Cbb)　相對於(P)　帶寬法(Na)　，(COMMACATEGORY)
+***********************************************
+89.　，(COMMACATEGORY)　通用(VJ)　稀疏(VH)　矩陣(Na)　法則(Na)　只(Da)　儲存(VC)　非(A)　零(Neu)　的(DE)　位置(Na)　，(COMMACATEGORY)
+***********************************************
+90.　，(COMMACATEGORY)　以及(Caa)　在(P)　求解(VB)　的(DE)　過程(Na)　中(Ng)　會(D)　變為(VG)　零(Neu)　的(DE)　位置(Na)　（(PARENTHESISCATEGORY)　亦(D)　稱為(VG)　填入(VC)　，(COMMACATEGORY)
+***********************************************
+91.　，(COMMACATEGORY)　ｆｉｌｌ(FW)　—(DASHCATEGORY)　ｉｎ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　而且(Cbb)　此(Nep)　方法(Na)　在(P)　求解(VB)　的(DE)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+93.　，(COMMACATEGORY)　可以(D)　利用(VC)　多波前法(Na)　作(VC)　平行式(A)　或(Caa)　分散式(A)　之(DE)　計算(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+94.　。(PERIODCATEGORY)　其中(Nep)　稀疏(VH)　矩陣(Na)　之(DE)　重排(VC)　便(D)　是(SHI)　解(VC)　稀疏(VH)　矩陣(Na)　的(DE)　第一(Neu)　個(Nf)　步驟(Na)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　一(Neu)　個(Nf)　完美(VH)　的(DE)　重排(VC)　，(COMMACATEGORY)
+***********************************************
+96.　，(COMMACATEGORY)　也(D)　就(D)　是(SHI)　轉換(VC)　矩陣(Na)　Ｐ↑(FW)　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　不僅(Cbb)　可以(D)　使(VL)　填入(VC)　的(DE)　位置(Na)　減少(VHC)　，(COMMACATEGORY)
+***********************************************
+98.　，(COMMACATEGORY)　亦(D)　可以(D)　使(VL)　解(VC)　稀疏(VH)　矩陣(Na)　的(DE)　計算量(Na)　減少(VHC)　，(COMMACATEGORY)
+***********************************************
+99.　，(COMMACATEGORY)　可見得(Dk)　其(Nep)　重要性(Na)　。(PERIODCATEGORY)
+***********************************************
+100.　。(PERIODCATEGORY)　所以(Cbb)　在(P)　下(Nes)　一(Neu)　節(Nf)　中(Ng)　介紹(VE)　一些(Neqa)　較(Dfa)　好(VH)　的(DE)　稀疏(VH)　矩陣(Na)　排法(Na)　。(PERIODCATEGORY)
+***********************************************
+101.　。(PERIODCATEGORY)　３‧２(Neu)　稀疏(VH)　矩陣(Na)　之(DE)　排法(Na)　。(PERIODCATEGORY)
+***********************************************
+102.　。(PERIODCATEGORY)　如(Cbb)　在(P)　前面(Ncd)　已經(D)　提(VE)　過(Di)　的(T)　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　稀疏(VH)　矩陣(Na)　之(DE)　排法(Na)　的(DE)　目的(Na)　主要(D)　在(P)　減少(VHC)　記憶體(Na)　之(DE)　儲存量(Na)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　所以(Cbb)　在(P)　此(Nep)　討論(VE)　幾(Neu)　種(Nf)　主要(A)　的(DE)　方法(Na)　：(COLONCATEGORY)
+***********************************************
+105.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　傳統(VH)　帶寬法(Na)　中(Ng)　的(DE)　Ｒｅｖｅｒｓｅ(FW)　Ｃｕｔｈｉｌｌ(FW)　—(DASHCATEGORY)　ＭｃＫｅｅ(FW)　ａｌｇｏｒｉｔｈｍ(FW)　。(PERIODCATEGORY)
+***********************************************
+106.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　通用(VJ)　稀疏(VH)　矩陣(Na)　法(Na)　中(Ng)　的(DE)　最(Dfa)　小(VH)　度數(Na)　排法(Na)　。(PERIODCATEGORY)
+***********************************************
+107.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　通用(VJ)　稀疏(VH)　矩陣(Na)　法(Na)　中(Ng)　的(DE)　平行(VH)　消去法(Na)　。(PERIODCATEGORY)
+***********************************************
+108.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　通用(VJ)　稀疏(VH)　矩陣(Na)　法(Na)　中(Ng)　的(DE)　考慮(VE)　最(Dfa)　小(VH)　高度(Na)　的(DE)　最(Dfa)　小(VH)　排度法(Na)　。(PERIODCATEGORY)
+***********************************************
+109.　。(PERIODCATEGORY)　３‧２‧１(Neu)　↑Ｒｅｖｅｒｓｅ(FW)　Ｃｕｔｈｉｌｌ(FW)　—(DASHCATEGORY)　ＭｃＫｅｅ(FW)　ａｌｇｏｒｉｔｈｍ(FW)　。(PERIODCATEGORY)
+***********************************************
+110.　。(PERIODCATEGORY)　此(Nep)　方法(Na)　的(DE)　目的(Na)　在於(VK)　減少(VHC)　帶寬法(Na)　的(DE)　帶寬(Na)　，(COMMACATEGORY)
+***********************************************
+111.　，(COMMACATEGORY)　也(D)　就是(Cbb)　使(VL)　非(A)　零(Neu)　處(Nc)　集中(VC)　於(P)　對角線(Na)　附近(Nc)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　如(P)　圖例(Na)　（３）(Neu)　，(COMMACATEGORY)
+***********************************************
+113.　，(COMMACATEGORY)　其(Nep)　主要(A)　之(DE)　演算法(Na)　如(P)　下(Ncd)　。(PERIODCATEGORY)
+***********************************************
+114.　。(PERIODCATEGORY)　如果(Cbb)　以(P)　圖例(Na)　來(D)　說明(VE)　，(COMMACATEGORY)
+***********************************************
+115.　，(COMMACATEGORY)　較(Dfa)　容易(VH)　明瞭(VK)　其(Nep)　原理(Na)　。(PERIODCATEGORY)
+***********************************************
+116.　。(PERIODCATEGORY)　原(A)　結構圖(Na)　與(Caa)　勁度(Na)　矩陣(Na)　的(DE)　樣子(Na)　如(P)　圖(Na)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　經過(VCL)　上面(Ncd)　步驟(Na)　一(Neu)　與(Caa)　二(Neu)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+118.　，(COMMACATEGORY)　產生(VHC)　如(P)　圖(Na)　（(PARENTHESISCATEGORY)　４(Neu)　—(DASHCATEGORY)　ｂ(FW)　）(PARENTHESISCATEGORY)　的(DE)　等級圖(Na)　，(COMMACATEGORY)
+***********************************************
+119.　，(COMMACATEGORY)　然後(D)　經過(VCL)　上面(Ncd)　步驟(Na)　三(Neu)　與(Caa)　四(Neu)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　產生(VHC)　如(P)　圖(Na)　（(PARENTHESISCATEGORY)　４(Neu)　—(DASHCATEGORY)　ｃ(FW)　）(PARENTHESISCATEGORY)　的(DE)　排(VC)　號(Na)　方式(Na)　。(PERIODCATEGORY)
+***********************************************
+121.　。(PERIODCATEGORY)　其(Nep)　矩陣圖(Na)　如(P)　圖例(Na)　（３）(Neu)　。(PERIODCATEGORY)
+***********************************************
+122.　。(PERIODCATEGORY)　３‧２‧２(Neu)　最(Dfa)　小(VH)　度數(Na)　排法(Na)　。(PERIODCATEGORY)
+***********************************************
+123.　。(PERIODCATEGORY)　事實(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+124.　，(COMMACATEGORY)　想要(VE)　找出(VC)　一(Neu)　種(Nf)　排法(Na)　Ｐ(FW)　使得(VL)　ＰＡＰＴ(FW)　的(DE)　填入(VC)[+nom]　數目(Na)　為(VG)　最少(VH)　，(COMMACATEGORY)
+***********************************************
+125.　，(COMMACATEGORY)　已經(D)　被(P)　證實為(VG)　在(P)　有效(VH)　時間(Na)　內(Ng)　不可能(D)　完成(VC)　的(DE)　（(PARENTHESISCATEGORY)　ＮＰ(FW)　↑ｃｏｍｐｌｅｔｅ(FW)　ｐｒｏｂｌｅｍ(FW)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　　Ｒｏｓｅ(FW)　１９７５(Neu)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　所以(Cbb)　一般(D)　最(Dfa)　常(D)　採用(VC)　的(DE)　經驗(Na)　法則(Na)　為(VG)　最(Dfa)　小(VH)　度數(Na)　排法(Na)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　此(Nep)　種(Nf)　方法(Na)　只(Da)　要求(VF)　在(P)　第(Neu)　Ｋ(FW)　階段(Na)　時(Ng)　為(VG)　局部(Neqa)　最(Dfa)　小(VH)　。(PERIODCATEGORY)
+***********************************************
+129.　。(PERIODCATEGORY)　其(Nep)　演算法(Na)　如(P)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+130.　：(COLONCATEGORY)　其中(Nep)　以(P)　第三(Neu)　步驟(Na)　花(VC)　的(DE)　時間(Na)　最(Dfa)　長(VH)　，(COMMACATEGORY)
+***********************************************
+131.　，(COMMACATEGORY)　因此(Cbb)　便(D)　有(V_2)　許多(Neqa)　ｈｅｕｒｉｓｔｉｃ(FW)　ｆｕｎｃｔｉｏｎ(FW)　提出(VC)　，(COMMACATEGORY)
+***********************************************
+132.　，(COMMACATEGORY)　用以(D)　提高(VC)　其(Nep)　執行(VC)　的(DE)　速度(Na)　。(PERIODCATEGORY)
+***********************************************
+133.　。(PERIODCATEGORY)　其中(Nep)　以(P)　Ｌｉｕ(FW)　所(D)　提(VE)　的(DE)　方法(Na)　較(Dfa)　佳(VH)　，(COMMACATEGORY)
+***********************************************
+134.　，(COMMACATEGORY)　其(Nep)　以(P)　相連(VH)　集合(VAC)　找出(VC)　所謂(VK)　的(DE)　不可(D)　分開(VHC)　的(DE)　結點(Na)　，(COMMACATEGORY)
+***********************************************
+135.　，(COMMACATEGORY)　亦(D)　稱(VG)　超結點(Na)　，(COMMACATEGORY)
+***********************************************
+136.　，(COMMACATEGORY)　進行(VC)　消去(VC)　，(COMMACATEGORY)
+***********************************************
+137.　，(COMMACATEGORY)　並(Cbb)　使用(VC)　商圖(Na)　的(DE)　表示法(Na)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　使(VL)　演算法(Na)　簡化(VHC)　，(COMMACATEGORY)
+***********************************************
+139.　，(COMMACATEGORY)　降低(VHC)　程式(Na)　的(DE)　記憶體(Na)　用量(Na)　。(PERIODCATEGORY)
+***********************************************
+140.　。(PERIODCATEGORY)　其(Nep)　演算法(Na)　如(P)　下(Ncd)　。(PERIODCATEGORY)
+***********************************************
+141.　。(PERIODCATEGORY)　此(Nep)　方法(Na)　的(DE)　優點(Na)　是(SHI)　執行(VC)　的(DE)　速度(Na)　相當(Dfa)　快(VH)　，(COMMACATEGORY)
+***********************************************
+142.　，(COMMACATEGORY)　但(Cbb)　其(Nep)　缺點(Na)　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　為(VG)　其(Nep)　演算法(Na)　上(Ng)　利用(VC)　超結點(Na)　的(DE)　特性(Na)　以(P)　加快(VHC)　執行(VC)　的(DE)　速度(Na)　，(COMMACATEGORY)
+***********************************************
+144.　，(COMMACATEGORY)　所以(Cbb)　其(Nep)　消去樹(Na)　有時(D)　並(D)　不(D)　適用(VJ)　於(P)　平行式(A)　或(Caa)　分散式(A)　之(DE)　計算(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+145.　，(COMMACATEGORY)　如(P)　圖例(Na)　所(D)　示(VE)　。(PERIODCATEGORY)
+***********************************************
+146.　。(PERIODCATEGORY)　３‧２‧３(Neu)　平行(VH)　消去法(Na)　。(PERIODCATEGORY)
+***********************************************
+147.　。(PERIODCATEGORY)　此(Nep)　類(Nf)　方法(Na)　的(DE)　主要(A)　的(DE)　特性(Na)　是(SHI)　利用(VC)　所謂(VK)　的(DE)　完備(VH)　特性(Na)　，(COMMACATEGORY)
+***********************************************
+148.　，(COMMACATEGORY)　將(D)　可以(D)　獨立(VH)　的(DE)　結點(Na)　做(VC)　平行(VH)　消去(VC)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　其(Nep)　演算法(Na)　如(P)　下(Ncd)　。(PERIODCATEGORY)
+***********************************************
+150.　。(PERIODCATEGORY)　此(Nep)　類(Nf)　方法(Na)　主要(D)　應用(VC)　在(P)　平行(VH)　架構(Na)　下(Ng)　的(DE)　機器(Na)　環境(Na)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　會(D)　有(V_2)　相當(Dfa)　不錯(VH)　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+152.　。(PERIODCATEGORY)　３‧２‧４(Neu)　考慮(VE)　最(Dfa)　小(VH)　高度(Na)　的(DE)　最(Dfa)　小(VH)　排度法(Na)　。(PERIODCATEGORY)
+***********************************************
+153.　。(PERIODCATEGORY)　在(P)　此(Nep)　本(Nes)　文(Na)　提出(VC)　一(Neu)　新(VH)　的(DE)　經驗(Na)　方法(Na)　：(COLONCATEGORY)
+***********************************************
+154.　：(COLONCATEGORY)　考慮(VE)　最(Dfa)　小(VH)　高度(Na)　的(DE)　最(Dfa)　小(VH)　排度法(Na)　。(PERIODCATEGORY)
+***********************************************
+155.　。(PERIODCATEGORY)　此(Nep)　方法(Na)　的(DE)　亦(D)　是(SHI)　只(Da)　要求(VF)　在(P)　第(Neu)　Ｋ(FW)　階段(Na)　時(Ng)　為(VG)　局部(Neqa)　最(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+156.　，(COMMACATEGORY)　但是(Cbb)　考量(VE)　了(Di)　最(Dfa)　小(VH)　高度(Na)　的(DE)　特性(Na)　，(COMMACATEGORY)
+***********************************************
+157.　，(COMMACATEGORY)　也(D)　就是(Cbb)　基於(P)　消去樹(Na)　的(DE)　定義(Na)　，(COMMACATEGORY)
+***********************************************
+158.　，(COMMACATEGORY)　如果(Cbb)　使(VL)　非零處(Nc)　遠離(VCL)　對角線(Na)　附近(Nc)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　便(D)　可以(D)　使得(VL)　消去樹(Na)　的(DE)　高度(Na)　減少(VHC)　，(COMMACATEGORY)
+***********************************************
+160.　，(COMMACATEGORY)　此(Nep)　觀念(Na)　與(Caa)　前面(Ncd)　已經(D)　提(VE)　過(Di)　的(DE)　ＲＣＭ(FW)　方法(Na)　使(VL)　非零處(Nc)　集中(VC)　於(P)　對角線(Na)　附近(Nc)　，(COMMACATEGORY)
+***********************************************
+161.　，(COMMACATEGORY)　剛好(Da)　有些(Dfa)　相反(VH)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　因此(Cbb)　有(V_2)　下列(A)　的(DE)　經驗(Na)　法則(Na)　：(COLONCATEGORY)
+***********************************************
+163.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　有(V_2)　最少(VH)　相鄰點(Na)　的(DE)　結點(Na)　，(COMMACATEGORY)
+***********************************************
+164.　，(COMMACATEGORY)　可(D)　先行(D)　編號(VB)　。(PERIODCATEGORY)
+***********************************************
+165.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　幾何(Na)　上(Ng)　的(DE)　相鄰點(Na)　，(COMMACATEGORY)
+***********************************************
+166.　，(COMMACATEGORY)　不(D)　適合(VH)　連續(D)　編號(VB)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　除非(Cbb)　沒有(VJ)　任何(Neqa)　適合(VH)　的(DE)　點(Na)　可(D)　編號(VB)　。(PERIODCATEGORY)
+***********************************************
+168.　。(PERIODCATEGORY)　此(Nep)　方法(Na)　相對於(P)　最(Dfa)　小(VH)　排度法(Na)　，(COMMACATEGORY)
+***********************************************
+169.　，(COMMACATEGORY)　通常(D)　可以(D)　得到(VJ)　較少(VH)　的(DE)　填入(VC)[+nom]　數目(Na)　及(Caa)　高度(Na)　，(COMMACATEGORY)
+***********************************************
+170.　，(COMMACATEGORY)　但是(Cbb)　因為(Cbb)　在(P)　排度法(Na)　的(DE)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+171.　，(COMMACATEGORY)　預先(D)　計算(VC)　填入(VC)　的(DE)　位置(Na)　，(COMMACATEGORY)
+***********************************************
+172.　，(COMMACATEGORY)　即(D)　做(VC)　稀疏(VH)　矩陣(Na)　符號(Na)　分解(VC)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　所以(Cbb)　執行(VC)　的(DE)　速度(Na)　較(P)　Ｌｉｕ(FW)　的(DE)　最(Dfa)　小(VH)　度數(Na)　排法(Na)　慢(VH)　，(COMMACATEGORY)
+***********************************************
+174.　，(COMMACATEGORY)　可是(Cbb)　如果(Cbb)　比較(VC)　最(Dfa)　小(VH)　度數(Na)　排法(Na)　考量(VE)　計算(VC)　填入(VC)　的(DE)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+175.　，(COMMACATEGORY)　是(SHI)　不會(D)　太(Dfa)　慢(VH)　地(DE)　，(COMMACATEGORY)
+***********************************************
+176.　，(COMMACATEGORY)　如(P)　〔(PARENTHESISCATEGORY)　Ｉｍａｇｅ(FW)　〕(PARENTHESISCATEGORY)　　(FW)　Ｂａｃｋ(FW)　ｔｏ(FW)　Ｔｈｅｓｉｓ(FW)　ｉｎｄｅｘ(FW)　．(PERIODCATEGORY)　第四(Neu)　章(Na)　消去樹(Na)　之(DE)　分割(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+177.　。(PERIODCATEGORY)　４‧１(Neu)　簡介(Na)　。(PERIODCATEGORY)
+***********************************************
+178.　。(PERIODCATEGORY)　在(P)　張凱(Nb)　的(DE)　研究(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+179.　，(COMMACATEGORY)　曾經(D)　提到(VE)　對於(P)　分散式(A)　處理(VC)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+180.　，(COMMACATEGORY)　工作量(Na)　分配(VD)[+nom]　是(SHI)　一(Neu)　項(Nf)　十分(Dfa)　重要(VH)　的(DE)　課題(Na)　，(COMMACATEGORY)
+***********************************************
+181.　，(COMMACATEGORY)　也(D)　就(D)　是(SHI)　如何(D)　將(P)　矩陣(Na)　分散出去(VB)　給(P)　不同(VH)　的(DE)　計算(VC)[+nom]　程式(Na)　做(VC)　計算(VC)　，(COMMACATEGORY)
+***********************************************
+182.　，(COMMACATEGORY)　為(VG)　分散式(A)　處理(VC)　的(DE)　重點(Na)　。(PERIODCATEGORY)
+***********************************************
+183.　。(PERIODCATEGORY)　所以(Cbb)　本(Nes)　文(Na)　亦(D)　對(P)　此(Nep)　點(Nf)　做(VC)　一些(Neqa)　探討(VE)[+nom]　與(Caa)　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+184.　。(PERIODCATEGORY)　對於(P)　分散式(A)　處理(VC)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+185.　，(COMMACATEGORY)　希望(VK)　能(D)　符合(VJ)　下列(A)　條件(Na)　：(COLONCATEGORY)
+***********************************************
+186.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　計算(VC)　處理(VC)　各(Nes)　個(Nf)　子樹(Na)　的(DE)　時間(Na)　大約(Da)　相等(VH)　。(PERIODCATEGORY)
+***********************************************
+187.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　共用(VC)　元素(Na)　的(DE)　情形能(Na)　較少(VH)　。(PERIODCATEGORY)
+***********************************************
+188.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　盡量(D)　用到(VC)　網路(Na)　上(Ncd)　的(DE)　所有(Neqa)　可(D)　用(VC)　機器(Na)　。(PERIODCATEGORY)
+***********************************************
+189.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　網路(Na)　上(Ncd)　的(DE)　傳送(VD)　資料量(Na)　與(Caa)　傳送(VD)　次數(Na)　要(D)　盡量(D)　能(D)　較少(VH)　。(PERIODCATEGORY)
+***********************************************
+190.　。(PERIODCATEGORY)　所以(Cbb)　本(Nes)　文(Na)　對於(P)　矩陣(Na)　之(DE)　分散(VHC)　，(COMMACATEGORY)
+***********************************************
+191.　，(COMMACATEGORY)　也(D)　就是(Cbb)　消去樹(Na)　之(DE)　分割(VC)　，(COMMACATEGORY)
+***********************************************
+192.　，(COMMACATEGORY)　便是(Cbb)　依(P)　上列(A)　的(DE)　條件(Na)　為(VG)　目標(Na)　。(PERIODCATEGORY)
+***********************************************
+193.　。(PERIODCATEGORY)　４‧２(Neu)　消去樹(Na)　之(DE)　分割(VC)　與(Caa)　工作量(Na)　分配(VD)　的(DE)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+194.　。(PERIODCATEGORY)　４‧２‧１(Neu)　工作量(Na)　分配(VD)　。(PERIODCATEGORY)
+***********************************************
+195.　。(PERIODCATEGORY)　在(P)　此(Nep)　消去樹(Na)　之(DE)　分割(VC)　是(SHI)　採用(VC)　所謂(VK)　靜態(Na)　的(DE)　工作量(Na)　分配法(Na)　，(COMMACATEGORY)
+***********************************************
+196.　，(COMMACATEGORY)　亦即(VG)　在(P)　進行(VC)　多波前法(Na)　之前(Ng)　便(D)　將(D)　消去樹(Na)　分割成(VG)　許多(Neqa)　子消去樹(Na)　，(COMMACATEGORY)
+***********************************************
+197.　，(COMMACATEGORY)　以(P)　分散給(VD)　不同(VH)　的(DE)　機器(Na)　進行(VC)　計算(VC)　。(PERIODCATEGORY)
+***********************************************
+198.　。(PERIODCATEGORY)　如此(VH)　作法(Na)　可以(D)　避免(VE)　網路(Na)　上(Ncd)　資料(Na)　傳送(VD)　太(Dfa)　過於(Dfa)　頻繁(VH)　，(COMMACATEGORY)
+***********************************************
+199.　，(COMMACATEGORY)　影響(VC)　分散(VHC)　計算(VC)　的(DE)　效率(Na)　。(PERIODCATEGORY)
+***********************************************
+200.　。(PERIODCATEGORY)　所以(Cbb)　工作量(Na)　的(DE)　分配(VD)　要(D)　符合(VJ)　下列(A)　的(DE)　原則(Na)　：(COLONCATEGORY)
+***********************************************
+201.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　平均(VH)　、(PAUSECATEGORY)　２(Neu)　．(PERIODCATEGORY)　可(D)　獨立(VH)　的(DE)　計算(VC)　的(DE)　數量(Na)　最(Dfa)　大(VH)　、(PAUSECATEGORY)　３(Neu)　．(PERIODCATEGORY)　共用(VC)　元素(Na)　的(DE)　情形(Na)　最少(VH)　。(PERIODCATEGORY)
+***********************************************
+202.　。(PERIODCATEGORY)　４‧２‧２(Neu)　消去樹(Na)　之(DE)　分割(VC)　的(DE)　假設(Na)　。(PERIODCATEGORY)
+***********************************************
+203.　。(PERIODCATEGORY)　為(P)　了(Di)　達到(VJ)　前述(Na)　工作量(Na)　分配(VD)　的(DE)　原則(Na)　，(COMMACATEGORY)
+***********************************************
+204.　，(COMMACATEGORY)　以及(Caa)　簡化(VHC)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+205.　，(COMMACATEGORY)　必需(D)　對於(P)　消去樹(Na)　之(DE)　分割(VC)　做(VC)　一些(Neqa)　基本(A)　的(DE)　假設(Na)　：(COLONCATEGORY)
+***********************************************
+206.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　為(P)　了(Di)　減少(VHC)　搜尋(VC)　的(DE)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+207.　，(COMMACATEGORY)　假設(VE)　所有(Neqa)　的(DE)　切點(Na)　都(D)　在(P)　有(V_2)　子結點(Na)　二(Neu)　個(Nf)　以上(Ng)　及(Caa)　其(Nep)　本身(Nh)　的(DE)　結點(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+208.　，(COMMACATEGORY)　如此(VH)　便(D)　不用(D)　搜尋(VC)　所有(Neqa)　的(DE)　結點(Na)　。(PERIODCATEGORY)
+***********************************************
+209.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　每(Nes)　個(Nf)　結點(Na)　的(DE)　計算量(Na)　假設(VE)　為(P)　大約(Da)　相等(VH)　，(COMMACATEGORY)
+***********************************************
+210.　，(COMMACATEGORY)　也(D)　就是(Cbb)　假設(VE)　子消去樹(Na)　的(DE)　計算量(Na)　為(VG)　正比(Na)　於(P)　其(Nep)　結點(Na)　累積數(Na)　。(PERIODCATEGORY)
+***********************************************
+211.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　網路(Na)　上(Ncd)　的(DE)　所有(Neqa)　可(D)　用(P)　機器(Na)　的(DE)　計算(VC)[+nom]　能力(Na)　假設(VE)　為(P)　大約(Da)　相等(VH)　。(PERIODCATEGORY)
+***********************************************
+212.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　假設(VE)　每(Nes)　個(Nf)　子消去樹(Na)　的(DE)　波前(Na)　矩陣(Na)　大約(Da)　相等(VH)　。(PERIODCATEGORY)
+***********************************************
+213.　。(PERIODCATEGORY)　在(P)　上述(Na)　的(DE)　第一(Neu)　點(Nf)　假設(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+214.　，(COMMACATEGORY)　先(D)　定義(VC)　了(Di)　可(D)　分割(VC)　結點(Na)　，(COMMACATEGORY)
+***********************************************
+215.　，(COMMACATEGORY)　這(Nep)　一(Neu)　點(Nf)　與(P)　張凱(Nb)　的(DE)　研究(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+216.　，(COMMACATEGORY)　是(SHI)　有(V_2)　些許(Neqa)　不同(VH)　的(T)　。(PERIODCATEGORY)
+***********************************************
+217.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　點(Nf)　的(DE)　假設(Na)　是(SHI)　基於(P)　計算(VC)[+nom]　程式(Na)　之間(Ng)　可以(D)　有(V_2)　一(Neu)　次(Nf)　資料(Na)　的(DE)　傳送(VD)[+nom]　，(COMMACATEGORY)
+***********************************************
+218.　，(COMMACATEGORY)　因為(Cbb)　在(P)　每(Nes)　次(Nf)　資料(Na)　的(DE)　傳送量(Na)　假設(VE)　為(P)　大約(Da)　相等(VH)　的(DE)　前提(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+219.　，(COMMACATEGORY)　如此(VH)　的(DE)　作法(Na)　與(P)　張凱(Nb)　之(DE)　研究所(Nc)　佔用(VC)　網路(Na)　的(DE)　時間(Na)　是(SHI)　大約(Da)　相等(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+220.　，(COMMACATEGORY)　但是(Cbb)　卻(D)　可以(D)　比較(Dfa)　有(V_2)　彈性(Na)　。(PERIODCATEGORY)
+***********************************************
+221.　。(PERIODCATEGORY)　４‧２‧３(Neu)　消去樹(Na)　之(DE)　分割(VC)　的(DE)　演算(VC)[+nom]　法則(Na)　。(PERIODCATEGORY)
+***********************************************
+222.　。(PERIODCATEGORY)　現在(Nd)　介紹(VE)　基於(P)　上(Nes)　節(Nf)　所(D)　敘述(VE)　之(DE)　假設(Na)　，(COMMACATEGORY)
+***********************************************
+223.　，(COMMACATEGORY)　所(D)　形成(VG)　的(DE)　工作量(Na)　分配(VD)[+nom]　演算(VC)[+nom]　法則(Na)　如(P)　下(Ncd)　。(PERIODCATEGORY)
+***********************************************
+224.　。(PERIODCATEGORY)　上述(Na)　中(Ng)　的(DE)　ｇｏａｌｎｏｄｅ(FW)　即為(VG)　理論(Na)　上(Ng)　的(DE)　工作量(Na)　平均數(Na)　，(COMMACATEGORY)
+***********************************************
+225.　，(COMMACATEGORY)　亦即(VG)　希望(VK)　每(Nes)　一(Neu)　子消去樹(Na)　上(Ncd)　的(DE)　結點數(Na)　都(D)　平均(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+226.　，(COMMACATEGORY)　但是(Cbb)　事實(Na)　上(Ng)　消去樹(Na)　不可能(D)　如此(VH)　的(DE)　平均(VH)　分割(VC)　，(COMMACATEGORY)
+***********************************************
+227.　，(COMMACATEGORY)　所以(Cbb)　定出(VC)　所謂(VK)　的(DE)　上下(Ncd)　比例(Na)　限制(Na)　界限(Na)　，(COMMACATEGORY)
+***********************************************
+228.　，(COMMACATEGORY)　ｕｐｐｅｒｂｏｕｎｄ(FW)　與(Caa)　ｌｏｗｅｒｂｏｕｎｄ(FW)　，(COMMACATEGORY)
+***********************************************
+229.　，(COMMACATEGORY)　希望(VK)　由(P)　逐步(D)　地(DE)　調整(VC)　上下(Ncd)　比例(Na)　限制(Na)　界限(Na)　，(COMMACATEGORY)
+***********************************************
+230.　，(COMMACATEGORY)　分割出(VC)　的(DE)　消去樹(Na)　接近(VC)　平均(VH)　。(PERIODCATEGORY)
+***********************************************
+231.　。(PERIODCATEGORY)　簡單(VH)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+232.　，(COMMACATEGORY)　此(Nep)　演算法(Na)　主要(D)　分為(VG)　三(Neu)　個(Nf)　步驟(Na)　，(COMMACATEGORY)
+***********************************************
+233.　，(COMMACATEGORY)　首先(D)　由(P)　所有(Neqa)　可(D)　分割(VC)　結點(Na)　中(Ng)　選出(VC)　合乎(VJ)　比例(Na)　的(DE)　點(Na)　，(COMMACATEGORY)
+***********************************************
+234.　，(COMMACATEGORY)　接著(D)　進行(VC)　分割成(VG)　子消去樹(Na)　並(Cbb)　更新(VC)　消去樹(Na)　，(COMMACATEGORY)
+***********************************************
+235.　，(COMMACATEGORY)　然後(D)　再(D)　檢查(VE)　是否(D)　已經(D)　達到(VJ)　所(D)　要(D)　的(DE)　子消去樹(Na)　的(DE)　量(Na)　，(COMMACATEGORY)
+***********************************************
+236.　，(COMMACATEGORY)　如果(Cbb)　還(D)　沒有(VJ)　的話(Cba)　，(COMMACATEGORY)
+***********************************************
+237.　，(COMMACATEGORY)　調整(VC)　挑選(VC)　的(DE)　比例(Na)　限制(Na)　重新(D)　由(P)　所有(Neqa)　可(D)　分割(VC)　結點(Na)　中(Ng)　挑選(VC)　。(PERIODCATEGORY)
+***********************************************
+238.　。(PERIODCATEGORY)　此(Nep)　作法(Na)　與(Caa)　張凱君(Nb)　的(DE)　最(Dfa)　大(VH)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+239.　，(COMMACATEGORY)　挑選(VC)　的(DE)　子消去樹(Na)　大小(Na)　比例(Na)　是(SHI)　由(P)　小(VH)　至(P)　大(VH)　自動(VH)　調整(VC)　的(T)　，(COMMACATEGORY)
+***********************************************
+240.　，(COMMACATEGORY)　而(Cbb)　非(A)　使用(VC)　者(Na)　輸入(VC)　一(Neu)　固定(VHC)　值(Na)　。(PERIODCATEGORY)
+***********************************************
+241.　。(PERIODCATEGORY)　如此(VH)　也(D)　較(Dfa)　有利於(VK)　做(VC)　消去樹(Na)　之(DE)　自動(VH)　分割(VC)　。(PERIODCATEGORY)
+***********************************************
+242.　。(PERIODCATEGORY)　另外(Cbb)　就是(Cbb)　子消去樹(Na)　之間(Ng)　可以(D)　有(V_2)　一(Neu)　次(Nf)　的(DE)　資料(Na)　傳送(VD)[+nom]　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+243.　。(PERIODCATEGORY)　在(P)　此(Nep)　用(P)　一(Neu)　例子(Na)　，(COMMACATEGORY)
+***********************************************
+244.　，(COMMACATEGORY)　Ｑ(FW)　４(Neu)　↑(FW)　１５(Neu)　ｘ(FW)　１５(Neu)　，(COMMACATEGORY)
+***********************************************
+245.　，(COMMACATEGORY)　來(D)　比較(VC)　本(Nes)　方法(Na)　與(P)　前(Nes)　法(Na)　的(DE)　相異(VH)　之(DE)　處(Na)　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　請(VF)　參見(VC)　圖例(Na)　。(PERIODCATEGORY)
+***********************************************
+247.　。(PERIODCATEGORY)　４‧３(Neu)　自動(VH)　判別(VC)　消去樹(Na)　之(DE)　分支(Na)　的(DE)　經驗(Na)　法則(Na)　。(PERIODCATEGORY)
+***********************************************
+248.　。(PERIODCATEGORY)　在(P)　張凱君(Nb)　的(DE)　研究(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+249.　，(COMMACATEGORY)　使用(VC)　者(Na)　必需(D)　輸入(VC)　消去樹(Na)　之(DE)　分割量(Na)　與(P)　所謂(VK)　的(DE)　最(Dfa)　大(VH)　與(Caa)　最(Dfa)　小(VH)　子消去樹(Na)　的(DE)　數量(Na)　比值(Na)　，(COMMACATEGORY)
+***********************************************
+250.　，(COMMACATEGORY)　這(Nep)　一(Neu)　點(Nf)　會(D)　造成(VG)　使用(VC)　者(Na)　的(DE)　困擾(Na)　，(COMMACATEGORY)
+***********************************************
+251.　，(COMMACATEGORY)　所以(Cbb)　本(Nes)　文(Na)　希望(VK)　能(D)　做到(VE)　自動(VH)　判別(VC)　消去樹(Na)　之(DE)　分割量(Na)　。(PERIODCATEGORY)
+***********************************************
+252.　。(PERIODCATEGORY)　為(P)　了(Di)　做到(VE)　消去樹(Na)　自動(VH)　之(DE)　分割(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+253.　，(COMMACATEGORY)　在(P)　此(Nep)　必需(D)　採用(VC)　一些(Neqa)　經驗(Na)　法則(Na)　，(COMMACATEGORY)
+***********************************************
+254.　，(COMMACATEGORY)　用以(D)　簡化(VHC)　題目(Na)　的(DE)　複雜(VH)　程度(Na)　，(COMMACATEGORY)
+***********************************************
+255.　，(COMMACATEGORY)　以期(VK)　能(D)　在(P)　很(Dfa)　短(VH)　的(DE)　時間(Na)　內(Ng)　完成(VC)　自動(VH)　分割(VC)　的(DE)　工作(Na)　。(PERIODCATEGORY)
+***********************************************
+256.　。(PERIODCATEGORY)　自動(VH)　判別(VC)　消去樹(Na)　之(DE)　分割(VC)　的(DE)　經驗(Na)　法則(Na)　如(P)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+257.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　假設(VE)　每(Nes)　一(Neu)　子消去樹(Na)　的(DE)　前(Ncd)　消(VH)　、(PAUSECATEGORY)　後(Ncd)　代(VC)　之(DE)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+258.　，(COMMACATEGORY)　是(SHI)　與(P)　其(Nep)　結點(Na)　累積數(Na)　成(VG)　正比(Na)　。(PERIODCATEGORY)
+***********************************************
+259.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　假設(VE)　每(Nes)　一(Neu)　次(Nf)　子消去樹(Na)　的(DE)　網路(Na)　傳送(VD)　之(DE)　時間(Na)　與(P)　資料量(Na)　是(SHI)　大約(Da)　相等(VH)　。(PERIODCATEGORY)
+***********************************************
+260.　。(PERIODCATEGORY)　所謂(VK)　的(DE)　元素(Na)　共用(VC)[+nom]　程度值(Na)　是(SHI)　指(VG)　子消去樹(Na)　之間(Ng)　元素(Na)　共用(VC)　的(DE)　數目(Na)　。(PERIODCATEGORY)
+***********************************************
+261.　。(PERIODCATEGORY)　也(D)　就是(Cbb)　重複(VC)　建立(VC)　元素(Na)　勁度(Na)　矩陣(Na)　的(DE)　數目(Na)　，(COMMACATEGORY)
+***********************************************
+262.　，(COMMACATEGORY)　所以(Cbb)　此(Nep)　數(Na)　是(SHI)　越(D)　小(VH)　越(D)　佳(VH)　。(PERIODCATEGORY)
+***********************************************
+263.　。(PERIODCATEGORY)　在(P)　此(Nep)　預估(VE)　工作(Na)　時間(Na)　的(DE)　計算(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+264.　，(COMMACATEGORY)　是(SHI)　假設(VE)　子消去樹(Na)　的(DE)　計算量(Na)　為(VG)　正比(Na)　於(P)　其(Nep)　結點(Na)　累積數(Na)　的(DE)　前提(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+265.　，(COMMACATEGORY)　對於(P)　每(Nes)　一(Neu)　個(Nf)　計算(VC)[+nom]　程式(Na)　做(VC)　結點(Na)　累積數(Na)　的(DE)　計算(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+266.　，(COMMACATEGORY)　然後(D)　將(D)　主程式(Na)　的(DE)　結點(Na)　累積數(Na)　加上(VC)　最(Dfa)　大(VH)　的(DE)　計算(VC)[+nom]　程式(Na)　結點(Na)　累積數(Na)　，(COMMACATEGORY)
+***********************************************
+267.　，(COMMACATEGORY)　做為(VG)　整體(Na)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+268.　，(COMMACATEGORY)　也(D)　就是(Cbb)　下面(Ncd)　步驟(Na)　五(Neu)　所(D)　計算(VC)　的(DE)　值(Na)　。(PERIODCATEGORY)
+***********************************************
+269.　。(PERIODCATEGORY)　以(P)　一(Neu)　例子(Na)　，(COMMACATEGORY)
+***********************************************
+270.　，(COMMACATEGORY)　Ｑ(FW)　４(Neu)　↑(FW)　１５(Neu)　ｘ(FW)　１５(Neu)　，(COMMACATEGORY)
+***********************************************
+271.　，(COMMACATEGORY)　來(D)　說明(VE)　此(Nep)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+272.　，(COMMACATEGORY)　如(P)　圖例(Na)　中(Ng)　的(DE)　消去樹(Na)　分割成(VG)　五(Neu)　個(Nf)　子消去樹(Na)　，(COMMACATEGORY)
+***********************************************
+273.　，(COMMACATEGORY)　Ａ　Ｂ(FW)　，(COMMACATEGORY)
+***********************************************
+274.　，(COMMACATEGORY)　　Ｃ(FW)　，(COMMACATEGORY)
+***********************************************
+275.　，(COMMACATEGORY)　　Ｄ(FW)　，(COMMACATEGORY)
+***********************************************
+276.　，(COMMACATEGORY)　　Ｅ(FW)　與(Caa)　一(Neu)　主程式(Na)　所(D)　負責(VL)　計算(VC)　的(DE)　子消去樹(Na)　Ｍ(FW)　，(COMMACATEGORY)
+***********************************************
+277.　，(COMMACATEGORY)　則(D)　子消去樹(Na)　Ａ(FW)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　值(Na)　為(VG)　３９(Neu)　，(COMMACATEGORY)
+***********************************************
+278.　，(COMMACATEGORY)　子消去樹(Na)　Ｂ(FW)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　值(Na)　為(VG)　４２(Neu)　，(COMMACATEGORY)
+***********************************************
+279.　，(COMMACATEGORY)　子消去樹(Na)　Ｃ(FW)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　值(Na)　為(VG)　３５(Neu)　，(COMMACATEGORY)
+***********************************************
+280.　，(COMMACATEGORY)　子消去樹(Na)　Ｄ(FW)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　值(Na)　為(VG)　４５(Neu)　，(COMMACATEGORY)
+***********************************************
+281.　，(COMMACATEGORY)　子消去樹(Na)　Ｅ(FW)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　為(VG)　值(Na)　４９(Neu)　，(COMMACATEGORY)
+***********************************************
+282.　，(COMMACATEGORY)　主子消去樹(Na)　Ｍ(FW)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　值(Na)　為(VG)　９１(Neu)　，(COMMACATEGORY)
+***********************************************
+283.　，(COMMACATEGORY)　所以(Cbb)　整體(Na)　的(DE)　預估(VE)[+nom]　工作(Na)　時間(Na)　值(Na)　為(VG)　９１(Neu)　。(PERIODCATEGORY)
+***********************************************
+284.　。(PERIODCATEGORY)　任何(Neqa)　合理(VH)　切割(VC)[+nom]　方式(Na)　一定(D)　是(SHI)　所有(Neqa)　的(DE)　ｓｌａｖｅ(FW)　ｃｐｕ(FW)　必需(D)　包含(VJ)　至少(Da)　一(Neu)　個(Nf)　樹葉(Na)　。(PERIODCATEGORY)
+***********************************************
+285.　。(PERIODCATEGORY)　也(D)　就是(Cbb)　合理(VH)　的(DE)　切割(VC)[+nom]　方式(Na)　是(SHI)　指(VG)　除了(P)　主(A)　計算(VC)[+nom]　程式(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+286.　，(COMMACATEGORY)　每(Nes)　一(Neu)　個(Nf)　計算(VC)[+nom]　程式(Na)　一(D)　開始(VH)　都(D)　有(V_2)　工作(Na)　可以(D)　做(VC)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+287.　，(COMMACATEGORY)　不可以(D)　有(V_2)　一(D)　開始(VH)　便(D)　要(D)　等(VC)　其他(Neqa)　的(DE)　計算(VC)[+nom]　程式(Na)　傳(VD)　資料(Na)　來(D)　才(Da)　能(D)　開始(VL)　計算(VC)　的(DE)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+288.　。(PERIODCATEGORY)　基於(P)　上述(Na)　經驗(Na)　法則(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+289.　，(COMMACATEGORY)　自動(VH)　判別(VC)　消去樹(Na)　之(DE)　分支(Na)　的(DE)　演算(VC)[+nom]　法則(Na)　如(P)　下(Ncd)　。(PERIODCATEGORY)
+***********************************************
+290.　。(PERIODCATEGORY)　如此一來(Dk)　，(COMMACATEGORY)
+***********************************************
+291.　，(COMMACATEGORY)　使用(VC)　者(Na)　只(Da)　需(D)　知道(VK)　網路(Na)　上(Ncd)　可(D)　用(VC)　的(DE)　機器(Na)　數目(Na)　最大值(Na)　即可(VH)　，(COMMACATEGORY)
+***********************************************
+292.　，(COMMACATEGORY)　其它(Neqa)　的(DE)　部份(Neqa)　程式(Na)　可(D)　自行(D)　計算(VC)　。(PERIODCATEGORY)
+***********************************************
+293.　。(PERIODCATEGORY)　在(P)　此(Nep)　經驗(Na)　法則(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+294.　，(COMMACATEGORY)　評估(VE)　消去樹(Na)　分割(VC)　的(DE)　優劣(Na)　，(COMMACATEGORY)
+***********************************************
+295.　，(COMMACATEGORY)　是(SHI)　假設(VE)　前(Nes)　消(VH)　、(PAUSECATEGORY)　後(Nes)　代(VC)　之(DE)　時間(Na)　影響(VC)　整體(Na)　分析(VC)　的(DE)　時間(Na)　為(VG)　最(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+296.　，(COMMACATEGORY)　元素(Na)　共用(VC)[+nom]　程度(Na)　為(VG)　其次(Cbb)　。(PERIODCATEGORY)
+***********************************************
+297.　。(PERIODCATEGORY)　４‧４(Neu)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+298.　。(PERIODCATEGORY)　影響(VC)　每(Nes)　個(Nf)　計算(VC)[+nom]　程式(Na)　之(DE)　處理(VC)[+nom]　速度(Na)　的(DE)　因素(Na)　有(V_2)　很多(Neqa)　，(COMMACATEGORY)
+***********************************************
+299.　，(COMMACATEGORY)　例如(P)　元素(Na)　共用(VC)　的(DE)　情形(Na)　會(D)　影響(VC)　建立(VC)　元素(Na)　勁度(Na)　矩陣(Na)　的(DE)　時間(Na)　以及(Caa)　記憶體(Na)　的(DE)　量(Na)　，(COMMACATEGORY)
+***********************************************
+300.　，(COMMACATEGORY)　而(Cbb)　子消去樹(Na)　上(Ncd)　的(DE)　結點(Na)　數目(Na)　會(D)　影響到(VJ)　前(Ncd)　消(VH)　、(PAUSECATEGORY)　後(Ncd)　代(VC)　的(DE)　時間(Na)　以及(Caa)　波前(Na)　矩陣(Na)　的(DE)　大小(Na)　，(COMMACATEGORY)
+***********************************************
+301.　，(COMMACATEGORY)　波前(Na)　矩陣(Na)　的(DE)　大小(Na)　會(D)　影響(VC)　網路(Na)　上(Ncd)　傳送(VD)　的(DE)　速度(Na)　快慢(Na)　等等(Cab)　。(PERIODCATEGORY)
+***********************************************
+302.　。(PERIODCATEGORY)　所以(Cbb)　想要(VE)　在(P)　很(Dfa)　短(VH)　的(DE)　時間(Na)　內(Ng)　，(COMMACATEGORY)
+***********************************************
+303.　，(COMMACATEGORY)　取得(VC)　一(Neu)　個(Nf)　最佳(A)　的(DE)　情形(Na)　是(SHI)　很(Dfa)　困難(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+304.　，(COMMACATEGORY)　因為(Cbb)　上述(Na)　的(DE)　因素(Na)　有(V_2)　些(Nf)　是(SHI)　互相(D)　衝突(VH)　的(T)　。(PERIODCATEGORY)
+***********************************************
+305.　。(PERIODCATEGORY)　逐步(D)　調整(VC)　上下(Ncd)　比例(Na)　限制(Na)　界限(Na)　的(DE)　幅度(Na)　如果(Cbb)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+306.　，(COMMACATEGORY)　所(D)　得(VJ)　的(DE)　消去樹(Na)　分割點(Na)　可能(D)　會(D)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+307.　，(COMMACATEGORY)　另外(Cbb)　對於(P)　可切點(Na)　的(DE)　定義(Na)　、(PAUSECATEGORY)　或者(Caa)　搜尋(VC)　可切點(Na)　的(DE)　順序(Na)　都(D)　會(D)　影響(VC)　消去樹(Na)　的(DE)　分割點(Na)　。(PERIODCATEGORY)
+***********************************************

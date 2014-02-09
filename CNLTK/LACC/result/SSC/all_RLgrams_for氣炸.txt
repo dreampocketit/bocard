@@ -1,0 +1,62 @@
+
+The right sub-terms of 氣 have 76 items.
+氣氛,200
+氣炸,132
+氣候,106
+氣質,88
+氣息,56
+氣勢,26
+氣象,24
+氣溫,23
+氣流,21
+氣味,17
+氣喘,16
+氣功,15
+氣度,15
+氣憤,14
+氣概,11
+氣派,11
+氣魄,11
+氣體,10
+氣泡,9
+氣管,8
+氣節,8
+氣球,7
+氣死,7
+氣慨,6
+氣惱,6
+氣色,5
+氣壞,5
+氣餒,4
+氣韻,4
+氣力,3
+氣壓,3
+氣絕,3
+氣盛,3
+氣瓶,3
+氣結,2
+氣話,2
+氣短,2
+氣幕,2
+氣病,1
+氣燄,1
+氣急,1
+氣性,1
+氣頭,1
+氣人,1
+氣運,1
+氣囊,1
+氣跑,1
+氣習,1
+氣數,1
+氣忿,1
+and have 50 items in doubleword.
+The left sub-terms of 炸 have 6 items.
+氣炸,132
+爆炸,22
+轟炸,13
+油炸,11
+鍋炸,1
+and have 5 items in doubleword.
+Total right and left sub-terms frequency of 氣炸 is 1873
+and have 55 items in doubleword.

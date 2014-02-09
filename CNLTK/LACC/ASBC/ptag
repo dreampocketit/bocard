@@ -1,0 +1,372 @@
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=工程
+%%  媒體=學術論著
+%%  姓名=劉興寰
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=清華大學資訊所
+%%  出版地=臺灣新竹市
+%%  出版日期=1994
+%%  版次=
+%%  標題=
+1.　。(PERIODCATEGORY)　摘要(Na)　。(PERIODCATEGORY)
+***********************************************
+2.　。(PERIODCATEGORY)　詞類(Na)　標記(VC)[+nom]　對(P)　自然(Na)　語言(Na)　處理(VC)[+nom]　而(Cbb)　言(VE)　是(SHI)　一(Neu)　個(Nf)　非常(Dfa)　重要(VH)　的(DE)　課題(Na)　。(PERIODCATEGORY)
+***********************************************
+3.　。(PERIODCATEGORY)　現階段(Nd)　的(DE)　詞類(Na)　標記(VC)[+nom]　技術(Na)　大多(Neqa)　是(SHI)　採取(VC)　機率(Na)　的(DE)　模式(Na)　。(PERIODCATEGORY)
+***********************************************
+4.　。(PERIODCATEGORY)　一般來說(Dk)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　利用(VC)　機率(Na)　的(DE)　方式(Na)　來(D)　做(VC)　詞類(Na)　標記(VC)[+nom]　需要(VK)　一(Neu)　個(Nf)　已經(D)　標記好(VC)　的(DE)　語料(Na)　來(D)　訓練(VC)　參數(Na)　，(COMMACATEGORY)
+***********************************************
+6.　，(COMMACATEGORY)　但是(Cbb)　目前(Nd)　我們(Nh)　並(D)　沒有(VJ)　一(Neu)　個(Nf)　已經(D)　標記好(VC)　的(DE)　中文(Na)　語料(Na)　。(PERIODCATEGORY)
+***********************************************
+7.　。(PERIODCATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　我們(Nh)　採用(VC)　鬆弛法(Na)　來(D)　做(VC)　詞類(Na)　標記(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+9.　。(PERIODCATEGORY)　由於(Cbb)　鬆弛法(Na)　的(DE)　效果(Na)　不盡(Dfa)　理想(VH)　，(COMMACATEGORY)
+***********************************************
+10.　，(COMMACATEGORY)　於是(Cbb)　我們(Nh)　將(P)　鬆弛法(Na)　與(Caa)　法則式(A)　結合(VHC)　在一起(VH)　。(PERIODCATEGORY)
+***********************************************
+11.　。(PERIODCATEGORY)　這(Nep)　種(Nf)　混合(VC)　的(DE)　方式(Na)　對(P)　整(Neqa)　個(Nf)　語料(Na)　標記(VC)[+nom]　的(DE)　正確率(Na)　可(D)　達(VJ)　９６％(Neqa)　到(Caa)　９８％(Neqa)　。(PERIODCATEGORY)
+***********************************************
+12.　。(PERIODCATEGORY)　與(P)　單純(VH)　鬆弛法(Na)　的(DE)　效果(Na)　來(D)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　則(D)　對(P)　有(V_2)　多重(A)　詞類(Na)　的(DE)　詞(Na)　的(DE)　標記(Na)　正確率(Na)　大約(Da)　提昇(VC)　了(Di)　９．６％(Neqa)　。(PERIODCATEGORY)
+***********************************************
+14.　。(PERIODCATEGORY)　壹(Neu)　、(PAUSECATEGORY)　簡介(Na)　。(PERIODCATEGORY)
+***********************************************
+15.　。(PERIODCATEGORY)　目前(Nd)　在(P)　計算(VC)　語言學(Na)　上(Ng)　有(V_2)　一(Neu)　個(Nf)　重要(VH)　的(DE)　研究(Na)　趨勢(Na)　，(COMMACATEGORY)
+***********************************************
+16.　，(COMMACATEGORY)　即(VG)　利用(VC)　統計(Na)　或(Caa)　機率(Na)　的(DE)　方法(Na)　來(D)　做(VC)　語言(Na)　分析(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+17.　。(PERIODCATEGORY)　之所以(Cbb)　會(D)　有(V_2)　這(Nep)　種(Nf)　趨勢(Na)　的(DE)　一(Neu)　個(Nf)　最(Dfa)　主要(A)　原因(Na)　是(SHI)　在於(VK)　現在(Nd)　有(V_2)　大量(Neqa)　的(DE)　機讀(A)　語料庫(Na)　可(D)　供(VF)　利用(VC)　。(PERIODCATEGORY)
+***********************************************
+18.　。(PERIODCATEGORY)　一(Neu)　個(Nf)　已經(D)　標記好(VC)　的(DE)　語料庫(Na)　在(P)　研究(Na)　上(Ng)　會(D)　更(D)　有(V_2)　價值(Na)　（(PARENTHESISCATEGORY)　比如說(P)　對於(P)　機率(Na)　語言(Na)　模型(Na)　的(DE)　自動(VH)　建構(VC)[+nom]　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+19.　。(PERIODCATEGORY)　所謂(VK)　的(DE)　詞類(Na)　標記(VC)[+nom]　是(SHI)　指(VG)　對(P)　句子(Na)　當中(Ng)　的(DE)　每(Nes)　一(Neu)　個(Nf)　詞(Na)　指定(VE)　其(Nep)　正確(VH)　的(DE)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+20.　，(COMMACATEGORY)　這(Nep)　個(Nf)　訊息(Na)　對(P)　一(Neu)　個(Nf)　標記(Na)　語料庫(Na)　而(Cbb)　言(VE)　是(SHI)　不可或缺(A)　的(T)　。(PERIODCATEGORY)
+***********************************************
+21.　。(PERIODCATEGORY)　中文(Na)　的(DE)　詞類(Na)　標記(VC)[+nom]　工作(Na)　大概(D)　可以(D)　分成(VG)　兩(Neu)　個(Nf)　步驟(Na)　：(COLONCATEGORY)
+***********************************************
+22.　：(COLONCATEGORY)　（１）(Neu)　斷詞(VA)　及(Caa)　初始(Na)　詞類(Na)　的(DE)　指定(VE)[+nom]　：(COLONCATEGORY)
+***********************************************
+23.　：(COLONCATEGORY)　由於(Cbb)　中文(Na)　的(DE)　詞(Na)　和(Caa)　詞(Na)　之間(Ng)　並(D)　沒有(VJ)　空白(VH)[+nom]　隔開(VC)　，(COMMACATEGORY)
+***********************************************
+24.　，(COMMACATEGORY)　因此(Cbb)　在(P)　做(VC)　詞類(Na)　標記(VC)[+nom]　之前(Ng)　首先(D)　必需(D)　執行(VC)　斷詞(VA)　的(DE)　工作(Na)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　接著(D)　我們(Nh)　可以(D)　在(P)　詞典(Na)　當中(Ng)　查到(VE)　每(Nes)　一(Neu)　個(Nf)　詞(Na)　所有(Neqa)　可能(Na)　的(DE)　詞類(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+26.　；(SEMICOLONCATEGORY)　（２）(Neu)　選擇(VC)　一(Neu)　個(Nf)　正確(VH)　的(DE)　詞類(Na)　：(COLONCATEGORY)
+***********************************************
+27.　：(COLONCATEGORY)　對於(P)　句子(Na)　當中(Ng)　的(DE)　每(Nes)　一(Neu)　個(Nf)　詞(Na)　我們(Nh)　必須(D)　依據(P)　其(Nep)　前後文(Na)　關係(Na)　來(D)　決定(VE)　一(Neu)　個(Nf)　最(Dfa)　可能(VH)　的(DE)　詞類(Na)　。(PERIODCATEGORY)
+***********************************************
+28.　。(PERIODCATEGORY)　第一(Neu)　個(Nf)　步驟(Na)　不(D)　在(P)　我們(Nh)　這(Nep)　篇(Nf)　論文(Na)　的(DE)　討論(VE)[+nom]　範圍(Na)　之內(Ng)　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　第二(Neu)　個(Nf)　步驟(Na)　才(Da)　是(SHI)　我們(Nh)　所(D)　關注(VJ)　的(DE)　焦點(Na)　。(PERIODCATEGORY)
+***********************************************
+30.　。(PERIODCATEGORY)　對於(P)　第二(Neu)　個(Nf)　步驟(Na)　（(PARENTHESISCATEGORY)　即(VG)　正確(VH)　詞類(Na)　的(DE)　選定(VC)[+nom]　）(PARENTHESISCATEGORY)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　現階段(Nd)　的(DE)　詞類(Na)　標記(VC)[+nom]　系統(Na)　大致上(Dk)　可以(D)　分成(VG)　兩(Neu)　個(Nf)　大(VH)　類(Na)　：(COLONCATEGORY)
+***********************************************
+32.　：(COLONCATEGORY)　機率式(A)　以及(Caa)　法則式(Na)　。(PERIODCATEGORY)
+***********************************************
+33.　。(PERIODCATEGORY)　由於(Cbb)　自然(Na)　語言(Na)　有(V_2)　極(Dfa)　高度(A)　的(DE)　複雜性(Na)　，(COMMACATEGORY)
+***********************************************
+34.　，(COMMACATEGORY)　因此(Cbb)　一(Neu)　個(Nf)　法則式(A)　的(DE)　詞類(Na)　標記(VC)[+nom]　系統(Na)　無疑(VH)　的(DE)　需要(VK)　很多(Neqa)　法則(Na)　，(COMMACATEGORY)
+***********************************************
+35.　，(COMMACATEGORY)　換言之(Dk)　，(COMMACATEGORY)
+***********************************************
+36.　，(COMMACATEGORY)　我們(Nh)　需要(VK)　花費(VC)　許多(Neqa)　人力(Na)　來(D)　建構(VC)　並(Cbb)　修改(VC)　這些(Neqa)　法則(Na)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　這(Nep)　也(D)　是(SHI)　法則式(A)　詞類(Na)　標記(VC)[+nom]　系統(Na)　的(DE)　一(Neu)　個(Nf)　最(Dfa)　主要(A)　缺點(Na)　。(PERIODCATEGORY)
+***********************************************
+38.　。(PERIODCATEGORY)　在(P)　另(Nes)　一(Neu)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　對(P)　機率式(A)　的(DE)　詞類(Na)　標記(VC)[+nom]　系統(Na)　來(D)　說(VE)　，(COMMACATEGORY)
+***********************************************
+40.　，(COMMACATEGORY)　它(Nh)　所(D)　需要(VK)　的(DE)　參數值(Na)　可以(D)　直接(VH)　從(P)　語料(Na)　當中(Ng)　訓練(VC)　得到(VJ)　。(PERIODCATEGORY)
+***********************************************
+41.　。(PERIODCATEGORY)　由於(Cbb)　所(D)　能(D)　利用(VC)　的(DE)　詞類(Na)　共現(VH)[+nom]　統計值(Na)　有(V_2)　實際(VH)　應用(Na)　上(Ng)　的(DE)　限制(Na)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　因此(Cbb)　這(Nep)　類(Nf)　詞類(Na)　標記(VC)[+nom]　系統(Na)　只(Da)　能(D)　處理(VC)　鄰近(VJ)　的(DE)　詞類(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+43.　，(COMMACATEGORY)　然而(Cbb)　在(P)　某些(Neqa)　狀況(Na)　下(Ng)　我們(Nh)　必須(D)　利用(VC)　遠(VH)　距離(Na)　的(DE)　關係(Na)　才(Da)　能夠(D)　決定(VE)　某(Nes)　一(Neu)　個(Nf)　詞(Na)　的(DE)　正確(VH)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+44.　，(COMMACATEGORY)　因此(Cbb)　這(Nep)　一(Neu)　部份(Neqa)　不免(D)　成為(VG)　機率式(A)　系統(Na)　的(DE)　一(Neu)　個(Nf)　弱點(Na)　。(PERIODCATEGORY)
+***********************************************
+45.　。(PERIODCATEGORY)　除此之外(Dk)　，(COMMACATEGORY)
+***********************************************
+46.　，(COMMACATEGORY)　由於(Cbb)　機率式(A)　系統(Na)　非常(Dfa)　倚重(VJ)　相對(VH)　頻率(Na)　的(DE)　訊息(Na)　，(COMMACATEGORY)
+***********************************************
+47.　，(COMMACATEGORY)　所以(Cbb)　一些(Neqa)　高頻(Na)　詞類(Na)　（(PARENTHESISCATEGORY)　比如說(P)　普通(VH)　名詞(Na)　）(PARENTHESISCATEGORY)　經常(D)　會(D)　被(P)　選取(VC)　出來(VA)　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　因為(Cbb)　普通(VH)　名詞(Na)　通常(D)　是(SHI)　語料(Na)　當中(Ng)　最(Dfa)　普遍(VH)　的(DE)　一(Neu)　個(Nf)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　然而(Cbb)　在(P)　某些(Neqa)　狀況(Na)　下(Ng)　這樣(VH)　選擇(Na)　是(SHI)　錯誤(VH)　的(T)　。(PERIODCATEGORY)
+***********************************************
+50.　。(PERIODCATEGORY)　這(Nep)　是(SHI)　機率式(A)　系統(Na)　的(DE)　另外(Da)　一(Neu)　個(Nf)　弱點(Na)　。(PERIODCATEGORY)
+***********************************************
+51.　。(PERIODCATEGORY)　在(P)　這(Nep)　篇(Nf)　論文(Na)　當中(Ng)　我們(Nh)　提出(VC)　一(Neu)　個(Nf)　詞類(Na)　標記(VC)[+nom]　的(DE)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+52.　，(COMMACATEGORY)　混合(VC)　了(Di)　機率式(A)　與(Caa)　法則式(Na)　兩(Neu)　種(Nf)　方法(Na)　。(PERIODCATEGORY)
+***********************************************
+53.　。(PERIODCATEGORY)　在(P)　機率式(A)　這(Nep)　一(Neu)　部份(Neqa)　我們(Nh)　是(SHI)　利用(VC)　鬆弛法(Na)　來(D)　完成(VC)　。(PERIODCATEGORY)
+***********************************************
+54.　。(PERIODCATEGORY)　由(P)　實驗(Na)　的(DE)　結果(Na)　我們(Nh)　發覺(VK)　機率式(A)　與(Caa)　法則式(Na)　這(Nep)　兩(Neu)　種(Nf)　方法(Na)　彼此(Nh)　配合(VC)　得(DE)　非常(Dfa)　好(VH)　。(PERIODCATEGORY)
+***********************************************
+55.　。(PERIODCATEGORY)　就(D)　正(D)　如同(VG)　其他(Neqa)　的(DE)　機率式(A)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　鬆弛法(Na)　負責(VL)　關照(VJ)　鄰近(VJ)[+nom]　詞類(Na)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　這(Nep)　種(Nf)　關係(Na)　在(P)　詞類(Na)　標記(VC)[+nom]　當中(Ng)　是(SHI)　一(Neu)　個(Nf)　非常(Dfa)　重要(VH)　的(DE)　線索(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+58.　；(SEMICOLONCATEGORY)　而(Cbb)　法則式(A)　的(DE)　部份(Neqa)　則(D)　負責(VL)　彌補(VC)　鬆弛法(Na)　的(DE)　缺點(Na)　（(PARENTHESISCATEGORY)　比如說(P)　處理(VC)　一些(Neqa)　遠(VH)　距離(Na)　的(DE)　關係(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+59.　。(PERIODCATEGORY)　與(P)　單純(VH)　鬆弛法(Na)　的(DE)　效果(Na)　來(D)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　這(Nep)　種(Nf)　混合(VC)　的(DE)　方法(Na)　對(P)　詞類(Na)　標記(VC)[+nom]　的(DE)　正確率(Na)　也(D)　大幅(D)　提昇(VC)　。(PERIODCATEGORY)
+***********************************************
+61.　。(PERIODCATEGORY)　在(P)　第二(Neu)　章(Na)　會(D)　對(P)　我們(Nh)　這(Nep)　個(Nf)　混合(VC)　的(DE)　方法(Na)　做(VC)　一(Neu)　個(Nf)　詳細(VH)　的(DE)　說明(Na)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　第三(Neu)　章(Na)　會(D)　提出(VC)　一些(Neqa)　實驗(Na)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+63.　，(COMMACATEGORY)　第四(Neu)　章(Na)　則(D)　做(VC)　一(Neu)　個(Nf)　總結(Na)　。(PERIODCATEGORY)
+***********************************************
+64.　。(PERIODCATEGORY)　貳(Neu)　、(PAUSECATEGORY)　混合(VC)　的(DE)　方法(Na)　。(PERIODCATEGORY)
+***********************************************
+65.　。(PERIODCATEGORY)　在(P)　此(Nep)　我們(Nh)　先(D)　敘述(VE)　這(Nep)　個(Nf)　混合(VC)[+nom]　方法(Na)　的(DE)　大(VH)　原則(Na)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　在(P)　以下(Ncd)　兩(Neu)　節(Nf)　當中(Ng)　再(D)　詳述(VC)　法則式(A)　與(Caa)　鬆弛法(Na)　兩(Neu)　個(Nf)　部份(Neqa)　。(PERIODCATEGORY)
+***********************************************
+67.　。(PERIODCATEGORY)　在(P)　一(Neu)　個(Nf)　句子(Na)　當中(Ng)　，(COMMACATEGORY)
+***********************************************
+68.　，(COMMACATEGORY)　如果(Cbb)　某(Nes)　一(Neu)　個(Nf)　詞(Na)　只(Da)　有(V_2)　唯一(A)　的(DE)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+69.　，(COMMACATEGORY)　則(D)　這(Nep)　個(Nf)　詞類(Na)　就(D)　視為(VG)　是(SHI)　正確(VH)　的(DE)　結果(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+70.　；(SEMICOLONCATEGORY)　反之(Dk)　，(COMMACATEGORY)
+***********************************************
+71.　，(COMMACATEGORY)　若(Cbb)　一(Neu)　個(Nf)　詞(Na)　有(V_2)　多重(A)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+72.　，(COMMACATEGORY)　則(D)　我們(Nh)　這(Nep)　個(Nf)　混合(VC)　的(DE)　方法(Na)　首先(D)　會(D)　應用(VC)　法則(Na)　來(D)　處理(VC)　若干(Neqa)　特殊(VH)　詞(Na)　或(Caa)　具有(VJ)　特殊(VH)　詞類(Na)　組合(VC)[+nom]　的(DE)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+73.　，(COMMACATEGORY)　接著(D)　，(COMMACATEGORY)
+***********************************************
+74.　，(COMMACATEGORY)　對於(P)　剩下來(VJ)　的(DE)　這些(Neqa)　具有(VJ)　多重(A)　詞類(Na)　的(DE)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+75.　，(COMMACATEGORY)　再(D)　利用(VC)　鬆弛法(Na)　根據(P)　該(Nes)　詞(Na)　的(DE)　上下文(Na)　去(D)　選取(VC)　一(Neu)　個(Nf)　最(Dfa)　可能(VH)　的(DE)　詞類(Na)　。(PERIODCATEGORY)
+***********************************************
+76.　。(PERIODCATEGORY)　（一）(Neu)　法則(Na)　的(DE)　引得(VL)[+nom]　與(Caa)　利用(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+77.　。(PERIODCATEGORY)　如(P)　我們(Nh)　在(P)　簡介(Na)　中(Ng)　所(D)　陳述(VE)　的(DE)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　在(P)　這(Nep)　個(Nf)　混合(VC)[+nom]　方法(Na)　當中(Ng)　的(DE)　法則式(A)　部份(Neqa)　是(SHI)　用來(VL)　彌補(VC)　鬆弛法(Na)　的(DE)　缺點(Na)　。(PERIODCATEGORY)
+***********************************************
+79.　。(PERIODCATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　我們(Nh)　首先(D)　利用(VC)　單純(VH)　的(DE)　鬆弛法(Na)　來(D)　做(VC)　一(Neu)　個(Nf)　實驗(Na)　。(PERIODCATEGORY)
+***********************************************
+81.　。(PERIODCATEGORY)　在(P)　這(Nep)　個(Nf)　實驗(Na)　當中(Ng)　我們(Nh)　發現(VE)　鬆弛法(Na)　主要(D)　會(D)　產生(VHC)　兩(Neu)　種(Nf)　型態(Na)　的(DE)　錯誤(Na)　：(COLONCATEGORY)
+***********************************************
+82.　：(COLONCATEGORY)　（１）(Neu)　一些(Neqa)　常用詞(Na)　常常(D)　會(D)　被(P)　標記錯(VC)　（(PARENTHESISCATEGORY)　比如說(P)　會(D)[+nom]　這(Nep)　個(Nf)　詞(Na)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+83.　；(SEMICOLONCATEGORY)　（２）(Neu)　有(V_2)　某些(Neqa)　特殊(VH)　詞類(Na)　組合(VC)　的(DE)　詞(Na)　常常(D)　會(D)　被(P)　標記錯(VC)　（(PARENTHESISCATEGORY)　比如說(P)　同時(Nd)　有(V_2)　普通(VH)　名詞(Na)　及(Caa)　動詞(Na)　這(Nep)　兩(Neu)　種(Nf)　詞類(Na)　的(DE)　詞(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+84.　。(PERIODCATEGORY)　針對(P)　第一(Neu)　種(Nf)　型態(Na)　的(DE)　錯誤(Na)　，(COMMACATEGORY)
+***********************************************
+85.　，(COMMACATEGORY)　我們(Nh)　發展出(VC)　２１(Neu)　條(Nf)　法則(Na)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　專門(VL)　處理(VC)　２１(Neu)　個(Nf)　經常(D)　會(D)　被(P)　標記錯(VC)　的(DE)　常用詞(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+87.　；(SEMICOLONCATEGORY)　針對(P)　第二(Neu)　種(Nf)　型態(Na)　的(DE)　錯誤(Na)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　我們(Nh)　發展出(VC)　６(Neu)　條(Nf)　法則(Na)　，(COMMACATEGORY)
+***********************************************
+89.　，(COMMACATEGORY)　專門(VL)　處理(VC)　６(Neu)　種(Nf)　有(V_2)　特殊(VH)　詞類(Na)　組合(VC)　的(DE)　詞(Na)　。(PERIODCATEGORY)
+***********************************************
+90.　。(PERIODCATEGORY)　一般來說(Dk)　，(COMMACATEGORY)
+***********************************************
+91.　，(COMMACATEGORY)　法則(Na)　是(SHI)　利用(VC)　一(Neu)　個(Nf)　詞(Na)　所(D)　處(VCL)　的(DE)　環境(Na)　來(D)　決定(VE)　這(Nep)　個(Nf)　詞(Na)　的(DE)　正確(VH)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　或者(Caa)　刪除(VC)　這(Nep)　個(Nf)　詞(Na)　不(D)　可能(VH)　的(DE)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+93.　，(COMMACATEGORY)　因此(Cbb)　法則(Na)　部份(Neqa)　的(DE)　主要(A)　功能(Na)　是(SHI)　當做(VG)　一(Neu)　個(Nf)　過濾器(Na)　。(PERIODCATEGORY)
+***********************************************
+94.　。(PERIODCATEGORY)　在(P)　應用(VC)　法則(Na)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　整(Neqa)　個(Nf)　輸入(VC)　語料(Na)　的(DE)　詞類(Na)　歧義(Na)　程度(Na)　便(D)　降低(VHC)　了(T)　。(PERIODCATEGORY)
+***********************************************
+96.　。(PERIODCATEGORY)　因為(Cbb)　法則(Na)　只(Da)　適用(VJ)　於(P)　一些(Neqa)　特殊(VH)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　所以(Cbb)　在(P)　法則(Na)　應用(Na)[+nom]　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+98.　，(COMMACATEGORY)　無疑(VH)　的(DE)　一定(D)　還(D)　會(D)　有(V_2)　許多(Neqa)　詞(Na)　依然(D)　具有(VJ)　多重(A)　詞類(Na)　。(PERIODCATEGORY)
+***********************************************
+99.　。(PERIODCATEGORY)　對於(P)　剩餘(VJ)　的(DE)　這些(Neqa)　具有(VJ)　多重(A)　詞類(Na)　的(DE)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+100.　，(COMMACATEGORY)　再(D)　利用(VC)　鬆弛法(Na)　去(D)　選取(VC)　最(Dfa)　可能(VH)　的(DE)　詞類(Na)　。(PERIODCATEGORY)
+***********************************************
+101.　。(PERIODCATEGORY)　（二）(Neu)　利用(VC)　鬆弛法(Na)　來(D)　做(VC)　詞類(Na)　標記(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+102.　。(PERIODCATEGORY)　鬆弛法(Na)　的(DE)　技巧(Na)　曾經(D)　被(P)　廣泛(VH)　運用(VC)　在(P)　影像(Na)　處理(VC)[+nom]　及(Caa)　景物(Na)　分析(VC)[+nom]　的(DE)　問題(Na)　上(Ng)　。(PERIODCATEGORY)
+***********************************************
+103.　。(PERIODCATEGORY)　一般來說(Dk)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　鬆弛法(Na)　適合(VH)　用來(VL)　解決(VC)　標記(Na)　指定(VE)[+nom]　的(DE)　問題(Na)　（(PARENTHESISCATEGORY)　亦即(VG)　，(COMMACATEGORY)
+***********************************************
+105.　，(COMMACATEGORY)　在(P)　不(D)　違反(VJ)　一些(Neqa)　限制(Na)　條件(Na)　的(DE)　情況(Na)　下(Ng)　將(P)　標記(Na)　指定給(VD)　物件(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+106.　。(PERIODCATEGORY)　在(P)　整(Neqa)　個(Nf)　標記(Na)　指定(VE)[+nom]　的(DE)　過程(Na)　當中(Ng)　，(COMMACATEGORY)
+***********************************************
+107.　，(COMMACATEGORY)　鬆弛法(Na)　的(DE)　技巧(Na)　可以(D)　用來(VL)　降低(VHC)　歧義(Na)　的(DE)　程度(Na)　，(COMMACATEGORY)
+***********************************************
+108.　，(COMMACATEGORY)　並且(Cbb)　從(P)　許多(Neqa)　可能(VH)　的(DE)　指定(VE)[+nom]　方式(Na)　當中(Ng)　挑出(VC)　一(Neu)　個(Nf)　最佳(A)　的(DE)　選擇(Na)　。(PERIODCATEGORY)
+***********************************************
+109.　。(PERIODCATEGORY)　詞類(Na)　標記(VC)[+nom]　的(DE)　問題(Na)　就(D)　是(SHI)　把(P)　詞類(Na)　（(PARENTHESISCATEGORY)　即(VG)　標記(Na)　）(PARENTHESISCATEGORY)　指定給(VD)　詞(Na)　（(PARENTHESISCATEGORY)　即(VG)　物件(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+110.　，(COMMACATEGORY)　因此(Cbb)　我們(Nh)　認為(VE)　鬆弛法(Na)　的(DE)　觀念(Na)　與(Caa)　原則(Na)　適合(VH)　用來(VL)　解決(VC)　詞類(Na)　標記(VC)[+nom]　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+111.　。(PERIODCATEGORY)　鬆弛法(Na)　的(DE)　基本(A)　觀念(Na)　是(SHI)　「(PARENTHESISCATEGORY)　近朱者赤(VH)　、(PAUSECATEGORY)　近墨者黑(VH)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+112.　。(PERIODCATEGORY)　換言之(Dk)　，(COMMACATEGORY)
+***********************************************
+113.　，(COMMACATEGORY)　就(D)　是(SHI)　藉著(P)　與(P)　鄰近(VJ)[+nom]　分子(Na)　之間(Ng)　的(DE)　拉動(VC)[+nom]　來(D)　逐步(D)　調整(VC)　其(Nep)　可能性(Na)　，(COMMACATEGORY)
+***********************************************
+114.　，(COMMACATEGORY)　亦即(VG)　：(COLONCATEGORY)
+***********************************************
+115.　：(COLONCATEGORY)　指定給(VD)　某(Nes)　一(Neu)　個(Nf)　詞(Na)　的(DE)　詞類(Na)　與(P)　指定給(VD)　其(Nep)　相鄰(VH)　詞(Na)　的(DE)　詞類(Na)　之間(Ng)　必須(D)　達成(VC)　某(Nes)　種(Nf)　一致性(Na)　，(COMMACATEGORY)
+***********************************************
+116.　，(COMMACATEGORY)　於是(Cbb)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　指定給(VD)　某(Nes)　一(Neu)　個(Nf)　詞(Na)　的(DE)　詞類(Na)　機率(Na)　便(D)　隨著(P)　指定給(VD)　其(Nep)　相鄰(VH)　詞(Na)　的(DE)　詞類(Na)　機率(Na)　而(Cbb)　逐漸(D)　調整(VC)　。(PERIODCATEGORY)
+***********************************************
+118.　。(PERIODCATEGORY)　在(P)　詞類(Na)　標記(VC)[+nom]　的(DE)　應用(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+119.　，(COMMACATEGORY)　我們(Nh)　可以(D)　利用(VC)　不同(VH)　周邊(Nc)　分子(Na)　的(DE)　連帶(A)　關係(Na)　來(D)　做(VC)　實驗(Na)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　而(Cbb)　最(Dfa)　簡易(VH)　可行(VH)　的(DE)　方式(Na)　是(SHI)　採用(VC)　詞類(Na)　雙連(A)　的(DE)　機率(Na)　關係(Na)　來(D)　做(VG)　鬆弛法(Na)　中(Ng)　參數(Na)　（(PARENTHESISCATEGORY)　即(VG)　兩(Neu)　個(Nf)　相鄰(VH)　詞類(Na)　之間(Ng)　的(DE)　相容(VH)　程度(Na)　）(PARENTHESISCATEGORY)　的(DE)　調整(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+121.　。(PERIODCATEGORY)　也就是說(Dk)　，(COMMACATEGORY)
+***********************************************
+122.　，(COMMACATEGORY)　鬆弛法(Na)　中(Ng)　個別(A)　標記(VC)[+nom]　的(DE)　影響(Na)　範圍(Na)　可以(D)　訂(VC)　在(P)　左右(Ncd)　相鄰(VH)　的(DE)　連續(A)　詞類(Na)　。(PERIODCATEGORY)
+***********************************************
+123.　。(PERIODCATEGORY)　以下(Ncd)　我們(Nh)　來(D)　介紹(VE)　如何(D)　將(P)　詞類(Na)　雙連(A)　模型(Na)　的(DE)　鬆弛法(Na)　技巧(Na)　應用(VC)　在(P)　詞類(Na)　標記(VC)[+nom]　的(DE)　問題(Na)　上(Ng)　。(PERIODCATEGORY)
+***********************************************
+124.　。(PERIODCATEGORY)　將(P)　鬆弛法(Na)　應用(VC)　在(P)　輸入(VC)[+nom]　語料(Na)　當中(Ng)　的(DE)　每(Nes)　一(Neu)　個(Nf)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+125.　，(COMMACATEGORY)　如此(VH)　反覆(D)　若干(Neqa)　次(Nf)　。(PERIODCATEGORY)
+***********************************************
+126.　。(PERIODCATEGORY)　在(P)　實際(VH)　的(DE)　應用(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　應用(VC)　鬆弛法(Na)　的(DE)　次數(Na)　並(D)　不(D)　是(SHI)　一(Neu)　個(Nf)　太(Dfa)　重要(VH)　的(DE)　考量(VE)[+nom]　因素(Na)　。(PERIODCATEGORY)
+***********************************************
+128.　。(PERIODCATEGORY)　我們(Nh)　通常(D)　並(D)　不(D)　太(Dfa)　關切(VJ)　收斂(VH)　與否(T)　的(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+129.　，(COMMACATEGORY)　只(Da)　想(VE)　利用(VC)　鬆弛法(Na)　來(D)　更正(VC)　一些(Neqa)　起始(Na)　錯誤(Na)　，(COMMACATEGORY)
+***********************************************
+130.　，(COMMACATEGORY)　並且(Cbb)　降低(VHC)　起始(Na)　的(DE)　歧義(Na)　程度(Na)　。(PERIODCATEGORY)
+***********************************************
+131.　。(PERIODCATEGORY)　在(P)　我們(Nh)　的(DE)　實驗(Na)　當中(Ng)　，(COMMACATEGORY)
+***********************************************
+132.　，(COMMACATEGORY)　有(V_2)　一(Neu)　小(VH)　部份(Neqa)　的(DE)　輸入(VC)[+nom]　語料(Na)　有(V_2)　人工(Na)　標記(VC)[+nom]　的(DE)　結果(Na)　可(D)　供(VF)　比對(VC)　。(PERIODCATEGORY)
+***********************************************
+133.　。(PERIODCATEGORY)　在(P)　每(Nes)　一(Neu)　次(Nf)　反覆(D)　結束(VHC)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+134.　，(COMMACATEGORY)　由(P)　電腦(Na)　所(D)　標記(VC)　的(DE)　這(Nep)　一(Neu)　小(VH)　部份(Neqa)　測試(Na)[+nom]　語料(Na)　便會(D)　被(P)　抽取(VC)　出來(VA)　與(P)　人工(Na)　標記(VC)[+nom]　的(DE)　結果(Na)　比較(VC)　。(PERIODCATEGORY)
+***********************************************
+135.　。(PERIODCATEGORY)　若(Cbb)　在(P)　標記(VC)[+nom]　的(DE)　結果(Na)　上(Ng)　已經(D)　沒有(VJ)　明顯(VH)　的(DE)　改進(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+136.　，(COMMACATEGORY)　則(D)　我們(Nh)　就(D)　停止(VF)　鬆弛法(Na)　的(DE)　反覆(A)　動作(Na)　。(PERIODCATEGORY)
+***********************************************
+137.　。(PERIODCATEGORY)　在(P)　這(Nep)　個(Nf)　反覆(A)　動作(Na)　結束(VHC)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　有(V_2)　最(Dfa)　高(VH)　機率值(Na)　的(DE)　那(Nep)　個(Nf)　詞類(Na)　就(D)　視為(VG)　是(SHI)　正確(VH)　的(DE)　結果(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+139.　；(SEMICOLONCATEGORY)　如果(Cbb)　有(V_2)　兩(Neu)　個(Nf)　詞類(Na)　同時(Nd)　都(D)　有(V_2)　最(Dfa)　高(VH)　的(DE)　機率值(Na)　，(COMMACATEGORY)
+***********************************************
+140.　，(COMMACATEGORY)　則(D)　我們(Nh)　就(D)　任選(VC)　其中(Nep)　一(Neu)　個(Nf)　。(PERIODCATEGORY)
+***********************************************
+141.　。(PERIODCATEGORY)　參(Neu)　、(PAUSECATEGORY)　實驗(VE)[+nom]　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+142.　。(PERIODCATEGORY)　我們(Nh)　準備(VC)　了(Di)　一(Neu)　個(Nf)　大約(Da)　兩百萬(Neu)　詞(Na)　的(DE)　輸入(VC)[+nom]　語料(Na)　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　斷詞(VA)　的(DE)　工作(Na)　則(D)　由(P)　中央(Nc)　研究院(Nc)　資訊(Na)　科學(Na)　研究所(Nc)　詞庫(Na)　小組(Na)　的(DE)　斷詞(VA)[+nom]　系統(Na)　來(D)　負責(VL)　執行(VC)　。(PERIODCATEGORY)
+***********************************************
+144.　。(PERIODCATEGORY)　在(P)　這(Nep)　個(Nf)　大(VH)　的(DE)　輸入(VC)[+nom]　語料(Na)　當中(Ng)　，(COMMACATEGORY)
+***********************************************
+145.　，(COMMACATEGORY)　大約(Da)　有(V_2)　３６０００(Neu)　個(Nf)　詞(Na)　是(SHI)　由(P)　人工(Na)　標記(VC)　過(Di)　，(COMMACATEGORY)
+***********************************************
+146.　，(COMMACATEGORY)　因此(Cbb)　這(Nep)　一(Neu)　部份(Neqa)　可以(D)　拿來(VC)　當做(VG)　比對(VC)　的(DE)　基準(Na)　（(PARENTHESISCATEGORY)　換言之(Dk)　，(COMMACATEGORY)
+***********************************************
+147.　，(COMMACATEGORY)　當(P)　電腦(Na)　對(P)　整(Neqa)　個(Nf)　輸入(VC)[+nom]　語料(Na)　標記完(VC)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+148.　，(COMMACATEGORY)　這(Nep)　３６０００(Neu)　個(Nf)　詞(Na)　的(DE)　結果(Na)　便(D)　被(P)　抽取(VC)　出來(VA)　與(P)　人工(Na)　標記(VC)[+nom]　的(DE)　結果(Na)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　以便(Cbb)　檢查(VE)　自動(VH)　標記(VC)　的(DE)　正確性(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+150.　。(PERIODCATEGORY)　在(P)　這(Nep)　３６０００(Neu)　個(Nf)　詞(Na)　當中(Ng)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　大約(Da)　有(V_2)　１７．７５％(Neqa)　的(DE)　詞(Na)　具有(VJ)　多重(A)　詞類(Na)　。(PERIODCATEGORY)
+***********************************************
+152.　。(PERIODCATEGORY)　我們(Nh)　總共(Da)　做(VC)　了(Di)　三(Neu)　個(Nf)　實驗(Na)　：(COLONCATEGORY)
+***********************************************
+153.　：(COLONCATEGORY)　首先(D)　是(SHI)　單純(VH)　的(DE)　鬆弛法(Na)　與(P)　這(Nep)　個(Nf)　混合(VC)　方法(Na)　的(DE)　結果(Na)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+154.　，(COMMACATEGORY)　接著(D)　探討(VE)　未知詞(Na)　對(P)　已知詞(Na)　詞類(Na)　標記(VC)[+nom]　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+155.　，(COMMACATEGORY)　最後(Nd)　比較(VC)　了(Di)　詞類(Na)　雙連(A)　模型(Na)　與(P)　詞類(Na)　三連(A)　模型(Na)　在(P)　應用(VC)　上(Ng)　的(DE)　優劣(Na)　。(PERIODCATEGORY)
+***********************************************
+156.　。(PERIODCATEGORY)　詳細(VH)　的(DE)　實驗(VE)[+nom]　結果(Na)　請(VF)　參見(VC)　英文(Na)　附錄(Na)　。(PERIODCATEGORY)
+***********************************************
+157.　。(PERIODCATEGORY)　肆(Neu)　、(PAUSECATEGORY)　結論(Na)　。(PERIODCATEGORY)
+***********************************************
+158.　。(PERIODCATEGORY)　鬆弛法(Na)　只(Da)　考慮(VE)　相鄰(VH)　兩(Neu)　個(Nf)　（(PARENTHESISCATEGORY)　或(Caa)　若干(Neqa)　個(Nf)　）(PARENTHESISCATEGORY)　詞類(Na)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　因此(Cbb)　它(Nh)　無法(D)　處理(VC)　以下(Ncd)　兩(Neu)　種(Nf)　狀況(Na)　：(COLONCATEGORY)
+***********************************************
+160.　：(COLONCATEGORY)　（１）(Neu)　遠(VH)　距離(Na)　的(DE)　詞類(Na)　關係(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+161.　；(SEMICOLONCATEGORY)　（２）(Neu)　某(Nes)　個(Nf)　詞(Na)　對於(P)　某(Nes)　個(Nf)　特殊(VH)　詞類(Na)　的(DE)　偏好(VJ)[+nom]　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+162.　。(PERIODCATEGORY)　第一(Neu)　個(Nf)　缺點(Na)　是(SHI)　所有(Neqa)　機率式(A)　系統(Na)　的(DE)　特質(Na)　，(COMMACATEGORY)
+***********************************************
+163.　，(COMMACATEGORY)　並(D)　不(D)　專屬(VJ)　於(P)　鬆弛法(Na)　。(PERIODCATEGORY)
+***********************************************
+164.　。(PERIODCATEGORY)　第二(Neu)　個(Nf)　缺點(Na)　則(D)　是(SHI)　因為(Cbb)　我們(Nh)　缺乏(VJ)　一(Neu)　個(Nf)　已經(D)　標記好(VC)　的(DE)　語料(Na)　來(D)　得知(VK)　每(Nes)　一(Neu)　個(Nf)　詞(Na)　對(P)　某(Nes)　一(Neu)　個(Nf)　特殊(VH)　詞類(Na)　的(DE)　偏好(VJ)[+nom]　程度(Na)　。(PERIODCATEGORY)
+***********************************************
+165.　。(PERIODCATEGORY)　在(P)　某(Nes)　種(Nf)　程度(Na)　上(Ng)　我們(Nh)　可以(D)　利用(VC)　法則(Na)　來(D)　彌補(VC)　上述(Na)　兩(Neu)　個(Nf)　缺點(Na)　。(PERIODCATEGORY)
+***********************************************
+166.　。(PERIODCATEGORY)　由於(Cbb)　鬆弛法(Na)　利用(VC)　相鄰(VH)　的(DE)　詞類(Na)　來(D)　決定(VE)　一(Neu)　個(Nf)　詞(Na)　最(Dfa)　可能(VH)　的(DE)　詞類(Na)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　因此(Cbb)　相鄰(VH)　詞類(Na)　的(DE)　正確(VH)[+nom]　與否(T)　對(P)　詞類(Na)　的(DE)　選擇(VC)[+nom]　有(V_2)　決定性(Na)　的(DE)　影響(Na)　。(PERIODCATEGORY)
+***********************************************
+168.　。(PERIODCATEGORY)　未知詞(Na)　的(DE)　存在(VA)[+nom]　會(D)　使(VL)　詞類(Na)　共現(VH)　的(DE)　訊息(Na)　變(VH)　得(DE)　混淆(VHC)　，(COMMACATEGORY)
+***********************************************
+169.　，(COMMACATEGORY)　也(D)　因而(Cbb)　降低(VHC)　了(Di)　詞類(Na)　標記(VC)[+nom]　的(DE)　正確率(Na)　。(PERIODCATEGORY)
+***********************************************
+170.　。(PERIODCATEGORY)　為(P)　了(Di)　進一步(D)　提高(VC)　詞類(Na)　標記(VC)[+nom]　的(DE)　正確率(Na)　，(COMMACATEGORY)
+***********************************************
+171.　，(COMMACATEGORY)　未知詞(Na)　的(DE)　問題(Na)　勢必(D)　要(D)　加以(D)　解決(VC)　。(PERIODCATEGORY)
+***********************************************
+172.　。(PERIODCATEGORY)　當(P)　我們(Nh)　手(Na)　邊(Ncd)　沒有(D)　已經(D)　標記好(VC)　的(DE)　語料(Na)　可(D)　供(VF)　利用(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　我們(Nh)　可以(D)　應用(VC)　這(Nep)　個(Nf)　混合(VC)　的(DE)　方法(Na)　來(D)　做(VC)　詞類(Na)　標記(VC)[+nom]　的(DE)　工作(Na)　，(COMMACATEGORY)
+***********************************************
+174.　，(COMMACATEGORY)　因為(Cbb)　這(Nep)　個(Nf)　方法(Na)　不(D)　需要(VK)　一(Neu)　個(Nf)　已經(D)　標記好(VC)　的(DE)　語料(Na)　來(D)　訓練(VC)　參數(Na)　。(PERIODCATEGORY)
+***********************************************
+175.　。(PERIODCATEGORY)　一旦(Cbb)　我們(Nh)　有(V_2)　一(Neu)　個(Nf)　已經(D)　標記好(VC)　的(DE)　語料(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+176.　，(COMMACATEGORY)　則(D)　其他(Neqa)　不(D)　需要(VK)　執行(VC)　反覆(A)　動作(Na)　的(DE)　機率式(A)　方法(Na)　可以(D)　拿來(VC)　取代(VC)　鬆弛法(Na)　，(COMMACATEGORY)
+***********************************************
+177.　，(COMMACATEGORY)　以便(Cbb)　提昇(VC)　詞類(Na)　標記(VC)[+nom]　的(DE)　速度(Na)　。(PERIODCATEGORY)
+***********************************************
+178.　。(PERIODCATEGORY)　不過(Cbb)　法則式(A)　的(DE)　部份(Neqa)　還是(D)　應該(D)　予以(D)　保留(VC)　，(COMMACATEGORY)
+***********************************************
+179.　，(COMMACATEGORY)　以便(Cbb)　彌補(VC)　機率式(A)　的(DE)　缺點(Na)　。(PERIODCATEGORY)
+***********************************************

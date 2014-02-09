@@ -1,0 +1,2336 @@
+%%  文類=評論
+%%  文體=論說
+%%  語式=written
+%%  主題=生物
+%%  媒體=學術論著
+%%  姓名=黃重期撰。指導教授：張學文博士。
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=國立中山大學生命科學研究所碩士論文。
+%%  出版地=台灣省高雄市國立中山大學
+%%  出版日期=中華民國八十四年六月。
+%%  版次=
+%%  標題=以粒線體核酸分析南亞蝸牛屬親緣關係。
+1.　。(ERIODCATEGORY)　題目(Na)　：(COLONCATEGORY)
+***********************************************
+2.　：(COLONCATEGORY)　以(P)　粒線體(Na)　核酸(Na)　分析(VC)　南亞(Nc)　蝸牛(Na)　屬(Na)　親緣(Na)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+3.　。(PERIODCATEGORY)　壹(Neu)　、(PAUSECATEGORY)　前言(Na)　。(PERIODCATEGORY)
+***********************************************
+4.　。(PERIODCATEGORY)　南亞(Nc)　蝸牛(Na)　屬(Na)　蝸牛(Na)　屬於(VG)　軟體(Na)　動物(Na)　門(Na)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　腹足綱(Na)　，(COMMACATEGORY)
+***********************************************
+6.　，(COMMACATEGORY)　有肺亞綱(Na)　，(COMMACATEGORY)
+***********************************************
+7.　，(COMMACATEGORY)　柄眼目(Na)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　南亞(Nc)　蝸牛(Na)　科(Na)　，(COMMACATEGORY)
+***********************************************
+9.　，(COMMACATEGORY)　世界(Nc)　共(Da)　有(V_2)　大約(Da)　五十(Neu)　種(Nf)　，(COMMACATEGORY)
+***********************************************
+10.　，(COMMACATEGORY)　分佈(VH)　於(P)　印度(Nc)　、(PAUSECATEGORY)　中南半島(Nc)　、(PAUSECATEGORY)　台灣(Nc)　、(PAUSECATEGORY)　西沙群島(Nc)　、(PAUSECATEGORY)　日本(Nc)　宮古群島(Nc)　、(PAUSECATEGORY)　菲律賓(Nc)　巴丹(Nc)　群島(Na)　，(COMMACATEGORY)
+***********************************************
+11.　，(COMMACATEGORY)　及(Caa)　巴拉望(Nc)　以及(Caa)　中國(Nc)　大陸(Nc)　的(DE)　雲南(Nc)　、(PAUSECATEGORY)　廣東(Nc)　、(PAUSECATEGORY)　廣西(Nc)　、(PAUSECATEGORY)　海南島(Nc)　、(PAUSECATEGORY)　湖南(Nc)　、(PAUSECATEGORY)　上海(Nc)　、(PAUSECATEGORY)　香港(Nc)　等(Cab)　沿海(Nc)　諸(Nes)　省(Nc)　。(PERIODCATEGORY)
+***********************************************
+12.　。(PERIODCATEGORY)　本(Nes)　屬(Na)　的(DE)　特徵(Na)　為(VG)　殼(Na)　大型(Na)　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　呈(VJ)　扁(VH)　球形(Na)　至(Caa)　短(VH)　蛹狀(Na)　，(COMMACATEGORY)
+***********************************************
+14.　，(COMMACATEGORY)　左旋(VA)　或(Caa)　右旋(VA)　，(COMMACATEGORY)
+***********************************************
+15.　，(COMMACATEGORY)　堅硬(VH)　，(COMMACATEGORY)
+***********************************************
+16.　，(COMMACATEGORY)　黃(VH)　或(Caa)　褐色(Na)　，(COMMACATEGORY)
+***********************************************
+17.　，(COMMACATEGORY)　通常(D)　具有(VJ)　栗色(Na)　斑帶(Na)　，(COMMACATEGORY)
+***********************************************
+18.　，(COMMACATEGORY)　表面(Na)　密(VH)　生(VC)　螺紋(Na)　、(PAUSECATEGORY)　皺褶(Na)　或(Caa)　顆粒(Na)　。(PERIODCATEGORY)
+***********************************************
+19.　。(PERIODCATEGORY)　五(Neu)　層(Nf)　，(COMMACATEGORY)
+***********************************************
+20.　，(COMMACATEGORY)　第一(Neu)　螺層(Na)　扁平(VH)　，(COMMACATEGORY)
+***********************************************
+21.　，(COMMACATEGORY)　體層(Na)　周緣(Nc)　圓形(Na)　或(Caa)　呈(VJ)　龍骨狀(Na)　突起(VH)　。(PERIODCATEGORY)
+***********************************************
+22.　。(PERIODCATEGORY)　殼(Na)　口(Ncd)　擴展(VC)　外翻(VA)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　軸唇(Na)　邊緣(Nc)　全部(Neqa)　或(Caa)　部分(Neqa)　覆蓋(VC)　臍孔(Na)　。(PERIODCATEGORY)
+***********************************************
+24.　。(PERIODCATEGORY)　軸柱(Na)　圓形(Na)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　胎殼(Na)　大(VH)　，(COMMACATEGORY)
+***********************************************
+26.　，(COMMACATEGORY)　佔(VJ)　殼(Na)　直徑(Na)　的(DE)　五分之一(Neqa)　。(PERIODCATEGORY)
+***********************************************
+27.　。(PERIODCATEGORY)　生殖器(Na)　陰莖(Na)　短(VH)　，(COMMACATEGORY)
+***********************************************
+28.　，(COMMACATEGORY)　上方(Ncd)　具(VJ)　隆起(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　收縮肌(Na)　及(Caa)　輸精管(Na)　由(P)　此(Nep)　相連(VH)　，(COMMACATEGORY)
+***********************************************
+30.　，(COMMACATEGORY)　末端(Ncd)　形成(VG)　一(Neu)　鞭狀器(Na)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　陰莖(Na)　內部(Ncd)　具(VJ)　皺摺(Na)　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　頂端(Ncd)　有(V_2)　大(VH)　凹點(Na)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　不(D)　具(VJ)　陰莖(Na)　附屬(VI)[+nom]　肢(Na)　及(Caa)　黏液腺(Na)　。(PERIODCATEGORY)
+***********************************************
+34.　。(PERIODCATEGORY)　尤其(D)　是(SHI)　不(D)　具(VJ)　陰莖(Na)　附屬(VI)[+nom]　肢(Na)　，(COMMACATEGORY)
+***********************************************
+35.　，(COMMACATEGORY)　可(D)　與(P)　外型(Na)　及(Caa)　地理(Na)　分佈(VH)　近似(VJ)　的(DE)　栗蝸牛(Na)　屬(Na)　區別(VC)　。(PERIODCATEGORY)
+***********************************************
+36.　。(PERIODCATEGORY)　台灣(Nc)　位於(VCL)　南亞(Nc)　蝸牛(Na)　分佈(VH)　的(DE)　東(Ncd)　緣(Ncd)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　目前(Nd)　的(DE)　分類(Na)　共(Da)　有(V_2)　三(Neu)　種(Nf)　五(Neu)　亞種(Na)　。(PERIODCATEGORY)
+***********************************************
+38.　。(PERIODCATEGORY)　巴丹(Nc)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　分佈(VH)　於(P)　菲律賓(Nc)　巴丹(Nc)　群島(Na)　。(PERIODCATEGORY)
+***********************************************
+40.　。(PERIODCATEGORY)　班卡拉(Nb)　蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+41.　。(PERIODCATEGORY)　蘭嶼(Nc)　蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+42.　。(PERIODCATEGORY)　阿猴(Nb)　蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+43.　。(PERIODCATEGORY)　小(VH)　菱蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+44.　。(PERIODCATEGORY)　圓(VH)　菱蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+45.　。(PERIODCATEGORY)　紅(VH)　菱蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+46.　。(PERIODCATEGORY)　菱蝸牛(Na)　。(PERIODCATEGORY)
+***********************************************
+47.　。(PERIODCATEGORY)　各(Nes)　種(Na)　的(DE)　分佈(VH)[+nom]　依據(P)　文獻(Na)　記載(Na)　及(Caa)　作者(Na)　最近(Nd)　的(DE)　採集(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　其中(Nep)　蘭嶼(Nc)　蝸牛(Na)　的(DE)　分佈(VH)　範圍(Na)　較(Dfa)　廣(VH)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　除(P)　北部(Ncd)　及(Caa)　高山(Na)　地區(Nc)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+50.　，(COMMACATEGORY)　均(D)　有(V_2)　零星(VH)　的(DE)　點狀(Na)　分佈(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　並(Cbb)　可(D)　分佈(VH)　至(P)　小琉球(Nc)　及(Caa)　海拔(Na)　一千(Neu)　公尺(Nf)　的(DE)　山地(Nc)　；(SEMICOLONCATEGORY)
+***********************************************
+52.　；(SEMICOLONCATEGORY)　阿猴(Nb)　蝸牛(Na)　則(D)　只(Da)　侷限(VC)　於(P)　屏東(Nc)　楓港溪(Nc)　至(P)　四重溪(Nc)　一帶(Ncd)　；(SEMICOLONCATEGORY)
+***********************************************
+53.　；(SEMICOLONCATEGORY)　巴丹(Nc)　蝸牛(Na)　則(D)　廣泛(VH)　分佈(VH)　於(P)　恆春(Nc)　半島(Na)　、(PAUSECATEGORY)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　及(Caa)　台東(Nc)　一帶(Ncd)　，(COMMACATEGORY)
+***********************************************
+54.　，(COMMACATEGORY)　並(Cbb)　有(V_2)　一(Neu)　個(Nf)　孤立(VHC)　族群(Na)　分佈(VH)　於(P)　苗栗(Nc)　獅潭(Nc)　。(PERIODCATEGORY)
+***********************************************
+55.　。(PERIODCATEGORY)　台灣(Nc)　南亞(Nc)　蝸牛(Na)　的(DE)　分類(Na)　最早(D)　由(P)　Ｐｆｅｉｆｆｅｒ(Nb)[+fw]　描述(VC)　Ｈ(FW)　　ｂａｃｃａ(FW)　的(DE)　一(Neu)　左旋型(Na)　變種(Na)　ｓｉｎｉｓｔｒｏｒｓａ(FW)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　而(Cbb)　Ｓｃｈｍａｃｋｅｒ(Nb)[+fw]　認為(VE)　此(Nep)　變種(Na)　並(D)　非(VG)　Ｈ‧ｂａｃｃａ(FW)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　另外(Cbb)　命名為(VG)　Ｈｅｌｉｘ(FW)　ｐａｎｃａｌａ(FW)　，(COMMACATEGORY)
+***********************************************
+58.　，(COMMACATEGORY)　並(Cbb)　同時(Nd)　描述(VC)　另(Nes)　一(Neu)　小型(Na)　變種(Na)　ｔｒｉｆａｓｃｉａｔａ(FW)　，(COMMACATEGORY)
+***********************************************
+59.　，(COMMACATEGORY)　爾後(D)　Ｋｕｒｏｄａ(Nb)[+fw]　描述(VC)　蘭嶼(Nc)　之(DE)　Ｈ‧ｂａｔａｎｉｃａ(FW)　為(VG)　亞種(Na)　ｂｏｔｅｌｔｏｂａｇｏｅｎｓｉｓ(FW)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　並(Cbb)　認為(VE)　Ｈ(FW)　ｐａｎｃａｌａ(FW)　為(VG)　菲律賓(Nc)　巴丹島(Nc)　Ｈ(FW)　ｂａｔａｎｉｃａ(FW)　之(DE)　亞種(Na)　，(COMMACATEGORY)
+***********************************************
+61.　，(COMMACATEGORY)　並(Cbb)　於(P)　１９４１年(Nd)　將(P)　變種(Na)　ｔｒｉｆａｓｃｉａｔａ(FW)　合併(VC)　入(VC)　Ｇａｎｅｓｅｌｌａ(FW)　ｂａｔａｎｉｃａ(FW)　ｐａｎｃａｌａ(FW)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　至(P)　此時(Nd)　確定(VK)　Ｇ(FW)　ｂａｔａｎｉｃａ(FW)　已(D)　有(V_2)　兩(Neu)　個(Nf)　亞種(Na)　分佈(VH)　於(P)　台灣(Nc)　。(PERIODCATEGORY)
+***********************************************
+63.　。(PERIODCATEGORY)　在(P)　小(VH)　菱蝸牛(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+64.　，(COMMACATEGORY)　Ａｄａｍｓ(Nb)[+fw]　描述(VC)　Ｈ(FW)　ｓｕｃｃｉｎｃｔａ(FW)　，(COMMACATEGORY)
+***********************************************
+65.　，(COMMACATEGORY)　　Ｐｉｌｓｂｒｙ(Nb)[+fw]　描述(VC)　亞種(Na)　圓(VH)　菱蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　　Ｋｕｒｏｄａ(Nb)[+fw]　描述(VC)　小琉球(Nc)　者(Na)　為(VG)　另(Nes)　一(Neu)　亞種(Na)　紅(VH)　菱蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+67.　，(COMMACATEGORY)　而(Cbb)　Ｍｏｅｌｌｅｎｄｏｒｆｆ(Nb)[+fw]　描述(VC)　的(DE)　菱蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+68.　，(COMMACATEGORY)　目前(Nd)　被(P)　認為(VE)　與(P)　小(VH)　菱蝸牛(Na)　同種(VH)　，(COMMACATEGORY)
+***********************************************
+69.　，(COMMACATEGORY)　現已(D)　併為(VG)　亞種(Na)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　故(Cbb)　目前(Nd)　本(Nes)　種(Na)　共(Da)　有(V_2)　三(Neu)　個(Nf)　亞種(Na)　。(PERIODCATEGORY)
+***********************************************
+71.　。(PERIODCATEGORY)　以上(Ncd)　三(Neu)　種(Na)　原來(D)　皆(D)　歸類於(VJ)　Ｈｅｌｉｘ(FW)　Ｌ(FW)　屬(Na)　中(Ng)　。(PERIODCATEGORY)
+***********************************************
+72.　。(PERIODCATEGORY)　目前(Nd)　以(P)　其(Nep)　生殖器(Na)　形態(Na)　類似(VG)　南亞(Nc)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+73.　，(COMMACATEGORY)　故(Cbb)　屬於(VG)　南亞(Nc)　蝸牛(Na)　屬(Na)　。(PERIODCATEGORY)
+***********************************************
+74.　。(PERIODCATEGORY)　根據(P)　文獻(Na)　記載(Na)　及(Caa)　我(Nh)　的(DE)　採集(VC)[+nom]　觀察(VE)[+nom]　，(COMMACATEGORY)
+***********************************************
+75.　，(COMMACATEGORY)　台灣(Nc)　的(DE)　南亞(Nc)　蝸牛(Na)　有(V_2)　以下(Ncd)　幾(Neu)　個(Nf)　疑點(Na)　懸而未決(VH)　：(COLONCATEGORY)
+***********************************************
+76.　：(COLONCATEGORY)　一(Neu)　、(PAUSECATEGORY)　個體(Na)　大小型(Na)　的(DE)　變異(Na)　。(PERIODCATEGORY)
+***********************************************
+77.　。(PERIODCATEGORY)　Ｓｃｈｍａｃｋｅｒ(Nb)[+fw]　曾(D)　描述(VC)　班卡拉(Nb)　蝸牛(Na)　的(DE)　一(Neu)　個(Nf)　小型(Na)　變種(Na)　ｔｒｉｆａｓｃｉａｔａ(FW)　（(PARENTHESISCATEGORY)　殼(Na)　高(VH)　１０—１６(Neu)　ｍｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　殼(Na)　寬(VH)　１５—２３(Neu)　ｍｍ(Nf)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+79.　；(SEMICOLONCATEGORY)　張(Nb)　對(P)　蘭嶼(Nc)　及(Caa)　大尖山(Nc)　的(DE)　小型(Na)　族群(Na)　做(VC)　解剖(VC)[+nom]　比較(Na)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　發現(VE)　除(P)　體型(Na)　大小(Na)　差異(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+81.　，(COMMACATEGORY)　在(P)　殼形(Na)　上(Ng)　大尖山(Nc)　的(DE)　小型(Na)　較(P)　大型(A)　者(Na)　低平(VH)　，(COMMACATEGORY)
+***********************************************
+82.　，(COMMACATEGORY)　而(Cbb)　蘭嶼(Nc)　的(DE)　小型(Na)　較(P)　大型(A)　者(Na)　高起(VA)　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　但(Cbb)　在(P)　生殖器(Na)　及(Caa)　齒舌(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　三(Neu)　者(Na)　並(D)　無(VJ)　太(Dfa)　大(VH)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+85.　，(COMMACATEGORY)　張(Nb)　推論(VE)　這(Nep)　是(SHI)　因(Cbb)　族群(Na)　棲息(VA)[+nom]　環境(Na)　的(DE)　差異(Na)　所(D)　引起(VC)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　如(Cbb)　大尖山(Nc)　及(Caa)　離島(Nc)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+87.　，(COMMACATEGORY)　因(Cbb)　受(P)　氣候(Na)　及(Caa)　食物(Na)　因子(Na)　影響(VC)　而(Cbb)　趨向(VK)　小型化(VHC)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　但(Cbb)　實際(VH)　影響(Na)　因素(Na)　仍(D)　不(D)　清楚(VH)　。(PERIODCATEGORY)
+***********************************************
+89.　。(PERIODCATEGORY)　類似(VG)　的(DE)　情形(Na)　亦(D)　見於(VC)　阿猴(Nb)　蝸牛(Na)　及(Caa)　小(VH)　菱蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+90.　，(COMMACATEGORY)　前(Ncd)　種(Na)　分佈(VH)　於(P)　龜山(Nc)　及(Caa)　楓港(Nc)　的(DE)　個體(Na)　明顯(VH)　小於(VJ)　四重溪(Nc)　至(Caa)　石門(Nc)　的(DE)　個體(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+91.　；(SEMICOLONCATEGORY)　後者(Nh)　的(DE)　小琉球(Nc)　、(PAUSECATEGORY)　橋頭(Nc)　與(Caa)　關仔嶺(Nc)　個體(Na)　小於(VJ)　壽山(Nc)　、(PAUSECATEGORY)　半屏山(Nc)　及(Caa)　鳳山(Nc)　水庫(Na)　的(DE)　個體(Na)　。(PERIODCATEGORY)
+***********************************************
+92.　。(PERIODCATEGORY)　對於(P)　同(Nes)　種(Na)　內(Ng)　不同(VH)　族群(Na)　間(Ng)　的(DE)　殼型(Na)　大小(Na)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+93.　，(COMMACATEGORY)　加上(VC)　地理(Na)　的(DE)　阻隔(VJ)[+nom]　，(COMMACATEGORY)
+***********************************************
+94.　，(COMMACATEGORY)　是否(D)　已(D)　對(P)　基因(Na)　交流(VH)　有(V_2)　一定(A)　程度(Na)　的(DE)　阻礙(Na)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　造成(VG)　遺傳(VJ)[+nom]　組成(VG)[+nom]　上(Ng)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+96.　，(COMMACATEGORY)　或者(Caa)　只是(D)　表型(Na)　的(DE)　可塑性(Na)　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　這(Nep)　是(SHI)　我們(Nh)　所(D)　想要(VE)　探討(VE)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+98.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　苗栗(Nc)　獅潭(Nc)　的(DE)　班卡拉(Nb)　孤立(VHC)　族群(Na)　。(PERIODCATEGORY)
+***********************************************
+99.　。(PERIODCATEGORY)　張(Nb)　發現(VE)　苗栗(Nc)　獅潭(Nc)　的(DE)　班卡拉(Nb)　蝸牛(Na)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+100.　，(COMMACATEGORY)　經(P)　其(Nep)　對(P)　外形(Na)　及(Caa)　解剖(VC)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+101.　，(COMMACATEGORY)　認為(VE)　與(P)　恆春(Nc)　半島(Na)　產(VC)　者(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+102.　，(COMMACATEGORY)　對於(P)　此(Nep)　族群(Na)　的(DE)　起源(Na)　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　推論(VE)　若非(Cbb)　原本(D)　即已(D)　生存(VH)　於(P)　此(Nep)　地(Na)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　就(D)　是(SHI)　人為(A)　引進(VC)　或(Caa)　自然(VH)　遷移(VC)　進入(VCL)　。(PERIODCATEGORY)
+***********************************************
+105.　。(PERIODCATEGORY)　原本(D)　已(D)　有(V_2)　的(DE)　記錄(Na)　，(COMMACATEGORY)
+***********************************************
+106.　，(COMMACATEGORY)　本(Nes)　種(Na)　在(P)　台灣(Nc)　東西岸(Nc)　最(Dfa)　北(Ncd)　分別(D)　分佈(VH)　到(P)　台東(Nc)　的(DE)　八仙洞(Nc)　及(Caa)　高雄(Nc)　旗山(Nc)　，(COMMACATEGORY)
+***********************************************
+107.　，(COMMACATEGORY)　但(Cbb)　若是(Cbb)　原(D)　生(VC)　於(P)　獅潭(Nc)　，(COMMACATEGORY)
+***********************************************
+108.　，(COMMACATEGORY)　距離(P)　旗山(Nc)　或(Caa)　八仙洞(Nc)　相當(Dfa)　遠(VH)　，(COMMACATEGORY)
+***********************************************
+109.　，(COMMACATEGORY)　而(Cbb)　兩(Neu)　地(Na)　之間(Ncd)　迄(P)　今(Nd)　未(D)　有(V_2)　任何(Neqa)　的(DE)　採集(VC)[+nom]　記錄(Na)　，(COMMACATEGORY)
+***********************************************
+110.　，(COMMACATEGORY)　這(Nep)　是(SHI)　一(Neu)　件(Nf)　奇怪(VH)　的(DE)　事(Na)　，(COMMACATEGORY)
+***********************************************
+111.　，(COMMACATEGORY)　因此(Cbb)　推測(VE)　是(SHI)　人為(A)　的(DE)　引進(VC)[+nom]　較(Dfa)　有(V_2)　可能(Na)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　蓋因(Cbb)　班卡拉(Nb)　在(P)　墾丁(Nc)　地區(Nc)　是(SHI)　最(Dfa)　顯眼(VH)　、(PAUSECATEGORY)　數量(Na)　非常(Dfa)　多(VH)　的(DE)　貝類(Na)　，(COMMACATEGORY)
+***********************************************
+113.　，(COMMACATEGORY)　很(Dfa)　可能(D)　有(V_2)　人(Na)　有意(VL)　或(Caa)　無意(VL)　的(DE)　將(P)　其(Nep)　帶到(VC)　別的(Neqa)　地方(Na)　，(COMMACATEGORY)
+***********************************************
+114.　，(COMMACATEGORY)　是(SHI)　很(Dfa)　有(D)　可能(D)　發生(VJ)　的(DE)　。(PERIODCATEGORY)
+***********************************************
+115.　。(PERIODCATEGORY)　不論(Cbb)　這(Nep)　是(SHI)　原本(D)　即已(D)　生存(VH)　於(P)　此(Nep)　地(Na)　或是(Caa)　遷移(VC)　進入(VCL)　的(DE)　，(COMMACATEGORY)
+***********************************************
+116.　，(COMMACATEGORY)　如果(Cbb)　能(D)　以(P)　基因(Na)　層次(Na)　的(DE)　比較(Na)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　也許(D)　有(V_2)　可能(Na)　對於(P)　它們(Nh)　的(DE)　起源(Na)　有(V_2)　個(Nf)　了解(VK)[+nom]　。(PERIODCATEGORY)
+***********************************************
+118.　。(PERIODCATEGORY)　若是(Cbb)　原本(D)　即已(D)　生存(VH)　於(P)　此(Nep)　地(Na)　，(COMMACATEGORY)
+***********************************************
+119.　，(COMMACATEGORY)　則(D)　應該(D)　與(P)　南部(Ncd)　產(VC)　者(Na)　有(V_2)　相距(VJ)　較(Dfa)　遠(VH)　的(DE)　親緣(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　若是(Cbb)　遷移(VC)　進入(VCL)　的(T)　，(COMMACATEGORY)
+***********************************************
+121.　，(COMMACATEGORY)　則(D)　應該(D)　與(P)　南部(Ncd)　某些(Neqa)　族群(Na)　相似(VH)　。(PERIODCATEGORY)
+***********************************************
+122.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　左旋(VA)[+nom]　巴丹(Nc)　蝸牛(Na)　與(Caa)　右旋(VA)[+nom]　阿猴(Nb)　蝸牛(Na)　的(DE)　親緣(Na)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+123.　。(PERIODCATEGORY)　左旋(VA)[+nom]　巴丹(Nc)　蝸牛(Na)　目前(Nd)　已(D)　知(VK)　分佈(VH)　於(P)　恆春(Nc)　半島(Na)　及(Caa)　台東(Nc)　一帶(Ncd)　，(COMMACATEGORY)
+***********************************************
+124.　，(COMMACATEGORY)　而(Cbb)　右旋(VA)[+nom]　阿猴(Nb)　蝸牛(Na)　則(D)　只(Da)　侷限(VC)　在(P)　四重溪(Nc)　至(Caa)　楓港溪(Nc)　一帶(Ncd)　，(COMMACATEGORY)
+***********************************************
+125.　，(COMMACATEGORY)　根據(P)　採集(VC)[+nom]　記錄(Na)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　兩(Neu)　種(Nf)　在(P)　雙流(Nc)　與(Caa)　龜山(Nc)　有(V_2)　共棲(A)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　但(Cbb)　雙流(Nc)　是(SHI)　在(P)　巴丹(Nc)　蝸牛(Na)　族群(Na)　中(Ng)　發現(VE)　一(Neu)　隻(Nf)　成熟(VH)　的(DE)　阿猴(Nb)　蝸牛(Na)　活體(Na)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　而(Cbb)　龜山(Nc)　地區(Nc)　是(SHI)　在(P)　阿猴(Nb)　蝸牛(Na)　族群(Na)　之中(Ng)　發現(VE)　一(Neu)　隻(Nf)　尚未(D)　成熟(VH)　的(DE)　巴丹(Nc)　蝸牛(Na)　幼體(Na)　死(VH)　殼(Na)　。(PERIODCATEGORY)
+***********************************************
+129.　。(PERIODCATEGORY)　這(Nep)　兩(Neu)　種(Nf)　在(P)　殼型(Na)　上(Ng)　僅(Da)　有(V_2)　旋向(Na)　不同(Na)　，(COMMACATEGORY)
+***********************************************
+130.　，(COMMACATEGORY)　其餘(Neqa)　特徵(Na)　均(D)　相似(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+131.　；(SEMICOLONCATEGORY)　在(P)　生殖器(Na)　解剖(VC)[+nom]　上(Ng)　，(COMMACATEGORY)
+***********************************************
+132.　，(COMMACATEGORY)　　Ｓｉｎａｋａｗａ(Nb)[+fw]　解剖(VC)　一(Neu)　隻(Nf)　四重溪(Nc)　的(DE)　阿猴(Nb)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+133.　，(COMMACATEGORY)　與(P)　巴丹(Nc)　蝸牛(Na)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+134.　，(COMMACATEGORY)　結果(Dk)　顯示(VK)　阿猴(Nb)　蝸牛(Na)　的(DE)　鞭狀器(Na)　較(P)　巴丹(Nc)　蝸牛(Na)　長(VH)　，(COMMACATEGORY)
+***********************************************
+135.　，(COMMACATEGORY)　但(Cbb)　其他(Neqa)　特徵(Na)　都(D)　相似(VH)　，(COMMACATEGORY)
+***********************************************
+136.　，(COMMACATEGORY)　Ｓｉｎａｋａｗａ(Nb)[+fw]　依據(P)　Ｔａｂｅ(Nb)[+fw]　比較(VC)　班卡拉(Nb)　蝸牛(Na)　與(Caa)　蘭嶼(Nc)　蝸牛(Na)　的(DE)　數據(Na)　，(COMMACATEGORY)
+***********************************************
+137.　，(COMMACATEGORY)　認為(VE)　鞭狀器(Na)　在(P)　其他(Neqa)　種類(Na)　的(DE)　蝸牛(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　也(D)　有(V_2)　同種(VH)　而(Cbb)　具有(VJ)　左右(Ncd)　兩(Neu)　種(Nf)　旋向(Na)　的(DE)　，(COMMACATEGORY)
+***********************************************
+139.　，(COMMACATEGORY)　或是(Caa)　單一(A)　旋向(Na)　但(Cbb)　偶爾(D)　有(V_2)　反向(VH)　旋轉(VAC)　的(DE)　個體(Na)　變異(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+140.　。(PERIODCATEGORY)　因此(Cbb)　對於(P)　這(Nep)　兩(Neu)　種(Nf)　蝸牛(Na)　旋向(Na)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+141.　，(COMMACATEGORY)　是否(D)　在(P)　地理(Na)　、(PAUSECATEGORY)　行為(Na)　或(Caa)　生殖(VA)[+nom]　方面(Na)　有(V_2)　一定(A)　的(DE)　隔離(VC)[+nom]　機制(Na)　，(COMMACATEGORY)
+***********************************************
+142.　，(COMMACATEGORY)　使(VL)　他們(Nh)　之間(Ng)　有(V_2)　足夠(VH)　的(DE)　生殖(VA)[+nom]　隔離(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　是(SHI)　一(Neu)　個(Nf)　可以(D)　加以(D)　探討(VE)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+144.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　亞種(Na)　的(DE)　分類(Na)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+145.　。(PERIODCATEGORY)　巴丹(Nc)　蝸牛(Na)　的(DE)　模式(Na)　產地(Nc)　為(VG)　菲律賓(Nc)　巴丹島(Nc)　，(COMMACATEGORY)
+***********************************************
+146.　，(COMMACATEGORY)　據(P)　台灣(Nc)　約(Da)　一百三十(Neu)　公里(Nf)　，(COMMACATEGORY)
+***********************************************
+147.　，(COMMACATEGORY)　而(Cbb)　分佈(VH)　於(P)　蘭嶼(Nc)　及(Caa)　綠島(Nc)　為(VG)　亞種(Na)　蘭嶼(Nc)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+148.　，(COMMACATEGORY)　分佈(VH)　於(P)　台灣(Nc)　本(Nes)　島(Na)　為(VG)　亞種(Na)　班卡拉(Nb)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　這(Nep)　兩(Neu)　個(Nf)　亞種(Na)　與(P)　巴丹(Nc)　蝸牛(Na)　的(DE)　差異(Na)　除(P)　地理(Na)　的(DE)　隔離(VC)[+nom]　外(Ng)　，(COMMACATEGORY)
+***********************************************
+150.　，(COMMACATEGORY)　便(D)　是(SHI)　殼型(Na)　的(DE)　大小(Na)　、(PAUSECATEGORY)　形狀(Na)　與(Caa)　螺層(Na)　數目(Na)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　但(Cbb)　Ｒｅｉｇｌｅ(Nb)[+fw]　認為(VE)　蘭嶼(Nc)　蝸牛(Na)　在(P)　外型(Na)　上(Ng)　與(P)　巴丹島(Nc)　產(VC)　者(Na)　並(D)　無(VJ)　太(Dfa)　大(VH)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+152.　，(COMMACATEGORY)　因此(Cbb)　並(D)　無(VJ)　必要(Na)　設立(VC)　此(Nep)　一(Neu)　亞種(Na)　。(PERIODCATEGORY)
+***********************************************
+153.　。(PERIODCATEGORY)　另外(Cbb)　綠島(Nc)　與(Caa)　台灣(Nc)　最(Dfa)　近(VH)　距離(Na)　約(Da)　三十(Neu)　公里(Nf)　，(COMMACATEGORY)
+***********************************************
+154.　，(COMMACATEGORY)　大於(VJ)　蘭嶼(Nc)　與(Caa)　綠島(Nc)　之間(Ncd)　的(DE)　距離(Na)　（(PARENTHESISCATEGORY)　六十(Neu)　公里(Nf)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+155.　，(COMMACATEGORY)　以(P)　這(Nep)　種(Nf)　地理(Na)　隔離(VC)　的(DE)　條件(Na)　，(COMMACATEGORY)
+***********************************************
+156.　，(COMMACATEGORY)　是否(D)　能(D)　阻隔(VJ)　幾(Neu)　個(Nf)　族群(Na)　之間(Ncd)　基因(Na)　交流(VH)　的(DE)　機會(Na)　，(COMMACATEGORY)
+***********************************************
+157.　，(COMMACATEGORY)　而(Cbb)　產生(VHC)　較(Dfa)　高(VH)　分化(VC)[+nom]　程度(Na)　的(DE)　亞種(Na)　或(Caa)　新(VH)　種(Na)　？(QUESTIONCATEGORY)
+***********************************************
+158.　？(QUESTIONCATEGORY)　小(VH)　菱蝸牛(Na)　的(DE)　幾(Neu)　個(Nf)　亞種(Na)　之間(Ng)　的(DE)　界限(Na)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　除了(P)　小琉球(Nc)　為(VG)　島嶼(Na)　亞種(Na)　紅(VH)　菱蝸牛(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+160.　，(COMMACATEGORY)　其他(Neqa)　兩(Neu)　亞種(Na)　均(D)　分佈(VH)　於(P)　台灣(Nc)　中南部(Ncd)　平地(Na)　至(P)　低山地區(Nc)　，(COMMACATEGORY)
+***********************************************
+161.　，(COMMACATEGORY)　呈(VJ)　鑲嵌式(A)　分佈(VH)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　在(P)　亞種(Na)　的(DE)　基本(A)　定義(Na)　上(Ng)　（(PARENTHESISCATEGORY)　地理(Na)　隔離(VC)[+nom]　）(PARENTHESISCATEGORY)　即(D)　有(V_2)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+163.　，(COMMACATEGORY)　更(D)　遑論(VK)　其他(Neqa)　特徵(Na)　了(T)　。(PERIODCATEGORY)
+***********************************************
+164.　。(PERIODCATEGORY)　因此(Cbb)　對於(P)　台灣(Nc)　本(Nes)　島(Na)　及(Caa)　附近(Nc)　島嶼(Na)　的(DE)　一些(Neqa)　亞種(Na)　，(COMMACATEGORY)
+***********************************************
+165.　，(COMMACATEGORY)　除(P)　需要(VK)　得到(VJ)　更(D)　大量(Neqa)　的(DE)　樣本(Na)　做(VC)　形態(Na)　比較(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+166.　，(COMMACATEGORY)　有(V_2)　必要(Na)　以(P)　不同於(VJ)　傳統(VH)　形態(Na)　特徵(Na)　的(DE)　角度(Na)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　另外(Cbb)　取(VC)　一(Neu)　特徵(Na)　系統(Na)　做(VC)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+168.　，(COMMACATEGORY)　重新(D)　審視(VC)　本(Nes)　屬(Na)　族群(Na)　之間(Ng)　的(DE)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+169.　。(PERIODCATEGORY)　傳統(VH)　上(Ng)　蝸牛(Na)　在(P)　目(Na)　以下(Ng)　階層(Na)　的(DE)　分類(Na)　，(COMMACATEGORY)
+***********************************************
+170.　，(COMMACATEGORY)　是(SHI)　以(P)　殼型(Na)　、(PAUSECATEGORY)　生殖器(Na)　與(Caa)　齒舌(Na)　為(VG)　依據(Na)　，(COMMACATEGORY)
+***********************************************
+171.　，(COMMACATEGORY)　在(P)　種(Na)　下(Ng)　的(DE)　階層(Na)　則(D)　常(D)　以(P)　殼型(Na)　變異(Na)　為主(VI)　，(COMMACATEGORY)
+***********************************************
+172.　，(COMMACATEGORY)　但(Cbb)　因(Cbb)　外殼(Na)　會(D)　因(Cbb)　環境(Na)　不同(VH)　而(Cbb)　略為(Dfa)　改變(VC)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　因此(Cbb)　在(P)　十九世紀(Nd)　至(P)　二十世紀(Nd)　初期(Nd)　，(COMMACATEGORY)
+***********************************************
+174.　，(COMMACATEGORY)　以(P)　外殼(Na)　為(VG)　主要(A)　分類(Na)　特徵(Na)　的(DE)　時代(Na)　，(COMMACATEGORY)
+***********************************************
+175.　，(COMMACATEGORY)　出現(VH)　了(Di)　大量(Neqa)　的(DE)　新(VH)　種(Na)　或(Caa)　新(VH)　亞種(Na)　，(COMMACATEGORY)
+***********************************************
+176.　，(COMMACATEGORY)　這些(Neqa)　物種(Na)　在(P)　稍後(D)　的(DE)　生殖器(Na)　解剖(VC)　的(DE)　比較(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+177.　，(COMMACATEGORY)　很多(Neqa)　被(P)　認為(VE)　是(SHI)　同(Nes)　物(Na)　異(VH)　名(Na)　或(Caa)　地理(Na)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+178.　，(COMMACATEGORY)　而(Cbb)　使(VL)　物種(Na)　數目(Na)　大為(Dfa)　減少(VHC)　。(PERIODCATEGORY)
+***********************************************
+179.　。(PERIODCATEGORY)　台灣(Nc)　的(DE)　陸貝(Na)　自(P)　日據(Nd)　時代(Na)　以後(Ng)　，(COMMACATEGORY)
+***********************************************
+180.　，(COMMACATEGORY)　由於(Cbb)　研究(VE)[+nom]　人力(Na)　不足(VH)　，(COMMACATEGORY)
+***********************************************
+181.　，(COMMACATEGORY)　致使(VL)　上述(Na)　分類(Na)　上(Ng)　的(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+182.　，(COMMACATEGORY)　至今(D)　仍(D)　未(D)　解決(VC)　或(Caa)　尚未(D)　被(P)　提出(VC)　，(COMMACATEGORY)
+***********************************************
+183.　，(COMMACATEGORY)　因此(Cbb)　對於(P)　蝸牛(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+184.　，(COMMACATEGORY)　欲(VK)　探討(VE)　分類(Na)　或(Caa)　親緣(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+185.　，(COMMACATEGORY)　特徵(Na)　的(DE)　選用(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+186.　，(COMMACATEGORY)　是(SHI)　一(Neu)　個(Nf)　極(Dfa)　重要(VH)　的(DE)　決定(Na)　因子(Na)　。(PERIODCATEGORY)
+***********************************************
+187.　。(PERIODCATEGORY)　基於(P)　殼型(Na)　可能(D)　受(VJ)　環境(Na)　因素(Na)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+188.　，(COMMACATEGORY)　而(Cbb)　齒舌(Na)　等(Cab)　消化(VC)[+nom]　系統(Na)　特徵(Na)　在(P)　種(Na)　下(Ng)　階層(Na)　並(D)　不(D)　具有(VJ)　決定性(Na)　作用(Na)　的(DE)　考量(VE)[+nom]　下(Ng)　，(COMMACATEGORY)
+***********************************************
+189.　，(COMMACATEGORY)　目前(Nd)　生殖(VA)[+nom]　系統(Na)　特徵(Na)　仍(D)　是(SHI)　作為(VG)　主要(A)　分類(Na)　依據(Na)　，(COMMACATEGORY)
+***********************************************
+190.　，(COMMACATEGORY)　因此(Cbb)　本(Nes)　論文(Na)　仍(D)　擬(VF)　以(P)　上述(Na)　兩(Neu)　種(Nf)　特徵(Na)　（(PARENTHESISCATEGORY)　生殖(VA)[+nom]　系統(Na)　、(PAUSECATEGORY)　殼型(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+191.　，(COMMACATEGORY)　作為(VG)　檢討(VC)　分類(Na)　及(Caa)　親緣(Na)　關係(Na)　的(DE)　參考(Na)　，(COMMACATEGORY)
+***********************************************
+192.　，(COMMACATEGORY)　並(Cbb)　補齊(VC)　小(VH)　菱蝸牛(Na)　以及(Caa)　其(Nep)　亞種(Na)　的(DE)　生殖器(Na)　解剖(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+193.　。(PERIODCATEGORY)　近(Nes)　三十(Neu)　年(Nf)　來(Ng)　隨著(P)　細胞學(Na)　、(PAUSECATEGORY)　生化學(Na)　與(Caa)　分子(Na)　生物學(Na)　的(DE)　進展(Na)　，(COMMACATEGORY)
+***********************************************
+194.　，(COMMACATEGORY)　可(D)　用以(D)　分類(VB)　或(Caa)　分析(VC)　親緣(Na)　關係(Na)　的(DE)　特徵(Na)　與(Caa)　分析(Na)　方法(Na)　愈來愈(Dfa)　多(VH)　，(COMMACATEGORY)
+***********************************************
+195.　，(COMMACATEGORY)　包括(VK)　Ｉｍｍｕｎｏｄｉｓｔａｎｃｅ(FW)　、(PAUSECATEGORY)　Ｅｌｅｃｔｒｏｐｈｏｒｅｓｔｉｃ(FW)　ｄｉｆｆｅｒｅｎｃｅ(FW)　、(PAUSECATEGORY)　　Ａｍｉｎｏ(FW)　ａｃｉｄ(FW)　ｓｅｑｕｅｎｃｅ(FW)　、(PAUSECATEGORY)　　ＤＮＡｈｙｂｒｉｄｉｚａｔｉｏｎ(FW)　、(PAUSECATEGORY)　　ＤＮＡ(FW)　或(Caa)　ＲＮＡ(FW)　ｓｅｑｕｅｎｃｅ(FW)　、(PAUSECATEGORY)　　Ｒｅｓｔｒｉｃｔｉｏｎ(FW)　ｅｎｄｏｎｕｃｌｅａｓａｎａｌｙｓｉｓ(FW)　，(COMMACATEGORY)
+***********************************************
+196.　，(COMMACATEGORY)　這些(Neqa)　方法(Na)　各(D)　有(V_2)　其(Nep)　優缺點(Na)　及(Caa)　適合(VH)　解決(VC)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+197.　。(PERIODCATEGORY)　粒線體(Na)　核酸(Na)　是(SHI)　一(Neu)　個(Nf)　理想(VH)　的(DE)　分子(Na)　，(COMMACATEGORY)
+***********************************************
+198.　，(COMMACATEGORY)　有(V_2)　以下(Ncd)　幾(Neu)　個(Nf)　特點(Na)　可(D)　用來(VL)　重建(VC)　親緣(Na)　關係(Na)　：(COLONCATEGORY)
+***********************************************
+199.　：(COLONCATEGORY)　遍(Neqa)　存(VC)　於(P)　真(VH)　核(Na)　生物(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+200.　，(COMMACATEGORY)　容易(VH)　分離(VHC)　及(Caa)　操作(VC)　，(COMMACATEGORY)
+***********************************************
+201.　，(COMMACATEGORY)　基因(Na)　結構(Na)　簡單(VH)　，(COMMACATEGORY)
+***********************************************
+202.　，(COMMACATEGORY)　基因(Na)　傳遞(VD)[+nom]　過程(Na)　無(D)　重組(VC)　，(COMMACATEGORY)
+***********************************************
+203.　，(COMMACATEGORY)　是(SHI)　直線式(A)　的(DE)　，(COMMACATEGORY)
+***********************************************
+204.　，(COMMACATEGORY)　能(D)　提供(VD)　一(Neu)　組(Nf)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+205.　，(COMMACATEGORY)　以(Cbb)　推斷(VE)　親緣(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+206.　，(COMMACATEGORY)　演化(VH)　快速(VH)　。(PERIODCATEGORY)
+***********************************************
+207.　。(PERIODCATEGORY)　一般而言(Dk)　在(P)　動物(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+208.　，(COMMACATEGORY)　粒線體(Na)　核酸(Na)　有(V_2)　一些(Neqa)　共同(A)　的(DE)　特徵(Na)　：(COLONCATEGORY)
+***********************************************
+209.　：(COLONCATEGORY)　一(Neu)　、(PAUSECATEGORY)　母系(Na)　遺傳(VJ)　，(COMMACATEGORY)
+***********************************************
+210.　，(COMMACATEGORY)　故(Cbb)　可(D)　由(P)　此(Nep)　回溯(VE)　演化(VH)　歷史(Na)　。(PERIODCATEGORY)
+***********************************************
+211.　。(PERIODCATEGORY)　２(Neu)　、(PAUSECATEGORY)　粒線體(Na)　核酸(Na)　本身(Nh)　缺乏(VJ)　修補(VC)[+nom]　機制(Na)　，(COMMACATEGORY)
+***********************************************
+212.　，(COMMACATEGORY)　複製(VC)[+nom]　過程(Na)　較(Dfa)　容易(VH)　發生(VJ)　突變(VH)　，(COMMACATEGORY)
+***********************************************
+213.　，(COMMACATEGORY)　故(Cbb)　演化(VHC)　速度(Na)　約(Da)　比(P)　核(Na)　ＤＮＡ(Na)[+fw]　快(VH)　一(Neu)　至(Caa)　十(Neu)　倍(Na)　。(PERIODCATEGORY)
+***********************************************
+214.　。(PERIODCATEGORY)　３(Neu)　、(PAUSECATEGORY)　雙股(Na)　環狀(Na)　分子(Na)　，(COMMACATEGORY)
+***********************************************
+215.　，(COMMACATEGORY)　長(VH)　約(Da)　１６(Neu)　至(Caa)　２０(Neu)　↑ｋｂ(Nf)　。(PERIODCATEGORY)
+***********************************************
+216.　。(PERIODCATEGORY)　４(Neu)　、(PAUSECATEGORY)　無(D)　中斷(VC)[+nom]　基因(Na)　，(COMMACATEGORY)
+***********************************************
+217.　，(COMMACATEGORY)　５(Neu)　、(PAUSECATEGORY)　基因(Na)　含有(VJ)　１２(Neu)　Ｓ(FW)　及(Caa)　１６(Neu)　Ｓ(FW)　ｒＲＮＡ(Na)[+fw]　基因(Na)　、(PAUSECATEGORY)　　２(Neu)　個(Nf)　ｔＲＮＡ(Na)[+fw]　基因(Na)　及(Caa)　１３(Neu)　個(Nf)　蛋白質(Na)　基因(Na)　（(PARENTHESISCATEGORY)　低等(A)　無(VJ)　脊椎(Na)　動物(Na)　缺少(VJ)　ＡＴＰａｓｅ(FW)　基因(Na)　。(PERIODCATEGORY)
+***********************************************
+218.　。(PERIODCATEGORY)　欲(VK)　研究(VE)　粒線體(Na)　核酸(Na)　演化(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+219.　，(COMMACATEGORY)　最佳(A)　的(DE)　方法(Na)　當然(D)　是(SHI)　將(P)　整(Neqa)　個(Nf)　粒線體(Na)　核酸(Na)　定序出來(VB)　，(COMMACATEGORY)
+***********************************************
+220.　，(COMMACATEGORY)　但(Cbb)　在(P)　目前(Nd)　定序(VB)　仍然(D)　不(D)　是(SHI)　可以(D)　非常(Dfa)　快速(VH)　完成(VC)　的(DE)　工作(Na)　，(COMMACATEGORY)
+***********************************************
+221.　，(COMMACATEGORY)　無法(D)　處理(VC)　大量(Neqa)　樣本(Na)　，(COMMACATEGORY)
+***********************************************
+222.　，(COMMACATEGORY)　因此(Cbb)　可以(D)　依(P)　所(D)　研究(VE)[+nom]　題材(Na)　的(DE)　階層(Na)　，(COMMACATEGORY)
+***********************************************
+223.　，(COMMACATEGORY)　選取(VC)　部分(Neqa)　片段(Na)　做(VC)　定序(VB)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+224.　，(COMMACATEGORY)　或者(Caa)　使用(VC)　限制(Na)　內(Ncd)　切(VC)[+nom]　脢(Na)　對(P)　整(Neqa)　個(Nf)　粒線體(Na)　核酸(Na)　作(VC)　取樣(VA)　。(PERIODCATEGORY)
+***********************************************
+225.　。(PERIODCATEGORY)　使用(VC)　限制(Na)　內(Ncd)　切(VC)[+nom]　脢(Na)　有(V_2)　兩(Neu)　種(Nf)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+226.　，(COMMACATEGORY)　一(Neu)　是(SHI)　使用(VC)　限制(Na)　切位(Na)　圖譜(Na)　的(DE)　多型態(Na)　，(COMMACATEGORY)
+***********************************************
+227.　，(COMMACATEGORY)　比較(VC)　個體(Na)　間(Ng)　切位(Na)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+228.　，(COMMACATEGORY)　雖然(Cbb)　得到(VJ)　限制(Na)　切位(Na)　圖譜(Na)　並(D)　不(D)　很(Dfa)　難(VH)　，(COMMACATEGORY)
+***********************************************
+229.　，(COMMACATEGORY)　但是(Cbb)　當(P)　分類群(Na)　間(Ncd)　變異(Na)　較(Dfa)　大(VH)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+230.　，(COMMACATEGORY)　必須(D)　對(P)　每(Nes)　一(Neu)　個(Nf)　分類群(Na)　作出(VC)　圖譜(Na)　，(COMMACATEGORY)
+***********************************************
+231.　，(COMMACATEGORY)　在(P)　速度(Na)　上(Ng)　仍然(D)　難以(D)　處理(VC)　大量(Neqa)　樣本(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+232.　；(SEMICOLONCATEGORY)　因此(Cbb)　可以(D)　使用(VC)　限制(Na)　片段(Na)　長度(Na)　的(DE)　多型態(Na)　（(PARENTHESISCATEGORY)　以下(Ncd)　簡稱(VG)　ＲＦＬＰ(FW)　）(PARENTHESISCATEGORY)　代替(VC)　，(COMMACATEGORY)
+***********************************************
+233.　，(COMMACATEGORY)　即(VG)　比較(VC)　限制脢(Na)　內(Ncd)　切(VC)[+nom]　脢(Na)　作用(VA)　完(VH)　後(Ng)　的(DE)　電泳(Na)　片段(Na)　長度(Na)　的(DE)　差異(Na)　軟體(Na)　動物(Na)　由於(Cbb)　會(D)　分泌(VC)　大量(Neqa)　的(DE)　黏液(Na)　，(COMMACATEGORY)
+***********************************************
+234.　，(COMMACATEGORY)　因此(Cbb)　不易(VH)　純化(VHC)　粒線體(Na)　核酸(Na)　。(PERIODCATEGORY)
+***********************************************
+235.　。(PERIODCATEGORY)　目前(Nd)　有關(VJ)　軟體(Na)　動物(Na)　粒線體(Na)　核酸(Na)　的(DE)　研究(Na)　大多(Neqa)　集中(VC)　在(P)　海貝(Na)　，(COMMACATEGORY)
+***********************************************
+236.　，(COMMACATEGORY)　而(Cbb)　陸貝(Na)　方面(Na)　則(D)　較少(VH)　。(PERIODCATEGORY)
+***********************************************
+237.　。(PERIODCATEGORY)　本(Nes)　論文(Na)　即(VG)　計畫(VF)　以(P)　分子(Na)　生物(Na)　的(DE)　技術(Na)　，(COMMACATEGORY)
+***********************************************
+238.　，(COMMACATEGORY)　探討(VE)　台灣(Nc)　及(Caa)　附近(Nc)　離島(Nc)　南亞(Nc)　蝸牛(Na)　屬(Na)　各(Nes)　族群(Na)　的(DE)　親緣(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+239.　，(COMMACATEGORY)　並(Cbb)　配合(VC)　形態(Na)　及(Caa)　解剖(VC)　的(DE)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+240.　，(COMMACATEGORY)　對(P)　這(Nep)　三(Neu)　種(Nf)　南亞(Nc)　蝸牛(Na)　的(DE)　遺傳(VJ)[+nom]　組成(VG)[+nom]　及(Caa)　生物(Na)　地理(Na)　做(VC)　一(Neu)　探討(VE)[+nom]　，(COMMACATEGORY)
+***********************************************
+241.　，(COMMACATEGORY)　並(Cbb)　建立(VC)　適用(VJ)　於(P)　蝸牛(Na)　的(DE)　分子(Na)　生物(Na)　技術(Na)　。(PERIODCATEGORY)
+***********************************************
+242.　。(PERIODCATEGORY)　貳(Neu)　、(PAUSECATEGORY)　材料(Na)　與(Caa)　方法(Na)　。(PERIODCATEGORY)
+***********************************************
+243.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　採樣(VC)　。(PERIODCATEGORY)
+***********************************************
+244.　。(PERIODCATEGORY)　於(P)　１９９４年(Nd)　６月(Nd)　至(P)　１９９５年(Nd)　２月(Nd)　期間(Na)　，(COMMACATEGORY)
+***********************************************
+245.　，(COMMACATEGORY)　於(P)　下列(A)　十三(Neu)　個(Nf)　地點(Na)　共(Da)　採集(VC)　１３２(Neu)　隻(Nf)　活體(Na)　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　供(VF)　粒線體(Na)　核酸(Na)　純化(VHC)　分析(VC)　用(VC)　：(COLONCATEGORY)
+***********************************************
+247.　：(COLONCATEGORY)　石門(Nc)　、(PAUSECATEGORY)　龜山(Nc)　、(PAUSECATEGORY)　關山(Nc)　、(PAUSECATEGORY)　貓鼻頭(Nc)　、(PAUSECATEGORY)　保力(Nc)　、(PAUSECATEGORY)　草埔(Nc)　、(PAUSECATEGORY)　大尖石山(Nc)　、(PAUSECATEGORY)　社頂(Nc)　、(PAUSECATEGORY)　香蕉灣(Nc)　、(PAUSECATEGORY)　滿州(Nc)　、(PAUSECATEGORY)　嘉蘭(Nc)　、(PAUSECATEGORY)　小琉球(Nc)　、(PAUSECATEGORY)　壽山(Nc)　。(PERIODCATEGORY)
+***********************************************
+248.　。(PERIODCATEGORY)　採集(VC)　的(DE)　原則(Na)　以(P)　成熟(VH)　個體(Na)　為主(VI)　，(COMMACATEGORY)
+***********************************************
+249.　，(COMMACATEGORY)　以(Cbb)　俾能(D)　純化出(VC)　足夠(VH)　產量(Na)　的(DE)　粒線體(Na)　核酸(Na)　，(COMMACATEGORY)
+***********************************************
+250.　，(COMMACATEGORY)　但(Cbb)　若(Cbb)　因(Cbb)　氣候(Na)　或(Caa)　季節(Na)　因素(Na)　使得(VL)　可(D)　採得(VC)　成熟(VH)　個體(Na)　數目(Na)　過少(VH)　，(COMMACATEGORY)
+***********************************************
+251.　，(COMMACATEGORY)　則(D)　盡量(D)　採集(VC)　較(Dfa)　大(VH)　個體(Na)　。(PERIODCATEGORY)
+***********************************************
+252.　。(PERIODCATEGORY)　另外(Cbb)　考慮(VE)　蝸牛(Na)　的(DE)　遷移(VC)[+nom]　能力(Na)　及(Caa)　活動力(Na)　較(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+253.　，(COMMACATEGORY)　取樣(Na)　範圍(Na)　過(Dfa)　大(VH)　恐(VK)　有(V_2)　超過(超過(VJ)族群(Na)�())　族群(Na)　界限(Na)　的(DE)　顧慮(Na)　，(COMMACATEGORY)
+***********************************************
+254.　，(COMMACATEGORY)　而(Cbb)　誤導(VC)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+255.　，(COMMACATEGORY)　因此(Cbb)　採樣(VC)　時(Ng)　原則上(D)　以(P)　１０(Neu)　公尺見方(Nf)　為(VG)　基準(Na)　，(COMMACATEGORY)
+***********************************************
+256.　，(COMMACATEGORY)　間或(D)　有(V_2)　例外(VH)　者(Na)　，(COMMACATEGORY)
+***********************************************
+257.　，(COMMACATEGORY)　如(P)　離島(Nc)　採(VC)　兩(Neu)　或(Caa)　三(Neu)　個(Nf)　樣點(Na)　，(COMMACATEGORY)
+***********************************************
+258.　，(COMMACATEGORY)　以(Cbb)　估計(VE)　島嶼(Na)　內(Ncd)　遺傳(VJ)[+nom]　變異(Na)　程度(Na)　，(COMMACATEGORY)
+***********************************************
+259.　，(COMMACATEGORY)　但(Cbb)　仍(D)　標記為(VG)　同(Nes)　一(Neu)　樣區(Nc)　另(Cbb)　於(P)　二十七(Neu)　個(Nf)　樣區(Nc)　中(Ncd)　採取(VC)　已(D)　死亡(VH)　個體(Na)　的(DE)　外殼(Na)　，(COMMACATEGORY)
+***********************************************
+260.　，(COMMACATEGORY)　進行(VC)　形態(Na)　測量(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+261.　，(COMMACATEGORY)　取樣(Na)　標準(Na)　為(VG)　：(COLONCATEGORY)
+***********************************************
+262.　：(COLONCATEGORY)　未(D)　被(P)　埋入(VCL)　土(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+263.　，(COMMACATEGORY)　殼皮(Na)　未(D)　完全(D)　褪去(VJ)　，(COMMACATEGORY)
+***********************************************
+264.　，(COMMACATEGORY)　殼表(Na)　完整(VH)　無(VJ)　破損(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+265.　，(COMMACATEGORY)　完全(D)　成熟(VH)　，(COMMACATEGORY)
+***********************************************
+266.　，(COMMACATEGORY)　以上(Ncd)　四(Neu)　個(Nf)　條件(Na)　需(D)　完全(D)　具備(VJ)　才(Da)　可(D)　列入(VJ)　有效(VH)　樣本(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+267.　，(COMMACATEGORY)　這(Nep)　是(SHI)　考慮(VE)　避免(VE)　採到(VC)　過於(Dfa)　古老(VH)　年代(Nd)　的(DE)　化石(Na)　樣本(Na)　，(COMMACATEGORY)
+***********************************************
+268.　，(COMMACATEGORY)　以致(Cbb)　誤導(VC)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+269.　，(COMMACATEGORY)　或者(Caa)　破損(VH)　的(DE)　殼(Na)　造成(VG)　缺失值(Na)　。(PERIODCATEGORY)
+***********************************************
+270.　。(PERIODCATEGORY)　於(P)　２７(Neu)　個(Nf)　樣區(Nc)　中(Ncd)　共計(VJ)　採得(VC)　２９０(Neu)　枚(Nf)　標本(Na)　，(COMMACATEGORY)
+***********************************************
+271.　，(COMMACATEGORY)　超過(VJ)　３(Neu)　枚(Nf)　標本(Na)　的(DE)　樣區(Nc)　有(V_2)　１９(Neu)　個(Nf)　，(COMMACATEGORY)
+***********************************************
+272.　，(COMMACATEGORY)　部份(Neqa)　樣區(Nc)　因(Cbb)　族群(Na)　較(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+273.　，(COMMACATEGORY)　所(D)　能(D)　採到(VC)　的(DE)　樣本(Na)　可能(D)　低(VH)　至(P)　一(Neu)　隻(Nf)　，(COMMACATEGORY)
+***********************************************
+274.　，(COMMACATEGORY)　但(Cbb)　仍(D)　列入(VJ)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+275.　，(COMMACATEGORY)　以(Cbb)　俾能(D)　對(P)　各(Nes)　族群(Na)　有(V_2)　一(Neu)　最(Dfa)　低(VH)　程度(Na)　的(DE)　了解(VK)[+nom]　。(PERIODCATEGORY)
+***********************************************
+276.　。(PERIODCATEGORY)　解剖(VC)[+nom]　部份(Neqa)　需(VK)　成熟(VH)　活體(Na)　，(COMMACATEGORY)
+***********************************************
+277.　，(COMMACATEGORY)　大致(D)　與(P)　粒線體(Na)　核酸(Na)　ＲＦＬＰ(FW)　部份(Neqa)　採集(VC)[+nom]　相同(VH)　，(COMMACATEGORY)
+***********************************************
+278.　，(COMMACATEGORY)　但(Cbb)　因(Cbb)　分子(Na)　生物(Na)　純化(VHC)[+nom]　需要(VK)　大量(Neqa)　組織(Na)　，(COMMACATEGORY)
+***********************************************
+279.　，(COMMACATEGORY)　需(D)　連同(P)　生殖器(Na)　一起(D)　均質(VH)　，(COMMACATEGORY)
+***********************************************
+280.　，(COMMACATEGORY)　或(Caa)　有(V_2)　未(D)　成熟(VH)　個體(Na)　，(COMMACATEGORY)
+***********************************************
+281.　，(COMMACATEGORY)　因此(Cbb)　只(Da)　保留(VC)　少數(Neqa)　重要(VH)　標本(Na)　，(COMMACATEGORY)
+***********************************************
+282.　，(COMMACATEGORY)　作為(VG)　比較(VC)　用(VC)　。(PERIODCATEGORY)
+***********************************************
+283.　。(PERIODCATEGORY)　種類(Na)　及(Caa)　採樣點(Na)　計有(VJ)　阿猴(Nb)　蝸牛(Na)　：(COLONCATEGORY)
+***********************************************
+284.　：(COLONCATEGORY)　石門(Nc)　、(PAUSECATEGORY)　龜山(Nc)　，(COMMACATEGORY)
+***********************************************
+285.　，(COMMACATEGORY)　巴丹(Nc)　蝸牛(Na)　：(COLONCATEGORY)
+***********************************************
+286.　：(COLONCATEGORY)　蘭嶼(Nc)　、(PAUSECATEGORY)　社頂(Nc)　，(COMMACATEGORY)
+***********************************************
+287.　，(COMMACATEGORY)　小(VH)　菱蝸牛(Na)　：(COLONCATEGORY)
+***********************************************
+288.　：(COLONCATEGORY)　壽山(Nc)　、(PAUSECATEGORY)　小琉球(Nc)　、(PAUSECATEGORY)　鳳山(Nc)　水庫(Na)　、(PAUSECATEGORY)　半屏山(Nc)　。(PERIODCATEGORY)
+***********************************************
+289.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　粒線體(Na)　核酸(Na)　純化(VHC)[+nom]　及(Caa)　電泳(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+290.　。(PERIODCATEGORY)　藥品(Na)　配方(Na)　參考(VC)　附錄(Na)　Ａ(FW)　。(PERIODCATEGORY)
+***********************************************
+291.　。(PERIODCATEGORY)　１(Neu)　、(PAUSECATEGORY)　洗淨(VC)　蝸殼(Na)　表面(Na)　的(DE)　污泥(Na)　，(COMMACATEGORY)
+***********************************************
+292.　，(COMMACATEGORY)　將(P)　蝸牛(Na)　置於(VC)　冰(Na)　上(Ncd)　３０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+293.　，(COMMACATEGORY)　敲破(VC)　蝸殼(Na)　頂端(Ncd)　，(COMMACATEGORY)
+***********************************************
+294.　，(COMMACATEGORY)　以(P)　鑷子(Na)　剝去(VC)　殼(Na)　，(COMMACATEGORY)
+***********************************************
+295.　，(COMMACATEGORY)　直至(P)　剩下(VJ)　最後(Ncd)　一(Neu)　圈(Nf)　體層(Na)　的(DE)　殼(Na)　，(COMMACATEGORY)
+***********************************************
+296.　，(COMMACATEGORY)　剪斷(VC)　軸柱肌(Na)　，(COMMACATEGORY)
+***********************************************
+297.　，(COMMACATEGORY)　拉出(VC)　蝸牛(Na)　軟體(Na)　，(COMMACATEGORY)
+***********************************************
+298.　，(COMMACATEGORY)　於(P)　冰(Na)　上(Ncd)　解剖(VC)　取出(VC)　肝胰臟(Na)　、(PAUSECATEGORY)　心臟(Na)　、(PAUSECATEGORY)　腎臟(Na)　、(PAUSECATEGORY)　生殖(VA)[+nom]　系統(Na)　及(Caa)　部份(Neqa)　腹足(Na)　，(COMMACATEGORY)
+***********************************************
+299.　，(COMMACATEGORY)　並(Cbb)　將(P)　盤繞(VA)　在(P)　肝胰臟(Na)　中(Ncd)　的(DE)　胃(Na)　與(Caa)　腸道(Na)　，(COMMACATEGORY)
+***********************************************
+300.　，(COMMACATEGORY)　以及(Caa)　生殖(VA)[+nom]　系統(Na)　中(Ng)　的(DE)　儲精囊(Na)　除去(VC)　，(COMMACATEGORY)
+***********************************************
+301.　，(COMMACATEGORY)　以(P)　冰冷(VH)　純水(Na)　洗(VC)　過(Di)　。(PERIODCATEGORY)
+***********************************************
+302.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　以(P)　解剖剪(Na)　盡可能(D)　地(DE)　將(P)　以上(Ncd)　組織(Na)　剪碎(VC)　，(COMMACATEGORY)
+***********************************************
+303.　，(COMMACATEGORY)　尤其(D)　是(SHI)　生殖器(Na)　及(Caa)　腹足肌(Na)　，(COMMACATEGORY)
+***********************************************
+304.　，(COMMACATEGORY)　置於(VC)　均質器(Na)　中(Ncd)　加入(VC)　１０(Neu)　公撮(Nf)　均質液(Na)　研磨(VC)　，(COMMACATEGORY)
+***********************************************
+305.　，(COMMACATEGORY)　ｌｏｏｓｅ(FW)　棒(Na)　３(Neu)　次(Nf)　，(COMMACATEGORY)
+***********************************************
+306.　，(COMMACATEGORY)　　ｔｉｇｈｔ(FW)　棒(Na)　２(Neu)　次(Nf)　，(COMMACATEGORY)
+***********************************************
+307.　，(COMMACATEGORY)　靜(VH)　置(VC)　使(VL)　略(D)　沉澱(VH)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+308.　，(COMMACATEGORY)　吸出(VC)　上(Ncd)　層(Na)　萃取液(Na)　於(P)　５０(Neu)　公撮(Nf)　離心管(Na)　，(COMMACATEGORY)
+***********************************************
+309.　，(COMMACATEGORY)　其餘(Neqa)　未(D)　磨碎(VC)　的(DE)　大(VH)　塊(Nf)　組織(Na)　再(D)　重複(VC)　二(Neu)　次(Nf)　研磨(VC)　，(COMMACATEGORY)
+***********************************************
+310.　，(COMMACATEGORY)　吸出(VC)　萃取液(Na)　，(COMMACATEGORY)
+***********************************************
+311.　，(COMMACATEGORY)　每(Nes)　隻(Nf)　蝸牛(Na)　約(Da)　得(VJ)　４０(Neu)　公撮(Nf)　。(PERIODCATEGORY)
+***********************************************
+312.　。(PERIODCATEGORY)　　３(Neu)　．(PERIODCATEGORY)　離心(VB)　３３００(Neu)　↑ｒｐｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+313.　，(COMMACATEGORY)　四(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+314.　，(COMMACATEGORY)　１０(Neu)　分鐘(Nf)　。(PERIODCATEGORY)
+***********************************************
+315.　。(PERIODCATEGORY)　　４(Neu)　．(PERIODCATEGORY)　吸出(VC)　上(Ncd)　層(Na)　液(Na)　至(Caa)　新(VH)　離心管(Na)　，(COMMACATEGORY)
+***********************************************
+316.　，(COMMACATEGORY)　避免(VE)　吸到(VC)　管壁(Nc)　及(Caa)　底部(Ncd)　的(DE)　沉澱(VH)[+nom]　。(PERIODCATEGORY)
+***********************************************
+317.　。(PERIODCATEGORY)　沉澱物(Na)　再(D)　加(VC)　５(Neu)　公撮(Nf)　均質液(Na)　懸浮(VA)　，(COMMACATEGORY)
+***********************************************
+318.　，(COMMACATEGORY)　離心(VB)　同(VJ)　步驟(Na)　３(Neu)　。(PERIODCATEGORY)
+***********************************************
+319.　。(PERIODCATEGORY)　　５(Neu)　．(PERIODCATEGORY)　合併(VC)　兩(Neu)　次(Nf)　離心(VB)　的(DE)　上(Nes)　層(Nf)　液(Na)　，(COMMACATEGORY)
+***********************************************
+320.　，(COMMACATEGORY)　平分(VC)　於(P)　兩(Neu)　離心管(Na)　，(COMMACATEGORY)
+***********************************************
+321.　，(COMMACATEGORY)　進行(VC)　密度(Na)　梯度(Na)　離心(VB)　：(COLONCATEGORY)
+***********************************************
+322.　：(COLONCATEGORY)　以(P)　１０(Neu)　公撮(Nf)　玻璃(Na)　滴管(Na)　吸取(VC)　１０(Neu)　公撮(Nf)　，(COMMACATEGORY)
+***********************************************
+323.　，(COMMACATEGORY)　小心(VK)　地(DE)　插(VC)　至(P)　管(Na)　底(Ncd)　，(COMMACATEGORY)
+***********************************************
+324.　，(COMMACATEGORY)　慢慢(VH)　釋放(VC)　液體(Na)　同時(Nd)　滴管(Na)　慢慢(VH)　拉起(VC)　，(COMMACATEGORY)
+***********************************************
+325.　，(COMMACATEGORY)　使(VL)　滴管(Na)　口(Ncd)　略(D)　低於(VJ)　界面(Na)　，(COMMACATEGORY)
+***********************************************
+326.　，(COMMACATEGORY)　釋放(VC)　完(VH)　後(Ng)　緩緩(VH)　拉起(VC)　滴管(Na)　，(COMMACATEGORY)
+***********************************************
+327.　，(COMMACATEGORY)　使(VL)　兩(Neu)　比重(Na)　液體(Na)　間(Ncd)　形成(VG)　一(Neu)　清楚(VH)　界面(Na)　。(PERIODCATEGORY)
+***********************************************
+328.　。(PERIODCATEGORY)　離心(VB)　１３０００(Neu)　↑ｒｐｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+329.　，(COMMACATEGORY)　四(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+330.　，(COMMACATEGORY)　６０(Neu)　分鐘(Nf)　。(PERIODCATEGORY)
+***********************************************
+331.　。(PERIODCATEGORY)　此(Nep)　步驟(Na)　為(VG)　去除(VC)　部分(Neqa)　黏液(Na)　。(PERIODCATEGORY)
+***********************************************
+332.　。(PERIODCATEGORY)　　６(Neu)　．(PERIODCATEGORY)　小心(VK)　地(DE)　吸去(VC)　液體層(Na)　，(COMMACATEGORY)
+***********************************************
+333.　，(COMMACATEGORY)　尤其(D)　界面(Na)　處(Na)　要(D)　吸淨(VC)　，(COMMACATEGORY)
+***********************************************
+334.　，(COMMACATEGORY)　此時(Nd)　沉澱物(Na)　為(VG)　粒線體(Na)　，(COMMACATEGORY)
+***********************************************
+335.　，(COMMACATEGORY)　細微(VH)　胞器(Na)　及(Caa)　少量(Neqa)　的(DE)　核(Na)　。(PERIODCATEGORY)
+***********************************************
+336.　。(PERIODCATEGORY)　各(Nes)　管(Na)　加入(VC)　５００(Neu)　μｌ(FW)　ＴＥＫ(FW)　懸浮(VA)　起(Di)　沈澱(VH)　，(COMMACATEGORY)
+***********************************************
+337.５(Neu)　公撮(Nf)　微量(VH)　離心管(Na)　，(COMMACATEGORY)
+***********************************************
+338.　，(COMMACATEGORY)　再(D)　以(P)　１００(Neu)　μｌ(FW)　ＴＥＫ(FW)　洗下(VC)　殘餘(VJ)　在(P)　離心管(Na)　底部(Ncd)　的(DE)　胞器(Na)　。(PERIODCATEGORY)
+***********************************************
+339.　。(PERIODCATEGORY)　注意(VK)　切勿(D)　取到(VC)　界面(Na)　處(Nc)　附著(VA)　在(P)　管壁(Nc)　上(Ncd)　之(DE)　沉澱物(Na)　，(COMMACATEGORY)
+***********************************************
+340.　，(COMMACATEGORY)　此(Nep)　沉澱物(Na)　含(VC)　大量(Neqa)　黏液(Na)　。(PERIODCATEGORY)
+***********************************************
+341.　。(PERIODCATEGORY)　　７(Neu)　．(PERIODCATEGORY)　加入(VC)　體積(Na)　１０％(Neqa)　ＮＰ(FW)　４０(Neu)　↑(FW)　，(COMMACATEGORY)
+***********************************************
+342.　，(COMMACATEGORY)　溫和(VH)　混勻(VB)　，(COMMACATEGORY)
+***********************************************
+343.　，(COMMACATEGORY)　置於(VC)　冰(Na)　上(Ncd)　１５(Neu)　至(Caa)　２０(Neu)　分鐘(Nf)　。(PERIODCATEGORY)
+***********************************************
+344.　。(PERIODCATEGORY)　　８(Neu)　．(PERIODCATEGORY)　以(P)　桌上型(Na)　離心機(Na)　離心(VB)　１２０００(Neu)　↑ｒｐｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+345.　，(COMMACATEGORY)　四(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+346.　，(COMMACATEGORY)　　(FW)　１０(Neu)　分鐘(Nf)　。(PERIODCATEGORY)
+***********************************************
+347.　。(PERIODCATEGORY)　　９(Neu)　．(PERIODCATEGORY)　取(VC)　上(Ncd)　清(VH)　液(Na)　分置(VC)　於(P)　兩(Neu)　個(Nf)　２(Neu)　公撮(Nf)　微量(VH)　離心管(Na)　，(COMMACATEGORY)
+***********************************************
+348.　，(COMMACATEGORY)　加入(VC)　六分之一(Neqa)　倍(Na)　５(Neu)　莫耳(Nf)　氯化鈉(Na)　及(Caa)　十五分之二(Neqa)　倍(Na)　１０％(Neqa)　ＣＴＡＢ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+349.　，(COMMACATEGORY)　溫和(VH)　混勻(VB)　，(COMMACATEGORY)
+***********************************************
+350.　，(COMMACATEGORY)　　(FW)　６５(Neu)　度(Nf)　水(Na)　浴(VA)　３０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+351.　，(COMMACATEGORY)　偶爾(D)　溫和(VH)　混(VH)　搖(VAC)　一(Neu)　下(Nf)　。(PERIODCATEGORY)
+***********************************************
+352.　。(PERIODCATEGORY)　　(FW)　１０(Neu)　．(PERIODCATEGORY)　加入(VC)　ＣＩ(FW)　至(P)　滿(VH)　，(COMMACATEGORY)
+***********************************************
+353.　，(COMMACATEGORY)　溫和(VH)　混勻(VB)　，(COMMACATEGORY)
+***********************************************
+354.　，(COMMACATEGORY)　離心(VB)　１２０００(Neu)　↑ｒｐｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+355.　，(COMMACATEGORY)　４(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+356.　，(COMMACATEGORY)　　(FW)　１０(Neu)　分鐘(Nf)　。(PERIODCATEGORY)
+***********************************************
+357.　。(PERIODCATEGORY)　此(Nep)　步驟(Na)　為(VG)　去除(VC)　黏液(Na)　及(Caa)　ＣＴＡＢ(Na)[+fw]　。(PERIODCATEGORY)
+***********************************************
+358.　。(PERIODCATEGORY)　　(FW)　１１(Neu)　．(PERIODCATEGORY)　取(VC)　上(Ncd)　層(Nf)　液(Na)　，(COMMACATEGORY)
+***********************************************
+359.　，(COMMACATEGORY)　依序(D)　以(P)　ＰＣＩ(FW)　，(COMMACATEGORY)
+***********************************************
+360.　，(COMMACATEGORY)　　ＰＣＩ(FW)　，(COMMACATEGORY)
+***********************************************
+361.　，(COMMACATEGORY)　　ＣＩ(FW)　，(COMMACATEGORY)
+***********************************************
+362.　，(COMMACATEGORY)　　ＣＩ(FW)　純化(VHC)　，(COMMACATEGORY)
+***********************************************
+363.　，(COMMACATEGORY)　各(Nes)　離心(VB)　１０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+364.　，(COMMACATEGORY)　去除(VC)　蛋白質(Na)　、(PAUSECATEGORY)　脂質(Na)　、(PAUSECATEGORY)　　ＣＴＡＢ(Na)[+fw]　、(PAUSECATEGORY)　多醣(Na)　及(Caa)　殘餘(A)　的(DE)　Ｐｈｅｎｏｌ(Na)[+fw]　。(PERIODCATEGORY)
+***********************************************
+365.２(Neu)　倍(Na)　１０(Neu)　莫耳(Nf)　Ａｍｍｏｎｉｕｍ(Na)[+fw]　ａｃｅｔａｔｅ(Na)[+fw]　及(Caa)　２(Neu)　倍(Na)　絕對(VH)　酒精(Na)　混合(VC)　，(COMMACATEGORY)
+***********************************************
+366.　，(COMMACATEGORY)　靜(VH)　置(VC)　室溫(Na)　１０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+367.　，(COMMACATEGORY)　離心(VB)　１２０００(Neu)　↑ｒｐｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+368.　，(COMMACATEGORY)　４(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+369.　，(COMMACATEGORY)　２０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+370.　，(COMMACATEGORY)　沈澱(VH)　ＤＮＡ(Na)[+fw]　。(PERIODCATEGORY)
+***********************************************
+371.　。(PERIODCATEGORY)　１３(Neu)　．(PERIODCATEGORY)　傾去(VC)　酒精(Na)　，(COMMACATEGORY)
+***********************************************
+372.　，(COMMACATEGORY)　以(P)　１(Neu)　公撮(Nf)　７０％(Neqa)　及(Caa)　１００％(Neqa)　酒精(Na)　各(D)　洗(VC)　一(Neu)　次(Nf)　，(COMMACATEGORY)
+***********************************************
+373.　，(COMMACATEGORY)　離心(VB)　１２０００(Neu)　ｒｐｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+374.　，(COMMACATEGORY)　４(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+375.　，(COMMACATEGORY)　１０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+376.　，(COMMACATEGORY)　去掉(VC)　殘餘(A)　的(DE)　鹽類(Na)　及(Caa)　ＣＴＡＢ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+377.　，(COMMACATEGORY)　靜(VH)　置(VC)　至(P)　乾(VH)　。(PERIODCATEGORY)
+***********************************************
+378.　。(PERIODCATEGORY)　１４(Neu)　．(PERIODCATEGORY)　以(P)　水(Na)　溶解(VHC)　ＤＮＡ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+379.　，(COMMACATEGORY)　進行(VC)　限制脢(Na)　作用(Na)　或(Caa)　儲存(VC)　於(P)　攝氏(Na)　零下(A)　二十(Neu)　度(Nf)　。(PERIODCATEGORY)
+***********************************************
+380.　。(PERIODCATEGORY)　１５(Neu)　．(PERIODCATEGORY)　各(D)　取(VC)　１５(Neu)　λＤＮＡ(Na)[+fw]　Ｈｉｎｄ(FW)　３(FW)　．(PERIODCATEGORY)　分別(D)　以(P)　五(Neu)　種(Nf)　限制脢(Na)　作用(Na)　：(COLONCATEGORY)
+***********************************************
+381.　：(COLONCATEGORY)　　ＢｃｌＩ(FW)　、(PAUSECATEGORY)　　ＥｃｏＲＩ(FW)　、(PAUSECATEGORY)　　ＨｉｎｄＩＩＩ(FW)　、(PAUSECATEGORY)　　ＨａｅＩＩ(FW)　、(PAUSECATEGORY)　　ＰｓｔＩ(FW)　（(PARENTHESISCATEGORY)　ＢＲＬ(FW)　或(Caa)　ＮＥＢ(FW)　）(PARENTHESISCATEGORY)　　(FW)　，(COMMACATEGORY)
+***********************************************
+382.　，(COMMACATEGORY)　使用(VC)　廠商(Na)　供應(VD)　的(DE)　緩衝液(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+383.　，(COMMACATEGORY)　依照(P)　廠商(Na)　建議(VE)　方法(Na)　進行(VC)　限制脢(Na)　內(Ncd)　切(VC)[+nom]　作用(Na)　。(PERIODCATEGORY)
+***********************************************
+384.　。(PERIODCATEGORY)　１６(Neu)　．(PERIODCATEGORY)　將(P)　脢(Na)　切(VC)[+nom]　作用(Na)　後(Ng)　之(DE)　ＤＮＡ(Na)[+fw]　加(VC)　ＲＮａｓｅ(FW)　水(Na)　浴(VA)　３０(Neu)　分鐘(Nf)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+385.　，(COMMACATEGORY)　分成(VG)　二(Neu)　比(VC)　一(Neu)　兩(Neu)　部分(Neqa)　，(COMMACATEGORY)
+***********************************************
+386.７％(Neqa)　ａｇａｒｏｓｅ(FW)　ｇｅｌ(FW)　及(Caa)　５％(Neqa)　ｐｏｌｙａｃｒｙｌａｍｉｄｅ(FW)　ｇｅｌ(FW)　（(PARENTHESISCATEGORY)　以下(Ncd)　簡稱(VG)　ＰＡＡ(FW)　，(COMMACATEGORY)
+***********************************************
+387.　，(COMMACATEGORY)　配方(Na)　見(VE)　附錄(Na)　Ｂ(FW)　）(PARENTHESISCATEGORY)　分離(VHC)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+388.　，(COMMACATEGORY)　分別(D)　以(P)　λＤＮＡ(FW)　Ｈｉｎｄ(FW)　３(FW)　．(PERIODCATEGORY)　合併(VC)　ｈｉｇｈ(FW)　ｍｏｌｅｃｕｌａｒ(FW)　ｗｅｉｇｈｔ(FW)　ｍａｒｋｅｒ(FW)　與(Caa)　λＤＮＡ(FW)　Ｈｉｎｄ(FW)　３(FW)　．(PERIODCATEGORY)　　ＢａｍＨＩ(FW)　雙(A)　脢(FW)　切(VC)　及(Caa)　ＤＮＡ(FW)　５０—１０００(Neu)　ｂｐ(FW)　ｌａｄｄｅｒ(FW)　ｍａｒｋｅｒ(FW)　為(VG)　標準(Na)　。(PERIODCATEGORY)
+***********************************************
+389.４(Neu)　公撮(Nf)　Ｅｔｈｉｄｉｕｍ(FW)　ｂｒｏｍｉｄｅ(FW)　染色(VB)　６０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+390.　，(COMMACATEGORY)　以(P)　純水(Na)　退染(VC)　３０(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+391.　，(COMMACATEGORY)　置於(VC)　ＵＶ(FW)　下(Ng)　以(P)　ＥＶＥＲＧＥＮＥ(FW)　ＣＣＤ(FW)　ＣＡＭＥＲＡ(FW)　ＩＭＡＧＥ(FW)　ＳＹＳＴＥＭ(FW)　拍照(VB)　並(Cbb)　儲存成(VG)　檔案(Na)　，(COMMACATEGORY)
+***********************************************
+392.　，(COMMACATEGORY)　以(Cbb)　進行(VC)　分析(VC)　；(SEMICOLONCATEGORY)
+***********************************************
+393.　；(SEMICOLONCATEGORY)　ＰＡＡ(FW)　則(D)　以(P)　銀(Na)　染(VC)　顯影(VA)　。(PERIODCATEGORY)
+***********************************************
+394.　。(PERIODCATEGORY)　１７(Neu)　．(PERIODCATEGORY)　以(P)　ＰＨＯＲＥＴＩＸ(FW)　軟體(Na)　計算(VC)　各(Nes)　片段(Na)　分子量(Na)　，(COMMACATEGORY)
+***********************************************
+395.２(FW)　進行(VC)　親緣(Na)　關係(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+396.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　外殼(Na)　形質(Na)　測量(VC)[+nom]　與(Caa)　解剖(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+397.　。(PERIODCATEGORY)　每(Nes)　一(Neu)　個(Nf)　個體(Na)　的(DE)　外殼(Na)　以(P)　油性(Na)　筆(Na)　予以(D)　編號(VB)　１(Neu)　到(Caa)　２９０(Neu)　，(COMMACATEGORY)
+***********************************************
+398.　，(COMMACATEGORY)　隨機(D)　撿(VC)　取(VC)　標本(Na)　，(COMMACATEGORY)
+***********************************************
+399.　，(COMMACATEGORY)　以(P)　游標尺(Na)　及(Caa)　解剖(VC)[+nom]　顯微鏡(Na)　分別(D)　測量(VC)　以下(Ncd)　特徵(Na)　：(COLONCATEGORY)
+***********************************************
+400.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　殼(Na)　高(Na)　：(COLONCATEGORY)
+***********************************************
+401.　：(COLONCATEGORY)　殼頂(Na)　朝(P)　左(Ncd)　，(COMMACATEGORY)
+***********************************************
+402.　，(COMMACATEGORY)　殼(Na)　口(Ncd)　向(P)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+403.　，(COMMACATEGORY)　最(Dfa)　近(VH)　體層(Na)　的(DE)　縫合線(Na)　與(P)　游標尺(Na)　尺身(Na)　垂直(VI)　，(COMMACATEGORY)
+***********************************************
+404.　，(COMMACATEGORY)　以(P)　游標尺(Na)　測量(VC)　。(PERIODCATEGORY)
+***********************************************
+405.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　最(Dfa)　大(VH)　殼(Na)　寬(Na)　：(COLONCATEGORY)
+***********************************************
+406.　：(COLONCATEGORY)　殼頂(Na)　朝上(VA)　，(COMMACATEGORY)
+***********************************************
+407.　，(COMMACATEGORY)　殼(Na)　口(Ncd)　朝(P)　左(Ncd)　，(COMMACATEGORY)
+***********************************************
+408.　，(COMMACATEGORY)　以(P)　游標尺(Na)　測量(VC)　其(Nep)　寬度(Na)　。(PERIODCATEGORY)
+***********************************************
+409.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　最(Dfa)　小(VH)　殼(Na)　寬(Na)　：(COLONCATEGORY)
+***********************************************
+410.　：(COLONCATEGORY)　自(P)　口緣(Na)　上(Ncd)　唇(Na)　插入點(Na)　經(P)　殼頂(Na)　畫(VC)　一(Neu)　條(Nf)　直線(Na)　，(COMMACATEGORY)
+***********************************************
+411.　，(COMMACATEGORY)　以(P)　游標尺(Na)　測量(VC)　其(Nep)　寬度(Na)　。(PERIODCATEGORY)
+***********************************************
+412.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　唇(Na)　基(Nc)　距(Na)　：(COLONCATEGORY)
+***********************************************
+413.　：(COLONCATEGORY)　上(Ncd)　唇(Na)　插入點(Na)　至(P)　內(Ncd)　唇(Na)　插入點(Na)　距離(Na)　，(COMMACATEGORY)
+***********************************************
+414.　，(COMMACATEGORY)　以(P)　游標尺(Na)　測量(VC)　。(PERIODCATEGORY)
+***********************************************
+415.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)　殼(Na)　口(Ncd)　寬(Na)　：(COLONCATEGORY)
+***********************************************
+416.　：(COLONCATEGORY)　內(Ncd)　唇(Na)　插入點(Na)　至(P)　外(Ncd)　唇(Na)　緣(Na)　最(Dfa)　大(VH)　距離(Na)　，(COMMACATEGORY)
+***********************************************
+417.　，(COMMACATEGORY)　以(P)　游標尺(Na)　測量(VC)　。(PERIODCATEGORY)
+***********************************************
+418.　。(PERIODCATEGORY)　６(Neu)　．(PERIODCATEGORY)　殼(Na)　口(Ncd)　高(Na)　：(COLONCATEGORY)
+***********************************************
+419.　：(COLONCATEGORY)　上(Ncd)　唇(Na)　至(Caa)　基(Nc)　唇(Na)　最(Dfa)　大(VH)　高度(Na)　，(COMMACATEGORY)
+***********************************************
+420.　，(COMMACATEGORY)　以(P)　解剖(VC)[+nom]　顯微鏡(Na)　測量(VC)　。(PERIODCATEGORY)
+***********************************************
+421.　。(PERIODCATEGORY)　７(Neu)　．(PERIODCATEGORY)　殼(Na)　口(Ncd)　周緣(Nc)　高(Na)　：(COLONCATEGORY)
+***********************************************
+422.　：(COLONCATEGORY)　自(P)　殼(Na)　口(Ncd)　外(Ncd)　唇(Na)　緣(Na)　最(Dfa)　寬(VH)　處(Nc)　至(Caa)　基(Nc)　唇(Na)　高度(Na)　，(COMMACATEGORY)
+***********************************************
+423.　，(COMMACATEGORY)　以(P)　解剖(VC)[+nom]　顯微鏡(Na)　測量(VC)　。(PERIODCATEGORY)
+***********************************************
+424.　。(PERIODCATEGORY)　８(Neu)　．(PERIODCATEGORY)　臍孔(Na)　寬(Na)　：(COLONCATEGORY)
+***********************************************
+425.　：(COLONCATEGORY)　臍孔(Na)　朝上(VA)　，(COMMACATEGORY)
+***********************************************
+426.　，(COMMACATEGORY)　下唇(Na)　緣(Na)　水平(Na)　，(COMMACATEGORY)
+***********************************************
+427.　，(COMMACATEGORY)　調整(VC)　角度(Na)　使(VL)　可(D)　看見(VE)　的(DE)　殼頂(Na)　內面(Ncd)　恰(D)　位於(VCL)　臍孔(Na)　正中央(Ncd)　，(COMMACATEGORY)
+***********************************************
+428.　，(COMMACATEGORY)　以(P)　此(Nep)　為(VG)　圓心(Nc)　，(COMMACATEGORY)
+***********************************************
+429.　，(COMMACATEGORY)　以(P)　解剖(VC)[+nom]　顯微鏡(Na)　測量(VC)　臍孔(Na)　直徑(Na)　。(PERIODCATEGORY)
+***********************************************
+430.　。(PERIODCATEGORY)　９(Neu)　．(PERIODCATEGORY)　螺層數(Na)　：(COLONCATEGORY)
+***********************************************
+431.　：(COLONCATEGORY)　在(P)　解剖(VC)[+nom]　顯微鏡(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+432.　，(COMMACATEGORY)　與(P)　殼頂(Na)　起始(Na)　螺層(Na)　畫(VC)　一(Neu)　垂直線(Na)　，(COMMACATEGORY)
+***********************************************
+433.　，(COMMACATEGORY)　計算(VC)　螺層(Na)　數目(Na)　。(PERIODCATEGORY)
+***********************************************
+434.　。(PERIODCATEGORY)　１０(Neu)　．(PERIODCATEGORY)　下唇(Na)　內(Ncd)　縮(VA)　距(Na)　：(COLONCATEGORY)
+***********************************************
+435.　：(COLONCATEGORY)　殼(Na)　放置(VC)　同(VJ)　測(VC)　臍孔(Na)　寬(Na)　，(COMMACATEGORY)
+***********************************************
+436.　，(COMMACATEGORY)　以(P)　解剖(VC)[+nom]　顯微鏡(Na)　測量(VC)　殼(Na)　口(Ncd)　上(Ncd)　唇(Na)　插入點(Na)　至(P)　下唇(Na)　與(P)　縫合線(Na)　交會點(Na)　的(DE)　直線(Na)　距離(Na)　。(PERIODCATEGORY)
+***********************************************
+437.　。(PERIODCATEGORY)　上述(Na)　１(Neu)　至(Caa)　９(Neu)　項(Nf)　特徵(Na)　的(DE)　選取(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+438.　，(COMMACATEGORY)　主要(D)　是(SHI)　依據(P)　過去(Nd)　描述(VC)　的(DE)　本(Na)　屬(Na)　種類(Na)　常用(VH)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+439.　，(COMMACATEGORY)　以及(Caa)　其它(Neqa)　種類(Na)　蝸牛(Na)　做(VC)　外形(Na)　分析(Na)　時常(D)　用(VC)　的(DE)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+440.　，(COMMACATEGORY)　它們(Nh)　分別(D)　代表(VK)　了(Di)　殼(Na)　的(DE)　整體(Na)　大小(Na)　或(Caa)　擴張度(Na)　、(PAUSECATEGORY)　生長(VH)　狀況(Na)　、(PAUSECATEGORY)　殼(Na)　口(Ncd)　部分(Neqa)　的(DE)　面積(Na)　、(PAUSECATEGORY)　下唇(Na)　的(DE)　膨脹(VHC)　程度(Na)　或(Caa)　臍孔(Na)　大小(Na)　。(PERIODCATEGORY)
+***********************************************
+441.　。(PERIODCATEGORY)　而(Cbb)　第１０(Neu)　項(Nf)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+442.　，(COMMACATEGORY)　代表(VK)　殼(Na)　口(Ncd)　下唇(Na)　向(P)　內(Ncd)　收縮(VAC)　的(DE)　程度(Na)　，(COMMACATEGORY)
+***********************************************
+443.　，(COMMACATEGORY)　經由(P)　觀察(VE)　，(COMMACATEGORY)
+***********************************************
+444.　，(COMMACATEGORY)　我(Nh)　認為(VE)　可能(D)　有(V_2)　意義(Na)　，(COMMACATEGORY)
+***********************************************
+445.　，(COMMACATEGORY)　因此(Cbb)　加入(VC)　一併(D)　分析(VC)　。(PERIODCATEGORY)
+***********************************************
+446.　。(PERIODCATEGORY)　另(Cbb)　於(P)　粒線體(Na)　核酸(Na)　純化(VHC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+447.　，(COMMACATEGORY)　由(P)　解剖(VC)　的(DE)　活體(Na)　中(Ncd)　取出(VC)　生殖(VA)[+nom]　系統(Na)　，(COMMACATEGORY)
+***********************************************
+448.　，(COMMACATEGORY)　保存(VC)　於(P)　７０％(Neqa)　的(DE)　酒精(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+449.　，(COMMACATEGORY)　並(Cbb)　拍照(VB)　繪圖(VA)　以資(D)　比較(VC)　。(PERIODCATEGORY)
+***********************************************
+450.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　分析(VC)　。(PERIODCATEGORY)
+***********************************************
+451.　。(PERIODCATEGORY)　（一）(Neu)　、(PAUSECATEGORY)　親緣(Na)　關係(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+452.　。(PERIODCATEGORY)　ＲＥＳＴＳＩＴＥ(FW)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+453.　，(COMMACATEGORY)　估計(VE)　分類群(Na)　間(Ng)　、(PAUSECATEGORY)　分類群(Na)　內(Ncd)　核酸(Na)　取代(VC)[+nom]　率(Na)　，(COMMACATEGORY)
+***********************************************
+454.　，(COMMACATEGORY)　並(Cbb)　以(P)　Ｂｏｏｔｓｔｒａｐ(FW)　法(Na)　計算(VC)　標準(Na)　誤差(Na)　。(PERIODCATEGORY)
+***********************************************
+455.　。(PERIODCATEGORY)　再(D)　以(P)　Ｎｅｉｇｈｂｏｒ(FW)　ｊｏｉｎｉｎｇ(FW)　法(Na)　重建出(VC)　系統(Na)　發生(VJ)[+nom]　樹(Na)　。(PERIODCATEGORY)
+***********************************************
+456.　。(PERIODCATEGORY)　本(Nes)　論文(Na)　的(DE)　分類群(Na)　依據(P)　討論(Na)　重點(Na)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+457.　，(COMMACATEGORY)　共(Da)　有(V_2)　基因型(Na)　、(PAUSECATEGORY)　族群(Na)　、(PAUSECATEGORY)　亞種(Na)　及(Caa)　種(Na)　，(COMMACATEGORY)
+***********************************************
+458.　，(COMMACATEGORY)　片段(Na)　數據(Na)　請見(VC)　附錄(Na)　四(Neu)　。(PERIODCATEGORY)
+***********************************************
+459.　。(PERIODCATEGORY)　（二）(Neu)　主成份(Na)　分析(VC)　。(PERIODCATEGORY)
+***********************************************
+460.　。(PERIODCATEGORY)　對(P)　上述(Na)　１０(Neu)　項(Nf)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+461.　，(COMMACATEGORY)　做(VC)　自然(Na)　對數(Na)　轉換(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+462.０３(Neu)　進行(VC)　主成份(Na)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+463.　，(COMMACATEGORY)　取(VC)　第一(Neu)　及(Caa)　第二(Neu)　主成份(Na)　的(DE)　係數(Na)　計算(VC)　分數(Na)　並(Cbb)　作圖(VA)　，(COMMACATEGORY)
+***********************************************
+464.　，(COMMACATEGORY)　比較(VC)　分類群(Na)　間(Ng)　是否(D)　有(V_2)　差異(Na)　。(PERIODCATEGORY)
+***********************************************
+465.　。(PERIODCATEGORY)　因(Cbb)　考慮(VE)　我們(Nh)　欲(VK)　探討(VE)　的(DE)　材料(Na)　有(V_2)　體型(Na)　大小(Na)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+466.　，(COMMACATEGORY)　為(P)　探討(VE)　除(P)　體形(Na)　大小(Na)　變異(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+467.　，(COMMACATEGORY)　是否(D)　還可以(D)　找到(VC)　別的(Neqa)　特徵(Na)　足以(VL)　區分(VC)　分類群(Na)　，(COMMACATEGORY)
+***********************************************
+468.　，(COMMACATEGORY)　及(Caa)　避免(VE)　體型(Na)　變異(Na)　掩蓋(VC)　其它(Neqa)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+469.　，(COMMACATEGORY)　因此(Cbb)　對(P)　體型(Na)　大小(Na)　以(P)　下列(A)　方法(Na)　做(VC)　修正(VC)　：(COLONCATEGORY)
+***********************************************
+470.　：(COLONCATEGORY)　每(Nes)　一(Neu)　種(Nf)　的(DE)　每(Nes)　一(Neu)　特徵(Na)　分別(D)　對(P)　殼(Na)　高(Na)　做(VC)　迴歸(A)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+471.５(Neu)　，(COMMACATEGORY)
+***********************************************
+472.　，(COMMACATEGORY)　則(D)　對(P)　此(Nep)　特徵(Na)　進行(VC)　以下(Ncd)　校正(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+473.　。(PERIODCATEGORY)　（三）(Neu)　巴丹(Nc)　蝸牛(Na)　大小型(Na)　之間(Ng)　的(DE)　比較(Na)　。(PERIODCATEGORY)
+***********************************************
+474.　。(PERIODCATEGORY)　針對(P)　巴丹(Nc)　蝸牛(Na)　的(DE)　殼型(Na)　大小(Na)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+475.　，(COMMACATEGORY)　以(P)　概要圖(Na)　做圖(VA)　比較(VC)　族群(Na)　間(Ng)　最(Dfa)　大(VH)　殼(Na)　寬(Na)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+476.　，(COMMACATEGORY)　將(P)　族群(Na)　簡化(VHC)　分為(VG)　數(Neu)　個(Nf)　小型(Na)　族群(Na)　及(Caa)　其它(Neqa)　大型(A)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+477.　，(COMMACATEGORY)　以(P)　這些(Neqa)　簡化(VHC)　的(DE)　族群(Na)　為(VG)　因變數(Na)　，(COMMACATEGORY)
+***********************************************
+478.　，(COMMACATEGORY)　以(P)　殼形(Na)　及(Caa)　螺層數(Na)　為(VG)　應變數(Na)　做(VC)　ｏｎｅ(FW)　—(DASHCATEGORY)　ｗａｙ(FW)　ＡＮＯＶＡ(FW)　，(COMMACATEGORY)
+***********************************************
+479.　，(COMMACATEGORY)　檢驗(VC)　族群(Na)　之間(Ng)　是否(D)　有(V_2)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+480.　，(COMMACATEGORY)　並(Cbb)　以(P)　ＬＳＤ(FW)　多重(A)　比較(Na)　法(Na)　檢驗(VC)　那(Nep)　幾(Neu)　個(Nf)　族群(Na)　間(Ng)　有(V_2)　明顯(VH)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+481.　，(COMMACATEGORY)　以(P)　此(Nep)　對(P)　巴丹(Nc)　蝸牛(Na)　的(DE)　分類(Na)　做(VC)　一(Neu)　檢討(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+482.　。(PERIODCATEGORY)　參(Neu)　、(PAUSECATEGORY)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+483.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　粒線體(Na)　核酸(Na)　ＲＦＬＰ(FW)　。(PERIODCATEGORY)
+***********************************************
+484.　。(PERIODCATEGORY)　由(P)　圖(Na)　二十一(Neu)　至(Caa)　二十三(Neu)　可以(D)　看出(VE)　南亞(Nc)　蝸牛(Na)　的(DE)　粒線體(Na)　核酸(Na)　分子(Na)　在(P)　某(Nes)　一(Neu)　特定(A)　的(DE)　位置(Na)　有(V_2)　長度(Na)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+485.　，(COMMACATEGORY)　使得(VL)　粒線體(Na)　核酸(Na)　的(DE)　總長度(Na)　約(Da)　由(P)　１７(Neu)　ｋｂ(Nf)　至(Caa)　２６(Neu)　ｋｂ(Nf)　，(COMMACATEGORY)
+***********************************************
+486.　，(COMMACATEGORY)　一般(D)　認為(VE)　這(Nep)　是(SHI)　因為(Cbb)　在(P)　控制區(Nc)　發生(VJ)　重複(VC)[+nom]　序列(Na)　造成(VG)　的(DE)　，(COMMACATEGORY)
+***********************************************
+487.　，(COMMACATEGORY)　經過(P)　比較(VC)　個體(Na)　間(Ncd)　長度(Na)　變化(Na)　的(DE)　片段(Na)　的(DE)　分子量(Na)　，(COMMACATEGORY)
+***********************************************
+488.　，(COMMACATEGORY)　並(Cbb)　無法(D)　找出(VC)　變化(Na)　的(DE)　規律性(Na)　，(COMMACATEGORY)
+***********************************************
+489.　，(COMMACATEGORY)　這(Nep)　一方面(Cbb)　可能(D)　是(SHI)　片段(Na)　長度(Na)　的(DE)　估計(VE)[+nom]　誤差(Na)　超過(VJ)　了(Di)　重複(VC)[+nom]　序列(Na)　的(DE)　長度(Na)　，(COMMACATEGORY)
+***********************************************
+490.　，(COMMACATEGORY)　表示(VE)　重複(VC)[+nom]　序列(Na)　的(DE)　長度(Na)　最(Dfa)　大(VH)　只(Da)　有(V_2)　數百(Neu)　ｂｐ(Nf)　，(COMMACATEGORY)
+***********************************************
+491.　，(COMMACATEGORY)　另一方面(Cbb)　可能(D)　是(SHI)　並非(D)　每(Nes)　一(Neu)　種(Nf)　數目(Na)　的(DE)　重複(VC)[+nom]　序列(Na)　片段(Na)　均(D)　被(P)　取樣到(VC)　。(PERIODCATEGORY)
+***********************************************
+492.　。(PERIODCATEGORY)　所幸(D)　在(P)　嘉蘭(Nc)　巴丹(Nc)　蝸牛(Na)　的(DE)　九(Neu)　個(Nf)　樣本(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+493.　，(COMMACATEGORY)　以(P)　ＥｃｏＲＩ脢(Na)　切(VC)　，(COMMACATEGORY)
+***********************************************
+494.　，(COMMACATEGORY)　均(D)　切出(VC)　了(Di)　一模一樣(VH)　的(DE)　片段(Na)　長度(Na)　，(COMMACATEGORY)
+***********************************************
+495.　，(COMMACATEGORY)　但(Cbb)　以(P)　另外(Da)　四(Neu)　種(Nf)　限制脢(Na)　作用(VA)　，(COMMACATEGORY)
+***********************************************
+496.　，(COMMACATEGORY)　則(D)　仍(D)　出現(VH)　長度(Na)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+497.　，(COMMACATEGORY)　顯示(VK)　在(P)　重複(VC)[+nom]　序列(Na)　內(Ng)　恰(D)　有(V_2)　一(Neu)　個(Nf)　取樣(Na)　三(Neu)　種(Nf)　共(Da)　１３２(Neu)　隻(Nf)　個體(Na)　，(COMMACATEGORY)
+***********************************************
+498.　，(COMMACATEGORY)　以(P)　ＢｃｌＩ(FW)　、(PAUSECATEGORY)　　ＥｃｏＲＩ(FW)　、(PAUSECATEGORY)　　ＨａｅＩＩ(FW)　、(PAUSECATEGORY)　　ＨｉｎｄＩＩＩ(FW)　與(Caa)　ＰｓｔＩ(FW)　等(Cab)　五(Neu)　種(Nf)　限制脢(Na)　作用(VA)　，(COMMACATEGORY)
+***********************************************
+499.　，(COMMACATEGORY)　共(Da)　切出(VC)　１７０(Neu)　個(Nf)　不同(VH)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+500.　，(COMMACATEGORY)　並(Cbb)　組合(VC)　產生(VHC)　５７(Neu)　種(Nf)　基因型(Na)　。(PERIODCATEGORY)
+***********************************************
+501.　。(PERIODCATEGORY)　１７０(Neu)　個(Nf)　片段(Na)　中(Ng)　有(V_2)　２５(Neu)　個(Nf)　分子量(Na)　小於(VJ)　１０００(Neu)　ｂｐ(Nf)　，(COMMACATEGORY)
+***********************************************
+502.　，(COMMACATEGORY)　顯示(VK)　若(Cbb)　不(D)　使用(VC)　ＰＡＡ(FW)　凝膠(Na)　電泳(Na)　，(COMMACATEGORY)
+***********************************************
+503.　，(COMMACATEGORY)　實驗(Na)　結果(Na)　可能(D)　受(VJ)　一定(A)　程度(Na)　的(DE)　影響(Na)　。(PERIODCATEGORY)
+***********************************************
+504.　。(PERIODCATEGORY)　由(P)　這(Nep)　結果(Na)　與(P)　其他(Neqa)　種(Nf)　生物(Na)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+505.　，(COMMACATEGORY)　其他(Neqa)　生物(Na)　一般(D)　並(D)　不(D)　產生(VHC)　這麼多(Neqa)　種(Nf)　基因型(Na)　，(COMMACATEGORY)
+***********************************************
+506.　，(COMMACATEGORY)　或(Caa)　在(P)　族群(Na)　內(Ncd)　的(DE)　遺傳(VJ)[+nom]　均質性(Na)　均(D)　很(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+507.　，(COMMACATEGORY)　所以(Cbb)　不論(Cbb)　是(SHI)　在(P)　族群(Na)　內(Ng)　或(Caa)　族群(Na)　間(Ng)　，(COMMACATEGORY)
+***********************************************
+508.　，(COMMACATEGORY)　南亞(Nc)　蝸牛(Na)　的(DE)　粒線體(Na)　核酸(Na)　的(DE)　遺傳(VJ)[+nom]　歧異度(Na)　算是(VG)　較(Dfa)　高(VH)　的(DE)　。(PERIODCATEGORY)
+***********************************************
+509.　。(PERIODCATEGORY)　以(P)　上述(Na)　公式(Na)　計算出(VE)　核酸(Na)　取代(VC)[+nom]　率(Na)　。(PERIODCATEGORY)
+***********************************************
+510.　。(PERIODCATEGORY)　在(P)　種(Na)　的(DE)　層次(Na)　，(COMMACATEGORY)
+***********************************************
+511.　，(COMMACATEGORY)　小(VH)　菱蝸牛(Na)　與(Caa)　另(Nes)　兩(Neu)　種(Nf)　阿猴(Nb)　蝸牛(Na)　及(Caa)　巴丹(Nc)　蝸牛(Na)　的(DE)　遺傳(VJ)[+nom]　變異(Na)　較(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+512.　，(COMMACATEGORY)　而(Cbb)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　之間(Ng)　變異(Na)　較(Dfa)　小(VH)　。(PERIODCATEGORY)
+***********************************************
+513.　。(PERIODCATEGORY)　由(P)　圖(Na)　八(Neu)　可(D)　明顯(VH)　看出(VE)　小(VH)　菱蝸牛(Na)　與(P)　另外(Da)　兩(Neu)　種(Nf)　差異(Na)　較(Dfa)　大(VH)　。(PERIODCATEGORY)
+***********************************************
+514.　。(PERIODCATEGORY)　就(P)　亞種(Na)　這(Nep)　個(Nf)　階層(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+515.　，(COMMACATEGORY)　分佈(VH)　於(P)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　的(DE)　蘭嶼(Nc)　蝸牛(Na)　與(Caa)　台灣(Nc)　本(Nes)　島(Na)　的(DE)　班卡拉(Nb)　蝸牛(Na)　差異(Na)　很(Dfa)　小(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+516.　；(SEMICOLONCATEGORY)　小琉球(Nc)　的(DE)　紅(VH)　菱蝸牛(Na)　與(Caa)　台灣島(Nc)　的(DE)　小(VH)　菱蝸牛(Na)　的(DE)　差異(Na)　則(D)　較(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+517.　，(COMMACATEGORY)　顯示(VK)　小(VH)　菱蝸牛(Na)　的(DE)　這(Nep)　兩(Neu)　個(Nf)　亞種(Na)　遺傳(VJ)[+nom]　分化(VC)[+nom]　程度(Na)　頗(Dfa)　高(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+518.　；(SEMICOLONCATEGORY)　而(Cbb)　阿猴(Nb)　蝸牛(Na)　與(Caa)　班卡拉(Nb)　蝸牛(Na)　的(DE)　遺傳(VJ)[+nom]　分化(VC)[+nom]　程度(Na)　卻(D)　低於(VJ)　班卡拉(Nb)　蝸牛(Na)　與(Caa)　蘭嶼(Nc)　蝸牛(Na)　之間(Ng)　的(DE)　遺傳(VJ)[+nom]　分化(VC)[+nom]　程度(Na)　。(PERIODCATEGORY)
+***********************************************
+519.　。(PERIODCATEGORY)　在(P)　族群(Na)　的(DE)　層次(Na)　，(COMMACATEGORY)
+***********************************************
+520.　，(COMMACATEGORY)　值得(VH)　注意(VK)　的(DE)　是(SHI)　：(COLONCATEGORY)
+***********************************************
+521.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　某些(Neqa)　地理(Na)　距離(Na)　愈(D)　小(VH)　的(DE)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+522.　，(COMMACATEGORY)　其(Nep)　分化(VC)[+nom]　程度(Na)　也(D)　愈(D)　低(VH)　，(COMMACATEGORY)
+***********************************************
+523.　，(COMMACATEGORY)　如(P)　關山(Nc)　與(Caa)　貓鼻頭(Nc)　或(Caa)　社頂(Nc)　與(Caa)　大尖山(Nc)　。(PERIODCATEGORY)
+***********************************************
+524.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　蘭嶼(Nc)　與(Caa)　綠島(Nc)　兩(Neu)　個(Nf)　離島(Nc)　相距(VJ)　約(Da)　三十(Neu)　公里(Nf)　又(D)　有(V_2)　海洋(Na)　隔離(VC)　，(COMMACATEGORY)
+***********************************************
+525.　，(COMMACATEGORY)　但(Cbb)　遺傳(VJ)[+nom]　分化(VC)[+nom]　度(Na)　卻(D)　很(Dfa)　低(VH)　。(PERIODCATEGORY)
+***********************************************
+526.　。(PERIODCATEGORY)　嘉蘭(Nc)　與(Caa)　草埔(Nc)　在(P)　地理(Na)　上(Ng)　相隔(VH)　亦(D)　頗(Dfa)　遠(VH)　，(COMMACATEGORY)
+***********************************************
+527.　，(COMMACATEGORY)　但(Cbb)　遺傳(VJ)[+nom]　分化(VC)[+nom]　度(Na)　卻(D)　很(Dfa)　低(VH)　。(PERIODCATEGORY)
+***********************************************
+528.　。(PERIODCATEGORY)　嘉蘭(Nc)　與(Caa)　小琉球(Nc)　的(DE)　南亞(Nc)　蝸牛(Na)　分(D)　屬(VG)　不同(VH)　種(Na)　，(COMMACATEGORY)
+***********************************************
+529.　，(COMMACATEGORY)　但(Cbb)　遺傳(VJ)[+nom]　分化(VC)[+nom]　度(Na)　卻(D)　小於(VJ)　同種(VH)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+530.　，(COMMACATEGORY)　香蕉灣(Nc)　、(PAUSECATEGORY)　關山(Nc)　、(PAUSECATEGORY)　貓鼻頭(Nc)　、(PAUSECATEGORY)　龜山(Nc)　及(Caa)　壽山(Nc)　。(PERIODCATEGORY)
+***********************************************
+531.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　阿猴(Nb)　蝸牛(Na)　的(DE)　石門(Nc)　及(Caa)　龜山(Nc)　兩(Neu)　個(Nf)　族群(Na)　之間(Ng)　的(DE)　遺傳(VJ)[+nom]　分化(VC)[+nom]　度(Na)　大於(VJ)　與(P)　鄰近(VJ)　不(D)　同種(VH)　族群(Na)　的(DE)　遺傳(VJ)[+nom]　分化(VC)[+nom]　度(Na)　。(PERIODCATEGORY)
+***********************************************
+532.　。(PERIODCATEGORY)　由(P)　５７(Neu)　個(Nf)　基因型(Na)　的(DE)　遺傳(VJ)[+nom]　距離(Na)　及(Caa)　基因(Na)　演化(VHC)[+nom]　樹(Na)　來(D)　看(VE)　，(COMMACATEGORY)
+***********************************************
+533.　，(COMMACATEGORY)　大致(D)　也(D)　是(SHI)　與(P)　地理(Na)　距離(Na)　相關(VH)　。(PERIODCATEGORY)
+***********************************************
+534.　。(PERIODCATEGORY)　龜山(Nc)　的(DE)　阿猴(Nb)　蝸牛(Na)　則(D)　分(D)　落於(VJ)　兩(Neu)　群(Nf)　巴丹(Nc)　蝸牛(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+535.　，(COMMACATEGORY)　分別(D)　是(SHI)　關山(Nc)　、(PAUSECATEGORY)　貓鼻頭(Nc)　及(Caa)　社頂(Nc)　、(PAUSECATEGORY)　大尖山(Nc)　兩(Neu)　群(Nf)　，(COMMACATEGORY)
+***********************************************
+536.　，(COMMACATEGORY)　同(D)　屬於(VG)　恆春(Nc)　半島(Na)　南方(Ncd)　族群(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+537.　；(SEMICOLONCATEGORY)　而(Cbb)　石門(Nc)　的(DE)　阿猴(Nb)　蝸牛(Na)　則(D)　與(P)　保力(Nc)　、(PAUSECATEGORY)　滿州(Nc)　、(PAUSECATEGORY)　社頂(Nc)　、(PAUSECATEGORY)　草埔(Nc)　、(PAUSECATEGORY)　蘭嶼(Nc)　及(Caa)　綠島(Nc)　的(DE)　巴丹(Nc)　蝸牛(Na)　相似(VH)　，(COMMACATEGORY)
+***********************************************
+538.　，(COMMACATEGORY)　同(D)　屬於(VG)　恆春(Nc)　半島(Na)　北方(Ncd)　族群(Na)　。(PERIODCATEGORY)
+***********************************************
+539.　。(PERIODCATEGORY)　綜合(VC)　以上(Ncd)　粒線體(Na)　核酸(Na)　的(DE)　分析(Na)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+540.　，(COMMACATEGORY)　可(D)　簡單(VH)　歸納出(VC)　三(Neu)　點(Nf)　結果(Na)　：(COLONCATEGORY)
+***********************************************
+541.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　南亞(Nc)　蝸牛(Na)　族群(Na)　內(Ng)　與(Caa)　族群(Na)　間(Ng)　的(DE)　歧異度(Na)　頗(Dfa)　高(VH)　。(PERIODCATEGORY)
+***********************************************
+542.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　小(VH)　菱蝸牛(Na)　與(Caa)　另(Nes)　兩(Neu)　種(Nf)　明顯(VH)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+543.　，(COMMACATEGORY)　且(Cbb)　種(Na)　內(Ng)　歧異(VH)　程度(Na)　也(D)　較(Dfa)　高(VH)　。(PERIODCATEGORY)
+***********************************************
+544.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　分化(VC)[+nom]　程度(Na)　頗(Dfa)　低(VH)　，(COMMACATEGORY)
+***********************************************
+545.　，(COMMACATEGORY)　且(Cbb)　阿猴(Nb)　蝸牛(Na)　的(DE)　兩(Neu)　個(Nf)　族群(Na)　分別(D)　與(P)　地理(Na)　上(Ng)　接近(VC)　的(DE)　巴丹(Nc)　蝸牛(Na)　族群(Na)　相近(VH)　。(PERIODCATEGORY)
+***********************************************
+546.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　在(P)　地理(Na)　上(Ng)　大約(Da)　可(D)　區分為(VG)　四(Neu)　群(Nf)　：(COLONCATEGORY)
+***********************************************
+547.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　小(VH)　菱蝸牛(Na)　群(Na)　，(COMMACATEGORY)
+***********************************************
+548.　，(COMMACATEGORY)　包括(VK)　小琉球(Nc)　與(Caa)　壽山(Nc)　，(COMMACATEGORY)
+***********************************************
+549.　，(COMMACATEGORY)　２(Neu)　．(PERIODCATEGORY)　恆春(Nc)　半島(Na)　南部(Ncd)　群(Na)　，(COMMACATEGORY)
+***********************************************
+550.　，(COMMACATEGORY)　北(Ncd)　至(P)　龜山(Nc)　，(COMMACATEGORY)
+***********************************************
+551.　，(COMMACATEGORY)　東(Ncd)　至(P)　香蕉灣(Nc)　，(COMMACATEGORY)
+***********************************************
+552.　，(COMMACATEGORY)　東北(Ncd)　至(P)　社頂(Nc)　，(COMMACATEGORY)
+***********************************************
+553.　，(COMMACATEGORY)　以(P)　此(Nep)　與(P)　恆春(Nc)　半島(Na)　北部(Ncd)　區分開(VC)　來(T)　，(COMMACATEGORY)
+***********************************************
+554.　，(COMMACATEGORY)　３(Neu)　．(PERIODCATEGORY)　恆春(Nc)　半島(Na)　北部(Ncd)　，(COMMACATEGORY)
+***********************************************
+555.　，(COMMACATEGORY)　包括(VK)　草埔(Nc)　、(PAUSECATEGORY)　保力(Nc)　、(PAUSECATEGORY)　石門(Nc)　與(Caa)　滿州(Nc)　及(Caa)　離島(Nc)　蘭嶼(Nc)　及(Caa)　綠島(Nc)　，(COMMACATEGORY)
+***********************************************
+556.　，(COMMACATEGORY)　４(Neu)　．(PERIODCATEGORY)　非(VG)　恆春(Nc)　半島(Na)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+557.　，(COMMACATEGORY)　包括(VK)　嘉蘭(Nc)　。(PERIODCATEGORY)
+***********************************************
+558.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　外殼(Na)　形質(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+559.　。(PERIODCATEGORY)　（一）(Neu)　主成份(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+560.　。(PERIODCATEGORY)　分別(D)　以(P)　修正(VC)　前(Ng)　的(DE)　十(Neu)　個(Nf)　特徵(Na)　及(Caa)　修正(VC)　後(Ng)　的(DE)　九(Neu)　個(Nf)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+561.　，(COMMACATEGORY)　作(VC)　主成份(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+562.　。(PERIODCATEGORY)　其(Nep)　相關(VH)　係數(Na)　矩陣(Na)　及(Caa)　特徵(Na)　向量(Na)　分別(D)　列(VC)　於(P)　表(Na)　七(Neu)　至(Caa)　八(Neu)　，(COMMACATEGORY)
+***********************************************
+563.　，(COMMACATEGORY)　修正(VC)　前(Ng)　，(COMMACATEGORY)
+***********************************************
+564.　，(COMMACATEGORY)　表(Na)　九(Neu)　至(Caa)　十(Neu)　，(COMMACATEGORY)
+***********************************************
+565.　，(COMMACATEGORY)　修正(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+566.　，(COMMACATEGORY)　以(P)　第一(Neu)　及(Caa)　第(Neu)　二(Neu)　主成份(Na)　的(DE)　分數(Na)　分別(D)　作圖(VA)　於(P)　圖(Na)　十三(Neu)　及(Caa)　圖(Na)　十四(Neu)　至(Caa)　十七(Neu)　，(COMMACATEGORY)
+***********************************************
+567.　，(COMMACATEGORY)　分述(VC)　如下(VK)　：(COLONCATEGORY)
+***********************************************
+568.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　修正(VC)　前(Ng)　。(PERIODCATEGORY)
+***********************************************
+569.　。(PERIODCATEGORY)　修正(VC)　前(Ng)　除(P)　ＵＲ(FW)　及(Caa)　ＬＩＤ(FW)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+570.　，(COMMACATEGORY)　形質(Na)　之間(Ng)　的(DE)　相關(VH)　係數(Na)　均(D)　頗(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+571.３％(Neqa)　的(DE)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+572.６％(Neqa)　，(COMMACATEGORY)
+***********************************************
+573.５x％(Neqa)　。(PERIODCATEGORY)
+***********************************************
+574.　。(PERIODCATEGORY)　第一(Neu)　主成份(Na)　主要(D)　代表(VK)　了(Di)　整(Neqa)　個(Nf)　外殼(Na)　的(DE)　大小(Na)　及(Caa)　殼(Na)　口(Ncd)　處(Nc)　的(DE)　寬度(Na)　，(COMMACATEGORY)
+***********************************************
+575.　，(COMMACATEGORY)　第二(Neu)　主成份(Na)　則(D)　代表(VK)　殼(Na)　口(Ncd)　處(Nc)　的(DE)　高度(Na)　以及(Caa)　臍孔(Na)　寬(Na)　，(COMMACATEGORY)
+***********************************************
+576.　，(COMMACATEGORY)　第三(Neu)　主成份(Na)　代表(VK)　下唇(Na)　內(Ncd)　縮(VA)　程度(Na)　及(Caa)　螺層數(Na)　。(PERIODCATEGORY)
+***********************************************
+577.　。(PERIODCATEGORY)　以(P)　第一(Neu)　、(PAUSECATEGORY)　二(Neu)　主成份(Na)　作圖(VA)　，(COMMACATEGORY)
+***********************************************
+578.　，(COMMACATEGORY)　三(Neu)　種(Nf)　的(DE)　大部分(Neqa)　區域(Na)　重疊(VH)　，(COMMACATEGORY)
+***********************************************
+579.　，(COMMACATEGORY)　無法(D)　察看出(VC)　三(Neu)　種(Nf)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+580.　，(COMMACATEGORY)　而且(Cbb)　明顯(VH)　的(DE)　受(VJ)　殼(Na)　的(DE)　大小(Na)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+581.　，(COMMACATEGORY)　對於(P)　想要(VE)　探討(VE)　除了(P)　殼型(Na)　大小(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+582.　，(COMMACATEGORY)　是否(D)　有(V_2)　別的(Neqa)　形質(Na)　差異(Na)　並(D)　無(VJ)　幫助(Na)　。(PERIODCATEGORY)
+***********************************************
+583.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　修正(VC)　後(Ng)　。(PERIODCATEGORY)
+***********************************************
+584.　。(PERIODCATEGORY)　修正(VC)　後(Ng)　各(Nes)　變量(Na)　之間(Ng)　的(DE)　相關(VH)　係數(Na)　略為(Dfa)　降低(VHC)　，(COMMACATEGORY)
+***********************************************
+585.　，(COMMACATEGORY)　前(Nes)　三(Neu)　個(Nf)　主成份(Na)　共(Da)　解釋(VE)　８３％(Neqa)　的(DE)　變異數(Na)　，(COMMACATEGORY)
+***********************************************
+586.２％(Neqa)　，(COMMACATEGORY)
+***********************************************
+587.,２％(Neqa)　。(PERIODCATEGORY)
+***********************************************
+588.　。(PERIODCATEGORY)　ＰＣＡ１(FW)　代表(VK)　整體(Na)　大小(Na)　及(Caa)　殼(Na)　口(Ncd)　處(Nc)　的(DE)　大小(Na)　，(COMMACATEGORY)
+***********************************************
+589.　，(COMMACATEGORY)　ＰＣＡ２(FW)　代表(VK)　臍孔(Na)　寬(Na)　，(COMMACATEGORY)
+***********************************************
+590.　，(COMMACATEGORY)　ＰＣＡ３(FW)　則(D)　代表(VK)　下唇(Na)　內(Ncd)　程度(Na)　。(PERIODCATEGORY)
+***********************************************
+591.　。(PERIODCATEGORY)　以(P)　第一(Neu)　、(PAUSECATEGORY)　二(Neu)　主成份(Na)　作圖(VA)　，(COMMACATEGORY)
+***********************************************
+592.　，(COMMACATEGORY)　發現(VE)　對於(P)　三(Neu)　種(Nf)　的(DE)　區分(VC)[+nom]　能力(Na)　略(D)　有(D)　改善(VC)　，(COMMACATEGORY)
+***********************************************
+593.　，(COMMACATEGORY)　小(VH)　菱蝸牛(Na)　可(D)　與(P)　阿猴(Nb)　蝸牛(Na)　完全(D)　區分(VC)　，(COMMACATEGORY)
+***********************************************
+594.　，(COMMACATEGORY)　但(Cbb)　兩(Neu)　種(Nf)　仍(D)　與(P)　巴丹(Nc)　蝸牛(Na)　有(V_2)　部份(Neqa)　重疊(VH)　。(PERIODCATEGORY)
+***********************************************
+595.　。(PERIODCATEGORY)　對(P)　阿猴(Nb)　蝸牛(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+596.　，(COMMACATEGORY)　仍(D)　無法(D)　區別(VC)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+597.　，(COMMACATEGORY)　僅(Da)　楓港(Nc)　族群(Na)　有(V_2)　較(Dfa)　大(VH)　殼型(Na)　及(Caa)　較(Dfa)　大(VH)　臍孔(Na)　的(DE)　趨勢(Na)　。(PERIODCATEGORY)
+***********************************************
+598.　。(PERIODCATEGORY)　對(P)　巴丹(Nc)　蝸牛(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+599.　，(COMMACATEGORY)　以(P)　ＰＣＡ１(FW)　軸(Na)　可以(D)　大約(Da)　區分出(VC)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　、(PAUSECATEGORY)　嘉蘭(Nc)　、(PAUSECATEGORY)　貓鼻頭(Nc)　與(Caa)　大尖山(Nc)　等(Cab)　較(Dfa)　小型(Na)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+600.　，(COMMACATEGORY)　但(Cbb)　仍(D)　有(V_2)　大部份(Neqa)　與(P)　其他(Neqa)　族群(Na)　重疊(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+601.　；(SEMICOLONCATEGORY)　以(P)　ＰＣＡ２(FW)　軸(Na)　可以(D)　大約(Da)　區分出(VC)　嘉蘭(Nc)　及(Caa)　大尖山(Nc)　兩(Neu)　個(Nf)　有(V_2)　較(Dfa)　大(VH)　臍孔(Na)　的(DE)　族群(Na)　。(PERIODCATEGORY)
+***********************************************
+602.　。(PERIODCATEGORY)　對(P)　小(VH)　菱蝸牛(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+603.　，(COMMACATEGORY)　以(P)　ＰＣＡ１(FW)　軸(Na)　大約(Da)　可(D)　分為(VG)　小琉球(Nc)　、(PAUSECATEGORY)　關子嶺(Nc)　一(Neu)　群(Nf)　及(Caa)　壽山(Nc)　、(PAUSECATEGORY)　半屏山(Nc)　一(Neu)　群(Nf)　，(COMMACATEGORY)
+***********************************************
+604.　，(COMMACATEGORY)　以(P)　ＰＣＡ２(FW)　軸(Na)　可(D)　區分出(VC)　關子嶺(Nc)　族群(Na)　有(V_2)　較(Dfa)　小(VH)　的(DE)　臍孔(Na)　。(PERIODCATEGORY)
+***********************************************
+605.　。(PERIODCATEGORY)　由(P)　此(Nep)　修正(VC)　過(Di)　的(DE)　結果(Na)　來(D)　看(VE)　，(COMMACATEGORY)
+***********************************************
+606.　，(COMMACATEGORY)　體型(Na)　大小(Na)　在(P)　種(Na)　內(Ng)　仍(D)　是(SHI)　最(Dfa)　大(VH)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+607.　，(COMMACATEGORY)　可能(D)　表示(VE)　其他(Neqa)　特徵(Na)　並(D)　無(VJ)　很(Dfa)　大(VH)　差異(Na)　或是(Caa)　尚未(D)　發現(VE)　有(V_2)　明顯(VH)　差異(Na)　的(DE)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+608.　，(COMMACATEGORY)　或是(Caa)　上述(Na)　修正(VC)[+nom]　方式(Na)　並(D)　不(D)　適當(VH)　。(PERIODCATEGORY)
+***********************************************
+609.　。(PERIODCATEGORY)　（二）(Neu)　巴丹(Nc)　蝸牛(Na)　大小型(Na)　之間(Ng)　的(DE)　比較(Na)　。(PERIODCATEGORY)
+***********************************************
+610.　。(PERIODCATEGORY)　以(P)　最(Dfa)　大(VH)　殼(Na)　寬(Na)　做(VC)　概要圖(Na)　，(COMMACATEGORY)
+***********************************************
+611.　，(COMMACATEGORY)　以(P)　２０(Neu)　ｍｍ(Nf)　為(VG)　區分點(Na)　，(COMMACATEGORY)
+***********************************************
+612.　，(COMMACATEGORY)　將(P)　族群(Na)　區分為(VG)　大型(Na)　及(Caa)　小型(A)　，(COMMACATEGORY)
+***********************************************
+613.　，(COMMACATEGORY)　小型(Na)　包括(VK)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　、(PAUSECATEGORY)　巴丹島(Nc)　、(PAUSECATEGORY)　嘉蘭(Nc)　、(PAUSECATEGORY)　貓鼻頭(Nc)　以及(Caa)　大尖山(Nc)　，(COMMACATEGORY)
+***********************************************
+614.　，(COMMACATEGORY)　其餘(Neqa)　族群(Na)　全(Neqa)　歸類於(VJ)　大型(Na)　，(COMMACATEGORY)
+***********************************************
+615.　，(COMMACATEGORY)　以下(Ncd)　簡稱(VG)　大型(Na)　。(PERIODCATEGORY)
+***********************************************
+616.　。(PERIODCATEGORY)　以(P)　此(Nep)　七(Neu)　群(Nf)　對(P)　殼形(Na)　及(Caa)　螺層數(Na)　分別(D)　做(VC)　變異數(Na)　分析(Na)　的(DE)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+617.　，(COMMACATEGORY)　顯示(VK)　有(V_2)　顯著(VH)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+618.　，(COMMACATEGORY)　以(P)　ＬＳＤ(FW)　多重(A)　比較(Na)　法(Na)　做(VC)　比較(VC)　發現(VE)　螺層數(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+619.　，(COMMACATEGORY)　大型(Na)　確實(D)　有(V_2)　較多(VH)　的(DE)　螺層數(Na)　，(COMMACATEGORY)
+***********************************************
+620.　，(COMMACATEGORY)　巴丹島(Nc)　的(DE)　螺層數(Na)　最(Dfa)　低(VH)　，(COMMACATEGORY)
+***********************************************
+621.　，(COMMACATEGORY)　兩(Neu)　群(Nf)　與(P)　其他(Neqa)　族群(Na)　明顯(VH)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+622.　，(COMMACATEGORY)　但(Cbb)　其他(Neqa)　的(DE)　族群(Na)　則(D)　大致(D)　相同(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+623.　；(SEMICOLONCATEGORY)　在(P)　殼形(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+624.　，(COMMACATEGORY)　呈現(VJ)　連續性(Na)　的(DE)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+625.　，(COMMACATEGORY)　但(Cbb)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　、(PAUSECATEGORY)　巴丹島(Nc)　、(PAUSECATEGORY)　嘉蘭(Nc)　則(D)　有(V_2)　較(Dfa)　高(VH)　凸(VH)　的(DE)　殼形(Na)　。(PERIODCATEGORY)
+***********************************************
+626.　。(PERIODCATEGORY)　各(Nes)　族群(Na)　的(DE)　殼形(Na)　及(Caa)　螺層數(Na)　概要圖(Na)　亦(D)　附(VC)　於(P)　圖(Na)　二十六(Neu)　、(PAUSECATEGORY)　二十七(Neu)　以資(D)　比較(VC)　。(PERIODCATEGORY)
+***********************************************
+627.　。(PERIODCATEGORY)　由(P)　以上(Ncd)　結果(Na)　看(VE)　來(D)　，(COMMACATEGORY)
+***********************************************
+628.　，(COMMACATEGORY)　與(P)　當初(Nd)　Ｋｕｒｏｄａ(Nb)[+fw]　的(DE)　分類(Na)　吻合(VH)　。(PERIODCATEGORY)
+***********************************************
+629.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　生殖器(Na)　。(PERIODCATEGORY)
+***********************************************
+630.　。(PERIODCATEGORY)　三(Neu)　種(Nf)　南亞(Nc)　蝸牛(Na)　生殖器(Na)　構造(Na)　分別(D)　圖示(VC)　於(P)　圖(Na)　十八(Neu)　至(Caa)　圖(Na)　二十(Neu)　，(COMMACATEGORY)
+***********************************************
+631.　，(COMMACATEGORY)　另(Cbb)　附上(VC)　已(D)　知(VK)　生殖器(Na)　構造(Na)　的(DE)　香港(Nc)　的(DE)　ｃｉｃａｔｒｉｃｏｓａ(FW)　與(Caa)　日本(Nc)　宮古群島(Nc)　的(DE)　ｓａｋｉｓｈｉｍａｎａ(FW)　以(Cbb)　作為(VG)　比較(VC)　。(PERIODCATEGORY)
+***********************************************
+632.　。(PERIODCATEGORY)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　的(DE)　生殖器(Na)　在(P)　結構(Na)　上(Ng)　並(D)　無(VJ)　太(Dfa)　大(VH)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+633.　，(COMMACATEGORY)　且(Cbb)　頗(Dfa)　類似(VG)　ｃｉｃａｔｒｉｃｏｓａ(FW)　，(COMMACATEGORY)
+***********************************************
+634.　，(COMMACATEGORY)　三(Neu)　者(Na)　的(DE)　鞭狀器(Na)　均(D)　較(Dfa)　長(VH)　且(Caa)　不(D)　成(VG)　彎曲狀(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+635.　；(SEMICOLONCATEGORY)　但是(Cbb)　阿猴(Nb)　蝸牛(Na)　有(V_2)　較(P)　巴丹(Nc)　蝸牛(Na)　短(VH)　的(DE)　陰莖鞘(Na)　及(Caa)　較(Dfa)　長(VH)　的(DE)　鞭狀器(Na)　，(COMMACATEGORY)
+***********************************************
+636.　，(COMMACATEGORY)　這(Nep)　結果(Na)　與(P)　Ｓｉｎａｋａｗａ(Nb)[+fw]　的(DE)　結果(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+637.　，(COMMACATEGORY)　證實(VE)　這(Nep)　兩(Neu)　種(Nf)　在(P)　生殖器(Na)　形態(Na)　上(Ng)　有(V_2)　長度(Na)　差異(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+638.　；(SEMICOLONCATEGORY)　但是(Cbb)　阿猴(Nb)　蝸牛(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+639.　，(COMMACATEGORY)　石門(Nc)　的(DE)　鞭狀器(Na)　則(D)　較(P)　龜山(Nc)　略(D)　長(VH)　，(COMMACATEGORY)
+***********************************************
+640.　，(COMMACATEGORY)　但(Cbb)　陰莖鞘(Na)　長度(Na)　則(D)　相反(VH)　。(PERIODCATEGORY)
+***********************************************
+641.　。(PERIODCATEGORY)　班卡拉(Nb)　蝸牛(Na)　與(Caa)　蘭嶼(Nc)　蝸牛(Na)　主要(A)　差異(Na)　為(VG)　鞭狀器(Na)　，(COMMACATEGORY)
+***********************************************
+642.　，(COMMACATEGORY)　後者(Nh)　具有(VJ)　較(Dfa)　短(VH)　的(DE)　鞭狀器(Na)　，(COMMACATEGORY)
+***********************************************
+643.　，(COMMACATEGORY)　這(Nep)　點(Nf)　並(D)　不(D)　符合(VJ)　Ｔａｂｅ(Nb)[+fw]　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+644.　。(PERIODCATEGORY)　由(P)　以上(Ncd)　兩(Neu)　種(Nf)　的(DE)　比較(Na)　，(COMMACATEGORY)
+***********************************************
+645.　，(COMMACATEGORY)　顯然(D)　生殖器(Na)　長度(Na)　上(Ng)　的(DE)　變異(Na)　並(D)　沒有(VJ)　一定(A)　的(DE)　趨勢(Na)　，(COMMACATEGORY)
+***********************************************
+646.　，(COMMACATEGORY)　例如(P)　與(P)　體型(Na)　成(VG)　正比(Na)　，(COMMACATEGORY)
+***********************************************
+647.　，(COMMACATEGORY)　或(Caa)　某(Nes)　一(Neu)　特徵(Na)　在(P)　種(Na)　內(Ng)　為(VG)　穩定(VHC)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+648.　，(COMMACATEGORY)　可(D)　供作(VG)　分類(VC)　的(DE)　標準(Na)　，(COMMACATEGORY)
+***********************************************
+649.　，(COMMACATEGORY)　因此(Cbb)　需要(VK)　對(P)　兩(Neu)　種(Nf)　仔細(VH)　比較(VC)　小(VH)　菱蝸牛(Na)　的(DE)　鞭狀器(Na)　與(P)　其它(Neqa)　種(Na)　明顯(VH)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+650.　，(COMMACATEGORY)　成(VG)　彎曲狀(Na)　且(Caa)　較(Dfa)　短(VH)　，(COMMACATEGORY)
+***********************************************
+651.　，(COMMACATEGORY)　與(P)　ｓａｋｉｓｈｉｍａｎａ(FW)　同屬(VG)　較(Dfa)　退化(VHC)　的(DE)　結構(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+652.　；(SEMICOLONCATEGORY)　在(P)　外表(Na)　上(Ng)　可(D)　見到(VE)　一(Neu)　極度(Dfa)　退化(VHC)　的(DE)　陰莖(Na)　附屬(VI)[+nom]　肢(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+653.　；(SEMICOLONCATEGORY)　而(Cbb)　壽山(Nc)　與(Caa)　小琉球(Nc)　之間(Ng)　並(D)　無(VJ)　太(Dfa)　大(VH)　的(DE)　不同(Na)　，(COMMACATEGORY)
+***********************************************
+654.　，(COMMACATEGORY)　僅(Da)　壽山(Nc)　者(Na)　的(DE)　陰道(Na)　長度(Na)　略(D)　長(VH)　。(PERIODCATEGORY)
+***********************************************
+655.　。(PERIODCATEGORY)　肆(Neu)　、(PAUSECATEGORY)　討論(Na)　。(PERIODCATEGORY)
+***********************************************
+656.　。(PERIODCATEGORY)　一(Neu)　．(PERIODCATEGORY)　粒線體(Na)　核酸(Na)　分析(Na)　技術(Na)　。(PERIODCATEGORY)
+***********************************************
+657.　。(PERIODCATEGORY)　軟體(Na)　動物(Na)　因(Cbb)　會(D)　分泌(VC)　大量(Neqa)　黏液(Na)　，(COMMACATEGORY)
+***********************************************
+658.　，(COMMACATEGORY)　故(Cbb)　其(Nep)　核酸(Na)　的(DE)　純化(VHC)[+nom]　頗(Dfa)　難(VH)　，(COMMACATEGORY)
+***********************************************
+659.　，(COMMACATEGORY)　本(Nes)　論文(Na)　所(D)　使用(VC)　的(DE)　方法(Na)　主要(D)　是(SHI)　依據(P)　Ｓｎｙｄｅｒ(Nb)[+fw]　以及(Caa)　Ｓｔｉｎｅ(Nb)[+fw]　的(DE)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+660.　，(COMMACATEGORY)　並(Cbb)　參考(VC)　　ＭｃＡｒｔｈｕｒ(Nb)[+fw]　及(Caa)　　Ｂｏｏｍ(Nb)[+fw]　等(Cab)　人(Na)　提供(VD)　的(DE)　詳細(VH)　步驟(Na)　，(COMMACATEGORY)
+***********************************************
+661.　，(COMMACATEGORY)　個人(Nh)　通訊(Na)　，(COMMACATEGORY)
+***********************************************
+662.　，(COMMACATEGORY)　針對(P)　本(Nes)　實驗(Na)　材料(Na)　的(DE)　性質(Na)　稍為(Dfa)　加以(D)　修改(VC)　得到(VJ)　。(PERIODCATEGORY)
+***********************************************
+663.　。(PERIODCATEGORY)　傳統(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+664.　，(COMMACATEGORY)　粒線體(Na)　核酸(Na)　的(DE)　純化(VHC)[+nom]　標準(Na)　方法(Na)　是(SHI)　使用(VC)　ＣｓＣｌ(FW)　—(DASHCATEGORY)　ＥｔＢｒ(FW)　超高速(Na)　離心(VB)　分離(VHC)　粒線體(Na)　及(Caa)　核(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+665.　，(COMMACATEGORY)　再(D)　純化出(VC)　粒線體(Na)　核酸(Na)　，(COMMACATEGORY)
+***********************************************
+666.　，(COMMACATEGORY)　但是(Cbb)　用(P)　此(Nep)　法(Na)　會(D)　花費(VC)　較多(VH)　的(DE)　金錢(Na)　與(Caa)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+667.　，(COMMACATEGORY)　對(P)　需要(VK)　大量(Neqa)　樣本(Na)　的(DE)　研究(Na)　較(Dfa)　不(D)　適用(VJ)　，(COMMACATEGORY)
+***********************************************
+668.　，(COMMACATEGORY)　如何(D)　快速(VH)　而(Caa)　有效(VH)　的(DE)　純化出(VC)　高純度(Na)　、(PAUSECATEGORY)　高產量(Na)　的(DE)　粒線體(Na)　核酸(Na)　，(COMMACATEGORY)
+***********************************************
+669.　，(COMMACATEGORY)　是(SHI)　本(Nes)　實驗(Na)　的(DE)　一(Neu)　個(Nf)　重要(VH)　決定(Na)　因素(Na)　。(PERIODCATEGORY)
+***********************************************
+670.　。(PERIODCATEGORY)　藉由(P)　此(Nep)　修改(VC)　後(Ng)　的(DE)　步驟(Na)　所(D)　得(VJ)　的(DE)　核酸(Na)　在(P)　純度(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+671.　，(COMMACATEGORY)　在(P)　電泳(Na)　分離(VHC)　後(Ng)　可以(D)　直接(VH)　以(P)　ＥｔＢｒ(FW)　染色(VB)　偵測(VC)　，(COMMACATEGORY)
+***********************************************
+672.　，(COMMACATEGORY)　不會(D)　有(V_2)　核(Na)　ＤＮＡ(Na)[+fw]　的(DE)　干擾(Na)　，(COMMACATEGORY)
+***********************************************
+673.　，(COMMACATEGORY)　因此(Cbb)　不須(D)　以(P)　專一性(Na)　之(DE)　探針(Na)　做(VC)　雜合(Na)　偵測(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+674.　，(COMMACATEGORY)　且(Cbb)　可以(D)　直接(VH)　做(VC)　限制脢(Na)　切(VC)[+nom]　作用(Na)　，(COMMACATEGORY)
+***********************************************
+675.　，(COMMACATEGORY)　不需(D)　做(VC)　進一步(D)　的(DE)　純化(VHC)[+nom]　；(SEMICOLONCATEGORY)
+***********************************************
+676.　；(SEMICOLONCATEGORY)　在(P)　產量(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+677.　，(COMMACATEGORY)　以(P)　體型(Na)　最(Dfa)　小(VH)　產量(Na)　最(Dfa)　低(VH)　的(DE)　蘭嶼(Nc)　個體(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+678.　，(COMMACATEGORY)　其(Nep)　產物(Na)　配合(VC)　以(P)　ａｇａｒｏｓｅ(FW)　及(Caa)　ＰＡＡ(FW)　電泳(Na)　，(COMMACATEGORY)
+***********************************************
+679.　，(COMMACATEGORY)　亦(D)　足供(VF)　七(Neu)　種(Nf)　樣本(Na)　可(D)　將(P)　組織(Na)　保存(VC)　於(P)　液態(Na)　氮(Na)　或(Caa)　零下(A)　七十(Neu)　度(Nf)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+680.　，(COMMACATEGORY)　但(Cbb)　有時(D)　會(D)　因(Cbb)　儲存(VC)　不當(VH)　，(COMMACATEGORY)
+***********************************************
+681.　，(COMMACATEGORY)　而(Cbb)　使得(VL)　純化(VHC)　產物(Na)　狀況(Na)　不良(VH)　，(COMMACATEGORY)
+***********************************************
+682.　，(COMMACATEGORY)　因此(Cbb)　仍(D)　是(SHI)　以(P)　新鮮(VH)　組織(Na)　為(VG)　最佳(A)　材料(Na)　。(PERIODCATEGORY)
+***********************************************
+683.　。(PERIODCATEGORY)　蝸牛(Na)　軟體(Na)　的(DE)　取出(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+684.　，(COMMACATEGORY)　最初(Nd)　嘗試(VF)　用(P)　沸水(Na)　將(P)　蝸牛(Na)　燙死(VHC)　，(COMMACATEGORY)
+***********************************************
+685.　，(COMMACATEGORY)　再(D)　以(P)　鑷子(Na)　拉出(VC)　軟體(Na)　，(COMMACATEGORY)
+***********************************************
+686.　，(COMMACATEGORY)　但(Cbb)　以(P)　此(Nep)　方法(Na)　處理(VC)　的(DE)　樣本(Na)　在(P)　核酸(Na)　的(DE)　產量(Na)　及(Caa)　純度(Na)　上(Ng)　均(D)　不(D)　理想(VH)　，(COMMACATEGORY)
+***********************************************
+687.　，(COMMACATEGORY)　於是(Cbb)　改用(VC)　冰凍法(Na)　，(COMMACATEGORY)
+***********************************************
+688.　，(COMMACATEGORY)　將(P)　蝸牛(Na)　置於(VC)　冰(Na)　上(Ncd)　約(Da)　３０(Neu)　分鐘(Nf)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+689.　，(COMMACATEGORY)　再(D)　敲破(VC)　殼頂(Na)　取出(VC)　軟體(Na)　，(COMMACATEGORY)
+***********************************************
+690.　，(COMMACATEGORY)　以(P)　此(Nep)　方法(Na)　所(D)　得(VJ)　產物(Na)　的(DE)　純度(Na)　及(Caa)　產量(Na)　均(D)　不錯(VH)　，(COMMACATEGORY)
+***********************************************
+691.　，(COMMACATEGORY)　且(Cbb)　在(P)　解剖(VC)　時(Ng)　較(Dfa)　未(D)　做(VC)　任何(Neqa)　處理(VC)　的(DE)　個體(Na)　分泌(VC)　較少(VH)　的(DE)　黏液(Na)　，(COMMACATEGORY)
+***********************************************
+692.　，(COMMACATEGORY)　不致(D)　影響(VC)　解剖(VC)[+nom]　工作(Na)　，(COMMACATEGORY)
+***********************************************
+693.　，(COMMACATEGORY)　但(Cbb)　缺點(Na)　是(SHI)　無法(D)　保留(VC)　完整(VH)　的(DE)　殼(Na)　以(Cbb)　進行(VC)　殼型(Na)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+694.　。(PERIODCATEGORY)　盤繞(VA)　在(P)　肝胰臟(Na)　中(Ncd)　的(DE)　胃(Na)　及(Caa)　腸道(Na)　，(COMMACATEGORY)
+***********************************************
+695.　，(COMMACATEGORY)　內(Ncd)　含有(VJ)　蝸牛(Na)　先前(Nd)　吃進(VC)　的(DE)　食物(Na)　及(Caa)　大量(Neqa)　的(DE)　泥(Na)　砂(Na)　與(Caa)　消化脢(Na)　，(COMMACATEGORY)
+***********************************************
+696.　，(COMMACATEGORY)　必須(D)　完全(D)　除去(VC)　，(COMMACATEGORY)
+***********************************************
+697.　，(COMMACATEGORY)　以免(Cbb)　影響(VC)　核酸(Na)　產量(Na)　及(Caa)　損壞(VC)　均質器(Na)　。(PERIODCATEGORY)
+***********************************************
+698.　。(PERIODCATEGORY)　剪去(VC)　儲精囊(Na)　是(SHI)　避免(VE)　裡面(Ncd)　少量(Neqa)　交配(VA)　後(Ng)　別的(Neqa)　個體(Na)　的(DE)　精子(Na)　粒線體(Na)　核酸(Na)　污染(VC)　產物(Na)　。(PERIODCATEGORY)
+***********************************************
+699.　。(PERIODCATEGORY)　均質(VH)　時(Ng)　ｌｏｏｓｅ(FW)　棒(Na)　與(Caa)　ｔｉｇｈｔ(FW)　棒(VH)　的(DE)　研磨(VC)[+nom]　次數(Na)　需(D)　嚴格(VH)　控制(VC)　，(COMMACATEGORY)
+***********************************************
+700.　，(COMMACATEGORY)　Ｓｔｉｎｅ(Nb)[+fw]　的(DE)　研磨(VC)[+fw]　次數(Na)　均(D)　比(P)　本(Nes)　步驟(Na)　各(Nes)　少(VH)　一(Neu)　次(Nf)　，(COMMACATEGORY)
+***********************************************
+701.　，(COMMACATEGORY)　但(Cbb)　他(Nh)　的(DE)　產量(Na)　卻(D)　不(D)　夠(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+702.　，(COMMACATEGORY)　若(Cbb)　研磨(VC)　過度(Dfb)　會(D)　使得(VL)　核(Na)　及(Caa)　粒線體(Na)　破裂(VH)　，(COMMACATEGORY)
+***********************************************
+703.　，(COMMACATEGORY)　減少(VHC)　產量(Na)　並(Cbb)　增加(VHC)　核(Na)　ＤＮＡ(Na)[+fw]　的(DE)　污染(Na)　，(COMMACATEGORY)
+***********************************************
+704.　，(COMMACATEGORY)　因此(Cbb)　必需(D)　避免(VE)　繼續(VF)　研磨(VC)　未(D)　磨散(VC)　的(DE)　組織(Na)　。(PERIODCATEGORY)
+***********************************************
+705.　。(PERIODCATEGORY)　二(Neu)　次(Nf)　低速(Na)　ｄｉｆｆｅｒｅｎｔｉａｌ(FW)　離心(VB)　（(PARENTHESISCATEGORY)　１３００(Neu)　ｘｇ(FW)　）(PARENTHESISCATEGORY)　　(FW)　，(COMMACATEGORY)
+***********************************************
+706.　，(COMMACATEGORY)　旨在(VK)　沉澱(VH)　細胞核(Na)　，(COMMACATEGORY)
+***********************************************
+707.　，(COMMACATEGORY)　ｓｕｃｒｏｓｅ(FW)　ｄｅｎｓｉｔｙ(FW)　ｇｒａｄｉｅｎｔ(FW)　離心(VB)　，(COMMACATEGORY)
+***********************************************
+708.　，(COMMACATEGORY)　可以(D)　去除(VC)　黏液(Na)　，(COMMACATEGORY)
+***********************************************
+709.　，(COMMACATEGORY)　因(Cbb)　黏液(Na)　的(DE)　比重(Na)　較(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+710.　，(COMMACATEGORY)　離心(VB)　後(Ng)　會(D)　懸浮(VA)　在(P)　二(Neu)　密度(Na)　梯度(Na)　界面(Na)　之間(Ncd)　，(COMMACATEGORY)
+***********************************************
+711.　，(COMMACATEGORY)　此(Nep)　界面(Na)　須(D)　小心(VK)　吸除(VC)　。(PERIODCATEGORY)
+***********************************************
+712.　。(PERIODCATEGORY)　均質液(Na)　中(Ncd)　加入(VC)　１４０(Neu)　公撮(Nf)　的(DE)　ＥｔＢｒ(FW)　，(COMMACATEGORY)
+***********************************************
+713.　，(COMMACATEGORY)　一般(D)　認為(VE)　ＥｔＢｒ(FW)　可以(D)　與(P)　ＤＮＡ(Na)[+fw]　嵌合(VC)　，(COMMACATEGORY)
+***********************************************
+714.　，(COMMACATEGORY)　避免(VE)　被(P)　ＤＮａｓｅ(FW)　分解(VC)　可以(D)　保護(VC)　ＤＮＡ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+715.　，(COMMACATEGORY)　依據(P)　經驗(Na)　，(COMMACATEGORY)
+***********************************************
+716.　，(COMMACATEGORY)　加入(VC)　ＥｔＢｒ(FW)　確實(D)　可以(D)　使(VL)　產量(Na)　較(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+717.　，(COMMACATEGORY)　但(Cbb)　可(D)　酌量(D)　降低(VHC)　濃度(Na)　至(P)　約(Da)　１００(Neu)　公撮(Nf)　影響(Na)　亦(D)　不(D)　大(VH)　。(PERIODCATEGORY)
+***********************************************
+718.　。(PERIODCATEGORY)　試驗(Na)　過程(Na)　亦(D)　嘗試(VF)　使用(VC)　ＭＳＢ(FW)　—(DASHCATEGORY)　ＥＤＴＡ(FW)　，(COMMACATEGORY)
+***********************************************
+719.　，(COMMACATEGORY)　但(Cbb)　效果(Na)　相當於(VG)　未加(D)　ＥｔＢｒ(FW)　的(DE)　ＴＥＫ(FW)　，(COMMACATEGORY)
+***********************************************
+720.　，(COMMACATEGORY)　故(Cbb)　仍(D)　使用(VC)　ＴＥＫ(FW)　—(DASHCATEGORY)　ＥｔＢｒ(FW)　。(PERIODCATEGORY)
+***********************************************
+721.　。(PERIODCATEGORY)　分離出(VC)　的(DE)　粒線體(Na)　，(COMMACATEGORY)
+***********************************************
+722.　，(COMMACATEGORY)　一般(D)　可(D)　用(P)　ＳＤＳ(FW)　打破(VC)　所有(Neqa)　的(DE)　胞器膜(Na)　，(COMMACATEGORY)
+***********************************************
+723.　，(COMMACATEGORY)　得到(VJ)　所有(Neqa)　ＤＮＡ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+724.　，(COMMACATEGORY)　但(Cbb)　為(P)　取得(VC)　純度(Na)　更(D)　高(VH)　的(DE)　粒線體(Na)　核酸(Na)　，(COMMACATEGORY)
+***********************************************
+725.　，(COMMACATEGORY)　故(Cbb)　使用(VC)　ＮＰ(FW)　４０(Neu)　，(COMMACATEGORY)
+***********************************************
+726.　，(COMMACATEGORY)　ＮＰ(FW)　４０(Neu)　是(SHI)　一(Neu)　種(Nf)　非(A)　離子性(Na)　的(DE)　界面(Na)　活性劑(Na)　，(COMMACATEGORY)
+***********************************************
+727.　，(COMMACATEGORY)　若(Cbb)　緩衝液(Na)　及(Caa)　濃度(Na)　配合(VC)　得當(VH)　，(COMMACATEGORY)
+***********************************************
+728.　，(COMMACATEGORY)　會(D)　只(Da)　打破(VC)　粒線體膜(Na)　釋放出(VC)　粒線體(Na)　核酸(Na)　，(COMMACATEGORY)
+***********************************************
+729.　，(COMMACATEGORY)　因此(Cbb)　可(D)　降低(VHC)　核(Na)　ＤＮＡ(Na)[+fw]　的(DE)　干擾(Na)　。(PERIODCATEGORY)
+***********************************************
+730.　。(PERIODCATEGORY)　ＣＴＡＢ(Na)[+fw]　為(VG)　一(Neu)　正價(VH)　界面(Na)　活性劑(Na)　，(COMMACATEGORY)
+***********************************************
+731.　，(COMMACATEGORY)　常(D)　用(VC)　在(P)　植物(Na)　核酸(Na)　的(DE)　純化(VHC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+732.７(Neu)　莫耳(Nf)　氯化鈉(Na)　及(Caa)　６５(Neu)　度(Nf)　下(Ng)　會(D)　與(P)　ＤＮＡ(Na)[+fw]　分子(Na)　鍵結(VA)　，(COMMACATEGORY)
+***********************************************
+733.７(Neu)　莫耳(Nf)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+734.　，(COMMACATEGORY)　ＣＴＡＢ(Na)[+fw]　與(Caa)　ＤＮＡ(Na)[+fw]　會(D)　形成(VG)　複合物(Na)　沉澱(VH)　，(COMMACATEGORY)
+***********************************************
+735.　，(COMMACATEGORY)　可(D)　藉(P)　離心(VB)　得到(VJ)　此(Nep)　複合物(Na)　，(COMMACATEGORY)
+***********************************************
+736.　，(COMMACATEGORY)　再(D)　加以(D)　純化(VHC)　除去(VC)　ＣＴＡＢ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+737.　，(COMMACATEGORY)　如此(VH)　即可(D)　得到(VJ)　高純度(Na)　的(DE)　ＤＮＡ(Na)[+fw]　。(PERIODCATEGORY)
+***********************************************
+738.７(Neu)　莫耳(Nf)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+739.　，(COMMACATEGORY)　即(D)　用(P)　氯仿(Na)　純化(VHC)　，(COMMACATEGORY)
+***********************************************
+740.　，(COMMACATEGORY)　去除(VC)　已(D)　變性(VA)　的(DE)　蛋白質(Na)　、(PAUSECATEGORY)　多醣(Na)　等(Cab)　細胞(Na)　碎屑(Na)　雜質(Na)　以及(Caa)　ＣＴＡＢ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+741.　，(COMMACATEGORY)　如此(VH)　可(D)　簡化(VHC)　步驟(Na)　且(Caa)　效果(Na)　仍(D)　不錯(VH)　。(PERIODCATEGORY)
+***********************************************
+742.　。(PERIODCATEGORY)　但(Cbb)　ＣＴＡＢ(Na)[+fw]　會(D)　抑制(VC)　酵素(Na)　作用(Na)　，(COMMACATEGORY)
+***********************************************
+743.　，(COMMACATEGORY)　因此(Cbb)　必須(D)　用(P)　多(Neqa)　次(Nf)　氯仿(Na)　及(Caa)　１００％(Neqa)　酒精(Na)　除去(VC)　ＣＴＡＢ(Na)[+fw]　。(PERIODCATEGORY)
+***********************************************
+744.　。(PERIODCATEGORY)　使用(VC)　ＰＣＩ(FW)　代替(VC)　Ｔｒｉｓ(FW)　飽合(VH)　Ｐｈｅｎｏｌ(Na)[+fw]　變性(VA)　及(Caa)　除去(VC)　蛋白質(Na)　，(COMMACATEGORY)
+***********************************************
+745.　，(COMMACATEGORY)　是(SHI)　因為(Cbb)　ＰＣＩ(FW)　含有(VJ)　ＣＩ(FW)　，(COMMACATEGORY)
+***********************************************
+746.　，(COMMACATEGORY)　可(D)　減少(VHC)　Ｐｈｅｎｏｌ(Na)[+fw]　與(P)　ＤＮＡ(Na)[+fw]　結合(VHC)　，(COMMACATEGORY)
+***********************************************
+747.　，(COMMACATEGORY)　因而(Cbb)　提高(VC)　產量(Na)　，(COMMACATEGORY)
+***********************************************
+748.　，(COMMACATEGORY)　使用(VC)　多(Neqa)　次(Nf)　ＰＣＩ(FW)　並(Cbb)　可(D)　去除(VC)　ＣＴＡＢ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+749.　，(COMMACATEGORY)　且(Cbb)　ＰＣＩ(FW)　的(DE)　配製(VC)[+nom]　也(D)　比(P)　Ｔｒｉｓ(FW)　—(DASHCATEGORY)　Ｐｈｅｎｏｌ(Na)[+fw]　快速(VH)　而(Caa)　簡單(VH)　。(PERIODCATEGORY)
+***********************************************
+750.　。(PERIODCATEGORY)　酵素(Na)　作用(VA)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+751.　，(COMMACATEGORY)　部分(Neqa)　個體(Na)　因(Cbb)　產物(Na)　較(Dfa)　不(D)　純(VH)　，(COMMACATEGORY)
+***********************************************
+752.　，(COMMACATEGORY)　產生(VHC)　ｐａｒｔｉａｌ(FW)　ｄｉｇｅｓｔｉｏｎ(FW)　，(COMMACATEGORY)
+***********************************************
+753.　，(COMMACATEGORY)　可(D)　在(P)　酵素(Na)　水(Na)　浴(VA)　作用(VA)　２(Neu)　小時(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+754.　，(COMMACATEGORY)　再(D)　加入(VC)　第二(Neu)　次(Nf)　酵素(Na)　，(COMMACATEGORY)
+***********************************************
+755.　，(COMMACATEGORY)　繼續(VF)　水(Na)　浴(VA)　２(Neu)　至(Caa)　３(Neu)　小時(Na)　，(COMMACATEGORY)
+***********************************************
+756.　，(COMMACATEGORY)　如此(VH)　均(D)　可(D)　得到(VJ)　完全(VH)　的(DE)　脢(Na)　切(VC)　型式(Na)　，(COMMACATEGORY)
+***********************************************
+757.　，(COMMACATEGORY)　但(Cbb)　用(P)　此(Nep)　法(Na)　須(D)　注意(VK)　酵素(Na)　及(Caa)　緩衝液(Na)　濃度(Na)　的(DE)　配合(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+758.　，(COMMACATEGORY)　以免(Cbb)　干擾(VC)　酵素(Na)　作用(Na)　。(PERIODCATEGORY)
+***********************************************
+759.　。(PERIODCATEGORY)　脢(Na)　切(VC)　片段(Na)　一般(D)　只(Da)　以(P)　ａｇａｒｏｓｅ(Na)[+fw]　分離(VHC)　，(COMMACATEGORY)
+***********************************************
+760.　，(COMMACATEGORY)　但(Cbb)　因(Cbb)　本(Nes)　材料(Na)　的(DE)　粒線體(Na)　核酸(Na)　有(V_2)　重複(VC)[+nom]　片段(Na)　，(COMMACATEGORY)
+***********************************************
+761.　，(COMMACATEGORY)　造成(VG)　片段(Na)　大小(Na)　變化(VHC)　，(COMMACATEGORY)
+***********************************************
+762.　，(COMMACATEGORY)　為(P)　確定(VK)　是否(D)　為(VG)　重複(VC)[+nom]　片段(Na)　或是(Caa)　切位(Na)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+763.　，(COMMACATEGORY)　因此(Cbb)　增加(VHC)　ＰＡＡ(FW)　ｇｅｌ(FW)　，(COMMACATEGORY)
+***********************************************
+764.　，(COMMACATEGORY)　電泳(Na)　解析(VC)　１００(Neu)　ｂｐ(Nf)　至(P)　１０００(Neu)　ｂｐ(Nf)　的(DE)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+765.　，(COMMACATEGORY)　一方面(Cbb)　判斷(VE)　是否(D)　為(VG)　重複(VC)[+nom]　片段(Na)　，(COMMACATEGORY)
+***********************************************
+766.　，(COMMACATEGORY)　一方面(Cbb)　更(D)　完整(VH)　的(DE)　偵測到(VC)　所有(Neqa)　的(DE)　脢(Na)　切(VC)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+767.　，(COMMACATEGORY)　並(Cbb)　增加(VHC)　可用(A)　的(DE)　特徵(Na)　數目(Na)　，(COMMACATEGORY)
+***********************************************
+768.　，(COMMACATEGORY)　以(Cbb)　提高(VC)　親緣(Na)　關係(Na)　分析(Na)　的(DE)　解析度(Na)　。(PERIODCATEGORY)
+***********************************************
+769.　。(PERIODCATEGORY)　以(P)　ＰＡＡ(FW)　偵測到(VC)　小於(VJ)　１０００(Neu)　↑ｂｐ(Nf)　的(DE)　片段(Na)　共(Da)　２５(Neu)　段(Nf)　，(COMMACATEGORY)
+***********************************************
+770.　，(COMMACATEGORY)　佔(VJ)　所有(Neqa)　片段(Na)　的(DE)　１５％(Neqa)　，(COMMACATEGORY)
+***********************************************
+771.　，(COMMACATEGORY)　顯然(D)　有(V_2)　其(Nep)　重要性(Na)　。(PERIODCATEGORY)
+***********************************************
+772.　。(PERIODCATEGORY)　標準(Na)　ＤＮＡ(Na)[+fw]　標記(Na)　的(DE)　選用(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+773.　，(COMMACATEGORY)　最初(Nd)　使用(VC)　Ｌａｍｂｄａ(FW)　ＨｉｎｄＩＩＩ(FW)　ＤＮＡ(Na)[+fw]　，(COMMACATEGORY)
+***********************************************
+774.　，(COMMACATEGORY)　但(Cbb)　後來(Nd)　發現(VE)　有(V_2)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+775.　，(COMMACATEGORY)　使得(VL)　粒線體(Na)　核酸(Na)　的(DE)　長度(Na)　大(VH)　了(Di)　約(Da)　１０(Neu)　至(Caa)　１１(Neu)　ｋｂ(Nf)　，(COMMACATEGORY)
+***********************************************
+776.　，(COMMACATEGORY)　常(D)　有(V_2)　超過(VJ)　１０(Neu)　ｋｂ(Nf)　的(DE)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+777.　，(COMMACATEGORY)　而(Cbb)　使用(VC)　Ｌａｍｂｄａ(FW)　ＨｉｎｄＩＩＩＤＮＡ(FW)　為(VG)　標準(Na)　，(COMMACATEGORY)
+***********************************************
+778.　，(COMMACATEGORY)　在(P)　１０(Neu)　ｋｂ(Nf)　以上(Ng)　的(DE)　ＤＮＡ(Na)[+fw]　分子量(Na)　較(Dfa)　不易(VH)　估計(VE)　準確(VH)　，(COMMACATEGORY)
+***********************************************
+779.　，(COMMACATEGORY)　因此(Cbb)　後來(Nd)　加入(VC)　Ｌａｍｂｄａ(FW)　ＨｉｎｄＩＩ(FW)　與(Caa)　ＢａｍＨＩ(FW)　雙脢切(Na)　切出(VC)　的(DE)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+780.　，(COMMACATEGORY)　及(Caa)　合併(VC)　Ｈｉｇｈ(FW)　ｍｏｌｅｃｕｌａｒ(FW)　ｗｅｉｇｈｔｍａｒｋｅｒ(FW)　，(COMMACATEGORY)
+***********************************************
+781.　，(COMMACATEGORY)　以便(Cbb)　能夠(D)　較(Dfa)　準確(VH)　的(DE)　估計(VE)　１０(Neu)　ｋｂ(Nf)　以上(Ng)　的(DE)　片段(Na)　。(PERIODCATEGORY)
+***********************************************
+782.　。(PERIODCATEGORY)　本(Nes)　實驗(Na)　使用(VC)　影像(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+783.　，(COMMACATEGORY)　可以(D)　將(P)　電泳(Na)　凝膠(Na)　的(DE)　影像(Na)　儲存成(VG)　影像(Na)　檔案(Na)　並(Cbb)　以(P)　軟體(Na)　做(VC)　分子量(Na)　及(Caa)　濃度(Na)　估算(VE)[+nom]　，(COMMACATEGORY)
+***********************************************
+784.　，(COMMACATEGORY)　但須(D)　注意(VK)　存檔(VB)　時(Ng)　影像(Na)　的(DE)　ｇ(FW)　值(Na)　須(D)　設為(VG)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+785.　，(COMMACATEGORY)　如此(VH)　才(Da)　可以(D)　做(VC)　不同(VH)　膠片(Na)　之間(Ng)　核酸(Na)　濃度(Na)　的(DE)　比較(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+786.　。(PERIODCATEGORY)　因為(Cbb)　本(Nes)　材料(Na)　的(DE)　粒線體(Na)　核酸(Na)　含有(VJ)　一(Neu)　段(Nf)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+787.　，(COMMACATEGORY)　即使(Cbb)　個體(Na)　間(Ng)　有(V_2)　相同(VH)　切位(Na)　，(COMMACATEGORY)
+***********************************************
+788.　，(COMMACATEGORY)　但(Cbb)　脢(Na)　切(VC)　片段(Na)　電泳(Na)　型式(Na)　上(Ng)　仍(D)　會(D)　有(V_2)　一(Neu)　個(Nf)　片段(Na)　的(DE)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+789.　，(COMMACATEGORY)　在(P)　如此(VH)　的(DE)　狀況(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+790.　，(COMMACATEGORY)　如果(Cbb)　仍然(D)　純粹(D)　以(P)　片段(Na)　長度(Na)　做為(VG)　判斷(VE)　兩(Neu)　片段(Na)　是否(D)　同(Nes)　一(Neu)　序列(Na)　及(Caa)　是否(D)　同樣(VH)　切位(Na)　的(DE)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+791.　，(COMMACATEGORY)　則(D)　一方面(Cbb)　因(Cbb)　電泳(Na)　位置(Na)　相近(VH)　的(DE)　兩(Neu)　片段(Na)　難以(D)　區別(VC)　是否(D)　有(V_2)　相同(VH)　分子量(Na)　，(COMMACATEGORY)
+***********************************************
+792.　，(COMMACATEGORY)　會(D)　造成(VG)　數據(Na)　混亂(VH)　失真(VH)　，(COMMACATEGORY)
+***********************************************
+793.　，(COMMACATEGORY)　另一方面(Cbb)　亦(D)　無法(D)　確實(D)　反應(VE)　限制脢(Na)　切位(Na)　的(DE)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+794.　，(COMMACATEGORY)　因此(Cbb)　在(P)　數據(Na)　的(DE)　讀取(VC)[+nom]　時(Ng)　，(COMMACATEGORY)
+***********************************************
+795.　，(COMMACATEGORY)　如果(Cbb)　個體(Na)　間(Ng)　用(P)　同(Nes)　一(Neu)　酵素(Na)　作用(VA)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+796.　，(COMMACATEGORY)　當(D)　除了(P)　某(Nes)　一(Neu)　片段(Na)　的(DE)　電泳(Na)　位置(Na)　不同(VH)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+797.　，(COMMACATEGORY)　其餘(Neqa)　片段(Na)　均(D)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+798.　，(COMMACATEGORY)　則(D)　判斷(VE)　此(Nep)　不同(VH)　長度(Na)　的(DE)　片段(Na)　是(SHI)　因為(Cbb)　含有(VJ)　不同(VH)　數目(Na)　重複(VC)[+nom]　序列(Na)　所致(VH)　，(COMMACATEGORY)
+***********************************************
+799.　，(COMMACATEGORY)　兩(Neu)　個體(Na)　仍(D)　視為(VG)　有(V_2)　相同(VH)　脢(Na)　切(VC)　型式(Na)　，(COMMACATEGORY)
+***********************************************
+800.　，(COMMACATEGORY)　在(P)　統計(VC)　時(Ng)　仍(D)　給予(VD)　相同(VH)　的(DE)　編碼(Na)　，(COMMACATEGORY)
+***********************************************
+801.　，(COMMACATEGORY)　以(Cbb)　示(VE)　區別(VC)　。(PERIODCATEGORY)
+***********************************************
+802.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　粒線體(Na)　核酸(Na)　長度(Na)　變異(Na)　。(PERIODCATEGORY)
+***********************************************
+803.　。(PERIODCATEGORY)　原先(D)　人們(Na)　認為(VE)　粒線體(Na)　核酸(Na)　是(SHI)　一(Neu)　個(Nf)　有(V_2)　固定(VHC)　分子量(Na)　，(COMMACATEGORY)
+***********************************************
+804.　，(COMMACATEGORY)　且(Cbb)　不(D)　具有(VJ)　重複(VC)[+nom]　序列(Na)　分子(Na)　，(COMMACATEGORY)
+***********************************************
+805.　，(COMMACATEGORY)　正常(VH)　的(DE)　長度(Na)　約(Da)　１５(Neu)　至(Caa)　２０(Neu)　ｋｂ(Nf)　，(COMMACATEGORY)
+***********************************************
+806.　，(COMMACATEGORY)　但(Cbb)　近(Nes)　幾(Neu)　年(Nf)　來(Ng)　發現(VE)　具有(VJ)　這(Nep)　種(Nf)　重複(VC)[+nom]　序列(Na)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+807.　，(COMMACATEGORY)　其實(D)　是(SHI)　很(Dfa)　普遍(VH)　的(DE)　，(COMMACATEGORY)
+***********************************************
+808.０(Neu)　ｋｂ(Nf)　不等(Ng)　的(DE)　ｄｕｐｌｉｃａｔｉｏｎ(FW)　等(Cab)　超過(VJ)　五十(Neu)　種(Nf)　的(DE)　生物(Na)　，(COMMACATEGORY)
+***********************************************
+809.　，(COMMACATEGORY)　在(P)　軟體(Na)　動物(Na)　中(Ng)　有(V_2)　海扇(Na)　，(COMMACATEGORY)
+***********************************************
+810.６(Neu)　ｋｂ(Nf)　的(DE)　重複(VC)[+nom]　序列(Na)　分子(Na)　、(PAUSECATEGORY)　牡蠣(Na)　，(COMMACATEGORY)
+***********************************************
+811.５(Neu)　ｋｂ(Nf)　ｉｎｓｅｒｔｉｏｎ(FW)　；(SEMICOLONCATEGORY)
+***********************************************
+812.０(Neu)　ｋｂ(Nf)　的(DE)　ｉｎｓｅｒｔｉｏｎ(FW)　、(PAUSECATEGORY)　九孔(Na)　，(COMMACATEGORY)
+***********************************************
+813.　，(COMMACATEGORY)　８０(Neu)　ｂｐ(Nf)　的(DE)　重複(VC)[+nom]　序列(Na)　分子(Na)　以及(Caa)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+814.　，(COMMACATEGORY)　２４０(Neu)　ｂｐ(Nf)　的(DE)　重複(VC)[+nom]　序列(Na)　南亞(Nc)　蝸牛(Na)　屬(Na)　蝸牛(Na)　的(DE)　粒線體(Na)　核酸(Na)　長(VH)　約(Da)　１７(Neu)　ｋｂ(Nf)　至(Caa)　２６(Neu)　ｋｂ(Nf)　，(COMMACATEGORY)
+***********************************************
+815.４(Neu)　ｋｂ(Nf)　仍(D)　與(P)　一般(A)　正常(VH)　粒線體(Na)　核酸(Na)　長度(Na)　相似(VH)　，(COMMACATEGORY)
+***********************************************
+816.　，(COMMACATEGORY)　其餘(Neqa)　多出(VJ)　的(DE)　長度(Na)　均(D)　為(VG)　重複(VC)[+nom]　序列(Na)　所(D)　造成(VG)　，(COMMACATEGORY)
+***********************************************
+817.　，(COMMACATEGORY)　而(Cbb)　目前(Nd)　已(D)　知(VK)　最(Dfa)　大(VH)　的(DE)　粒線體(Na)　核酸(Na)　長度(Na)　為(VG)　海扇(Na)　，(COMMACATEGORY)
+***********************************************
+818.　，(COMMACATEGORY)　具有(VJ)　４１(Neu)　ｋｂ(Nf)　的(DE)　粒線體(Na)　核酸(Na)　，(COMMACATEGORY)
+***********************************************
+819.４(Neu)　ｋｂ(Nf)　的(DE)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+820.　，(COMMACATEGORY)　南亞(Nc)　蝸牛(Na)　的(DE)　重複(VC)[+nom]　序列(Na)　為(VG)　２０５(Neu)　ｂｐ(Nf)　，(COMMACATEGORY)
+***********************************************
+821.　，(COMMACATEGORY)　雖(Cbb)　較(P)　海扇(Na)　短(VH)　，(COMMACATEGORY)
+***********************************************
+822.　，(COMMACATEGORY)　但(Cbb)　接近(VC)　Ｃｅｐａｅａ(FW)　ｎｅｍｏｒａｌｉｓ(FW)　。(PERIODCATEGORY)
+***********************************************
+823.　。(PERIODCATEGORY)　粒線體(Na)　核酸(Na)　分子(Na)　中(Ng)　造成(VG)　長度(Na)　變異(Na)　的(DE)　情形(Na)　有(V_2)　ｄｅｌｅｔｉｏｎ(FW)　、(PAUSECATEGORY)　　ｉｎｓｅｒｔｉｏｎ(FW)　、(PAUSECATEGORY)　　ｄｕｐｌｉｃａｔｉｏｎ(FW)　與(Caa)　ｒｅｐｅａｔ(FW)　，(COMMACATEGORY)
+***********************************************
+824.　，(COMMACATEGORY)　而(Cbb)　個體(Na)　內(Ncd)　發生(VJ)　的(DE)　長度(Na)　變化(Na)　則(D)　稱為(VG)　ｈｅｔｅｒｏｐｌａｓｍｙ(FW)　，(COMMACATEGORY)
+***********************************************
+825.　，(COMMACATEGORY)　在(P)　南亞(Nc)　蝸牛(Na)　中(Ng)　目前(Nd)　僅(Da)　觀察到(VE)　ｒｅｐｅａｔ(FW)　的(DE)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+826.　，(COMMACATEGORY)　但(Cbb)　尚未(D)　觀察到(VE)　ｈｅｔｅｒｏｐｌａｓｍｙ(FW)　現象(Na)　。(PERIODCATEGORY)
+***********************************************
+827.　。(PERIODCATEGORY)　一般(A)　的(DE)　重複(VC)[+nom]　序列(Na)　多半(Neqa)　發生(VJ)　在(P)　控制區(Nc)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+828.　，(COMMACATEGORY)　此(Nep)　區域(Na)　因(Cbb)　富含(VJ)　Ａ(FW)　—(DASHCATEGORY)　Ｔ(FW)　鍵結(Na)　，(COMMACATEGORY)
+***********************************************
+829.　，(COMMACATEGORY)　結構(Na)　較(Dfa)　不(D)　穩定(VHC)　，(COMMACATEGORY)
+***********************************************
+830.　，(COMMACATEGORY)　容易(VH)　發生(VJ)　突變(VH)　。(PERIODCATEGORY)
+***********************************************
+831.　。(PERIODCATEGORY)　由(P)　圖(Na)　二十一(Neu)　至(Caa)　二十三(Neu)　可以(D)　看到(VE)　南亞(Nc)　蝸牛(Na)　的(DE)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+832.　，(COMMACATEGORY)　是(SHI)　集中(VC)　在(P)　一(Neu)　特定(A)　位置(Na)　內(Ncd)　的(DE)　，(COMMACATEGORY)
+***********************************************
+833.　，(COMMACATEGORY)　推測(VE)　這(Nep)　一(Neu)　個(Nf)　位置(Na)　附近(Nc)　即(D)　是(SHI)　粒線體(Na)　核酸(Na)　中(Ng)　的(DE)　控制區(Nc)　。(PERIODCATEGORY)
+***********************************************
+834.　。(PERIODCATEGORY)　一般(D)　認為(VE)　動物(Na)　的(DE)　粒線體(Na)　核酸(Na)　是(SHI)　由(P)　ｐｕｒｐｌｅ(FW)　ｂａｃｔｅｒｉａ(FW)　內(Ncd)　共生(VH)　，(COMMACATEGORY)
+***********************************************
+835.　，(COMMACATEGORY)　在(P)　演化(VHC)　過程(Na)　中(Ng)　將(P)　分子(Na)　長度(Na)　減小(VH)　到(P)　最(Dfa)　低(VH)　而(Cbb)　形成(VG)　，(COMMACATEGORY)
+***********************************************
+836.　，(COMMACATEGORY)　對於(P)　為何(D)　不同(VH)　生物(Na)　之間(Ng)　的(DE)　粒線體(Na)　核酸(Na)　長度(Na)　會(D)　有(V_2)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+837.　，(COMMACATEGORY)　Ｒａｎｄ(Nb)[+fw]　曾(D)　針對(P)　內(Ncd)　溫(Na)　動物(Na)　與(Caa)　外(Ncd)　溫(Na)　動物(Na)　就(P)　代謝(VH)　效率(Na)　的(DE)　角度(Na)　做(VC)　一(Neu)　探討(VE)[+nom]　。(PERIODCATEGORY)
+***********************************************
+838.　。(PERIODCATEGORY)　他(Nh)　發現(VE)　高代謝率(Na)　的(DE)　物種(Na)　傾向(VK)　較(Dfa)　小(VH)　的(DE)　粒線體(Na)　核酸(Na)　及(Caa)　較少(VH)　的(DE)　長度(Na)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+839.　，(COMMACATEGORY)　認為(VE)　可能(D)　是(SHI)　因為(Cbb)　粒線體(Na)　核酸(Na)　的(DE)　複製(VC)[+nom]　速率(Na)　會(D)　受到(VJ)　方向性(Na)　的(DE)　選擇(Na)　壓力(Na)　，(COMMACATEGORY)
+***********************************************
+840.　，(COMMACATEGORY)　使(VL)　之(Nh)　趨向(VK)　較(Dfa)　小(VH)　的(DE)　分子(Na)　長度(Na)　，(COMMACATEGORY)
+***********************************************
+841.　，(COMMACATEGORY)　並(Cbb)　另(Nes)　有(V_2)　單純化(VHC)　的(DE)　選擇(Na)　壓力(Na)　使(VL)　之(Nh)　減少(VHC)　ｈｅｔｅｒｏｐｌａｓｍｙ(FW)　的(DE)　情形(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+842.　；(SEMICOLONCATEGORY)　另(Nes)　一(Neu)　可能(VH)　的(DE)　解釋(Na)　是(SHI)　，(COMMACATEGORY)
+***********************************************
+843.　，(COMMACATEGORY)　當(P)　突變(VH)　造成(VG)　重複(VC)[+nom]　序列(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+844.　，(COMMACATEGORY)　選擇(Na)　壓力(Na)　會(D)　使(VL)　其(Nep)　趨向(VK)　較(P)　小(VH)　分子(Na)　，(COMMACATEGORY)
+***********************************************
+845.　，(COMMACATEGORY)　而(Cbb)　這(Nep)　選擇(Na)　壓力(Na)　是(SHI)　因(Cbb)　以下(Ncd)　兩(Neu)　個(Nf)　反方向(Na)　的(DE)　壓力(Na)　互相(D)　平衡(VHC)　而(Cbb)　成(VG)　。(PERIODCATEGORY)
+***********************************************
+846.　。(PERIODCATEGORY)　如果(Cbb)　以(P)　此(Nep)　代謝(VH)　的(DE)　觀點(Na)　來(D)　解釋(VE)　南亞(Nc)　蝸牛(Na)　的(DE)　粒線體(Na)　核酸(Na)　的(DE)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+847.　，(COMMACATEGORY)　南亞(Nc)　蝸牛(Na)　屬(Na)　蝸牛(Na)　為(VG)　外(Ncd)　溫(Na)　動物(Na)　，(COMMACATEGORY)
+***********************************************
+848.　，(COMMACATEGORY)　於(P)　晨昏(Na)　夜晚(Nd)　及(Caa)　濕度(Na)　高(VH)　時(Ng)　才(Da)　活動(VA)　，(COMMACATEGORY)
+***********************************************
+849.　，(COMMACATEGORY)　白天(Nd)　及(Caa)　乾旱(VH)　時(Ng)　則(D)　進入(VCL)　休眠(VA)[+nom]　狀態(Na)　，(COMMACATEGORY)
+***********************************************
+850.　，(COMMACATEGORY)　代謝(VH)　速率(Na)　較(Dfa)　低(VH)　，(COMMACATEGORY)
+***********************************************
+851.　，(COMMACATEGORY)　並(Cbb)　具有(VJ)　高比率(Na)　的(DE)　重複(VC)[+nom]　序列(Na)　（(PARENTHESISCATEGORY)　幾乎(Da)　達(VJ)　百分之百(Neqa)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+852.　，(COMMACATEGORY)　符合(VJ)　一般(A)　低代謝率(Na)　會(D)　有(V_2)　較(Dfa)　高(VH)　長度(Na)　變異(Na)　及(Caa)　較(Dfa)　大(VH)　長度(Na)　的(DE)　趨勢(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+853.　；(SEMICOLONCATEGORY)　而(Cbb)　選擇(Na)　壓力(Na)　並(D)　未(D)　把(P)　重複(VC)[+nom]　序列(Na)　淘汰掉(VC)　，(COMMACATEGORY)
+***********************************************
+854.　，(COMMACATEGORY)　這(Nep)　可能(D)　表示(VE)　台灣(Nc)　的(DE)　南亞(Nc)　蝸牛(Na)　並(D)　未(D)　受到(VJ)　強烈(VH)　的(DE)　選擇(Na)　壓力(Na)　，(COMMACATEGORY)
+***********************************************
+855.　，(COMMACATEGORY)　因此(Cbb)　仍(D)　保有(VJ)　高比率(Na)　的(DE)　重複(VC)[+nom]　序列(Na)　。(PERIODCATEGORY)
+***********************************************
+856.　。(PERIODCATEGORY)　但是(Cbb)　同(D)　為(VG)　陸棲性(Na)　蝸牛(Na)　的(DE)　Ｐａｒｔｕｌａ(FW)　並(D)　不(D)　具有(VJ)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+857.　，(COMMACATEGORY)　可能(D)　因為(Cbb)　Ｐａｒｔｕｌａ(FW)　只(Da)　分佈(VH)　於(P)　太平洋(Nc)　諸(Nes)　島(Na)　中(Ng)　的(DE)　Ｍａｒｉａｎａｓ(Nc)[+fw]　及(Caa)　Ｐａｌａｕｓ(Nc)[+fw]　到(Caa)　Ｐｏｌｙｎｅｓｉａ(Nc)[+fw]　的(DE)　熱帶(Nc)　小(VH)　火山(Na)　島嶼(Na)　，(COMMACATEGORY)
+***********************************************
+858.　，(COMMACATEGORY)　在(P)　這些(Neqa)　島嶼(Na)　上(Ncd)　有(V_2)　較(Dfa)　大(VH)　的(DE)　ＭＰａｒｔｕｌａ(FW)　分佈(VH)　於(P)　熱帶(Nc)　地區(Nc)　，(COMMACATEGORY)
+***********************************************
+859.　，(COMMACATEGORY)　代謝(VH)　速率(Na)　較(Dfa)　快(VH)　，(COMMACATEGORY)
+***********************************************
+860.　，(COMMACATEGORY)　且(Cbb)　因(Cbb)　島嶼(Na)　的(DE)　微(A)　環境(Na)　對於(P)　環境(Na)　變動(VHC)　的(DE)　緩衝(VC)[+nom]　能力(Na)　較(Dfa)　弱(VH)　，(COMMACATEGORY)
+***********************************************
+861.　，(COMMACATEGORY)　因此(Cbb)　Ｐａｒｔｕｌａ(FW)　為(P)　因應(VJ)　劇烈(VH)　的(DE)　環境(Na)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+862.　，(COMMACATEGORY)　必須(D)　減小(VH)　粒線體(Na)　核酸(Na)　的(DE)　長度(Na)　以(Cbb)　提高(VC)　複製(VC)[+nom]　速率(Na)　從而(Cbb)　提高(VC)　代謝率(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+863.　；(SEMICOLONCATEGORY)　但(Cbb)　分佈(VH)　於(P)　中國(Nc)　大陸(Nc)　及(Caa)　大陸(Nc)　邊緣(Nc)　的(DE)　南亞(Nc)　蝸牛(Na)　及(Caa)　歐洲(Nc)　、(PAUSECATEGORY)　美洲(Nc)　的(DE)　Ｃｅｐａｅａ(FW)　因為(Cbb)　處於(VJ)　較(Dfa)　穩定(VHC)　的(DE)　環境(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+864.　，(COMMACATEGORY)　選擇(Na)　壓力(Na)　較(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+865.　，(COMMACATEGORY)　故(Cbb)　得以(D)　保留(VC)　較(Dfa)　長(VH)　的(DE)　粒線體(Na)　核酸(Na)　及(Caa)　重複(VC)[+nom]　序列(Na)　。(PERIODCATEGORY)
+***********************************************
+866.　。(PERIODCATEGORY)　這(Nep)　推論(Na)　需(D)　有(V_2)　更多(Neqa)　陸貝(Na)　的(DE)　資料(Na)　才(Da)　能(D)　更(D)　清楚(VK)　是否(D)　為(VG)　這(Nep)　種(Nf)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+867.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　旋向(Na)　。(PERIODCATEGORY)
+***********************************************
+868.　。(PERIODCATEGORY)　全(Neqa)　世界(Nc)　的(DE)　蝸牛(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+869.　，(COMMACATEGORY)　除了(P)　少數(Neqa)　種群(Na)　，(COMMACATEGORY)
+***********************************************
+870.　，(COMMACATEGORY)　如(P)　煙管(Na)　蝸牛(Na)　科(Na)　大部分(Neqa)　為(VG)　左旋(VA)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+871.　，(COMMACATEGORY)　絕大部分(Neqa)　為(VG)　右旋(VA)　，(COMMACATEGORY)
+***********************************************
+872.　，(COMMACATEGORY)　而(Cbb)　在(P)　同(Nes)　一(Neu)　科(Na)　內(Ng)　或(Caa)　屬(Na)　內(Ng)　同時(Nd)　包含(VJ)　兩(Neu)　種(Nf)　旋向(Na)　的(DE)　種類(Na)　的(DE)　情形(Na)　則(D)　較(Dfa)　稀有(VH)　，(COMMACATEGORY)
+***********************************************
+873.　，(COMMACATEGORY)　如(P)　Ｐａｒｔｕｌａ(FW)　、(PAUSECATEGORY)　　Ｃａｍａｅｎｉｄａｅ(FW)　，(COMMACATEGORY)
+***********************************************
+874.　，(COMMACATEGORY)　而(Cbb)　南亞(Nc)　蝸牛(Na)　屬(Na)　正(D)　具有(VJ)　這(Nep)　種(Nf)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+875.　。(PERIODCATEGORY)　目前(Nd)　左旋(VA)　與(Caa)　右旋(VA)　兩(Neu)　種(Nf)　性狀(Na)　的(DE)　遺傳(VJ)[+nom]　關係(Na)　是(SHI)　屬於(VG)　顯隱性(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+876.　，(COMMACATEGORY)　右旋(VA)　為(VG)　顯性(Na)　左旋(VA)　為(VG)　隱性(A)　，(COMMACATEGORY)
+***********************************************
+877.　，(COMMACATEGORY)　如(P)　Ｌｉｍｎａｅａ(FW)　ｐｅｒｅｇｒａ(FW)　，(COMMACATEGORY)
+***********************************************
+878.　，(COMMACATEGORY)　但(Cbb)　顯隱性(Na)　也(D)　有(V_2)　相反(VH)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+879.　，(COMMACATEGORY)　如(P)　Ｐａｒｔｕｌａ(FW)　ｓｕｔｕｒａｌｉｓ(FW)　。(PERIODCATEGORY)
+***********************************************
+880.　。(PERIODCATEGORY)　但是(Cbb)　旋向(Na)　基因型(Na)　表現(Na)　會(D)　有(V_2)　延遲(VHC)　一(Neu)　代(Na)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+881.　，(COMMACATEGORY)　所以(Cbb)　其(Nep)　旋向(Na)　為(VG)　母系(Na)　遺傳(VJ)　，(COMMACATEGORY)
+***********************************************
+882.　，(COMMACATEGORY)　在(P)　胚胎(Na)　發育(VH)　早期(Nd)　的(DE)　卵(Na)　裂(VH)　過程(Na)　中(Ng)　決定(VE)　旋向(Na)　。(PERIODCATEGORY)
+***********************************************
+883.　。(PERIODCATEGORY)　不過(Cbb)　在(P)　一(Neu)　種(Nf)　全(Neqa)　是(SHI)　右旋型(Na)　蝸牛(Na)　中(Ng)　亦(D)　偶爾(D)　發生(VJ)　左旋型(Na)　突變(VH)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+884.　，(COMMACATEGORY)　反之亦然(VH)　，(COMMACATEGORY)
+***********************************************
+885.　，(COMMACATEGORY)　這些(Neqa)　例子(Na)　可能(D)　表示(VE)　殼(Na)　的(DE)　旋向(Na)　並非(D)　是(SHI)　一(Neu)　個(Nf)　很(Dfa)　穩定(VHC)　或(Caa)　很(Dfa)　單純(VH)　的(DE)　遺傳(VJ)[+nom]　機制(Na)　，(COMMACATEGORY)
+***********************************************
+886.　，(COMMACATEGORY)　常(D)　有(D)　突變(VH)　發生(VJ)　。(PERIODCATEGORY)
+***********************************************
+887.　。(PERIODCATEGORY)　巴丹(Nc)　蝸牛(Na)　與(Caa)　阿猴(Nb)　蝸牛(Na)　在(P)　殼型(Na)　上(Ng)　除(P)　左右(Ncd)　旋(VA)　的(DE)　差異(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+888.　，(COMMACATEGORY)　對(P)　其他(Neqa)　特徵(Na)　以(P)　多變量(Na)　分析(VC)　，(COMMACATEGORY)
+***********************************************
+889.　，(COMMACATEGORY)　均(D)　無法(D)　將(P)　兩(Neu)　種(Nf)　區分(VC)　；(SEMICOLONCATEGORY)
+***********************************************
+890.　；(SEMICOLONCATEGORY)　在(P)　生殖器(Na)　的(DE)　形態(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+891.　，(COMMACATEGORY)　雖然(Cbb)　有(V_2)　兩(Neu)　特徵(Na)　在(P)　長度(Na)　上(Ng)　略(D)　有(V_2)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+892.　，(COMMACATEGORY)　但(Cbb)　兩(Neu)　種(Nf)　有(V_2)　相同(VH)　結構(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+893.　；(SEMICOLONCATEGORY)　而(Cbb)　粒線體(Na)　核酸(Na)　的(DE)　分析(Na)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+894.０１１８(Neu)　，(COMMACATEGORY)
+***********************************************
+895.　，(COMMACATEGORY)　若(Cbb)　只(Da)　與(P)　台灣島(Nc)　的(DE)　班卡拉(Nb)　蝸牛(Na)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+896.００９１(Neu)　，(COMMACATEGORY)
+***********************************************
+897.　，(COMMACATEGORY)　可(D)　說(VE)　是(SHI)　相當(VH)　的(DE)　低(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+898.　；(SEMICOLONCATEGORY)　這些(Neqa)　結果(Na)　顯示(VK)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　的(DE)　相似度(Na)　極(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+899.　，(COMMACATEGORY)　可能(D)　是(SHI)　１(FW)　．(PERIODCATEGORY)　分化(VC)[+nom]　程度(Na)　甚(Dfa)　低(VH)　，(COMMACATEGORY)
+***********************************************
+900.　，(COMMACATEGORY)　尚未(D)　達到(VJ)　二(Neu)　個(Nf)　獨立(VH)　種(Na)　的(DE)　程度(Na)　，(COMMACATEGORY)
+***********************************************
+901.　，(COMMACATEGORY)　２(Neu)　．(PERIODCATEGORY)　取樣到(VC)　了(Di)　雜交(VA)[+nom]　族群(Na)　，(COMMACATEGORY)
+***********************************************
+902.　，(COMMACATEGORY)　３(Neu)　．(PERIODCATEGORY)　形態(Na)　趨同演化(VA)　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+903.　。(PERIODCATEGORY)　對於(P)　趨同演化(VA)　，(COMMACATEGORY)
+***********************************************
+904.　，(COMMACATEGORY)　以(P)　目前(Nd)　眾多(VH)　的(DE)　證據(Na)　，(COMMACATEGORY)
+***********************************************
+905.　，(COMMACATEGORY)　均(D)　較(Dfa)　支持(VC)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　為(VG)　有(V_2)　共同(A)　祖先(Na)　，(COMMACATEGORY)
+***********************************************
+906.　，(COMMACATEGORY)　若(Cbb)　為(VG)　不同(VH)　起源(Na)　要(D)　同時(Nd)　發生(VJ)　趨同演化(VA)　，(COMMACATEGORY)
+***********************************************
+907.　，(COMMACATEGORY)　則(D)　需要(VK)　有(V_2)　極(Dfa)　大(VH)　而(Caa)　顯著(VH)　的(DE)　選擇(Na)　壓力(Na)　，(COMMACATEGORY)
+***********************************************
+908.　，(COMMACATEGORY)　自(P)　粒線體(Na)　核酸(Na)　至(P)　外殼(Na)　，(COMMACATEGORY)
+***********************************************
+909.　，(COMMACATEGORY)　同時(Nd)　篩選出(VC)　同樣(VH)　的(DE)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+910.　，(COMMACATEGORY)　但(Cbb)　這(Nep)　並(D)　不(D)　容易(VH)　。(PERIODCATEGORY)
+***********************************************
+911.　。(PERIODCATEGORY)　若是(Cbb)　兩(Neu)　種(Nf)　之間(Ng)　曾(D)　在(P)　種(Na)　交界處(Nc)　發生(VJ)　雜交(VA)　，(COMMACATEGORY)
+***********************************************
+912.　，(COMMACATEGORY)　應該(D)　可(D)　在(P)　龜山(Nc)　及(Caa)　石門(Nc)　發現(VE)　兩(Neu)　類(Nf)　差異(Na)　較(Dfa)　大(VH)　的(DE)　基因(Na)　組成(VG)[+nom]　，(COMMACATEGORY)
+***********************************************
+913.　，(COMMACATEGORY)　一(Neu)　類(Nf)　來自(VJ)　阿猴(Nb)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+914.　，(COMMACATEGORY)　一(Neu)　類(Nf)　來自(VJ)　巴丹(Nc)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+915.　，(COMMACATEGORY)　而且(Cbb)　族群(Na)　內(Ncd)　的(DE)　變異(Na)　應該(D)　極(Dfa)　大(VH)　。(PERIODCATEGORY)
+***********************************************
+916.　。(PERIODCATEGORY)　但(Cbb)　由(P)　圖(Na)　十一(Neu)　的(DE)　基因型(Na)　親緣(Na)　關係圖(Na)　可以(D)　看到(VE)　，(COMMACATEGORY)
+***********************************************
+917.　，(COMMACATEGORY)　龜山(Nc)　及(Caa)　石門(Nc)　所有(Neqa)　的(DE)　基因型(Na)　均(D)　是(SHI)　與(P)　附近(Nc)　地區(Nc)　的(DE)　巴丹(Nc)　蝸牛(Na)　相似(VH)　，(COMMACATEGORY)
+***********************************************
+918.　，(COMMACATEGORY)　且(Cbb)　無(VJ)　特殊(VH)　不同(VH)　的(DE)　基因型(Na)　可以(D)　與(P)　巴丹(Nc)　蝸牛(Na)　的(DE)　基因型(Na)　完全(D)　區分開(VC)　，(COMMACATEGORY)
+***********************************************
+919.　，(COMMACATEGORY)　而且(Cbb)　族群(Na)　內(Ncd)　變異(Na)　極(Dfa)　小(VH)　。(PERIODCATEGORY)
+***********************************************
+920.　。(PERIODCATEGORY)　石門(Nc)　還可以(D)　解釋為(VG)　樣本(Na)　太(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+921.　，(COMMACATEGORY)　但(Cbb)　龜山(Nc)　的(DE)　樣本數(Na)　卻(D)　不致於(D)　小(VH)　到(P)　只(Da)　取樣到(VC)　巴丹(Nc)　蝸牛(Na)　的(DE)　基因型(Na)　。(PERIODCATEGORY)
+***********************************************
+922.　。(PERIODCATEGORY)　因此(Cbb)　我(Nh)　認為(VE)　兩(Neu)　種(Nf)　的(DE)　高相似性(Na)　並非(D)　是(SHI)　因為(Cbb)　雜交(VA)　及(Caa)　採樣到(VC)　雜交區(Nc)　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+923.　。(PERIODCATEGORY)　我(Nh)　認為(VE)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　因為(Cbb)　有(V_2)　共同(A)　祖先(Na)　，(COMMACATEGORY)
+***********************************************
+924.　，(COMMACATEGORY)　所以(Cbb)　共有(VJ)　相似(VH)　的(DE)　基因(Na)　組成(VG)[+nom]　，(COMMACATEGORY)
+***********************************************
+925.　，(COMMACATEGORY)　且(Cbb)　因(Cbb)　旋向(Na)　突變(VH)　時間(Na)　並(D)　不(D)　久遠(VH)　，(COMMACATEGORY)
+***********************************************
+926.　，(COMMACATEGORY)　因此(Cbb)　在(P)　各(Nes)　方面(Na)　仍然(D)　很(Dfa)　相似(VH)　，(COMMACATEGORY)
+***********************************************
+927.　，(COMMACATEGORY)　這(Nep)　可以(D)　由(P)　各(Nes)　族群(Na)　的(DE)　親緣(Na)　關係圖(Na)　看出(VE)　。(PERIODCATEGORY)
+***********************************************
+928.　。(PERIODCATEGORY)　而且(Cbb)　巴丹(Nc)　蝸牛(Na)　應該(D)　是(SHI)　較(Dfa)　原始(VH)　種類(Na)　，(COMMACATEGORY)
+***********************************************
+929.　，(COMMACATEGORY)　因為(Cbb)　其(Nep)　地理(Na)　分佈(VH)　的(DE)　範圍(Na)　較(Dfa)　廣(VH)　，(COMMACATEGORY)
+***********************************************
+930.　，(COMMACATEGORY)　且(Cbb)　分佈(VH)　最(Dfa)　廣(VH)　的(DE)　基因型(Na)　—(DASHCATEGORY)　Ａ(FW)　為(VG)　這(Nep)　一(Neu)　種(Nf)　，(COMMACATEGORY)
+***********************************************
+931.　，(COMMACATEGORY)　而(Cbb)　基因型(Na)　—(DASHCATEGORY)　Ａ(FW)　分佈(VH)　的(DE)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　、(PAUSECATEGORY)　草埔(Nc)　附近(Nc)　可能(D)　為(VG)　巴丹(Nc)　蝸牛(Na)　的(DE)　種源(Na)　。(PERIODCATEGORY)
+***********************************************
+932.　。(PERIODCATEGORY)　兩(Neu)　個(Nf)　阿猴(Nb)　蝸牛(Na)　的(DE)　族群(Na)　分別(D)　與(P)　鄰近(VJ)　的(DE)　巴丹(Nc)　蝸牛(Na)　有(V_2)　較(Dfa)　相似(VH)　的(DE)　遺傳(VJ)[+nom]　組成(VG)[+nom]　，(COMMACATEGORY)
+***********************************************
+933.　，(COMMACATEGORY)　但是(Cbb)　阿猴(Nb)　蝸牛(Na)　兩(Neu)　個(Nf)　族群(Na)　之間(Ng)　的(DE)　核酸(Na)　取代(VC)[+nom]　率(Na)　則(D)　較(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+934.　，(COMMACATEGORY)　遠(Dfa)　大於(VJ)　種(Na)　間(Ng)　的(DE)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+935.　，(COMMACATEGORY)　配合(VC)　族群(Na)　的(DE)　系統(Na)　發生(VJ)[+nom]　圖(Na)　，(COMMACATEGORY)
+***********************************************
+936.　，(COMMACATEGORY)　因此(Cbb)　推論(VE)　這(Nep)　兩(Neu)　族群(Na)　的(DE)　分化(VC)[+nom]　是(SHI)　兩(Neu)　個(Nf)　獨立(VH)　事件(Na)　，(COMMACATEGORY)
+***********************************************
+937.　，(COMMACATEGORY)　有(V_2)　不同(VH)　的(DE)　起源(Na)　，(COMMACATEGORY)
+***********************************************
+938.　，(COMMACATEGORY)　而且(Cbb)　是(SHI)　遠(VH)　在(P)　Ｍｕｒｒａｙ(FW)　ｅｔ(FW)　ａｌ(FW)　．(PERIODCATEGORY)　亦(D)　以(P)　粒線體(Na)　核酸(Na)　限制(Na)　切位(Na)　技術(Na)　，(COMMACATEGORY)
+***********************************************
+939.　，(COMMACATEGORY)　分析(VC)　Ｍｏｏｒｅ島(Nc)　及(Caa)　Ｔａｈｉｔｉ島(Nc)　１４(Neu)　種(Nf)　Ｐａｒｔｕｌａ(FW)　的(DE)　演化(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+940.　，(COMMACATEGORY)　其中(Nep)　Ｐ(FW)　　ｓｕｔｕｒａｌｉｓ(FW)　也(D)　有(V_2)　左右(Ncd)　雙旋向(Na)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+941.　，(COMMACATEGORY)　但(Cbb)　在(P)　粒線體(Na)　核酸(Na)　上(Ng)　並(D)　無(VJ)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+942.　，(COMMACATEGORY)　因此(Cbb)　認為(VE)　旋向(Na)　不同(VH)　並(Cbb)　未(D)　對(P)　這(Nep)　一(Neu)　種(Nf)　造成(VG)　基因(Na)　交流(VH)　的(DE)　阻隔(VJ)[+nom]　；(SEMICOLONCATEGORY)
+***********************************************
+943.　；(SEMICOLONCATEGORY)　而(Cbb)　Ｐ(FW)　　ｓｕｔｕｒａｌｉｓ(FW)　的(DE)　交配(VA)[+nom]　實驗(Na)　發現(VE)　相反(VH)　旋向(Na)　的(DE)　交配率(Na)　及(Caa)　子代(Na)　數目(Na)　均(D)　減少(VHC)　，(COMMACATEGORY)
+***********************************************
+944.　，(COMMACATEGORY)　顯示(VK)　不同(VH)　旋向(Na)　之間(Ng)　在(P)　生殖(VA)[+nom]　行為(Na)　（(PARENTHESISCATEGORY)　交配(VA)　前(Ng)　）(PARENTHESISCATEGORY)　及(Caa)　子代(Na)　適度(A)　（(PARENTHESISCATEGORY)　交配(VA)　後(Ng)　）(PARENTHESISCATEGORY)　上(Ng)　有(V_2)　其(Nep)　不(D)　相容(VH)　性(Na)　，(COMMACATEGORY)
+***********************************************
+945.　，(COMMACATEGORY)　因此(Cbb)　即使(Cbb)　同種(VH)　若(Cbb)　旋向(Na)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+946.　，(COMMACATEGORY)　亦(D)　有(V_2)　一定(A)　程度(Na)　的(DE)　生殖(VA)[+nom]　隔離(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+947.　。(PERIODCATEGORY)　因此(Cbb)　雖然(Cbb)　目前(Nd)　的(DE)　殼型(Na)　、(PAUSECATEGORY)　生殖器(Na)　及(Caa)　粒線體(Na)　核酸(Na)　ＲＦＬＰ(FW)　特徵(Na)　並(D)　不(D)　強烈(VH)　支持(VC)　阿猴(Nb)　蝸牛(Na)　與(Caa)　巴丹(Nc)　蝸牛(Na)　為(VG)　兩(Neu)　個(Nf)　完全(D)　獨立(VH)　的(DE)　物種(Na)　，(COMMACATEGORY)
+***********************************************
+948.　，(COMMACATEGORY)　但是(Cbb)　旋向(Na)　的(DE)　差異(Na)　卻(D)　足以(VL)　造成(VG)　在(P)　系統(Na)　分類(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+949.　，(COMMACATEGORY)　兩(Neu)　種(Nf)　應(D)　為(VG)　旁系(A)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+950.　，(COMMACATEGORY)　在(P)　這(Nep)　種(Nf)　情形(Na)　下(Ng)　若(Cbb)　用(VC)　支(Nf)　序(Na)　分類(Na)　的(DE)　原理(Na)　，(COMMACATEGORY)
+***********************************************
+951.　，(COMMACATEGORY)　則(D)　兩(Neu)　阿猴(Nb)　蝸牛(Na)　族群(Na)　必然(D)　不可(D)　屬於(VG)　同(Nes)　一(Neu)　種(Na)　，(COMMACATEGORY)
+***********************************************
+952.　，(COMMACATEGORY)　但(Cbb)　若(Cbb)　以(P)　演化(VHC)[+nom]　分類(Na)　的(DE)　觀點(Na)　，(COMMACATEGORY)
+***********************************************
+953.　，(COMMACATEGORY)　則(D)　兩(Neu)　族群(Na)　仍(D)　可以(D)　分為(VG)　同(Nes)　種(Na)　。(PERIODCATEGORY)
+***********************************************
+954.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　巴丹(Nc)　蝸牛(Na)　體型(Na)　大小(Na)　變異(Na)　。(PERIODCATEGORY)
+***********************************************
+955.　。(PERIODCATEGORY)　對於(P)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　、(PAUSECATEGORY)　嘉蘭(Nc)　、(PAUSECATEGORY)　貓鼻頭(Nc)　以及(Caa)　大尖山(Nc)　等(Cab)　五(Neu)　個(Nf)　較(Dfa)　小型(Na)　族群(Na)　的(DE)　巴丹(Nc)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+956.　，(COMMACATEGORY)　以(P)　殼型(Na)　、(PAUSECATEGORY)　生殖器(Na)　及(Caa)　粒線體(Na)　核酸(Na)　三(Neu)　方面(Na)　做(VC)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+957.　，(COMMACATEGORY)　結果(Dk)　在(P)　殼型(Na)　特徵(Na)　上(Ng)　雖然(Cbb)　小型(A)　的(DE)　個體(Na)　能(D)　與(P)　大型(A)　族群(Na)　區別(VC)　，(COMMACATEGORY)
+***********************************************
+958.　，(COMMACATEGORY)　但(Cbb)　族群(Na)　間(Ng)　仍(D)　有(V_2)　重疊(VH)　現象(Na)　。(PERIODCATEGORY)
+***********************************************
+959.　。(PERIODCATEGORY)　在(P)　生殖器(Na)　解剖(VC)[+nom]　方面(Na)　，(COMMACATEGORY)
+***********************************************
+960.　，(COMMACATEGORY)　Ｃｈａｎｇ(Nb)[+fw]　與(Caa)　Ｔａｂｅ(Nb)[+fw]　即已(D)　證實(VE)　蘭嶼(Nc)　或(Caa)　大尖山(Nc)　的(DE)　個體(Na)　與(P)　其他(Neqa)　較(Dfa)　大型(Na)　的(DE)　族群(Na)　沒有(VJ)　太(Dfa)　大(VH)　差異(Na)　。(PERIODCATEGORY)
+***********************************************
+961.　。(PERIODCATEGORY)　現在(Nd)　利用(VC)　粒線體(Na)　核酸(Na)　分析(Na)　也(D)　不(D)　支持(VC)　這些(Neqa)　小型(Na)　族群(Na)　在(P)　親緣(Na)　關係(Na)　上(Ng)　有(V_2)　任何(Neqa)　相近(VH)　之(DE)　處(Na)　，(COMMACATEGORY)
+***********************************************
+962.　，(COMMACATEGORY)　或(Caa)　與(P)　大型(Na)　族群(Na)　有(V_2)　更(D)　明顯(VH)　遺傳(VJ)[+nom]　分化(VC)[+nom]　度(Na)　。(PERIODCATEGORY)
+***********************************************
+963.　。(PERIODCATEGORY)　其中(Nep)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　雖然(Cbb)　在(P)　粒線體(Na)　核酸(Na)　上(Ng)　較(Dfa)　相近(VH)　，(COMMACATEGORY)
+***********************************************
+964.　，(COMMACATEGORY)　但(Cbb)　卻(D)　也(D)　與(P)　大型(Na)　的(DE)　草埔(Nc)　、(PAUSECATEGORY)　滿州(Nc)　等(Cab)　族群(Na)　相近(VH)　，(COMMACATEGORY)
+***********************************************
+965.　，(COMMACATEGORY)　所以(Cbb)　這(Nep)　應該(D)　是(SHI)　與(P)　地理(Na)　距離(Na)　相關(VH)　的(DE)　；(SEMICOLONCATEGORY)
+***********************************************
+966.　；(SEMICOLONCATEGORY)　大尖山(Nc)　與(P)　社頂(Nc)　相似(VH)　也(D)　是(SHI)　同樣(VH)　的(DE)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+967.　。(PERIODCATEGORY)　由(P)　以上(Ncd)　結果(Na)　可以(D)　推論(VE)　，(COMMACATEGORY)
+***********************************************
+968.　，(COMMACATEGORY)　所謂(VK)　大小型(Na)　在(P)　遺傳(VJ)　上(Ng)　並(D)　沒有(VJ)　很(Dfa)　大(VH)　的(DE)　分化度(Na)　，(COMMACATEGORY)
+***********************************************
+969.　，(COMMACATEGORY)　這(Nep)　可能(D)　是(SHI)　因為(Cbb)　幾(Neu)　個(Nf)　小型(Na)　族群(Na)　與(Caa)　大型(A)　族群(Na)　的(DE)　分化(VC)[+nom]　時間(Na)　過短(VH)　，(COMMACATEGORY)
+***********************************************
+970.　，(COMMACATEGORY)　尚未(D)　累積(VC)　大量(Neqa)　的(DE)　變異(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+971.　；(SEMICOLONCATEGORY)　或是(Caa)　因為(Cbb)　大小型(Na)　間(Ng)　沒有(D)　很(Dfa)　強(VH)　的(DE)　隔離(VC)[+nom]　機制(Na)　存在(VA)　，(COMMACATEGORY)
+***********************************************
+972.　，(COMMACATEGORY)　仍(D)　有(V_2)　基因(Na)　交流(VH)　的(DE)　機會(Na)　，(COMMACATEGORY)
+***********************************************
+973.　，(COMMACATEGORY)　而(Cbb)　比較(Dfa)　可能(D)　造成(VG)　基因(Na)　交流(VH)　阻隔(VJ)　的(DE)　是(SHI)　離島(Nc)　的(DE)　地理(Na)　隔離(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+974.　，(COMMACATEGORY)　但(Cbb)　這(Nep)　機制(Na)　似乎(D)　並(D)　不(D)　強烈(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+975.　；(SEMICOLONCATEGORY)　或(Caa)　體型(Na)　大小(Na)　有(V_2)　交配(VA)[+nom]　分別(Na)　作用(Na)　，(COMMACATEGORY)
+***********************************************
+976.　，(COMMACATEGORY)　這(Nep)　需要(VK)　進一步(D)　的(DE)　實驗(Na)　才(Da)　可(D)　確定(VK)　。(PERIODCATEGORY)
+***********************************************
+977.　。(PERIODCATEGORY)　我們(Nh)　判斷(VE)　巴丹(Nc)　蝸牛(Na)　的(DE)　殼型(Na)　大小(Na)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+978.　，(COMMACATEGORY)　應該(D)　是(SHI)　正(D)　如(P)　人類(Na)　的(DE)　身高(Na)　體重(Na)　一般(Ng)　，(COMMACATEGORY)
+***********************************************
+979.　，(COMMACATEGORY)　是(SHI)　連續性(Na)　的(DE)　數量(Na)　特徵(Na)　。(PERIODCATEGORY)
+***********************************************
+980.　。(PERIODCATEGORY)　通常(D)　數量(Na)　特徵(Na)　有(V_2)　三(Neu)　個(Nf)　特點(Na)　：(COLONCATEGORY)
+***********************************************
+981.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　常態(Na)　分佈(VH)　，(COMMACATEGORY)
+***********************************************
+982.　，(COMMACATEGORY)　２(Neu)　．(PERIODCATEGORY)　易(VH)　受(P)　環境(Na)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+983.　，(COMMACATEGORY)　３(Neu)　．(PERIODCATEGORY)　通常(D)　是(SHI)　多基因(Na)　遺傳(VJ)　的(DE)　，(COMMACATEGORY)
+***********************************************
+984.　，(COMMACATEGORY)　蝸牛(Na)　的(DE)　殼(Na)　明顯(VH)　具有(VJ)　前(Nes)　兩(Neu)　種(Nf)　現象(Na)　。(PERIODCATEGORY)
+***********************************************
+985.　。(PERIODCATEGORY)　圖(Na)　二十九(Neu)　明顯(VH)　的(DE)　看出(VE)　巴丹(Nc)　蝸牛(Na)　的(DE)　殼徑(Na)　成(VG)　常態(Na)　分佈(VH)　，(COMMACATEGORY)
+***********************************************
+986.　，(COMMACATEGORY)　小型(Na)　族群(Na)　則(D)　大部份(Neqa)　分佈(VH)　於(P)　左邊(Ncd)　，(COMMACATEGORY)
+***********************************************
+987.　，(COMMACATEGORY)　推測(VE)　驅使(VL)　某些(Neqa)　族群(Na)　的(DE)　體型(Na)　固定(VHC)　到(P)　小型(A)　，(COMMACATEGORY)
+***********************************************
+988.　，(COMMACATEGORY)　是(SHI)　因為(Cbb)　表現型(Na)　的(DE)　可塑性(Na)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+989.　。(PERIODCATEGORY)　一般而言(Dk)　，(COMMACATEGORY)
+***********************************************
+990.　，(COMMACATEGORY)　蝸牛(Na)　在(P)　高鈣質(Na)　環境(Na)　以及(Caa)　低(A)　族群(Na)　密度(Na)　的(DE)　情況(Na)　下(Ng)　會(D)　有(V_2)　較(Dfa)　大(VH)　的(DE)　殼型(Na)　，(COMMACATEGORY)
+***********************************************
+991.　，(COMMACATEGORY)　而(Cbb)　高雨量(Na)　及(Caa)　高濕度(Na)　也(D)　有(V_2)　這(Nep)　趨勢(Na)　，(COMMACATEGORY)
+***********************************************
+992.　，(COMMACATEGORY)　其他(Neqa)　如(P)　溫度(Na)　與(Caa)　日照(Na)　，(COMMACATEGORY)
+***********************************************
+993.　，(COMMACATEGORY)　則(D)　因(Cbb)　物種(Na)　不同(VH)　而(Cbb)　有(V_2)　不同(VH)　趨勢(Na)　。(PERIODCATEGORY)
+***********************************************
+994.　。(PERIODCATEGORY)　巴丹(Nc)　蝸牛(Na)　的(DE)　六(Neu)　個(Nf)　小型(Na)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+995.　，(COMMACATEGORY)　除(P)　貓鼻頭(Nc)　為(VG)　珊瑚礁(Na)　石灰岩(Na)　地質(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+996.　，(COMMACATEGORY)　其他(Neqa)　五(Neu)　個(Nf)　都(D)　是(SHI)　非(A)　珊瑚礁(Na)　石灰岩(Na)　組成(VG)　的(DE)　低鈣質(Na)　環境(Na)　（(PARENTHESISCATEGORY)　安山岩(Na)　、(PAUSECATEGORY)　礫岩(Na)　或(Caa)　板岩(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+997.　，(COMMACATEGORY)　所以(Cbb)　幾(Neu)　個(Nf)　小型(Na)　族群(Na)　可能(D)　是(SHI)　因(Cbb)　鈣質(Na)　元素(Na)　相對(VH)　的(DE)　較少(D)　造成(VG)　外殼(Na)　小型化(VHC)　。(PERIODCATEGORY)
+***********************************************
+998.　。(PERIODCATEGORY)　氣候(Na)　方面(Na)　以(P)　中央(Nc)　氣象局(Nc)　兩(Neu)　個(Nf)　測候站(Nc)　氣候(Na)　資料(Na)　（(PARENTHESISCATEGORY)　蘭嶼(Nc)　、(PAUSECATEGORY)　恆春(Nc)　）(PARENTHESISCATEGORY)　與(P)　殼型(Na)　做(VC)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+999.　，(COMMACATEGORY)　發現(VE)　與(P)　兩(Neu)　地點(Na)　的(DE)　殼型(Na)　大小(Na)　趨勢(Na)　一致(VH)　的(DE)　氣候(Na)　因子(Na)　有(V_2)　年均溫(Na)　與(Caa)　年(Na)　總(A)　日照(Na)　時數(Na)　，(COMMACATEGORY)
+***********************************************
+1000.　，(COMMACATEGORY)　趨勢(Na)　相反(VH)　的(DE)　為(VG)　年(Na)　總降水量(Na)　及(Caa)　平均(VH)　相對(VH)　濕度(Na)　，(COMMACATEGORY)
+***********************************************
+1001.　，(COMMACATEGORY)　由(P)　此(Nep)　推論(Na)　巴丹(Nc)　蝸牛(Na)　的(DE)　殼型(Na)　在(P)　高鈣(Na)　地質(Na)　密度(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+1002.　，(COMMACATEGORY)　Ｗｉｌｌｉａｍｓｏｎ(Nb)[+fw]　發現(VE)　Ｃａｐａｅａｎｅｍｏｒａｌｉｓ(FW)　族群(Na)　密度(Na)　升高(VHC)　時(Ng)　會(D)　有(V_2)　較(Dfa)　小(VH)　的(DE)　殼型(Na)　，(COMMACATEGORY)
+***********************************************
+1003.５(Neu)　ｍ(Nf)　，(COMMACATEGORY)
+***********************************************
+1004.　，(COMMACATEGORY)　對(P)　班卡拉(Nb)　蝸牛(Na)　這(Nep)　種(Nf)　具(VJ)　樹棲性(Na)　的(DE)　蝸牛(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+1005.　，(COMMACATEGORY)　這(Nep)　種(Nf)　密度(Na)　並(D)　不致於(D)　對(P)　它們(Nh)　的(DE)　生長(VH)　產生(VHC)　擁擠(VH)　效應(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+1006.　；(SEMICOLONCATEGORY)　至於(P)　蘭嶼(Nc)　等(Cab)　地(Na)　的(DE)　小型(Na)　族群(Na)　因(Cbb)　無(VJ)　族群(Na)　密度(Na)　數據(Na)　，(COMMACATEGORY)
+***********************************************
+1007.　，(COMMACATEGORY)　無法(D)　進一步(D)　討論(VE)　，(COMMACATEGORY)
+***********************************************
+1008.　，(COMMACATEGORY)　但是(Cbb)　根據(P)　作者(Na)　的(DE)　觀察(VE)[+nom]　，(COMMACATEGORY)
+***********************************************
+1009.　，(COMMACATEGORY)　小型(Na)　族群(Na)　的(DE)　密度(Na)　應該(D)　與(P)　其他(Neqa)　地方(Na)　相當(VH)　，(COMMACATEGORY)
+***********************************************
+1010.　，(COMMACATEGORY)　因此(Cbb)　對(P)　巴丹(Nc)　蝸牛(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+1011.　，(COMMACATEGORY)　族群(Na)　密度(Na)　並非(D)　是(SHI)　一(Neu)　個(Nf)　重要(VH)　影響(Na)　因子(Na)　。(PERIODCATEGORY)
+***********************************************
+1012.　。(PERIODCATEGORY)　就(P)　分類(VB)　的(DE)　角度(Na)　來(D)　看(VE)　，(COMMACATEGORY)
+***********************************************
+1013.　，(COMMACATEGORY)　Ｋｕｒｏｄａ(Nb)[+fw]　設立(VC)　蘭嶼(Nc)　蝸牛(Na)　亞種(Na)　，(COMMACATEGORY)
+***********************************************
+1014.　，(COMMACATEGORY)　所(D)　依據(Na)　的(DE)　理由(Na)　是(SHI)　其(Nep)　較(P)　巴丹(Nc)　蝸牛(Na)　有(V_2)　較多(VH)　的(DE)　螺層數(Na)　及(Caa)　更(D)　高(VH)　的(DE)　殼形(Na)　，(COMMACATEGORY)
+***********************************************
+1015.　，(COMMACATEGORY)　而(Cbb)　與(P)　班卡拉(Nb)　蝸牛(Na)　的(DE)　差異(Na)　是(SHI)　有(V_2)　更(D)　高(VH)　及(Caa)　較(Dfa)　小(VH)　的(DE)　殼形(Na)　。(PERIODCATEGORY)
+***********************************************
+1016.　。(PERIODCATEGORY)　本(Nes)　實驗(Na)　的(DE)　結果(Na)　雖然(Cbb)　外殼(Na)　趨勢(Na)　與(P)　Ｋｕｒｏｄａ(Nb)[+fw]　所(D)　提出(VC)　者(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+1017.　，(COMMACATEGORY)　但是(Cbb)　亞種(Na)　之間(Ng)　在(P)　這(Nep)　殼徑(Na)　、(PAUSECATEGORY)　螺層數(Na)　及(Caa)　殼形(Na)　三(Neu)　個(Nf)　特徵(Na)　重疊(VH)　部份(Neqa)　太多(VH)　，(COMMACATEGORY)
+***********************************************
+1018.　，(COMMACATEGORY)　且(Cbb)　生殖器(Na)　形態(Na)　亦(D)　不(D)　支持(VC)　這(Nep)　兩(Neu)　亞種(Na)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+1019.　，(COMMACATEGORY)　在(P)　亞種(Na)　的(DE)　條件(Na)　上(Ng)　僅(Da)　地理(Na)　隔離(VC)[+nom]　這(Nep)　一(Neu)　點(Nf)　成立(VC)　。(PERIODCATEGORY)
+***********************************************
+1020.　。(PERIODCATEGORY)　就(P)　粒線體(Na)　核酸(Na)　親緣(Na)　關係(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+1021.　，(COMMACATEGORY)　除去(VC)　巴丹島(Nc)　因(Cbb)　未(D)　採樣(VC)　而(Cbb)　未(D)　做(VC)　粒線體(Na)　核酸(Na)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+1022.　，(COMMACATEGORY)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　與(Caa)　台灣島(Nc)　族群(Na)　的(DE)　差異(Na)　不(D)　大(VH)　，(COMMACATEGORY)
+***********************************************
+1023.　，(COMMACATEGORY)　因此(Cbb)　若要(Cbb)　將(P)　蘭嶼(Nc)　、(PAUSECATEGORY)　綠島(Nc)　以及(Caa)　台灣島(Nc)　分設為(VG)　目前(Nd)　的(DE)　兩(Neu)　亞種(Na)　，(COMMACATEGORY)
+***********************************************
+1024.　，(COMMACATEGORY)　仍(D)　有(V_2)　必要(Na)　與(P)　巴丹島(Nc)　的(DE)　巴丹(Nc)　蝸牛(Na)　做(VC)　更(D)　詳盡(VH)　的(DE)　比較(Na)　，(COMMACATEGORY)
+***********************************************
+1025.　，(COMMACATEGORY)　才(Da)　可(D)　有(V_2)　更(D)　正確(VH)　的(DE)　結論(Na)　。(PERIODCATEGORY)
+***********************************************
+1026.　。(PERIODCATEGORY)　五(Neu)　、(PAUSECATEGORY)　小(VH)　菱蝸牛(Na)　的(DE)　族群(Na)　變異(Na)　。(PERIODCATEGORY)
+***********************************************
+1027.　。(PERIODCATEGORY)　由於(Cbb)　本(Nes)　種(Na)　的(DE)　數量(Na)　不(D)　若(P)　巴丹(Nc)　蝸牛(Na)　多(VH)　，(COMMACATEGORY)
+***********************************************
+1028.　，(COMMACATEGORY)　分佈點(Na)　亦(D)　非(D)　很(Dfa)　完整(VH)　，(COMMACATEGORY)
+***********************************************
+1029.　，(COMMACATEGORY)　大多(Neqa)　只(Da)　是(SHI)　零星(VH)　的(DE)　記錄(Na)　，(COMMACATEGORY)
+***********************************************
+1030.　，(COMMACATEGORY)　故(Cbb)　活體(Na)　只(Da)　採得(VC)　高雄(Nc)　壽山(Nc)　及(Caa)　小琉球(Nc)　兩(Neu)　樣點(Na)　，(COMMACATEGORY)
+***********************************************
+1031.　，(COMMACATEGORY)　因此(Cbb)　無法(D)　對(P)　這(Nep)　一(Neu)　種(Na)　的(DE)　地理(Na)　親緣(Na)　關係(Na)　有(V_2)　一(Neu)　較(Dfa)　明確(VH)　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+1032.　。(PERIODCATEGORY)　但是(Cbb)　目前(Nd)　的(DE)　粒線體(Na)　核酸(Na)　親緣(Na)　分析(Na)　結果(Na)　顯示(VK)　，(COMMACATEGORY)
+***********************************************
+1033.　，(COMMACATEGORY)　壽山(Nc)　與(Caa)　小琉球(Nc)　的(DE)　遺傳(VJ)[+nom]　變異(Na)　極(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+1034.　，(COMMACATEGORY)　以(P)　兩(Neu)　地(Na)　相隔(VH)　僅(Da)　３０(Neu)　公里(Nf)　的(DE)　海洋(Na)　且(Caa)　兩(Neu)　地(Na)　的(DE)　石灰岩(Na)　隆起(VH)　年代(Nd)　相差(VJ)　不過(Da)　１０(Neu)　至(Caa)　２０萬(Neu)　年(Nf)　之間(Ng)　，(COMMACATEGORY)
+***********************************************
+1035.　，(COMMACATEGORY)　大約(Da)　在(P)　距(P)　今(Nd)　第二(Neu)　次(Nf)　至(P)　第三(Neu)　次(Nf)　冰河(Na)　時期(Na)　之間(Ng)　，(COMMACATEGORY)
+***********************************************
+1036.　，(COMMACATEGORY)　以(P)　這麼(D)　相近(VH)　的(DE)　地質(Na)　年代(Nd)　及(Caa)　地理(Na)　距離(Na)　，(COMMACATEGORY)
+***********************************************
+1037.　，(COMMACATEGORY)　要(D)　產生(VHC)　這麼(Dfa)　大(VH)　的(DE)　突變(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+1038.　，(COMMACATEGORY)　可能(D)　有(V_2)　以下(Ncd)　幾(Neu)　種(Nf)　情況(Na)　：(COLONCATEGORY)
+***********************************************
+1039.　：(COLONCATEGORY)　兩(Neu)　族群(Na)　起源(Na)　分化(VC)　較(Dfa)　早(VH)　、(PAUSECATEGORY)　地理(Na)　阻隔(VJ)　或(Caa)　粒線體(Na)　核酸(Na)　快速(VH)　演化(VH)　，(COMMACATEGORY)
+***********************************************
+1040.　，(COMMACATEGORY)　現(D)　分述(VC)　如下(VK)　：(COLONCATEGORY)
+***********************************************
+1041.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　族群(Na)　起源(Na)　分化(VC)　較(Dfa)　早(VH)　。(PERIODCATEGORY)
+***********************************************
+1042.８％(Neqa)　的(DE)　核酸(Na)　取代(VC)[+nom]　率(Na)　為(VG)　標準(Na)　，(COMMACATEGORY)
+***********************************************
+1043.　，(COMMACATEGORY)　則(D)　兩(Neu)　族群(Na)　的(DE)　祖先(Na)　大約(Da)　在(P)　三百五十萬(Neu)　年(Nf)　前(Ng)　分化(VC)　，(COMMACATEGORY)
+***********************************************
+1044.　，(COMMACATEGORY)　當時(Nd)　壽山(Nc)　與(Caa)　小琉球(Nc)　尚未(D)　隆起(VH)　，(COMMACATEGORY)
+***********************************************
+1045.　，(COMMACATEGORY)　繼而(D)　各自(Nh)　演化(VHC)　分散(VHC)　至(P)　兩(Neu)　地(Na)　。(PERIODCATEGORY)
+***********************************************
+1046.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　地理(Na)　隔離(VC)　。(PERIODCATEGORY)
+***********************************************
+1047.　。(PERIODCATEGORY)　壽山(Nc)　與(Caa)　小琉球(Nc)　之(DE)　間隔(VJ)　了(Di)　３０(Neu)　公里(Nf)　的(DE)　海面(Nc)　，(COMMACATEGORY)
+***********************************************
+1048.　，(COMMACATEGORY)　但是(Cbb)　小琉球(Nc)　與(Caa)　台灣(Nc)　最(Dfa)　近(VH)　的(DE)　距離(Na)　在(P)　高屏溪(Nc)　以南(Ncd)　一帶(Ncd)　，(COMMACATEGORY)
+***********************************************
+1049.　，(COMMACATEGORY)　可能(D)　在(P)　過去(Nd)　的(DE)　數(Neu)　次(Nf)　冰河(Na)　時期(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+1050.　，(COMMACATEGORY)　小琉球(Nc)　與(Caa)　台灣(Nc)　之間(Ng)　有(V_2)　陸橋(Na)　形成(VG)　，(COMMACATEGORY)
+***********************************************
+1051.　，(COMMACATEGORY)　可以(D)　與(P)　高屏溪(Nc)　以南(Ncd)　做(VC)　基因(Na)　交流(VH)　，(COMMACATEGORY)
+***********************************************
+1052.　，(COMMACATEGORY)　但是(Cbb)　與(P)　高屏溪(Nc)　以北(Ncd)　的(DE)　族群(Na)　因為(Cbb)　持續(VL)　地(DE)　有(V_2)　高屏溪(Nc)　河口(Nc)　阻隔(VJ)　，(COMMACATEGORY)
+***********************************************
+1053.　，(COMMACATEGORY)　因此(Cbb)　一直(D)　未有(D)　足夠(VH)　的(DE)　機會(Na)　進行(VC)　基因(Na)　交流(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+1054.　；(SEMICOLONCATEGORY)　在(P)　間冰期(Na)　更(D)　因為(Cbb)　海洋(Na)　阻隔(VJ)　，(COMMACATEGORY)
+***********************************************
+1055.　，(COMMACATEGORY)　小琉球(Nc)　更形(Dfa)　獨立(VH)　，(COMMACATEGORY)
+***********************************************
+1056.　，(COMMACATEGORY)　而(Cbb)　台灣島(Nc)　高屏溪(Nc)　南北(Ncd)　兩(Neu)　側(Ncd)　，(COMMACATEGORY)
+***********************************************
+1057.　，(COMMACATEGORY)　因(Cbb)　有(V_2)　錯綜(VH)　而(Caa)　廣闊(VH)　的(DE)　高屏溪(Nc)　流域(Na)　阻隔(VJ)　，(COMMACATEGORY)
+***********************************************
+1058.　，(COMMACATEGORY)　基因(Na)　交流(VH)　機會(Na)　較(Dfa)　低(VH)　，(COMMACATEGORY)
+***********************************************
+1059.　，(COMMACATEGORY)　所以(Cbb)　長時間(D)　的(DE)　幾乎(Da)　完全(D)　阻隔(VJ)　，(COMMACATEGORY)
+***********************************************
+1060.　，(COMMACATEGORY)　造成(VG)　小琉球(Nc)　與(Caa)　壽山(Nc)　之間(Ng)　的(DE)　分化(VC)[+nom]　速率(Na)　加快(VHC)　。(PERIODCATEGORY)
+***********************************************
+1061.　。(PERIODCATEGORY)　要(D)　驗證(VE)　這(Nep)　一(Neu)　點(Nf)　，(COMMACATEGORY)
+***********************************************
+1062.　，(COMMACATEGORY)　需要(VK)　增加(VHC)　高屏溪(Nc)　南部(Ncd)　的(DE)　族群(Na)　採樣(VC)[+nom]　才(Da)　能(D)　確定(VK)　。(PERIODCATEGORY)
+***********************************************
+1063.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　粒線體(Na)　核酸(Na)　快速(VH)　演化(VH)　。(PERIODCATEGORY)
+***********************************************
+1064.　。(PERIODCATEGORY)　一般(D)　認為(VE)　粒線體(Na)　核酸(Na)　演化(VHC)　約為(VG)　核(Na)　的(DE)　１(Neu)　至(Caa)　１０(Neu)　倍(Na)　，(COMMACATEGORY)
+***********************************************
+1065.０４１(Neu)　之間(Ng)　，(COMMACATEGORY)
+***********************************************
+1066.０９４(Neu)　↑(FW)　，(COMMACATEGORY)
+***********************************************
+1067.　，(COMMACATEGORY)　雖然(Cbb)　因(Cbb)　不同(VH)　物種(Na)　有(V_2)　不同(VH)　範圍(Na)　，(COMMACATEGORY)
+***********************************************
+1068.　，(COMMACATEGORY)　而且(Cbb)　這些(Neqa)　數值(Na)　是(SHI)　由(P)　不同(VH)　技術(Na)　，(COMMACATEGORY)
+***********************************************
+1069.　，(COMMACATEGORY)　限制(Na)　切位(Na)　或(Caa)　片段(Na)　，(COMMACATEGORY)
+***********************************************
+1070.　，(COMMACATEGORY)　或(Caa)　不同(VH)　估計(VE)[+nom]　公式(Na)　所(D)　得到(VJ)　，(COMMACATEGORY)
+***********************************************
+1071.　，(COMMACATEGORY)　但是(Cbb)　均(D)　有(V_2)　一定(A)　的(DE)　趨勢(Na)　及(Caa)　範圍(Na)　。(PERIODCATEGORY)
+***********************************************
+1072.　。(PERIODCATEGORY)　然而(Cbb)　小(VH)　菱蝸牛(Na)　的(DE)　差異(Na)　已(D)　達到(VJ)　不(D)　同種(VH)　的(DE)　程度(Na)　，(COMMACATEGORY)
+***********************************************
+1073.　，(COMMACATEGORY)　這(Nep)　可能(D)　肇因於(VK)　粒線體(Na)　核酸(Na)　快速(VH)　演化(VHC)　或是(Caa)　用(P)　ＲＦＬＰ(FW)　技術(Na)　造成(VG)　的(DE)　誤差(Na)　，(COMMACATEGORY)
+***********************************************
+1074.　，(COMMACATEGORY)　分述(VC)　如下(VK)　：(COLONCATEGORY)
+***********************************************
+1075.　：(COLONCATEGORY)　在(P)　粒線體(Na)　核酸(Na)　中(Ng)　會(D)　造成(VG)　脢(Na)　切(VC)　片段(Na)　不同(VH)　的(DE)　情形(Na)　有(V_2)　：(COLONCATEGORY)
+***********************************************
+1076.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　大幅度(A)　的(DE)　ｉｎｓｅｒｔｉｏｎ(FW)　或(Caa)　ｄｅｌｅｔｉｏｎ(FW)　，(COMMACATEGORY)
+***********************************************
+1077.　，(COMMACATEGORY)　用(P)　ａｇａｒｏｓｅ(FW)　凝膠(Na)　可以(D)　解析出來(VB)　，(COMMACATEGORY)
+***********************************************
+1078.　，(COMMACATEGORY)　如(P)　先前(Nd)　討論(VE)　的(DE)　重複(VC)[+nom]　序列(Na)　或是(Caa)　某(Nes)　基因(Na)　缺失(Na)　，(COMMACATEGORY)
+***********************************************
+1079.　，(COMMACATEGORY)　如(P)　ＡＴＰａｓｅ(FW)　。(PERIODCATEGORY)
+***********************************************
+1080.　。(PERIODCATEGORY)　兩(Neu)　族群(Na)　除(P)　有(V_2)　明顯(VH)　的(DE)　重複(VC)[+nom]　片段(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+1081.　，(COMMACATEGORY)　在(P)　平均(VH)　粒線體(Na)　核酸(Na)　總長度(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+1082.　，(COMMACATEGORY)　壽山(Nc)　者(Na)　約(Da)　１９(Neu)　至(Caa)　２２(Neu)　ｋｂ(Nf)　，(COMMACATEGORY)
+***********************************************
+1083.　，(COMMACATEGORY)　小琉球(Nc)　者(Na)　約(Da)　２２(Neu)　至(Caa)　２６(Neu)　ｋｂ(Nf)　，(COMMACATEGORY)
+***********************************************
+1084.　，(COMMACATEGORY)　有(V_2)　約(Da)　０(Neu)　至(Caa)　７(Neu)　ｋｂ(Nf)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+1085.　，(COMMACATEGORY)　這(Nep)　長度(Na)　足以(VL)　造成(VG)　片段(Na)　的(DE)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+1086.　，(COMMACATEGORY)　但是(Cbb)　除非(Cbb)　這些(Neqa)　變化(Na)　是(SHI)　發生(VJ)　在(P)　多(Neqa)　處(Nf)　，(COMMACATEGORY)
+***********************************************
+1087.　，(COMMACATEGORY)　否則(Cbb)　大多數(Neqa)　脢(Na)　切(VC)　片段(Na)　仍(D)　是(SHI)　會(D)　相同(VH)　的(DE)　，(COMMACATEGORY)
+***********************************************
+1088.　，(COMMACATEGORY)　但是(Cbb)　要(D)　在(P)　控制區(Nc)　外(Ncd)　發生(VJ)　多(Neqa)　處(Nf)　大幅度(A)　變異(Na)　，(COMMACATEGORY)
+***********************************************
+1089.　，(COMMACATEGORY)　這(Nep)　機會(Na)　是(SHI)　非常(Dfa)　小(VH)　的(DE)　，(COMMACATEGORY)
+***********************************************
+1090.　，(COMMACATEGORY)　至今(D)　仍(D)　未有(D)　報告(VE)　，(COMMACATEGORY)
+***********************************************
+1091.　，(COMMACATEGORY)　所以(Cbb)　推測(VE)　這(Nep)　是(SHI)　因為(Cbb)　控制區(Nc)　中(Ncd)　的(DE)　重複(VC)[+nom]　片段(Na)　數目(Na)　不一(VH)　所致(VH)　。(PERIODCATEGORY)
+***********************************************
+1092.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　重組(VC)　或(Caa)　重排(VC)　。(PERIODCATEGORY)
+***********************************************
+1093.　。(PERIODCATEGORY)　要(D)　造成(VG)　這(Nep)　種(Nf)　程度(Na)　的(DE)　差異(Na)　可能(D)　有(V_2)　奠基(VB)[+nom]　者(Na)　效應(Na)　參予(VC)　其中(Nep)　，(COMMACATEGORY)
+***********************************************
+1094.０１８３(Neu)　↑(FW)　，(COMMACATEGORY)
+***********************************************
+1095.　，(COMMACATEGORY)　共(Da)　包含(VJ)　５(Neu)　種(Nf)　基因型(Na)　，(COMMACATEGORY)
+***********************************************
+1096.　，(COMMACATEGORY)　但(Cbb)　頻率(Na)　最(Dfa)　高(VH)　的(DE)　基因型(Na)　Ｊ(FW)　亦(D)　只有(D)　包含(VJ)　九分之三(Neqa)　的(DE)　個體(Na)　，(COMMACATEGORY)
+***********************************************
+1097.００３(Neu)　↑(FW)　，(COMMACATEGORY)
+***********************************************
+1098.　，(COMMACATEGORY)　包含(VJ)　３(FW)　種(Nf)　基因型(Na)　，(COMMACATEGORY)
+***********************************************
+1099.　，(COMMACATEGORY)　頻率(Na)　最(Dfa)　高(VH)　的(DE)　基因型(Na)　Ｆ(FW)　佔(VJ)　了(Di)　十二分之十(Neqa)　的(DE)　個體數(Na)　，(COMMACATEGORY)
+***********************************************
+1100.　，(COMMACATEGORY)　兩相(D)　比較(VC)　小琉球(Nc)　的(DE)　基因(Na)　歧異度(Na)　為(VG)　壽山(Nc)　的(DE)　六分之一(Neqa)　，(COMMACATEGORY)
+***********************************************
+1101.　，(COMMACATEGORY)　均質性(Na)　非常(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+1102.　，(COMMACATEGORY)　因此(Cbb)　在(P)　分子(Na)　上(Ng)　也(D)　支持(VC)　小琉球(Nc)　族群(Na)　受到(VJ)　奠基(VB)[+nom]　者(Na)　效應(Na)　作用(Na)　。(PERIODCATEGORY)
+***********************************************
+1103.　。(PERIODCATEGORY)　小琉球(Nc)　為(VG)　一(Neu)　海島(Na)　，(COMMACATEGORY)
+***********************************************
+1104.　，(COMMACATEGORY)　就(P)　生物(Na)　地理(Na)　角度(Na)　來(D)　看(VE)　，(COMMACATEGORY)
+***********************************************
+1105.　，(COMMACATEGORY)　本(D)　就(D)　比較(Dfa)　容易(VH)　發生(VJ)　奠基(VB)[+nom]　者(Na)　效應(Na)　，(COMMACATEGORY)
+***********************************************
+1106.　，(COMMACATEGORY)　而且(Cbb)　在(P)　一(Neu)　個(Nf)　海島(Na)　的(DE)　小(VH)　族群(Na)　，(COMMACATEGORY)
+***********************************************
+1107.　，(COMMACATEGORY)　也(D)　可能(D)　發生(VJ)　基因(Na)　漂變(VA)　，(COMMACATEGORY)
+***********************************************
+1108.　，(COMMACATEGORY)　這(Nep)　一(Neu)　點(Nf)　亦(D)　可以(D)　解釋(VE)　上述(Na)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+1109.　。(PERIODCATEGORY)　因此(Cbb)　推測(VE)　造成(VG)　小(VH)　菱蝸牛(Na)　變異(Na)　大(VH)　的(DE)　原因(Na)　是(SHI)　前(Nes)　…(ETCCATEGORY)
+***********************************************
+1110.　…(ETCCATEGORY)　六(Neu)　、(PAUSECATEGORY)　獅潭(Nc)　巴丹(Nc)　蝸牛(Na)　的(DE)　起源(Na)　。(PERIODCATEGORY)
+***********************************************
+1111.　。(PERIODCATEGORY)　因為(Cbb)　未(D)　能(D)　採得(VC)　獅潭(Nc)　的(DE)　活體(Na)　以(Cbb)　供(VF)　粒線體(Na)　核酸(Na)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+1112.　，(COMMACATEGORY)　只(Da)　憑(P)　四(Neu)　枚(Nf)　死(VH)　殼(Na)　無法(D)　作出(VC)　較(Dfa)　明確(VH)　的(DE)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+1113.　，(COMMACATEGORY)　但(Cbb)　目前(Nd)　已經(D)　建立(VC)　台灣(Nc)　及(Caa)　附近(Nc)　離島(Nc)　南亞(Nc)　蝸牛(Na)　的(DE)　粒線體(Na)　核酸(Na)　基本(A)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+1114.　，(COMMACATEGORY)　待(P)　將來(Nd)　採得(VC)　活體(Na)　，(COMMACATEGORY)
+***********************************************
+1115.　，(COMMACATEGORY)　即可(D)　與(P)　已(D)　知(VK)　的(DE)　結果(Na)　比較(VC)　，(COMMACATEGORY)
+***********************************************
+1116.　，(COMMACATEGORY)　判斷(VE)　這(Nep)　族群(Na)　的(DE)　起源(Na)　是(SHI)　原本(D)　即已(D)　生存(VH)　於(P)　此(Nep)　地(Na)　或是(Caa)　遷移(VC)　進入(VCL)　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+1117.　。(PERIODCATEGORY)　七(Neu)　、(PAUSECATEGORY)　台灣(Nc)　南亞(Nc)　蝸牛(Na)　屬(Na)　蝸牛(Na)　演化(VHC)　歷程(Na)　推測(VE)　。(PERIODCATEGORY)
+***********************************************
+1118.　。(PERIODCATEGORY)　根據(P)　目前(Nd)　對(P)　三(Neu)　種(Nf)　南亞(Nc)　蝸牛(Na)　的(DE)　地理(Na)　分佈(VH)　形態(Na)　解剖(VC)[+nom]　與(Caa)　粒線體(Na)　核酸(Na)　的(DE)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+1119.　，(COMMACATEGORY)　假設(VE)　台灣(Nc)　的(DE)　三(Neu)　種(Nf)　是(SHI)　單系(Na)　起源(VA)　的(DE)　，(COMMACATEGORY)
+***********************************************
+1120.　，(COMMACATEGORY)　可以(D)　做(VC)　以下(Ncd)　推論(Na)　：(COLONCATEGORY)
+***********************************************
+1121.　：(COLONCATEGORY)　小(VH)　菱蝸牛(Na)　目前(Nd)　紀錄(Na)　最(Dfa)　高(VH)　分佈點(Na)　為(VG)　嘉義(Nc)　十字路(Na)　附近(Nc)　，(COMMACATEGORY)
+***********************************************
+1122.　，(COMMACATEGORY)　海拔(Na)　高(VH)　約(Da)　１４００(Neu)　公尺(Nf)　，(COMMACATEGORY)
+***********************************************
+1123.　，(COMMACATEGORY)　其他(Neqa)　樣點(Na)　如(P)　高雄(Nc)　桃源(Nc)　亦(D)　屬於(VG)　較(Dfa)　靠近(VC)　山地(Nc)　的(DE)　地方(Na)　，(COMMACATEGORY)
+***********************************************
+1124.　，(COMMACATEGORY)　不論(Cbb)　在(P)　分佈(VH)　的(DE)　廣度(Na)　或(Caa)　高度(Na)　均(D)　比(P)　巴丹(Nc)　蝸牛(Na)　更(D)　大(VH)　，(COMMACATEGORY)
+***********************************************
+1125.　，(COMMACATEGORY)　配合(VC)　分子(Na)　親緣(Na)　分析(Na)　的(DE)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+1126.　，(COMMACATEGORY)　我(Nh)　推論(VE)　小(VH)　菱蝸牛(Na)　應該(D)　是(SHI)　台灣(Nc)　三(Neu)　種(Nf)　中(Ng)　較(Dfa)　原始(VH)　的(DE)　種類(Na)　。(PERIODCATEGORY)
+***********************************************
+1127.　。(PERIODCATEGORY)　假設(VE)　在(P)　數百萬(Neu)　年(Nf)　前(Ng)　小(VH)　菱蝸牛(Na)　的(DE)　祖先種(Na)　由(P)　大陸(Nc)　分散(VHC)　至(P)　當時(Nd)　的(DE)　台灣(Nc)　西部(Ncd)　，(COMMACATEGORY)
+***********************************************
+1128.　，(COMMACATEGORY)　可能(D)　是(SHI)　藉由(P)　風力(Na)　、(PAUSECATEGORY)　動物(Na)　攜帶(VC)　或(Caa)　陸橋(Na)　散播(VC)　，(COMMACATEGORY)
+***********************************************
+1129.　，(COMMACATEGORY)　或(Caa)　包括(VK)　現今(Nd)　為(VG)　台灣海峽(Nc)　的(DE)　一(Neu)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+1130.　，(COMMACATEGORY)　台灣海峽(Nc)　的(DE)　族群(Na)　在(P)　海(Na)　侵(VC)　之後(Ng)　滅絕(VC)　，(COMMACATEGORY)
+***********************************************
+1131.　，(COMMACATEGORY)　是(SHI)　第一(Neu)　次(Nf)　瓶頸(Na)　效應(Na)　，(COMMACATEGORY)
+***********************************************
+1132.　，(COMMACATEGORY)　只(Da)　保留(VC)　一(Neu)　部份(Neqa)　基因型(Na)　在(P)　台灣島(Nc)　；(SEMICOLONCATEGORY)
+***********************************************
+1133.　；(SEMICOLONCATEGORY)　更新世(Nd)　數(Neu)　次(Nf)　冰河(Na)　時期(Na)　的(DE)　同時(Nd)　，(COMMACATEGORY)
+***********************************************
+1134.　，(COMMACATEGORY)　少數(Neqa)　小(VH)　菱蝸牛(Na)　沿(P)　中央山脈(Nc)　邊緣(Nc)　低山地區(Nc)　擴散(VH)　，(COMMACATEGORY)
+***********************************************
+1135.　，(COMMACATEGORY)　一(Neu)　部份(Neqa)　向(P)　東(Ncd)　越過(VCL)　當時(Nd)　的(DE)　中央山脈(Nc)　南(Ncd)　不過(Cbb)　以上(Ncd)　推測(VE)　是(SHI)　基於(P)　台灣(Nc)　的(DE)　南亞(Nc)　蝸牛(Na)　是(SHI)　單系(Na)　起源(Na)　才(Da)　成立(VC)　，(COMMACATEGORY)
+***********************************************
+1136.　，(COMMACATEGORY)　但(Cbb)　這(Nep)　需要(VK)　對(P)　以下(Ncd)　幾(Neu)　個(Nf)　地方(Na)　進一步(D)　分析(VC)　才(Da)　可以(D)　確定(VK)　：(COLONCATEGORY)
+***********************************************
+1137.　：(COLONCATEGORY)　巴丹島(Nc)　、(PAUSECATEGORY)　高屏溪(Nc)　南北岸(Nc)　、(PAUSECATEGORY)　中央山脈(Nc)　南段(Nc)　山地(Nc)　、(PAUSECATEGORY)　中國(Nc)　大陸(Nc)　沿岸(Nc)　以及(Caa)　中南半島(Nc)　，(COMMACATEGORY)
+***********************************************
+1138.　，(COMMACATEGORY)　這些(Neqa)　地方(Na)　均(D)　是(SHI)　有(V_2)　可能(Na)　為(VG)　台灣(Nc)　南亞(Nc)　蝸牛(Na)　的(DE)　種源(Na)　，(COMMACATEGORY)
+***********************************************
+1139.　，(COMMACATEGORY)　因此(Cbb)　需要(VK)　進一步(D)　採集(VC)　。(PERIODCATEGORY)
+***********************************************
+1140.　。(PERIODCATEGORY)　伍(Neu)　、(PAUSECATEGORY)　結論(Na)　。(PERIODCATEGORY)
+***********************************************
+1141.　。(PERIODCATEGORY)　１(Neu)　．(PERIODCATEGORY)　目前(Nd)　已(D)　建立(VC)　一(Neu)　套(Nf)　分子(Na)　技術(Na)　適用(VJ)　於(P)　蝸牛(Na)　，(COMMACATEGORY)
+***********************************************
+1142.　，(COMMACATEGORY)　以(Cbb)　供(VF)　研究(VE)　台灣(Nc)　的(DE)　蝸牛(Na)　分子(Na)　演化(VHC)　。(PERIODCATEGORY)
+***********************************************
+1143.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　台灣(Nc)　的(DE)　南亞(Nc)　蝸牛(Na)　粒線體(Na)　核酸(Na)　演化(VHC)[+nom]　速率(Na)　較(P)　一般(A)　動物(Na)　快(VH)　，(COMMACATEGORY)
+***********************************************
+1144.　，(COMMACATEGORY)　且(Cbb)　遺傳(VJ)[+nom]　歧異度(Na)　較(Dfa)　高(VH)　。(PERIODCATEGORY)
+***********************************************
+1145.　。(PERIODCATEGORY)　並(Cbb)　含有(VJ)　重複(VC)[+nom]　序列(Na)　，(COMMACATEGORY)
+***********************************************
+1146.　，(COMMACATEGORY)　可能(D)　與(P)　環境(Na)　的(DE)　選擇(Na)　壓力(Na)　影響(VC)　代謝(VH)　速率(Na)　有關(VJ)　。(PERIODCATEGORY)
+***********************************************
+1147.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　阿猴(Nb)　蝸牛(Na)　為(VG)　旁系(A)　起源(Na)　，(COMMACATEGORY)
+***********************************************
+1148.　，(COMMACATEGORY)　右旋(VA)　突變(VH)　為(VG)　趨同演化(VA)　的(DE)　結果(Na)　，(COMMACATEGORY)
+***********************************************
+1149.　，(COMMACATEGORY)　其(Nep)　分類(Na)　有(V_2)　必要(Na)　加以(D)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+1150.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　巴丹(Nc)　蝸牛(Na)　的(DE)　體型(Na)　變化(Na)　主要(D)　是(SHI)　因(Cbb)　環境(Na)　營養(Na)　因子(Na)　造成(VG)　，(COMMACATEGORY)
+***********************************************
+1151.　，(COMMACATEGORY)　並(Cbb)　與(P)　氣候(Na)　因素(Na)　相關(VH)　，(COMMACATEGORY)
+***********************************************
+1152.　，(COMMACATEGORY)　與(P)　親緣(Na)　關係(Na)　無關(VH)　。(PERIODCATEGORY)
+***********************************************
+1153.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)　小(VH)　菱蝸牛(Na)　基因(Na)　分化(VC)[+nom]　程度(Na)　頗(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+1154.　，(COMMACATEGORY)　推測(VE)　是(SHI)　因(Cbb)　演化(VHC)　時間(Na)　較(Dfa)　久(VH)　，(COMMACATEGORY)
+***********************************************
+1155.　，(COMMACATEGORY)　因(Cbb)　地質(Na)　事件(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+1156.　，(COMMACATEGORY)　有(V_2)　奠基(VB)[+nom]　者(Na)　效應(Na)　及(Caa)　瓶頸(Na)　效應(Na)　作用(Na)　的(DE)　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+1157.　。(PERIODCATEGORY)　６(Neu)　．(PERIODCATEGORY)　需(D)　對(P)　獅潭(Nc)　、(PAUSECATEGORY)　高屏溪(Nc)　南北岸(Nc)　、(PAUSECATEGORY)　中央山脈(Nc)　南段(Nc)　山地(Nc)　、(PAUSECATEGORY)　楓港溪(Nc)　以北(Ncd)　、(PAUSECATEGORY)　巴丹島(Nc)　、(PAUSECATEGORY)　中國(Nc)　大陸(Nc)　沿岸(Nc)　以及(Caa)　中南半島(Nc)　等(Cab)　地(Na)　進一步(D)　採樣(VC)　，(COMMACATEGORY)
+***********************************************
+1158.　，(COMMACATEGORY)　才(Da)　能(D)　推知(VE)　台灣(Nc)　南亞(Nc)　蝸牛(Na)　屬(Na)　蝸牛(Na)　的(DE)　演化(VHC)　歷程(Na)　。(PERIODCATEGORY)
+***********************************************
+1159.　。(PERIODCATEGORY)　７(Neu)　．(PERIODCATEGORY)　在(P)　分類(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+1160.　，(COMMACATEGORY)　應該(D)　考慮(VE)　生態(Na)　因子(Na)　對(P)　蝸牛(Na)　形態(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+1161.　，(COMMACATEGORY)　對(P)　台灣(Nc)　南亞(Nc)　蝸牛(Na)　屬(Na)　蝸牛(Na)　的(DE)　種(Na)　及(Caa)　種(Na)　下(Ng)　階層(Na)　的(DE)　分類(Na)　做(VC)　一(Neu)　完整(VH)　的(DE)　採樣(VC)[+nom]　與(Caa)　比較(Na)　。(PERIODCATEGORY)
+***********************************************

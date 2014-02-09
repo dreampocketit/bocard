@@ -1,0 +1,30 @@
+#-*- coding: utf-8 -*-
+from scrapy.spider import BaseSpider
+from scrapy.selector import HtmlXPathSelector
+from fjsen.items import FjsenItem
+from scrapy.selector import Selector
+
+class FjsenSpider(BaseSpider):
+    name="fjsen"
+    allowed_domains=["fjsen.com"]
+#    start_urls=['http://www.fjsen.com/j/node_94962_'+str(x)+'.htm' for x in range(2,11)]+['http://www.fjsen.com/j/node_94962.htm']
+    start_urls=['http://www.sogi.com.tw/mobile/forums/3463?hall_type=phone&page='+str(x) for x in range(1,138)]+['http://www.sogi.com.tw/mobile/forums/3463?hall_type=phone&page=']
+
+    def parse(self,response):
+		sel = Selector(response)
+		#sites = sel.xpath('//td[@class="col3"]').extract()
+		#start_urls=['sites']
+		sites = sel.xpath('//td[@class="col3"]')
+		items=[]
+		for site in sites:
+			item=FjsenItem()
+			item['title']= site.xpath('a/text()').extract()
+			title = site.xpath('a/text()').extract()
+			link = site.xpath('a/@href').extract()
+		#	item['link'] = site.select('a/text()').extract()
+		#	item['addtime']=site.select('a/text()').extract()
+		#	print title, link
+		#	items.append(item)
+		print link
+		return items
+

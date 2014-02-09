@@ -1,0 +1,1144 @@
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=連金傳。
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第三屆(1994-1995)研發部技術報告
+1.　。(PERIODCATEGORY)　第三(Neu)　屆(Nf)　研發(VC)[+nom]　計畫書(Na)　。(PERIODCATEGORY)
+***********************************************
+2.　。(PERIODCATEGORY)　傳動組(Na)　技術(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+3.　。(PERIODCATEGORY)　結構組(Nc)　技術(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+4.　。(PERIODCATEGORY)　外型組(Na)　技術(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+5.　。(PERIODCATEGORY)　電力組(Nc)　技術(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+6.　。(PERIODCATEGORY)　競賽型(Na)　原型(Na)　車(Na)　性能(Na)　介紹(Na)　。(PERIODCATEGORY)
+***********************************************
+7.　。(PERIODCATEGORY)　傳動組(Na)　實驗車(Na)　檢討(VE)[+nom]　及(Caa)　原型(Na)　車(Na)　改進(VC)[+nom]　方案(Na)　。(PERIODCATEGORY)
+***********************************************
+8.　。(PERIODCATEGORY)　一(Neu)　．(PERIODCATEGORY)　前懸吊(Na)　：(COLONCATEGORY)
+***********************************************
+9.　：(COLONCATEGORY)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+10.　，(COMMACATEGORY)　現行(A)　系統(Na)　之(DE)　設計(Na)　：(COLONCATEGORY)
+***********************************************
+11.　：(COLONCATEGORY)　為(P)　縮短(VC)　建造(VC)　的(DE)　時程(Na)　，(COMMACATEGORY)
+***********************************************
+12.　，(COMMACATEGORY)　實驗車(Na)　的(DE)　前懸吊系(Na)　並(D)　未(D)　裝置(VC)　吸震器(Na)　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　而(Cbb)　採用(VC)　固定式(A)　懸吊(Na)　系統(Na)　．(PERIODCATEGORY)　前輪(Na)　採用(VC)　較(Dfa)　寬(VH)　的(DE)　自行車輪(Na)　，(COMMACATEGORY)
+***********************************************
+14.　，(COMMACATEGORY)　因(Cbb)　其(Nep)　重量(Na)　輕(VH)　，(COMMACATEGORY)
+***********************************************
+15.　，(COMMACATEGORY)　且(Cbb)　其(Nep)　細窄(VH)　的(DE)　胎(Na)　寬(VH)　，(COMMACATEGORY)
+***********************************************
+16.　，(COMMACATEGORY)　可(D)　有效(VH)　降低(VHC)　路阻(Na)　及(Caa)　風阻(Na)　，(COMMACATEGORY)
+***********************************************
+17.　，(COMMACATEGORY)　同時(Nd)　仍(D)　可(D)　提供(VD)　足夠(VH)　之(DE)　承載力(Na)　．(PERIODCATEGORY)　２(Neu)　，(COMMACATEGORY)
+***********************************************
+18.　，(COMMACATEGORY)　問題(Na)　與(Caa)　解決(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+19.　：(COLONCATEGORY)　前懸吊(Na)　為(VG)　固定式(A)　，(COMMACATEGORY)
+***********************************************
+20.　，(COMMACATEGORY)　無法(D)　吸收(VC)　路面(Nc)　的(DE)　震動(VAC)[+nom]　，(COMMACATEGORY)
+***********************************************
+21.　，(COMMACATEGORY)　將(D)　造成(VG)　如(P)　下(Ncd)　問題(Na)　：(COLONCATEGORY)
+***********************************************
+22.　：(COLONCATEGORY)　ａ(FW)　．(PERIODCATEGORY)　乘坐(VC)　舒適性(Na)　差(VH)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　造成(VG)　駕駛員(Na)　的(DE)　負擔(Na)　．(PERIODCATEGORY)　ｂ(FW)　．(PERIODCATEGORY)　影響(VC)　車體(Na)　與(Caa)　車(Na)　內(Ncd)　機件(Na)　之(DE)　壽命(Na)　．(PERIODCATEGORY)　ｃ(FW)　．(PERIODCATEGORY)　影響(VC)　前(Ncd)　輪胎(Na)　的(DE)　抓地(VA)[+nom]　性能(Na)　．(PERIODCATEGORY)　以上(Ncd)　問題(Na)　的(DE)　解決(VC)　之(DE)　道(Na)　，(COMMACATEGORY)
+***********************************************
+24.　，(COMMACATEGORY)　唯有(D)　加裝(VC)　吸震(VA)[+nom]　系統(Na)　一(Neu)　途(Na)　．(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　由於(Cbb)　採用(VC)　的(DE)　是(SHI)　自行車輪(Na)　，(COMMACATEGORY)
+***********************************************
+26.　，(COMMACATEGORY)　對(P)　側向力(Na)　的(DE)　抵抗(VC)[+nom]　能力(Na)　不足(VH)　，(COMMACATEGORY)
+***********************************************
+27.　，(COMMACATEGORY)　俱(D)　有(V_2)　折拗(VH)　的(DE)　潛在(A)　危險(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+28.　，(COMMACATEGORY)　因而(Cbb)　限制(VE)　了(Di)　過(VCL)　彎道(Na)　時(Ng)　之(DE)　車速(Na)　．(PERIODCATEGORY)　解決(VC)　的(DE)　辦法(Na)　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　可(D)　由(P)　兩(Neu)　方面(Na)　著手(VF)　，(COMMACATEGORY)
+***********************************************
+30.　，(COMMACATEGORY)　一(Neu)　是(SHI)　尋找(VC)　更(D)　合適(VH)　的(DE)　專用(VI)　輪框(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+31.　；(SEMICOLONCATEGORY)　一(Neu)　是(SHI)　盡量(D)　減輕(VHC)　車重(Na)　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　降低(VHC)　車輪(Na)　的(DE)　負擔(Na)　．(PERIODCATEGORY)　３(Neu)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　新(VH)　系統(Na)　的(DE)　設計(Na)　方案(Na)　：(COLONCATEGORY)
+***********************************************
+34.　：(COLONCATEGORY)　懸吊(Na)　系統(Na)　的(DE)　形式(Na)　有(V_2)　許多(Neqa)　種(Nf)　，(COMMACATEGORY)
+***********************************************
+35.　，(COMMACATEGORY)　較(Dfa)　常見(VH)　的(DE)　有(V_2)　剛性(Na)　樑式(A)　，(COMMACATEGORY)
+***********************************************
+36.　，(COMMACATEGORY)　拖曳臂式(A)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　單Ａ臂式(A)[+fw]　，(COMMACATEGORY)
+***********************************************
+38.　，(COMMACATEGORY)　雙Ａ臂式(A)[+fw]　等等(Cab)　．(PERIODCATEGORY)　其中(Nep)　以(P)　雙Ａ臂式(A)[+fw]　為(VG)　最(Dfa)　利於(VK)　輕量化(VHC)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　操控(VC)[+nom]　性能(Na)　也(D)　最(Dfa)　佳(VH)　，(COMMACATEGORY)
+***********************************************
+40.　，(COMMACATEGORY)　向來(D)　為(P)　各(Nes)　式(Nf)　競賽(Na)　車輛(Na)　必備(A)　的(DE)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+41.　，(COMMACATEGORY)　故(Cbb)　在(P)　競賽(Na)　原型(Na)　車(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　我們(Nh)　將(D)　採用(VC)　它(Nh)　做為(VG)　前輪(Na)　懸吊(Na)　系統(Na)　之(DE)　設計(Na)　．(PERIODCATEGORY)　二(Neu)　．(PERIODCATEGORY)　後懸吊(Na)　：(COLONCATEGORY)
+***********************************************
+43.　：(COLONCATEGORY)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+44.　，(COMMACATEGORY)　現行(A)　系統(Na)　之(DE)　設計(Na)　：(COLONCATEGORY)
+***********************************************
+45.　：(COLONCATEGORY)　目前(Nd)　實驗車(Na)　的(DE)　後懸吊(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+46.　，(COMMACATEGORY)　乃(D)　完全(D)　沿用(VC)　一般(A)　機車(Na)　的(DE)　零件(Na)　，(COMMACATEGORY)
+***********************************************
+47.　，(COMMACATEGORY)　具有(VJ)　兩(Neu)　支(Nf)　避震器(Na)　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　車輪(Na)　則(D)　選用(VC)　較(Dfa)　細(VH)　的(DE)　機車(Na)　後輪(Na)　．(PERIODCATEGORY)　２(Neu)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　問題(Na)　與(Caa)　解決(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+50.　：(COLONCATEGORY)　此(Nep)　太陽能(Na)　車(Na)　採用(VC)　三(Neu)　輪(Nf)　的(DE)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　在(P)　轉彎(VA)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+52.　，(COMMACATEGORY)　車輪(Na)　必須(D)　承受(VC)　側向力(Na)　，(COMMACATEGORY)
+***********************************************
+53.　，(COMMACATEGORY)　而(Caa)　後輪(Na)　為(P)　其(Nep)　主要(A)　承重輪(Na)　，(COMMACATEGORY)
+***********************************************
+54.　，(COMMACATEGORY)　對(P)　側向力(Na)　的(DE)　承受(VC)[+nom]　能力(Na)　較(P)　前輪(Na)　更為(Dfa)　重要(VH)　，(COMMACATEGORY)
+***********************************************
+55.　，(COMMACATEGORY)　若(Cbb)　完全(D)　沿用(VC)　機車(Na)　的(DE)　組件(Na)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　這(Nep)　方面(Na)　的(DE)　能力(Na)　將(D)　明顯(VH)　不足(VH)　．(PERIODCATEGORY)　於是(Cbb)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　在(P)　原型(Na)　車(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+58.　，(COMMACATEGORY)　我們(Nh)　將(P)　後懸吊(Na)　臂(Na)　的(DE)　強度(Na)　提高(VC)　，(COMMACATEGORY)
+***********************************************
+59.　，(COMMACATEGORY)　並(Cbb)　希望(VK)　能(D)　找到(VC)　高強度(Na)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　低路阻(Na)　，(COMMACATEGORY)
+***********************************************
+61.　，(COMMACATEGORY)　且(Caa)　省(VJ)　重量(Na)　的(DE)　車輪(Na)　．(PERIODCATEGORY)　３(Neu)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　新(VH)　系統(Na)　之(DE)　設計(Na)　方案(Na)　：(COLONCATEGORY)
+***********************************************
+63.　：(COLONCATEGORY)　為(VG)　簡化(VHC)　車身(Na)　結構(Na)　後段(Ncd)　的(DE)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+64.　，(COMMACATEGORY)　同時(Nd)　強化(VHC)　懸吊臂(Na)　之(DE)　結構(Na)　，(COMMACATEGORY)
+***********************************************
+65.　，(COMMACATEGORY)　原型(Na)　車(Na)　將(D)　採用(VC)　三角型(Na)　的(DE)　後懸吊臂(Na)　．(PERIODCATEGORY)　三(Neu)　．(PERIODCATEGORY)　傳動(VA)[+nom]　系統(Na)　：(COLONCATEGORY)
+***********************************************
+66.　：(COLONCATEGORY)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+67.　，(COMMACATEGORY)　現行(A)　系統(Na)　之(DE)　設計(Na)　：(COLONCATEGORY)
+***********************************************
+68.　：(COLONCATEGORY)　由於(Cbb)　電動(A)　馬達(Na)　的(DE)　動力(Na)　特性(Na)　使然(VH)　，(COMMACATEGORY)
+***********************************************
+69.　，(COMMACATEGORY)　變速(VA)[+nom]　齒輪箱(Na)　並(D)　非(D)　必要(VH)　之(DE)　裝置(Na)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　故(Cbb)　在(P)　實驗車(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+71.　，(COMMACATEGORY)　只(Da)　以(P)　一(Neu)　鏈條(Na)　直接(VH)　將(P)　馬達(Na)　軸(Na)　之(DE)　輸出(VC)[+nom]　動力(Na)　傳至(VCL)　後輪(Na)　．(PERIODCATEGORY)　小(VH)　鏈輪(Na)　齒(Na)　數(Na)　為(VG)　１１(Neu)　齒(Na)　，(COMMACATEGORY)
+***********************************************
+72.　，(COMMACATEGORY)　大(VH)　鏈輪(Na)　６０(Neu)　齒(Na)　，(COMMACATEGORY)
+***********************************************
+73.　，(COMMACATEGORY)　減速比(Na)　約(Da)　５(Neu)　．(PERIODCATEGORY)　４５(Neu)　(COLONCATEGORY)
+***********************************************
+74.　(COLONCATEGORY)　１(Neu)　左右(Ng)　．(PERIODCATEGORY)　２(Neu)　，(COMMACATEGORY)
+***********************************************
+75.　，(COMMACATEGORY)　問題(Na)　與(Caa)　解決(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+76.　：(COLONCATEGORY)　ａ(FW)　．(PERIODCATEGORY)　實驗車(Na)　之(DE)　傳動系(Na)　因(Cbb)　在(P)　設計(Na)　時(Ng)　所(D)　設(VC)　安全(VH)　係數(Na)　過(Dfa)　高(VH)　，(COMMACATEGORY)
+***********************************************
+77.　，(COMMACATEGORY)　造成(VG)　所(D)　選用(VC)　的(DE)　鏈輪(Na)　鏈條(Na)　皆(D)　過於(Dfa)　粗重(VH)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　徒增(VJ)　重量(Na)　，(COMMACATEGORY)
+***********************************************
+79.　，(COMMACATEGORY)　實無(VJ)　必要(VH)　．(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　因(Cbb)　小(VH)　鏈輪(Na)　直徑(Na)　極(Dfa)　小(VH)　，(COMMACATEGORY)
+***********************************************
+81.　，(COMMACATEGORY)　造成(VG)　運轉(VAC)　時(Ng)　噪音(Na)　過(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+82.　，(COMMACATEGORY)　此(Nep)　亦(D)　有待(VK)　改進(VC)　．(PERIODCATEGORY)　ｂ(FW)　．(PERIODCATEGORY)　因(Cbb)　實驗車(Na)　減速比(Na)　為(VG)　固定(VHC)　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　起動(VAC)　加速(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　馬達(Na)　的(DE)　負擔(Na)　過(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+85.　，(COMMACATEGORY)　造成(VG)　起動(VAC)[+nom]　電流(Na)　過(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　而(Cbb)　使(VL)　馬達(Na)　控制器(Na)　製作(VC)[+nom]　困難(VH)　．(PERIODCATEGORY)　為(P)　避免(VE)　此(Nep)　困難(Na)　，(COMMACATEGORY)
+***********************************************
+87.　，(COMMACATEGORY)　原型(Na)　車(Na)　中(Ncd)　將(D)　加裝(VC)　變速(VA)[+nom]　齒輪箱(Na)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　以便(Cbb)　在(P)　起動(VAC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+89.　，(COMMACATEGORY)　選用(VC)　較(Dfa)　大(VH)　之(DE)　減速比(Na)　，(COMMACATEGORY)
+***********************************************
+90.　，(COMMACATEGORY)　降低(VHC)　對(P)　起動(VAC)[+nom]　電流(Na)　之(DE)　需求(Na)　，(COMMACATEGORY)
+***********************************************
+91.　，(COMMACATEGORY)　同時(Nd)　亦(D)　可(D)　增進(VC)　爬(VA)　坡(Na)　時(Ng)　之(DE)　效率(Na)　．(PERIODCATEGORY)　３(Neu)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　新(VH)　系統(Na)　之(DE)　設計(Na)　方案(Na)　：(COLONCATEGORY)
+***********************************************
+93.　：(COLONCATEGORY)　在(P)　原型(Na)　車(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+94.　，(COMMACATEGORY)　我們(Nh)　將(D)　在(P)　馬達(Na)　和(Caa)　鍊輪(Na)　間(Ncd)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　加裝(VC)　一(Neu)　變速(VA)[+nom]　齒輪箱(Na)　，(COMMACATEGORY)
+***********************************************
+96.　，(COMMACATEGORY)　同時(Nd)　將(D)　選用(VC)　較(Dfa)　細(VH)　之(DE)　鏈條(Na)　及(Caa)　較(Dfa)　輕(VH)　之(DE)　鏈輪(Na)　．(PERIODCATEGORY)　齒輪箱(Na)　預定(VE)　將(D)　採用(VC)　一般(A)　機車(Na)　所(D)　用(VC)　者(Na)　．(PERIODCATEGORY)　四(Neu)　．(PERIODCATEGORY)　煞車(Na)　系統(Na)　：(COLONCATEGORY)
+***********************************************
+97.　：(COLONCATEGORY)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+98.　，(COMMACATEGORY)　現行(A)　系統(Na)　之(DE)　設計(Na)　：(COLONCATEGORY)
+***********************************************
+99.　：(COLONCATEGORY)　目前(Nd)　實驗車(Na)　僅(Da)　在(P)　後(Ncd)　輪軸(Na)　上(Ncd)　有(V_2)　一(Neu)　沿用(VC)　自(P)　機車(Na)　的(DE)　鼓式(A)　煞車(Na)　，(COMMACATEGORY)
+***********************************************
+100.　，(COMMACATEGORY)　經(P)　一(Neu)　鋼索(Na)　，(COMMACATEGORY)
+***********************************************
+101.　，(COMMACATEGORY)　由(P)　駕駛室(Nc)　之(DE)　煞車(Na)　踏板(Na)　控制(VC)　之(Nh)　．(PERIODCATEGORY)　２(Neu)　，(COMMACATEGORY)
+***********************************************
+102.　，(COMMACATEGORY)　問題(Na)　與(Caa)　解決(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+103.　：(COLONCATEGORY)　因(Cbb)　傳動(VA)[+nom]　鋼纜(Na)　極(Dfa)　長(VH)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　踏板(Na)　製作(VC)　簡陋(VH)　，(COMMACATEGORY)
+***********************************************
+105.　，(COMMACATEGORY)　造成(VG)　煞車(VA)[+nom]　力道(Na)　不足(VH)　，(COMMACATEGORY)
+***********************************************
+106.　，(COMMACATEGORY)　作(VC)　動(VAC)　不(D)　確實(VH)　，(COMMACATEGORY)
+***********************************************
+107.　，(COMMACATEGORY)　且(Cbb)　僅(Da)　後輪(Na)　有(V_2)　煞車(Na)　，(COMMACATEGORY)
+***********************************************
+108.　，(COMMACATEGORY)　無法(D)　提供(VD)　足夠(VH)　的(DE)　制動力(Na)　，(COMMACATEGORY)
+***********************************************
+109.　，(COMMACATEGORY)　故(Cbb)　除(P)　應(D)　提升(VC)　後煞(Na)　之(DE)　性能(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+110.　，(COMMACATEGORY)　尚(D)　須(D)　加裝(VC)　前煞(Na)　，(COMMACATEGORY)
+***********************************************
+111.　，(COMMACATEGORY)　以(P)　確保(VE)　安全(VH)[+nom]　．(PERIODCATEGORY)　３(Neu)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　新(VH)　系統(Na)　之(DE)　設計(Na)　方案(Na)　：(COLONCATEGORY)
+***********************************************
+113.　：(COLONCATEGORY)　在(P)　原型(Na)　車(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+114.　，(COMMACATEGORY)　前(Ncd)　後輪(Na)　都(D)　將(D)　裝置(VC)　煞車(Na)　，(COMMACATEGORY)
+***********************************************
+115.　，(COMMACATEGORY)　後輪(Na)　已(D)　有(V_2)　現成(A)　的(DE)　鼓式(A)　煞車(Na)　可(D)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+116.　，(COMMACATEGORY)　前輪(Na)　則(D)　將(D)　裝置(VC)　碟式(A)　煞車(Na)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　以(P)　方便(VH)　施工(VA)　，(COMMACATEGORY)
+***********************************************
+118.　，(COMMACATEGORY)　減少(VHC)　對(P)　輪框(Na)　之(DE)　改造(VC)　．(PERIODCATEGORY)　至於(P)　煞車(Na)　的(DE)　操作(VC)[+nom]　方式(Na)　，(COMMACATEGORY)
+***********************************************
+119.　，(COMMACATEGORY)　目前(Nd)　有(V_2)　以下(Ncd)　方案(Na)　：(COLONCATEGORY)
+***********************************************
+120.　：(COLONCATEGORY)　ａ(FW)　．(PERIODCATEGORY)　比照(P)　一般(A)　汽車(Na)　的(DE)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+121.　，(COMMACATEGORY)　前(Ncd)　後輪(Na)　同時(Nd)　煞停(VH)　，(COMMACATEGORY)
+***********************************************
+122.　，(COMMACATEGORY)　單一(A)　腳踏板(Na)　控制(VC)　：(COLONCATEGORY)
+***********************************************
+123.　：(COLONCATEGORY)　前輪(Na)　制動力(Na)　應(D)　比(P)　後輪(Na)　大(VH)　些(Dfb)　，(COMMACATEGORY)
+***********************************************
+124.　，(COMMACATEGORY)　兩(Neu)　者(Na)　之(DE)　比(Na)　約(Da)　７(Neu)　(COLONCATEGORY)
+***********************************************
+125.　(COLONCATEGORY)　３(Neu)　左右(Ng)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　此(Nep)　為(VG)　最(Dfa)　適當(VH)　之(DE)　操作(VC)[+nom]　方式(Na)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　但(Cbb)　因(Cbb)　前後煞(Na)　系統(Na)　不同(VH)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　如何(D)　將(P)　之(Nh)　連動(VA)　，(COMMACATEGORY)
+***********************************************
+129.　，(COMMACATEGORY)　並(Cbb)　保持(VJ)　此(Nep)　適當(VH)　之(DE)　力道(Na)　比例(Na)　，(COMMACATEGORY)
+***********************************************
+130.　，(COMMACATEGORY)　將(D)　是(SHI)　一(Neu)　大(VH)　問題(Na)　！(EXCLANATIONCATEGORY)
+***********************************************
+131.　！(EXCLANATIONCATEGORY)　ｂ(FW)　．(PERIODCATEGORY)　以(P)　類似(VG)　機車(Na)　的(DE)　方式(Na)　操作(VC)　，(COMMACATEGORY)
+***********************************************
+132.　，(COMMACATEGORY)　前後煞(Na)　分別(D)　致動(VA)　：(COLONCATEGORY)
+***********************************************
+133.　：(COLONCATEGORY)　以(P)　腳(Na)　控制(VC)　後煞(Na)　，(COMMACATEGORY)
+***********************************************
+134.　，(COMMACATEGORY)　以(P)　手(Na)　控制(VC)　前煞(Na)　，(COMMACATEGORY)
+***********************************************
+135.　，(COMMACATEGORY)　抑或(Caa)　反之(Dk)　，(COMMACATEGORY)
+***********************************************
+136.　，(COMMACATEGORY)　或(Caa)　以(P)　左右腳(Na)　分別(D)　控制(VC)　前後煞(Na)　，(COMMACATEGORY)
+***********************************************
+137.　，(COMMACATEGORY)　或(Caa)　以(P)　左右手(Na)　為(VC)　之(Nh)　．(PERIODCATEGORY)　如此(VH)　便(D)　無(VJ)　前後煞(Na)　連動(VA)　之(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　但(Cbb)　將(D)　增加(VHC)　駕駛員(Na)　操作(VC)　上(Ng)　的(DE)　負擔(Na)　．(PERIODCATEGORY)　以上(Ncd)　兩(Neu)　案(Na)　當(D)　在(P)　謹慎(VH)　評估(VE)　其(Nep)　優劣(Na)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+139.　，(COMMACATEGORY)　擇(VC)　一(Neu)　為(VC)　之(Nh)　．(PERIODCATEGORY)　五(Neu)　．(PERIODCATEGORY)　轉向(VA)[+nom]　系統(Na)　：(COLONCATEGORY)
+***********************************************
+140.　：(COLONCATEGORY)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+141.　，(COMMACATEGORY)　現行(A)　系統(Na)　之(DE)　設計(Na)　：(COLONCATEGORY)
+***********************************************
+142.　：(COLONCATEGORY)　目前(Nd)　實驗車(Na)　所(D)　採用(VC)　的(DE)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　是(SHI)　將(P)　來自(VJ)　方向盤(Na)　的(DE)　轉向(VA)[+nom]　指令(Na)　，(COMMACATEGORY)
+***********************************************
+144.　，(COMMACATEGORY)　經(P)　一(Neu)　齒輪組(Na)　以(P)　１(Neu)　．(PERIODCATEGORY)　５(Neu)　(COLONCATEGORY)
+***********************************************
+145.　(COLONCATEGORY)　１(Neu)　左右(Ng)　的(DE)　傳動比(Na)　傳至(VCL)　一(Neu)　組(Nf)　控制(VC)[+nom]　連桿(Na)　，(COMMACATEGORY)
+***********************************************
+146.　，(COMMACATEGORY)　再(D)　以(P)　此(Nep)　控制(VC)　連桿(Na)　操縱(VC)　一四(Neu)　連桿(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+147.　，(COMMACATEGORY)　此(Nep)　四(Neu)　連桿(Na)　與(Caa)　前輪(Na)　轉向軸(Na)　（(PARENTHESISCATEGORY)　即(VG)　大王梢(Na)　）(PARENTHESISCATEGORY)　連動(VA)　，(COMMACATEGORY)
+***********************************************
+148.　，(COMMACATEGORY)　控制(VC)　前輪(Na)　行進(VA)　的(DE)　方向(Na)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　而(Cbb)　達成(VC)　轉向(VA)　的(DE)　操控(VC)[+nom]　．(PERIODCATEGORY)　因(Cbb)　方向盤(Na)　的(DE)　轉軸(Na)　方向(Na)　呈(VJ)　傾斜狀(Na)　，(COMMACATEGORY)
+***********************************************
+150.　，(COMMACATEGORY)　齒輪組(Na)　輸入軸(Na)　的(DE)　方向(Na)　卻(D)　為(VG)　垂直(VI)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　且(Cbb)　兩(Neu)　者(Na)　之(DE)　夾角(Na)　相當(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+152.　，(COMMACATEGORY)　故(Cbb)　使用(VC)　了(Di)　兩(Neu)　個(Nf)　萬(Neu)　向(Na)　接頭(Na)　以(P)　完成(VC)　其(Nep)　連接(VJ)　．(PERIODCATEGORY)　前輪(Na)　轉向軸(Na)　垂直(VI)　於(P)　地面(Nc)　，(COMMACATEGORY)
+***********************************************
+153.　，(COMMACATEGORY)　未(D)　設定(VC)　傾角(Na)　．(PERIODCATEGORY)　方向盤(Na)　最(Dfa)　大(VH)　動作(Na)　角度(Na)　約為(VG)　左右(Ng)　各(Nes)　９０(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+154.　，(COMMACATEGORY)　前輪(Na)　則(D)　約為(VG)　４５(Neu)　度(Nf)　．(PERIODCATEGORY)　２(Neu)　，(COMMACATEGORY)
+***********************************************
+155.　，(COMMACATEGORY)　問題(Na)　與(Caa)　解決(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+156.　：(COLONCATEGORY)　目前(Nd)　該(Nes)　系統(Na)　所(D)　遭遇(VJ)　的(DE)　主要(A)　困難(Na)　如(P)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+157.　：(COLONCATEGORY)　ａ(FW)　．(PERIODCATEGORY)　方向盤(Na)　間隙(Na)　過(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+158.　，(COMMACATEGORY)　造成(VG)　操控(VC)　困難(VH)　．(PERIODCATEGORY)　ｂ(FW)　．(PERIODCATEGORY)　整體(Na)　剛性(Na)　不足(VH)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　結構(Na)　略(D)　嫌(VK)　脆弱(VH)　，(COMMACATEGORY)
+***********************************************
+160.　，(COMMACATEGORY)　此(Nep)　亦(D)　影響(VC)　轉向(VA)　之(DE)　操控(VC)　．(PERIODCATEGORY)　ｃ(FW)　．(PERIODCATEGORY)　大王梢(Na)　未(D)　設(VC)　適當(VH)　之(DE)　傾角(Na)　，(COMMACATEGORY)
+***********************************************
+161.　，(COMMACATEGORY)　影響(VC)　車(Na)　行(VA)　穩定性(Na)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　且(Cbb)　無(VJ)　自動(VH)　回(VCL)　中(Ncd)　之(DE)　特性(Na)　．(PERIODCATEGORY)　因(Cbb)　其(Nep)　傳動(VA)[+nom]　過程(Na)　頗為(Dfa)　複雜(VH)　，(COMMACATEGORY)
+***********************************************
+163.　，(COMMACATEGORY)　零件(Na)　眾多(VH)　，(COMMACATEGORY)
+***********************************************
+164.　，(COMMACATEGORY)　接合處(Nc)　亦(D)　多(VH)　，(COMMACATEGORY)
+***********************************************
+165.　，(COMMACATEGORY)　而(Cbb)　造成(VG)　ａ(FW)　．(PERIODCATEGORY)　及(Caa)　ｂ(FW)　．(PERIODCATEGORY)　的(DE)　問題(Na)　十分(Dfa)　嚴重(VH)　，(COMMACATEGORY)
+***********************************************
+166.　，(COMMACATEGORY)　尤其(D)　所(D)　用(VC)　的(DE)　兩(Neu)　個(Nf)　萬(Neu)　向(Na)　接頭(Na)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　乃是(SHI)　整(Neqa)　個(Nf)　系統(Na)　中(Ng)　最(Dfa)　主要(A)　的(DE)　間隙(Na)　來源(Na)　．(PERIODCATEGORY)　為(VG)　消除(VC)　間隙(Na)　，(COMMACATEGORY)
+***********************************************
+168.　，(COMMACATEGORY)　並(Cbb)　提高(VC)　剛性(Na)　，(COMMACATEGORY)
+***********************************************
+169.　，(COMMACATEGORY)　首先(D)　必須(D)　簡化(VHC)　其(Nep)　構造(Na)　，(COMMACATEGORY)
+***********************************************
+170.　，(COMMACATEGORY)　並(Cbb)　強化(VHC)　傳動(VA)[+nom]　零件(Na)　的(DE)　結構(Na)　．(PERIODCATEGORY)　３(Neu)　，(COMMACATEGORY)
+***********************************************
+171.　，(COMMACATEGORY)　新(VH)　系統(Na)　的(DE)　設計(Na)　方案(Na)　：(COLONCATEGORY)
+***********************************************
+172.　：(COLONCATEGORY)　根據(P)　前(Nes)　段(Nf)　所(D)　述(VE)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　在(P)　此(Nep)　對(Nf)　新(VH)　一(Neu)　套(Nf)　系統(Na)　的(DE)　改進(VC)[+nom]　方向(Na)　條列(VC)　如(P)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+174.　：(COLONCATEGORY)　ａ(FW)　．(PERIODCATEGORY)　全部(Neqa)　採用(VC)　連桿(Na)　配合(VC)　球狀(Na)　接頭(Na)　做為(VG)　傳動(VA)[+nom]　零件(Na)　，(COMMACATEGORY)
+***********************************************
+175.　，(COMMACATEGORY)　如此(VH)　，(COMMACATEGORY)
+***********************************************
+176.　，(COMMACATEGORY)　除(P)　可(D)　減少(VHC)　間隙(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+177.　，(COMMACATEGORY)　亦(D)　可(D)　提高(VC)　剛性(Na)　，(COMMACATEGORY)
+***********************************************
+178.　，(COMMACATEGORY)　並(Cbb)　降低(VHC)　故障率(Na)　．(PERIODCATEGORY)　ｂ(FW)　．(PERIODCATEGORY)　轉向柱(Na)　加粗(VHC)　，(COMMACATEGORY)
+***********************************************
+179.　，(COMMACATEGORY)　以(P)　提高(VC)　剛性(Na)　，(COMMACATEGORY)
+***********************************************
+180.　，(COMMACATEGORY)　增進(VC)　轉向(VA)[+nom]　操控(VC)　之(DE)　可靠性(Na)　．(PERIODCATEGORY)　ｃ(FW)　．(PERIODCATEGORY)　在(P)　加裝(VC)　了(Di)　前輪(Na)　吸震(VA)[+nom]　系統(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+181.　，(COMMACATEGORY)　須(D)　將(D)　原先(D)　的(DE)　轉向(VC)　四(Neu)　連桿(Na)　斷開(VB)　以(P)　配合(VC)　吸震器(Na)　之(DE)　操作(VC)[+nom]　．(PERIODCATEGORY)　ｄ(FW)　．(PERIODCATEGORY)　大王梢(Na)　須(D)　設定(VC)　適當(VH)　的(DE)　傾斜角(Na)　以(P)　取得(VC)　所(D)　需(VK)　的(DE)　直(D)　進(VC)　穩定性(Na)　，(COMMACATEGORY)
+***********************************************
+182.　，(COMMACATEGORY)　轉向(VA)[+nom]　操控性(Na)　，(COMMACATEGORY)
+***********************************************
+183.　，(COMMACATEGORY)　以及(Caa)　自動(VH)　回(VCL)　中(Ncd)　的(DE)　功能(Na)　．(PERIODCATEGORY)　ｅ(FW)　．(PERIODCATEGORY)　方向盤(Na)　設置(VC)　之(DE)　位置(Na)　，(COMMACATEGORY)
+***********************************************
+184.　，(COMMACATEGORY)　角度(Na)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+185.　，(COMMACATEGORY)　須(D)　依(P)　人體工學(Na)　之(DE)　相關(VH)　資料(Na)　詳加(D)　考量(VE)　，(COMMACATEGORY)
+***********************************************
+186.　，(COMMACATEGORY)　以(P)　改善(VC)　操作(VC)　之(DE)　舒適性(Na)　．(PERIODCATEGORY)　以上(Ncd)　報告(Na)　僅(Da)　為(VG)　大概(Na)　，(COMMACATEGORY)
+***********************************************
+187.　，(COMMACATEGORY)　不足(VH)　之(DE)　處(Na)　尚(D)　祈(VK)　指教(VA)　為(VJ)　感(Na)　！(EXCLANATIONCATEGORY)
+***********************************************
+188.　！(EXCLANATIONCATEGORY)　！(EXCLANATIONCATEGORY)
+***********************************************
+189.　！(EXCLANATIONCATEGORY)
+***********************************************
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=劉仕堅
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=結構組九四年第三屆結果報告
+190.　！(EXCLANATIONCATEGORY)　太陽能(Na)　車(Na)　結構組(Nc)　期末(Nd)　結構(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+191.　。(PERIODCATEGORY)　摘要(Na)　。(PERIODCATEGORY)
+***********************************************
+192.　。(PERIODCATEGORY)　一(Neu)　．(PERIODCATEGORY)　前言(Na)　。(PERIODCATEGORY)
+***********************************************
+193.　。(PERIODCATEGORY)　這(Nep)　份(Nf)　報告(Na)　是(SHI)　對(P)　太陽能(Na)　車(Na)　的(DE)　二(Neu)　代(Na)　車(Na)　結構(Na)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+194.　，(COMMACATEGORY)　做(VC)　整體(Na)　的(DE)　報告(Na)　，(COMMACATEGORY)
+***********************************************
+195.　，(COMMACATEGORY)　包括(VK)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+196.　，(COMMACATEGORY)　時程(Na)　和(Caa)　製程(Na)　的(DE)　書面(Na)　總結(Na)　，(COMMACATEGORY)
+***********************************************
+197.　，(COMMACATEGORY)　當然(D)　也(D)　包括(VK)　個人(Na)　的(DE)　意見(Na)　和(Caa)　這(Nep)　一(Neu)　年(Nf)　的(DE)　感想(Na)　．(PERIODCATEGORY)　其(Nep)　最終(A)　目的(Na)　不外乎(VK)　希望(VK)　藉由(P)　這(Nep)　份(Nf)　報告(Na)　，(COMMACATEGORY)
+***********************************************
+198.　，(COMMACATEGORY)　對(P)　結構組(Nc)　在(P)　這(Nep)　一(Neu)　年(Nf)　的(DE)　工作(Na)　有(V_2)　所(D)　認知(VJ)　．(PERIODCATEGORY)　也(D)　希望(VK)　能(D)　對(P)　往後(Nd)　做(VC)　結構(Na)　的(DE)　同學(Na)　，(COMMACATEGORY)
+***********************************************
+199.　，(COMMACATEGORY)　有所(VJ)　助益(Na)　。(PERIODCATEGORY)
+***********************************************
+200.　。(PERIODCATEGORY)　二(Neu)　．(PERIODCATEGORY)　結構組(Nc)　的(DE)　工作(Na)　規劃(Na)　。(PERIODCATEGORY)
+***********************************************
+201.　。(PERIODCATEGORY)　工作(Na)　內容(Na)　涵蓋(VJ)　了(Di)　車架(Na)　的(DE)　整體(Na)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+202.　，(COMMACATEGORY)　模具(Na)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+203.　，(COMMACATEGORY)　桿件(Na)　的(DE)　完成(VC)　和(Caa)　試驗(VC)　，(COMMACATEGORY)
+***********************************************
+204.　，(COMMACATEGORY)　組裝成(VG)　車(Na)　時程(Na)　，(COMMACATEGORY)
+***********************************************
+205.　，(COMMACATEGORY)　及(Caa)　最後(Nd)　的(DE)　性能(Na)　測試(VC)　．(PERIODCATEGORY)　車架(Na)　的(DE)　設計(Na)　必須(D)　兼顧(VC)　低風阻(Na)　外型(Na)　和(Caa)　行車(VA)　時(Ng)　的(DE)　穩定度(Na)　，(COMMACATEGORY)
+***********************************************
+206.　，(COMMACATEGORY)　而(Cbb)　輕量化(VHC)　也(D)　是(SHI)　我們(Nh)　要求(VF)　的(DE)　目標(Na)　之(DE)　一(Neu)　．(PERIODCATEGORY)　模具(Na)　的(DE)　重要(VH)　在於(VK)　我們(Nh)　可以(D)　獲得(VJ)　較(Dfa)　佳(VH)　的(DE)　成品(Na)　，(COMMACATEGORY)
+***********************************************
+207.　，(COMMACATEGORY)　好(VH)　的(DE)　模具(Na)　可以(D)　重覆(VC)　使用(VC)　而(Cbb)　不(D)　變形(VH)　，(COMMACATEGORY)
+***********************************************
+208.　，(COMMACATEGORY)　甚至(D)　可以(D)　縮短(VC)　製程(Na)　．(PERIODCATEGORY)　桿件(Na)　的(DE)　試驗(Na)　幫助(VC)　我們(Nh)　有效(VH)　的(DE)　瞭解(VK)　桿件(Na)　的(DE)　負荷(Na)　程度(Na)　．(PERIODCATEGORY)　成(VG)　車(Na)　時程(Na)　就(D)　要(D)　和(P)　其他(Neqa)　組(Nc)　協調(VC)　在(P)　約定(VE)　期限(Na)　內(Ng)　完成(VC)　工作(Na)　，(COMMACATEGORY)
+***********************************************
+209.　，(COMMACATEGORY)　以利(VJ)　此(Nep)　車(Na)　早日(D)　完成(VC)　．(PERIODCATEGORY)　性能(Na)　測試(Na)　就是(Cbb)　最(Dfa)　重要(VH)　的(DE)　一(Neu)　部份(Neqa)　．(PERIODCATEGORY)　整(Neqa)　部(Nf)　車(Na)　的(DE)　整體(Na)　表現(Na)　再(D)　這(Nep)　一(Neu)　階段(Na)　就(D)　大致(D)　底定(VH)　，(COMMACATEGORY)
+***********************************************
+210.　，(COMMACATEGORY)　如何(D)　調整(VC)　此(Nep)　車(Na)　在(P)　最佳(A)　狀態(Na)　，(COMMACATEGORY)
+***********************************************
+211.　，(COMMACATEGORY)　發揮(VJ)　優點(Na)　就(D)　依賴(VK)　測試(Na)[+nom]　結果(Na)　了(T)　．(PERIODCATEGORY)　三(Neu)　．(PERIODCATEGORY)　設計(Na)　概念(Na)　。(PERIODCATEGORY)
+***********************************************
+212.　。(PERIODCATEGORY)　因(Cbb)　外型(Na)　採用(VC)　翼形(Na)　截面(Na)　的(DE)　低風阻(Na)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+213.　，(COMMACATEGORY)　勢必(D)　在(P)　結構(Na)　上(Ng)　要(D)　有(V_2)　高度(Na)　的(DE)　限制(Na)　，(COMMACATEGORY)
+***********************************************
+214.　，(COMMACATEGORY)　因而(Cbb)　定義(Na)　最(Dfa)　大(VH)　高度(Na)　為(VG)　４０(Neu)　公分(Nf)　．(PERIODCATEGORY)　並(Cbb)　以(P)　前後(D)　收尾(VA)　的(DE)　的(DE)　方式(Na)　配合(VC)　外型(Na)　．(PERIODCATEGORY)　在(P)　考慮(VE)　負荷(Na)　強度(Na)　及(Caa)　剛性(Na)　的(DE)　考量(VE)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+215.　，(COMMACATEGORY)　選用(VC)　碳纖維(Na)　複合(A)　材料(Na)　作成(VG)　的(DE)　Ｌ(FW)　—(DASHCATEGORY)　Ｂｅａｍ(FW)　強化(VHC)　三角(Na)　方格(Na)　結構(Na)　．(PERIODCATEGORY)　此(Nep)　結構(Na)　在(P)　震動(VAC)　，(COMMACATEGORY)
+***********************************************
+216.　，(COMMACATEGORY)　壓力(Na)　，(COMMACATEGORY)
+***********************************************
+217.　，(COMMACATEGORY)　拉(VC)　伸(VC)　的(DE)　狀況(Na)　下(Ng)　的(DE)　表現(Na)　相當(Dfa)　不錯(VH)　．(PERIODCATEGORY)　此(Nep)　結構(Na)　分成(VG)　三(Neu)　部份(Neqa)　：(COLONCATEGORY)
+***********************************************
+218.　：(COLONCATEGORY)　前端(Ncd)　部份(Neqa)　是(SHI)　座艙(Na)　和(Caa)　操控(VC)[+nom]　系統(Na)　．(PERIODCATEGORY)　尾部(Nc)　是(SHI)　放置(VC)　馬達(Na)　和(Caa)　變速(VA)[+nom]　齒輪箱(Na)　的(DE)　傳動(VA)[+nom]　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+219.　，(COMMACATEGORY)　而(Cbb)　位於(VCL)　中間(Ncd)　的(DE)　就是(Cbb)　放置(VC)　控制器(Na)　和(Caa)　電瓶(Na)　的(DE)　部份(Neqa)　了(T)　．(PERIODCATEGORY)　複材(Na)　的(DE)　接合(VB)[+nom]　方式(Na)　也(D)　是(SHI)　設計(Na)　的(DE)　重點(Na)　，(COMMACATEGORY)
+***********************************************
+220.　，(COMMACATEGORY)　因(Cbb)　烘烤爐(Na)　的(DE)　大小(Na)　受(P)　限制(VE)　，(COMMACATEGORY)
+***********************************************
+221.　，(COMMACATEGORY)　連帶(D)　影響到(VJ)　模具(Na)　的(DE)　大小(Na)　，(COMMACATEGORY)
+***********************************************
+222.　，(COMMACATEGORY)　所以(Cbb)　我們(Nh)　設計(VC)　了(Di)　一(Neu)　個(Nf)　　Ｌ型(Na)[+fw]　接頭(Na)　，(COMMACATEGORY)
+***********************************************
+223.　，(COMMACATEGORY)　而(Cbb)　利用(VC)　Ｍ(FW)　４(Neu)　的(DE)　螺絲(Na)　鎖上(VC)　．(PERIODCATEGORY)　而(Cbb)　為(P)　了(Di)　避免(VE)　切應力(Na)　對(P)　複材(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+224.　，(COMMACATEGORY)　採取(VC)　了(Di)　對角(Na)　的(DE)　鎖法(Na)　．(PERIODCATEGORY)　模具(Na)　的(DE)　設計(Na)　是(SHI)　採用(VC)　兩(Neu)　片(Nf)　鋼板(Na)　彎曲成(VG)　９０(Neu)　度(Nf)　，(COMMACATEGORY)
+***********************************************
+225.　，(COMMACATEGORY)　並(Cbb)　於(P)　其(Nep)　上(Ncd)　鑽孔(VA)　，(COMMACATEGORY)
+***********************************************
+226.　，(COMMACATEGORY)　以(P)　螺絲(Na)　上鎖(VB)　的(DE)　壓力(Na)　取代(VC)　抽(VC)　真空(Na)　的(DE)　步驟(Na)　，(COMMACATEGORY)
+***********************************************
+227.　，(COMMACATEGORY)　桿件(Na)　經(P)　測試(VC)　可(D)　達(VJ)　荷重(Na)　２５０(Neu)　↑ｋｇ(FW)　．(PERIODCATEGORY)　六(Neu)　．(PERIODCATEGORY)　裝配(VC)[+nom]　工作(Na)　。(PERIODCATEGORY)
+***********************************************
+228.　。(PERIODCATEGORY)　第二(Neu)　階段(Na)　：(COLONCATEGORY)
+***********************************************
+229.　：(COLONCATEGORY)　進行(VC)　組(VC)　車(Na)　及(Caa)　安全(VH)　測試(VC)　（(PARENTHESISCATEGORY)　２５(Neu)　↑(FW)　—(DASHCATEGORY)　　(FW)　２１８(Neu)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+230.　。(PERIODCATEGORY)　主要(A)　工作(Na)　是(SHI)　將(P)　桿件(Na)　組裝成(VG)　車體(Na)　，(COMMACATEGORY)
+***********************************************
+231.　，(COMMACATEGORY)　和(Caa)　外型(Na)　比對(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+232.　，(COMMACATEGORY)　再(D)　依序(D)　裝上(VC)　前輪(Na)　懸吊(Na)　，(COMMACATEGORY)
+***********************************************
+233.　，(COMMACATEGORY)　後輪(Na)　懸吊(Na)　，(COMMACATEGORY)
+***********************************************
+234.　，(COMMACATEGORY)　轉向(VA)　，(COMMACATEGORY)
+***********************************************
+235.　，(COMMACATEGORY)　駕駛座(Na)　，(COMMACATEGORY)
+***********************************************
+236.　，(COMMACATEGORY)　進行(VC)　路(Na)　試(Na)　．(PERIODCATEGORY)　路(Na)　試(Na)　部份(Neqa)　則(D)　就近(D)　選擇(VC)　在(P)　環校(VA)　機車道(Na)　，(COMMACATEGORY)
+***********************************************
+237.　，(COMMACATEGORY)　測試(VC)　操控性(Na)　和(Caa)　煞車(Na)　以及(Caa)　負重(VH)　後(Ng)　對(P)　車體(Na)　結構(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+238.　，(COMMACATEGORY)　並(Cbb)　對(P)　不良(VH)　處(Nc)　進行(VC)　修整(VC)　．(PERIODCATEGORY)　第二(Neu)　部份(Neqa)　路(Na)　試(Na)　則(D)　是(SHI)　裝上(VC)　控制器(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+239.　，(COMMACATEGORY)　進行(VC)　環校(VA)　的(DE)　路(Na)　試(Na)　．(PERIODCATEGORY)　七(Neu)　．(PERIODCATEGORY)　工作(Na)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+240.　。(PERIODCATEGORY)　做(VC)　結構(Na)　，(COMMACATEGORY)
+***********************************************
+241.　，(COMMACATEGORY)　老實(VH)　講起來(D)　是(SHI)　一(Neu)　件(Nf)　痛苦(VH)　的(DE)　事(Na)　，(COMMACATEGORY)
+***********************************************
+242.　，(COMMACATEGORY)　因為(Cbb)　除了(P)　開始(VH)　的(DE)　整體(Na)　設計(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+243.　，(COMMACATEGORY)　就(D)　是(SHI)　要(D)　負責(VL)　把(P)　一根根(Neqa)　的(DE)　碳纖維(Na)　桿件(Na)　催生(VB)　．(PERIODCATEGORY)　枯燥(VH)　的(DE)　切割(VC)　浸泡(VB)　材料(Na)　過程(Na)　，(COMMACATEGORY)
+***********************************************
+244.　，(COMMACATEGORY)　反覆(D)　的(DE)　進(VC)　爐(Na)　烘烤(VC)　，(COMMACATEGORY)
+***********************************************
+245.　，(COMMACATEGORY)　就是(Cbb)　這些(Neqa)　重複(VC)　的(DE)　手續(Na)　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　加上(Cbb)　等待(VK)　出爐(VH)　的(DE)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+247.　，(COMMACATEGORY)　嚇跑(VAC)　了(Di)　原本(D)　在(P)　暑假(Nd)　作(VC)　結構(Na)　的(DE)　學弟(Na)　，(COMMACATEGORY)
+***********************************************
+248.　，(COMMACATEGORY)　因此(Cbb)　作(VC)　結構(Na)　的(DE)　同學(Na)　除了(P)　要(D)　對(P)　這(Nep)　個(Nf)　抱持(VJ)　濃厚(VH)　的(DE)　興趣(Na)　和(Caa)　熱忱(Na)　，(COMMACATEGORY)
+***********************************************
+249.　，(COMMACATEGORY)　強化(VHC)　社團(Na)　的(DE)　約束力(Na)　也(D)　是(SHI)　相當(Dfa)　重要(VH)　的(T)　．(PERIODCATEGORY)　尤其(D)　結構組(Nc)　對(P)　人員(Na)　和(Caa)　時間(Na)　的(DE)　調配(VC)[+nom]　也(D)　必須(D)　十分(Dfa)　注意(VK)　，(COMMACATEGORY)
+***********************************************
+250.　，(COMMACATEGORY)　原因(Na)　是(SHI)　結構(Na)　車(Na)　的(DE)　主體(Na)　，(COMMACATEGORY)
+***********************************************
+251.　，(COMMACATEGORY)　外型(Na)　和(Caa)　傳動(VA)　的(DE)　裝配(Na)　都(D)　要(D)　靠(P)　結構(Na)　作(VC)　最後(Nd)　校正(VC)　．(PERIODCATEGORY)　八(Neu)　．(PERIODCATEGORY)　後續(A)　計畫(Na)　建議(Na)　。(PERIODCATEGORY)
+***********************************************
+252.　。(PERIODCATEGORY)　Ｉ(FW)　—(DASHCATEGORY)　Ｃｌｕｂ(FW)　從(P)　無(VJ)　到(P)　有(V_2)　，(COMMACATEGORY)
+***********************************************
+253.　，(COMMACATEGORY)　陸續(D)　推出(VC)　了(Di)　兩(Neu)　部(Nf)　車(Na)　，(COMMACATEGORY)
+***********************************************
+254.　，(COMMACATEGORY)　這(Nep)　其中(Nep)　的(DE)　進步(VH)[+nom]　我(Nh)　想(VE)　很(Dfa)　明顯(VH)　，(COMMACATEGORY)
+***********************************************
+255.　，(COMMACATEGORY)　但是(Cbb)　所(D)　犯(VC)　的(DE)　錯誤(Na)　也(D)　是(SHI)　一樣(VH)　，(COMMACATEGORY)
+***********************************************
+256.　，(COMMACATEGORY)　因此(Cbb)　工作(Na)　記錄(Na)　的(DE)　重要性(Na)　不言而喻(VH)　，(COMMACATEGORY)
+***********************************************
+257.　，(COMMACATEGORY)　希望(VK)　以後(Nd)　的(DE)　社員(Na)　能(D)　從(P)　這(Nep)　其中(Nep)　有(V_2)　所(D)　得(VJ)　，(COMMACATEGORY)
+***********************************************
+258.　，(COMMACATEGORY)　避免(VE)　重蹈覆轍(VA)　．(PERIODCATEGORY)　再次(D)　強調(VE)　的(DE)　重點(Na)　是(SHI)　強化(VHC)　人員(Na)　的(DE)　約束力(Na)　，(COMMACATEGORY)
+***********************************************
+259.　，(COMMACATEGORY)　包括(VK)　工作(Na)　的(DE)　態度(Na)　，(COMMACATEGORY)
+***********************************************
+260.　，(COMMACATEGORY)　會議(Na)　的(DE)　出席率(Na)　，(COMMACATEGORY)
+***********************************************
+261.　，(COMMACATEGORY)　是否(D)　負責(VL)　…(ETCCATEGORY)
+***********************************************
+262.　…(ETCCATEGORY)　一(Neu)　個(Nf)　學術性(Na)　的(DE)　社團(Na)　有(V_2)　太多(Neqa)　的(DE)　冗員(Na)　，(COMMACATEGORY)
+***********************************************
+263.　，(COMMACATEGORY)　我(Nh)　想(VE)　是(SHI)　有害(VHC)　的(T)　．(PERIODCATEGORY)　另外(Cbb)　對(P)　複材(Na)　實驗室(Nc)　的(DE)　老師(Na)　學長(Na)　們(Na)　要(D)　常(D)　保持(VJ)　聯繫(VC)　，(COMMACATEGORY)
+***********************************************
+264.　，(COMMACATEGORY)　他們(Nh)　所(D)　知(VK)　的(DE)　，(COMMACATEGORY)
+***********************************************
+265.　，(COMMACATEGORY)　往往(D)　比(P)　書(Na)　上(Ncd)　記載(VC)　的(DE)　為(VG)　實際(VH)　而(Cbb)　新(VH)　．(PERIODCATEGORY)　時程(Na)　的(DE)　控制(VC)　也(D)　是(SHI)　再三(D)　強調(VE)　的(T)　，(COMMACATEGORY)
+***********************************************
+266.　，(COMMACATEGORY)　若是(Cbb)　工作(Na)　集中(VC)　在(P)　一(Neu)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+267.　，(COMMACATEGORY)　將(D)　會(D)　造成(VG)　進度(Na)　的(DE)　延誤(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+268.　，(COMMACATEGORY)　且(Caa)　士氣(Na)　低落(VH)　，(COMMACATEGORY)
+***********************************************
+269.　，(COMMACATEGORY)　而(Cbb)　所(D)　留(VC)　預度(Na)　要(D)　夠(VH)　，(COMMACATEGORY)
+***********************************************
+270.　，(COMMACATEGORY)　方便(VH)　控制(VC)　臨時(Nd)　的(DE)　變化(Na)　．(PERIODCATEGORY)　人力(Na)　的(DE)　調配(VC)[+nom]　也(D)　是(SHI)　一(Neu)　重點(Na)　，(COMMACATEGORY)
+***********************************************
+271.　，(COMMACATEGORY)　最好(D)　是(SHI)　專人(Na)　專職(Na)　，(COMMACATEGORY)
+***********************************************
+272.　，(COMMACATEGORY)　當(VG)　幹部(Na)　的(DE)　要(D)　曉得(VK)　工作(Na)　分配(VD)　的(DE)　重要(VH)　，(COMMACATEGORY)
+***********************************************
+273.　，(COMMACATEGORY)　組織(Na)　的(DE)　運作(VA)[+nom]　上(VCL)　了(Di)　軌道(Na)　，(COMMACATEGORY)
+***********************************************
+274.　，(COMMACATEGORY)　工作(Na)　就(D)　會(D)　順利(VH)　進行(VC)　．(PERIODCATEGORY)　九(Neu)　．(PERIODCATEGORY)　附錄(Na)　（(PARENTHESISCATEGORY)　碳纖(Na)　製作(VC)[+nom]　方法(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+275.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=孫上斌
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=外型組 九四年 成果報告
+276.　。(PERIODCATEGORY)　設計(VC)[+nom]　理念(Na)　：(COLONCATEGORY)
+***********************************************
+277.　：(COLONCATEGORY)　在(P)　太陽能(Na)　競賽(VA)[+nom]　車(Na)　的(DE)　考量(VE)[+nom]　目標(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+278.　，(COMMACATEGORY)　由於(Cbb)　是(SHI)　以(P)　性能(Na)　作為(VG)　主要(A)　唯一(A)　取向(Na)　，(COMMACATEGORY)
+***********************************************
+279.　，(COMMACATEGORY)　因此(Cbb)　在(P)　設計(Na)　上(Ng)　朝(P)　著(Di)　兩(Neu)　大(VH)　方向(Na)　作為(VG)　提昇(VC)　整體(Na)　效益(Na)　之(DE)　重點(Na)　：(COLONCATEGORY)
+***********************************************
+280.　：(COLONCATEGORY)　一(Neu)　為(VG)　能源(Na)　轉換(VC)[+nom]　效率(Na)　之(DE)　提高(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+281.　，(COMMACATEGORY)　另外(Cbb)　就是(Cbb)　降低(VHC)　動力(Na)　之(DE)　損耗(VJ)[+nom]　。(PERIODCATEGORY)
+***********************************************
+282.　。(PERIODCATEGORY)　太陽能(Na)　車(Na)　外型(Na)　的(DE)　設計(Na)　就(D)　是(SHI)　要(D)　如何(D)　在(P)　這(Nep)　兩(Neu)　者(Na)　之間(Ng)　取得(VC)　一(Neu)　最佳(A)　之(DE)　平衡點(Na)　。(PERIODCATEGORY)
+***********************************************
+283.　。(PERIODCATEGORY)　也(D)　因此(Cbb)　在(P)　早期(Nd)　之(DE)　外型(Na)　可(D)　分為(VG)　兩(Neu)　大(VH)　流派(Na)　，(COMMACATEGORY)
+***********************************************
+284.　，(COMMACATEGORY)　第一(Neu)　種(Nf)　就是(Cbb)　太陽能板(Na)　和(Caa)　外殼(Na)　為(VG)　兩(Neu)　個(Nf)　獨立(VH)　之(DE)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+285.　，(COMMACATEGORY)　太陽能板(Na)　為(VG)　平板狀(Na)　以(P)　支架(Na)　固定(VHC)　在(P)　車體(Na)　上頭(Ncd)　，(COMMACATEGORY)
+***********************************************
+286.　，(COMMACATEGORY)　其(Nep)　優點(Na)　是(SHI)　製作(VC)　較(Dfa)　容易(VH)　，(COMMACATEGORY)
+***********************************************
+287.　，(COMMACATEGORY)　且(Cbb)　可(D)　根據(P)　太陽(Na)　的(DE)　位置(Na)　隨時(D)　調整(VC)　太陽能板(Na)　之(DE)　角度(Na)　，(COMMACATEGORY)
+***********************************************
+288.　，(COMMACATEGORY)　使(VL)　陽光(Na)　一直(D)　保持(VJ)　在(P)　直射(VC)　狀態(Na)　，(COMMACATEGORY)
+***********************************************
+289.　，(COMMACATEGORY)　但(Cbb)　這(Nep)　種(Nf)　設計(Na)　有(V_2)　一(Neu)　很(Dfa)　大(VH)　之(DE)　缺點(Na)　就是(Cbb)　風阻(Na)　較(Dfa)　大(VH)　且(Cbb)　極(Dfa)　易(VH)　受(P)　側風(Na)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+290.　，(COMMACATEGORY)　在(P)　追求(VC)　速度(Na)　的(DE)　提昇(VC)　上(Ng)　是(SHI)　一(Neu)　大(VH)　阻礙(Na)　。(PERIODCATEGORY)
+***********************************************
+291.　。(PERIODCATEGORY)　另(Nes)　一(Neu)　種(Nf)　就是(Cbb)　蟑螂(Na)　結構型(Na)　，(COMMACATEGORY)
+***********************************************
+292.　，(COMMACATEGORY)　直接(VH)　將(P)　太陽能板(Na)　貼(VC)　在(P)　車殼(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+293.　，(COMMACATEGORY)　其(Nep)　最(Dfa)　大(VH)　的(DE)　優點(Na)　是(SHI)　可(D)　得到(VJ)　極(Dfa)　低(VH)　的(DE)　風阻(Na)　係數(Na)　，(COMMACATEGORY)
+***********************************************
+294.　，(COMMACATEGORY)　Ｃｄ值(Na)　可(D)　減少(VHC)　到(P)　大約(Da)　０‧１(Neu)　左右(Ng)　，(COMMACATEGORY)
+***********************************************
+295.　，(COMMACATEGORY)　且(Caa)　不易(VH)　受(P)　側風(Na)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+296.　，(COMMACATEGORY)　在(P)　陽光(Na)　吸收(VC)[+nom]　效益(Na)　上(Ng)　也(D)　算(VG)　不錯(VH)　，(COMMACATEGORY)
+***********************************************
+297.　，(COMMACATEGORY)　因此(Cbb)　這(Nep)　種(Nf)　設計(Na)　在(P)　追求(VC)　速度(Na)　提昇(VC)　的(DE)　目標(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+298.　，(COMMACATEGORY)　整體(Na)　效益(Na)　優於(VJ)　前者(Nh)　，(COMMACATEGORY)
+***********************************************
+299.　，(COMMACATEGORY)　也(D)　因此(Cbb)　成為(VG)　現在(Nd)　太陽能(Na)　車(Na)　外型(Na)　設計(Na)　之(DE)　主流(Na)　。(PERIODCATEGORY)
+***********************************************
+300.　。(PERIODCATEGORY)　在(P)　減少(VHC)　動力(Na)　耗損(VJ)　的(DE)　突破(Na)　上(Ng)　可(D)　分為(VG)　兩(Neu)　大(VH)　部份(Neqa)　：(COLONCATEGORY)
+***********************************************
+301.　：(COLONCATEGORY)　一(Neu)　是(SHI)　降低(VHC)　路面(Nc)　阻力(Na)　，(COMMACATEGORY)
+***********************************************
+302.　，(COMMACATEGORY)　另外(Cbb)　就是(Cbb)　減低(VC)　風阻(Na)　。(PERIODCATEGORY)
+***********************************************
+303.　。(PERIODCATEGORY)　由(P)　風(Na)　阻力(Na)　公式(Na)　：(COLONCATEGORY)
+***********************************************
+304.　：(COLONCATEGORY)　Ｆ(FW)　１２(Neu)　＊Ａ＊Ｃｄ＊Ｖ(FW)　２(Neu)　可(D)　知(VK)　，(COMMACATEGORY)
+***********************************************
+305.　，(COMMACATEGORY)　要(D)　減少(VHC)　風阻(Na)　，(COMMACATEGORY)
+***********************************************
+306.　，(COMMACATEGORY)　一(Neu)　是(SHI)　降低(VHC)　迎(VC)　風(Na)　面積(Na)　，(COMMACATEGORY)
+***********************************************
+307.　，(COMMACATEGORY)　另外(Cbb)　就是(Cbb)　減低(VC)　風阻(Na)　係數(Na)　。(PERIODCATEGORY)
+***********************************************
+308.　。(PERIODCATEGORY)　風阻(Na)　係數(Na)　決定(VE)　主要(D)　來自(VJ)　兩(Neu)　個(Nf)　部份(Neqa)　：(COLONCATEGORY)
+***********************************************
+309.　：(COLONCATEGORY)　一(Neu)　．(PERIODCATEGORY)　表面(Na)　摩擦(VC)[+nom]　阻力(Na)　（(PARENTHESISCATEGORY)　Ｓｋｉｎ(FW)　—(DASHCATEGORY)　ｆｒｉｃｔｉｏｎ(FW)　ｄｒａｇ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+310.　。(PERIODCATEGORY)　二(Neu)　．(PERIODCATEGORY)　壓(VC)[+nom]　阻力(Na)　（(PARENTHESISCATEGORY)　Ｐｒｅｓｓｕｒｅ(FW)　ｄｒａｇ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+311.　。(PERIODCATEGORY)　其中(Nep)　表面(Na)　摩擦(VC)[+nom]　阻力(Na)　的(DE)　決定(VE)　於(P)　表面(Na)　之(DE)　光滑度(Na)　，(COMMACATEGORY)
+***********************************************
+312.　，(COMMACATEGORY)　而(Cbb)　壓(VC)[+nom]　阻力(Na)　則(D)　決定(VE)　自(P)　物體(Na)　之(DE)　幾何(Na)　外型(Na)　，(COMMACATEGORY)
+***********************************************
+313.　，(COMMACATEGORY)　意義(Na)　是(SHI)　說(VE)　，(COMMACATEGORY)
+***********************************************
+314.　，(COMMACATEGORY)　在(P)　相同(VH)　之(DE)　雷諾數(Na)　下(Ng)　（(PARENTHESISCATEGORY)　Ｒｅｙｎｏｌｄ(FW)　ｎｕｍｂｅｒ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+315.　，(COMMACATEGORY)　相同(VH)　之(DE)　幾何(Na)　外型(Na)　具有(VJ)　相等(VH)　之(DE)　壓阻(Na)　係數值(Na)　（(PARENTHESISCATEGORY)　ｄｙｎａｍｉｃａｌｌｙ(FW)　ｓｉｍｉｌａｒ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+316.　。(PERIODCATEGORY)　我們(Nh)　的(DE)　目標(Na)　，(COMMACATEGORY)
+***********************************************
+317.　，(COMMACATEGORY)　就(D)　是(SHI)　要(D)　設計出(VC)　低風阻(Na)　係數(Na)　之(DE)　氣(Na)　動力(Na)　外型(Na)　。(PERIODCATEGORY)
+***********************************************
+318.　。(PERIODCATEGORY)　根據(P)　國外(Nc)　太陽能(Na)　車(Na)　相關(VH)　資料(Na)　得知(VK)　，(COMMACATEGORY)
+***********************************************
+319.　，(COMMACATEGORY)　外型(Na)　對於(P)　太陽能(Na)　車(Na)　性能(Na)　之(DE)　提昇(VC)[+nom]　佔有(VJ)　舉足輕重(VH)　之(DE)　地位(Na)　，(COMMACATEGORY)
+***********************************************
+320.　，(COMMACATEGORY)　而(Cbb)　當中(Ncd)　所(D)　追求(VC)　的(DE)　即(D)　是(SHI)　風阻(Na)　之(DE)　降低(VHC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+321.　。(PERIODCATEGORY)　雖然(Cbb)　實際(VH)　上(Ng)　風阻(Na)　在(P)　低速(Na)　下(Ng)　影響(Na)　並(D)　不(D)　大(VH)　，(COMMACATEGORY)
+***********************************************
+322.　，(COMMACATEGORY)　但(Cbb)　根據(P)　風(Na)　阻力(Na)　公式(Na)　：(COLONCATEGORY)
+***********************************************
+323.　：(COLONCATEGORY)　　(FW)　（(PARENTHESISCATEGORY)　略(D)　）(PARENTHESISCATEGORY)　隨著(P)　車速(Na)　之(DE)　提昇(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+324.　，(COMMACATEGORY)　風阻(Na)　將(D)　影響(VC)　甚(Dfa)　巨(VH)　，(COMMACATEGORY)
+***********************************************
+325.　，(COMMACATEGORY)　因此(Cbb)　降低(VHC)　風阻(Na)　係數(Na)　及(Caa)　迎(VC)　風(Na)　截面積(Na)　乃(VG)　外型組(Na)　設計(Na)　之(DE)　大(VH)　方向(Na)　，(COMMACATEGORY)
+***********************************************
+326.　，(COMMACATEGORY)　設計(VC)[+nom]　方式(Na)　簡略(VH)　敘述(VE)　如(P)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+327.　：(COLONCATEGORY)　目前(Nd)　我們(Nh)　的(DE)　作法(Na)　是(SHI)　根據(P)　ＬＯＷ(FW)　ＤＲＡＧ(FW)　．(PERIODCATEGORY)　Ｂ↑(FW)　３０％(Neqa)　的(DE)　飛機(Na)　剖面(Na)　翼型(Na)　資料(Na)　做(VC)　基準(Na)　，(COMMACATEGORY)
+***********************************************
+328.　，(COMMACATEGORY)　調整(VC)　其(Nep)　厚度比(Na)　，(COMMACATEGORY)
+***********************************************
+329.　，(COMMACATEGORY)　做出(VC)　車子(Na)　縱向(Na)　剖面(Na)　之(DE)　外型(Na)　以(P)　追求(VC)　低風阻(Na)　係數值(Na)　，(COMMACATEGORY)
+***********************************************
+330.　，(COMMACATEGORY)　此(Nep)　種(Nf)　翼型(Na)　之(DE)　最(Dfa)　大(VH)　厚度(Na)　位置(Na)　在(P)　由(P)　前緣(Na)　算(VE)　起(Di)　約(Da)　百分之四十(Neqa)　之(DE)　位置(Na)　，(COMMACATEGORY)
+***********************************************
+331.　，(COMMACATEGORY)　此(Nep)　一(Neu)　翼型(Na)　可(D)　使(VL)　氣流(Na)　和(Caa)　物體(Na)　表面(Na)　剝離點(Na)　向(P)　後(Ncd)　延(VC)　，(COMMACATEGORY)
+***********************************************
+332.　，(COMMACATEGORY)　如此(VH)　可(D)　避免(VE)　氣流(Na)　在(P)　車(Na)　後緣(Ncd)　造成(VG)　近(VJ)　真空(Na)　狀態(Na)　，(COMMACATEGORY)
+***********************************************
+333.　，(COMMACATEGORY)　對(P)　車子(Na)　之(DE)　行駛(VA)[+nom]　造成(VG)　反向(VH)　拉力(Na)　，(COMMACATEGORY)
+***********************************************
+334.　，(COMMACATEGORY)　使(VL)　氣流(Na)　以(P)　穩定(VHC)　層流(Na)　的(DE)　狀態(Na)　流過(VCL)　車體(Na)　。(PERIODCATEGORY)
+***********************************************
+335.　。(PERIODCATEGORY)　此外(Cbb)　並(Cbb)　盡量(D)　壓低(VC)　車殼(Na)　厚度(Na)　以(P)　減少(VHC)　迎(VC)　風(Na)　截面(Na)　此(Nep)　設計(Na)　同時(Nd)　可(D)　使(VL)　車殼(Na)　表面(Na)　趨近(VJ)　平面(Na)　，(COMMACATEGORY)
+***********************************************
+336.　，(COMMACATEGORY)　增加(VHC)　太陽能(Na)　能板(Na)　吸收(VC)　陽光(Na)　之(DE)　一致性(Na)　。(PERIODCATEGORY)
+***********************************************
+337.　。(PERIODCATEGORY)　另外(Cbb)　在(P)　橫剖面(Na)　形狀(Na)　的(DE)　設計(Na)　上(Ng)　由於(Cbb)　並(D)　無(VJ)　具體(VH)　之(DE)　數據(Na)　資料(Na)　可(D)　供(VF)　參考(VC)　，(COMMACATEGORY)
+***********************************************
+338.　，(COMMACATEGORY)　目前(Nd)　設計(VC)　的(DE)　原則(Na)　就(D)　是(SHI)　盡量(D)　使(VL)　車體(Na)　中央(Nc)　附近(Nc)　的(DE)　翼型(Na)　厚度比(Na)　為(VG)　該(Nes)　翼型(Na)　升阻力(Na)　係數(Na)　為(VG)　最(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+339.　，(COMMACATEGORY)　如此(VH)　可(D)　維持(VJ)　車子(Na)　在(P)　行駛(VA)　間(Ng)　的(DE)　直線(Na)　穩定性(Na)　，(COMMACATEGORY)
+***********************************************
+340.　，(COMMACATEGORY)　此外(Cbb)　盡量(D)　使(VL)　其(Nep)　弧形(Na)　平滑(VH)　，(COMMACATEGORY)
+***********************************************
+341.　，(COMMACATEGORY)　以(P)　降低(VHC)　側風(Na)　之(DE)　影響力(Na)　。(PERIODCATEGORY)
+***********************************************
+342.　。(PERIODCATEGORY)　設計(Na)　製圖(VA)[+nom]　工具(Na)　：(COLONCATEGORY)
+***********************************************
+343.　：(COLONCATEGORY)　本(Nes)　部(Nf)　車(Na)　的(DE)　設計圖(Na)　是(SHI)　由(P)　ａｕｔｏＣＡＤ(FW)　以(P)　３Ｄ(FW)　的(DE)　方式(Na)　繪製(VC)　，(COMMACATEGORY)
+***********************************************
+344.　，(COMMACATEGORY)　可(D)　具體(VH)　的(DE)　且(Caa)　有(V_2)　效率(Na)　的(DE)　完成(VC)　設計(Na)　完成(VC)　設計(Na)　及(Caa)　修改(VC)　之(DE)　工作(Na)　。(PERIODCATEGORY)
+***********************************************
+345.　。(PERIODCATEGORY)　材料(Na)　選用(VC)　：(COLONCATEGORY)
+***********************************************
+346.　：(COLONCATEGORY)　原來(D)　是(SHI)　想要(VE)　以(P)　切股氈(Na)　及(Caa)　編紗束(Na)　兩(Neu)　種(Nf)　玻璃(Na)　纖維(Na)　加上(VC)　不(D)　飽和(VH)　聚酯(Na)　一起(D)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+347.　，(COMMACATEGORY)　切股氈(Na)　是(SHI)　一(Neu)　種(Nf)　長纖(Na)　玻纖(Na)　（(PARENTHESISCATEGORY)　一般(D)　為(VG)　５０(Neu)　ｍｍ(Nf)[+fw]　）(PARENTHESISCATEGORY)　　(FW)　，(COMMACATEGORY)
+***********************************************
+348.　，(COMMACATEGORY)　纖維(Na)　呈(VJ)　無(VJ)　方向性(Na)　不(D)　規則(VH)　排列(VC)　散佈(VH)　，(COMMACATEGORY)
+***********************************************
+349.　，(COMMACATEGORY)　適用(VJ)　於(P)　ＦＲＰ(FW)　之(DE)　手工(Na)　積層法(Na)　，(COMMACATEGORY)
+***********************************************
+350.　，(COMMACATEGORY)　一般(D)　用(VC)　於(P)　生產(VC)　大(VH)　體積(Na)　，(COMMACATEGORY)
+***********************************************
+351.　，(COMMACATEGORY)　高強度(Na)　、(PAUSECATEGORY)　高厚度(Na)　且(D)　較(Dfa)　均勻(VH)　之(DE)　製品(Na)　，(COMMACATEGORY)
+***********************************************
+352.　，(COMMACATEGORY)　如(P)　船體(Na)　、(PAUSECATEGORY)　耐壓槽(Na)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+353.　，(COMMACATEGORY)　抗(VJ)　拉(VC)　強度(Na)　為(VG)　７／１７(Neu)　ｋｇ／ｍｍ(FW)　２(Neu)　。(PERIODCATEGORY)
+***********************************************
+354.　。(PERIODCATEGORY)　另外(Da)　一(Neu)　種(Nf)　則(D)　是(SHI)　所謂(VK)　的(DE)　編紗束(Na)　為(P)　厚度(Na)　均勻(VH)　的(DE)　織物(Na)　，(COMMACATEGORY)
+***********************************************
+355.　，(COMMACATEGORY)　可(D)　賦予(VD)　材料(Na)　較(Dfa)　佳(VH)　的(DE)　抗(VJ)　拉(VC)　強度(Na)　及(Caa)　剛性(Na)　。(PERIODCATEGORY)
+***********************************************
+356.　。(PERIODCATEGORY)　不過(Cbb)　後來(Nd)　經由(P)　實驗(VE)　發現(VE)　，(COMMACATEGORY)
+***********************************************
+357.　，(COMMACATEGORY)　以(P)　我們(Nh)　採用(VC)　的(DE)　手工(Na)　積層法(Na)　無法(D)　使(VL)　兩(Neu)　種(Nf)　材料(Na)　有效(VH)　的(DE)　密合(VH)　，(COMMACATEGORY)
+***********************************************
+358.　，(COMMACATEGORY)　引(VC)　此(Nep)　最後(Nd)　只(Da)　採用(VC)　切股氈(Na)　。(PERIODCATEGORY)
+***********************************************
+359.　。(PERIODCATEGORY)　製作(VC)[+nom]　流程(Na)　：(COLONCATEGORY)
+***********************************************
+360.　：(COLONCATEGORY)　模具(Na)　及(Caa)　玻纖(Na)　製作(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+361.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　以(P)　密集板(Na)　根據(P)　翼型(Na)　資料量(Na)　取(VC)　適當(VH)　尺寸(Na)　切割出(VC)　五(Neu)　片(Nf)　模版(Na)　，(COMMACATEGORY)
+***********************************************
+362.　，(COMMACATEGORY)　做為(VG)　模具(Na)　之(DE)　基準(Na)　樑(Na)　。(PERIODCATEGORY)
+***********************************************
+363.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　在(P)　模版(Na)　中間(Ncd)　照(P)　適當(VH)　間格(Na)　填入(VC)　保力龍(Na)　以(P)　白膠(Na)　接合(VB)　，(COMMACATEGORY)
+***********************************************
+364.　，(COMMACATEGORY)　並(Cbb)　依據(P)　模版(Na)　加以(D)　切割(VC)　成型(VH)　。(PERIODCATEGORY)
+***********************************************
+365.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　在(P)　模具(Na)　表面(Na)　鋪上(VC)　補土(Na)　作(VC)　打磨(VC)　修補(VC)　，(COMMACATEGORY)
+***********************************************
+366.　，(COMMACATEGORY)　最後(Nd)　塗上(VC)　樹脂(Na)　定型(VH)　。(PERIODCATEGORY)
+***********************************************
+367.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　在(P)　鋪上(VC)　玻纖(Na)　之前(Ng)　，(COMMACATEGORY)
+***********************************************
+368.　，(COMMACATEGORY)　在(P)　模具(Na)　上(Ncd)　先(D)　鋪上(VC)　錫箔(Na)　以(P)　配合(VC)　離模(Na)　（(PARENTHESISCATEGORY)　此(Nep)　點(Nf)　極為(Dfa)　重要(VH)　，(COMMACATEGORY)
+***********************************************
+369.　，(COMMACATEGORY)　因為(Cbb)　廠商(Na)　所(D)　附(VC)　的(DE)　離模劑(Na)　幾乎(Da)　沒有(VJ)　作用(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+370.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)　使用(VC)　兩(Neu)　層(Nf)　玻璃(Na)　纖維(Na)　，(COMMACATEGORY)
+***********************************************
+371.　，(COMMACATEGORY)　以(P)　滾筒(Na)　將(D)　不(D)　飽和(VH)　聚酯(Na)　均勻(VH)　塗上(VC)　。(PERIODCATEGORY)
+***********************************************
+372.　。(PERIODCATEGORY)　６(Neu)　．(PERIODCATEGORY)　最後(Nd)　再(D)　補上(VC)　一(Neu)　層(Nf)　膠殼(Na)　。(PERIODCATEGORY)
+***********************************************
+373.　。(PERIODCATEGORY)　支撐(VC)　肋條(Na)　之(DE)　製作(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+374.　：(COLONCATEGORY)　由於(Cbb)　之前(Nd)　對(P)　玻纖(Na)　之(DE)　強度(Na)　並(Cbb)　無(VJ)　具體(VH)　概念(Na)　，(COMMACATEGORY)
+***********************************************
+375.　，(COMMACATEGORY)　後來(Nd)　才(Da)　發覺(VK)　如果(Cbb)　沒有(D)　支撐(VC)　肋條(Na)　強度(Na)　會(D)　有(V_2)　極(Dfa)　大(VH)　的(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+376.　，(COMMACATEGORY)　因此(Cbb)　模仿(VC)　ＨＯＮＤＡ(FW)　的(DE)　作法(Na)　，(COMMACATEGORY)
+***********************************************
+377.　，(COMMACATEGORY)　在(P)　密集板(Na)　在(P)　外殼(Na)　內部(Ncd)　兩(Neu)　側(Ncd)　加上(VC)　兩(Neu)　片(Nf)　支撐(VC)[+nom]　肋條(Na)　，(COMMACATEGORY)
+***********************************************
+378.　，(COMMACATEGORY)　以(P)　聚酯(Na)　加上(VC)　切股氈(Na)　作為(VG)　黏著劑(Na)　和(Caa)　外殼(Na)　黏合(VC)　固定(VHC)　，(COMMACATEGORY)
+***********************************************
+379.　，(COMMACATEGORY)　使(VL)　整(Neqa)　個(Nf)　外殼(Na)　形成(VG)　一(Neu)　封閉(VH)　結構(Na)　，(COMMACATEGORY)
+***********************************************
+380.　，(COMMACATEGORY)　結果(Dk)　證實(VE)　強度(Na)　足以(VL)　符合(VJ)　要求(Na)　。(PERIODCATEGORY)
+***********************************************
+381.　。(PERIODCATEGORY)　關鍵(Na)　問題(Na)　及(Caa)　建議(Na)　：(COLONCATEGORY)
+***********************************************
+382.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　氣(Na)　動力(Na)　外型(Na)　的(DE)　設計(Na)　雖(Cbb)　有(V_2)　以(P)　翼形(Na)　資料(Na)　作為(VG)　基準(Na)　，(COMMACATEGORY)
+***********************************************
+383.　，(COMMACATEGORY)　但(Cbb)　實際(VH)　性能(Na)　數據(Na)　仍(D)　未(D)　測試(VC)　過(Di)　，(COMMACATEGORY)
+***********************************************
+384.　，(COMMACATEGORY)　最好(D)　看(VE)　是否(D)　能(D)　用(P)　軟體(Na)　模擬(VC)　或(Caa)　做出(VC)　縮尺(Na)　模型(Na)　藉由(P)　風洞(Na)　測試(VC)　，(COMMACATEGORY)
+***********************************************
+385.　，(COMMACATEGORY)　具體(VH)　的(DE)　找出(VC)　最(Dfa)　現代化(VHC)　的(DE)　外型(Na)　設計(Na)　。(PERIODCATEGORY)
+***********************************************
+386.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　整(Neqa)　個(Nf)　車殼(Na)　不(D)　加(VC)　太陽能板(Na)　總重(Na)　一共(Da)　是(SHI)　七十三(Neu)　公斤(Nf)　，(COMMACATEGORY)
+***********************************************
+387.　，(COMMACATEGORY)　和(P)　國外(Nc)　的(DE)　四十幾(Neu)　公斤(Nf)　的(DE)　水準(Na)　相較(VB)　重量(Na)　仍(D)　偏重(VJ)　，(COMMACATEGORY)
+***********************************************
+388.　，(COMMACATEGORY)　主要(A)　是(SHI)　我們(Nh)　所(D)　用(VC)　的(DE)　材料(Na)　只是(D)　一般(A)　的(DE)　玻璃(Na)　纖維(Na)　，(COMMACATEGORY)
+***********************************************
+389.　，(COMMACATEGORY)　比重(Na)　要(D)　比(P)　碳纖(Na)　超過(VJ)　將近(Da)　一(Neu)　倍(Na)　，(COMMACATEGORY)
+***********************************************
+390.　，(COMMACATEGORY)　所以(Cbb)　找尋(VC)　更(D)　理想(VH)　的(DE)　材料(Na)　以(P)　減輕(VHC)　重量(Na)　是(SHI)　下(Nes)　部(Nf)　車(Na)　外型(Na)　改進(VC)　的(DE)　一(Neu)　大(VH)　目標(Na)　。(PERIODCATEGORY)
+***********************************************
+391.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　此(Nep)　次(Nf)　模具(Na)　的(DE)　製作(VC)[+nom]　是(SHI)　採用(VC)　陽模(Na)　，(COMMACATEGORY)
+***********************************************
+392.　，(COMMACATEGORY)　而(Cbb)　手工(Na)　基層(A)　法(Na)　只(Da)　能(D)　有(V_2)　一(Neu)　面(Na)　是(SHI)　光滑(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+393.　，(COMMACATEGORY)　所以(Cbb)　基於(P)　美觀(VH)　及(Caa)　減少(VHC)　摩擦(VC)　阻力(Na)　考量(VE)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+394.　，(COMMACATEGORY)　下(Nes)　部(Nf)　車(Na)　有(V_2)　必要(Na)　採用(VC)　難度(Na)　較(Dfa)　高(VH)　的(DE)　陰模法(Na)　。(PERIODCATEGORY)
+***********************************************
+395.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　車殼(Na)　與(Caa)　車體(Na)　主結構(Na)　部份(Neqa)　的(DE)　接合(VB)[+nom]　設計(Na)　也(D)　是(SHI)　下(Nes)　部(Nf)　車(Na)　的(DE)　構思(Na)　重點(Na)　，(COMMACATEGORY)
+***********************************************
+396.　，(COMMACATEGORY)　這(Nep)　當中(Ncd)　必須(D)　考量(VE)　搬運(VC)　、(PAUSECATEGORY)　拆裝(VC)　容易度(Na)　、(PAUSECATEGORY)　重量(Na)　、(PAUSECATEGORY)　強度(Na)　、(PAUSECATEGORY)　製作(VC)[+nom]　成功率(Na)　、(PAUSECATEGORY)　維修(VC)　方便(VH)　以及(Caa)　太陽能板(Na)　傾角(Na)　可調式(A)　等等(Cab)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+397.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=毛彥傑執筆
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=交大 I-Club 太陽能汽車計畫
+398.　。(PERIODCATEGORY)　電力組(Nc)　第三(Neu)　屆(Nf)　檢討(VE)[+nom]　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+399.　。(PERIODCATEGORY)　壹(Neu)　、(PAUSECATEGORY)　簡介(Na)　。(PERIODCATEGORY)
+***********************************************
+400.　。(PERIODCATEGORY)　太陽能(Na)　車(Na)　係(VG)　以(P)　太陽能(Na)　光電板(Na)　將(P)　光能(Na)　直接(VH)　轉為(VG)　電子(Na)　流動(VA)　產生(VHC)　動力(Na)　能源(Na)　的(DE)　交通(Na)　工具(Na)　。(PERIODCATEGORY)
+***********************************************
+401.　。(PERIODCATEGORY)　由(P)　目前(Nd)　全球(Nc)　的(DE)　太陽能(Na)　電板(Na)　、(PAUSECATEGORY)　電子(Na)　電路(Na)　等(Cab)　各(Nes)　方面(Na)　的(DE)　瓶頸(Na)　，(COMMACATEGORY)
+***********************************************
+402.　，(COMMACATEGORY)　使(VL)　其(Nep)　發電(VA)[+nom]　效能(Na)　、(PAUSECATEGORY)　供電(VA)[+nom]　效率(Na)　始終(D)　無法(D)　破(VHC)　一(Neu)　上限(Na)　。(PERIODCATEGORY)
+***********************************************
+403.　。(PERIODCATEGORY)　礙於(VJ)　太陽能(Na)　車(Na)　本身(Nh)　電力(Na)　能源(Na)　的(DE)　取得(VC)　有限(VH)　，(COMMACATEGORY)
+***********************************************
+404.　，(COMMACATEGORY)　其(Nep)　車體(Na)　機械(Na)　結構(Na)　設計(Na)　、(PAUSECATEGORY)　控制(VC)　最佳化(VHC)　、(PAUSECATEGORY)　自動化(VHC)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+405.　，(COMMACATEGORY)　「(PARENTHESISCATEGORY)　節省(VJ)　耗損(VJ)[+nom]　」(PARENTHESISCATEGORY)　為(VG)　現今(Nd)　世界(Nc)　太陽能(Na)　車(Na)　研究(Na)　團體(Na)　的(DE)　主要(A)　研發(VC)[+fw]　目標(Na)　。(PERIODCATEGORY)
+***********************************************
+406.　。(PERIODCATEGORY)　而(Cbb)　我們(Nh)　所(D)　做(VC)　的(DE)　是(SHI)　在(P)　理論(Na)　、(PAUSECATEGORY)　加工(VB)[+nom]　技術(Na)　、(PAUSECATEGORY)　經濟(Na)　等(Cab)　各(Nes)　種(Nf)　成本(Na)　考量(VE)　之下(Ng)　，(COMMACATEGORY)
+***********************************************
+407.　，(COMMACATEGORY)　以(P)　學生(Na)　的(DE)　力量(Na)　嘗試(VF)　去(D)　尋找(VC)　研發(VC)[+nom]　方向(Na)　、(PAUSECATEGORY)　將(P)　成品(Na)　呈獻給(VD)　交大(Nc)　與(Caa)　國內外(Nc)　學界(Nc)　提供(VD)　參考(Na)　與(Caa)　求得(VC)　輔助(VC)　。(PERIODCATEGORY)
+***********************************************
+408.　。(PERIODCATEGORY)　經過(VCL)　九(Neu)　個(Nf)　多(Neqb)　月(Na)　的(DE)　資料(Na)　收集(VC)　、(PAUSECATEGORY)　以及(Caa)　最後(Nd)　三(Neu)　個(Nf)　月(Na)　的(DE)　動手(VA)　實作(VC)　組裝(VC)　，(COMMACATEGORY)
+***********************************************
+409.　，(COMMACATEGORY)　本(Nes)　校(Nc)　Ｉ(FW)　—(DASHCATEGORY)　Ｃｌｕｂ(FW)　機械(Na)　、(PAUSECATEGORY)　電子系(Nc)　同學(Na)　在(P)　系(Nc)　上(Ng)　與(P)　外界(Ncd)　廠商(Na)　各(Nes)　方面(Na)　的(DE)　軟硬體(Na)　的(DE)　輔助(VC)[+nom]　下(Ng)　，(COMMACATEGORY)
+***********************************************
+410.　，(COMMACATEGORY)　終於(D)　自行(D)　研發出(VC)　實際(VH)　路跑(Na)　且(Caa)　性能(Na)　具(VJ)　相當(VH)　水準(Na)　的(DE)　二(Neu)　號(Nf)　太陽能(Na)　動力(Na)　汽車(Na)　，(COMMACATEGORY)
+***********************************************
+411.　，(COMMACATEGORY)　並(Cbb)　於(P)　８４年(Nd)　三月(Nd)　梅竹賽(Na)　中(Ng)　在(P)　李(Nb)　總統(Na)　等(Cab)　官員(Na)　的(DE)　目視(VC)　下(Ng)　作(VC)　了(Di)　一(Neu)　次(Nf)　性能(Na)　雖(Cbb)　未(D)　完全(D)　發揮(VJ)　，(COMMACATEGORY)
+***********************************************
+412.　，(COMMACATEGORY)　但(Cbb)　相當(Dfa)　成功(VH)　的(DE)　展示(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+413.　。(PERIODCATEGORY)　同年(Nd)　校慶(Nd)　，(COMMACATEGORY)
+***********************************************
+414.　，(COMMACATEGORY)　並(Cbb)　應邀(VF)　於(P)　工程(Na)　五館(Nc)　中庭(Nc)　對(P)　Ｏｐｅｎ(FW)　Ｈｏｕｓｅ(FW)　活動(Na)　中(Ng)　的(DE)　廠商(Na)　進行(VC)　展示(VC)　與(Caa)　解說(VC)　，(COMMACATEGORY)
+***********************************************
+415.　，(COMMACATEGORY)　邀請(VC)　校長(Na)　先生(Na)　試駕(VC)　，(COMMACATEGORY)
+***********************************************
+416.　，(COMMACATEGORY)　並且(Cbb)　頗(Dfa)　獲(VJ)　各(Nes)　方(Ncd)　好評(Na)　。(PERIODCATEGORY)
+***********************************************
+417.　。(PERIODCATEGORY)　貳(Neu)　、(PAUSECATEGORY)　分類(Na)　技術(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+418.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　電池(Na)　方面(Na)　。(PERIODCATEGORY)
+***********************************************
+419.　。(PERIODCATEGORY)　參考(VC)[+nom]　資料(Na)　甚多(VH)　，(COMMACATEGORY)
+***********************************************
+420.　，(COMMACATEGORY)　但(Cbb)　因(Cbb)　未(D)　解決(VC)　ｄｒｉｖｅｒ(FW)　的(DE)　穩定性(Na)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+421.　，(COMMACATEGORY)　二(Neu)　號(Nf)　車(Na)　決定(VE)　電池(Na)　模組(Na)　暫緩(VH)　更新(VC)　，(COMMACATEGORY)
+***********************************************
+422.　，(COMMACATEGORY)　沿用(VC)　去年(Nd)　的(DE)　電瓶(Na)　：(COLONCATEGORY)
+***********************************************
+423.　：(COLONCATEGORY)　湯淺(Nb)　鉛酸(Na)　電瓶(Na)　。(PERIODCATEGORY)
+***********************************************
+424.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　馬達(Na)　方面(Na)　。(PERIODCATEGORY)
+***********************************************
+425.　。(PERIODCATEGORY)　一(Neu)　部(Nf)　性能(Na)　優異(VH)　的(DE)　太陽能(Na)　車(Na)　，(COMMACATEGORY)
+***********************************************
+426.　，(COMMACATEGORY)　最(Dfa)　重要(VH)　的(DE)　動力(Na)　心臟(Na)　是(SHI)　馬達(Na)　。(PERIODCATEGORY)
+***********************************************
+427.　。(PERIODCATEGORY)　從(P)　上(Nes)　一(Neu)　屆(Nf)　起(Ng)　即(D)　尋遍(VC)　了(Di)　國內(Nc)　馬達(Na)　製造(VC)　的(DE)　大小(A)　廠家(Na)　，(COMMACATEGORY)
+***********************************************
+428.　，(COMMACATEGORY)　去年(Nd)　五月(Nd)　起(Ng)　更(D)　朝向(VCL)　國外(Nc)　尋找(VC)　。(PERIODCATEGORY)
+***********************************************
+429.　。(PERIODCATEGORY)　據(P)　我們(Nh)　所(D)　收集到(VC)　的(DE)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+430.　，(COMMACATEGORY)　國內(Nc)　的(DE)　性能(Na)　（(PARENTHESISCATEGORY)　功率(Na)　重量(Na)　比(Na)　）(PARENTHESISCATEGORY)　幾乎(Da)　是(SHI)　國外(Nc)　的(DE)　１２０(Neu)　！(EXCLANATIONCATEGORY)
+***********************************************
+431.　！(EXCLANATIONCATEGORY)　最後(Nd)　所幸(D)　聯絡上(VC)　台北(Nc)　的(DE)　巨獅(Nb)　創意(Na)　科技(Na)[+prop]　，(COMMACATEGORY)
+***********************************************
+432.　，(COMMACATEGORY)　免費(VH)　提供(VD)　二(Neu)　號(Nf)　原型(Na)　車(Na)　的(DE)　馬達(Na)　。(PERIODCATEGORY)
+***********************************************
+433.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　電子(Na)　驅動(VC)[+nom]　電路(Na)　、(PAUSECATEGORY)　能源(Na)　回收(VC)[+nom]　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+434.　。(PERIODCATEGORY)　自行(D)　研發(VC)　、(PAUSECATEGORY)　除錯(VA)　是(SHI)　我們(Nh)　的(DE)　原則性(Na)　目標(Na)　，(COMMACATEGORY)
+***********************************************
+435.　，(COMMACATEGORY)　雖然(Cbb)　聯絡上(VC)　國內外(Nc)　各(Nes)　大(VH)　廠商(Na)　、(PAUSECATEGORY)　也(D)　拿到(VC)　成品(Na)　，(COMMACATEGORY)
+***********************************************
+436.　，(COMMACATEGORY)　但(Cbb)　其(Nep)　穩定性(Na)　、(PAUSECATEGORY)　及(Caa)　性能(Na)　上(Ng)　仍(D)　與(P)　理想(Na)　有(V_2)　一(Neu)　段(Nf)　差距(Na)　。(PERIODCATEGORY)
+***********************************************
+437.　。(PERIODCATEGORY)　原理(Na)　如此(VH)　，(COMMACATEGORY)
+***********************************************
+438.　，(COMMACATEGORY)　但(Cbb)　應用(VC)　在(P)　如此(Dfa)　高功率(Na)　的(DE)　場合(Na)　，(COMMACATEGORY)
+***********************************************
+439.　，(COMMACATEGORY)　穩定(VHC)　是(SHI)　必須(D)　考慮(VE)　的(DE)　重要(VH)　因子(Na)　之(DE)　一(Neu)　。(PERIODCATEGORY)
+***********************************************
+440.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　機械(Na)　變速(VA)　。(PERIODCATEGORY)
+***********************************************
+441.　。(PERIODCATEGORY)　電子(Na)　電路(Na)　中(Ng)　無論(Cbb)　是(SHI)　電壓(Na)　過(Dfa)　高(VH)　或是(Caa)　電流(Na)　過(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+442.　，(COMMACATEGORY)　不單(Da)　是(SHI)　元件(Na)　難以(D)　購得(VC)　，(COMMACATEGORY)
+***********************************************
+443.　，(COMMACATEGORY)　而且(Cbb)　會(D)　降低(VHC)　線路(Na)　之(DE)　穩定性(Na)　。(PERIODCATEGORY)
+***********************************************
+444.　。(PERIODCATEGORY)　要(D)　降低(VHC)　電流(Na)　有(V_2)　兩(Neu)　種(Nf)　方式(Na)　：(COLONCATEGORY)
+***********************************************
+445.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　調整(VC)　換用(VC)　高壓(Na)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+446.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　直流(VA)[+nom]　馬達(Na)　轉速(Na)　扭矩(Na)　曲線(Na)　約(Da)　呈(VJ)　雙曲線(Na)　分佈(VH)　，(COMMACATEGORY)
+***********************************************
+447.　，(COMMACATEGORY)　而(Cbb)　扭矩(Na)　約(Da)　與(P)　流入(VCL)　電流(Na)　成(VG)　正比(Na)　。(PERIODCATEGORY)
+***********************************************
+448.　。(PERIODCATEGORY)　在(P)　起步(VA)　時(Ng)　轉速(Na)　低(VH)　、(PAUSECATEGORY)　扭矩(Na)　大(VH)　、(PAUSECATEGORY)　吸入(VC)　電流(Na)　大(VH)　。(PERIODCATEGORY)
+***********************************************
+449.　。(PERIODCATEGORY)　故(Cbb)　在(P)　設計(VC)　二(Neu)　號(Nf)　車(Na)　時(Ng)　以(P)　機械(Na)　變速(VA)[+nom]　機構(Na)　以(P)　降低(VHC)　起步(VA)　負載(VC)　，(COMMACATEGORY)
+***********************************************
+450.　，(COMMACATEGORY)　採用(VC)　六(Neu)　段(Nf)　齒輪(Na)　變速器(Na)　。(PERIODCATEGORY)
+***********************************************
+451.　。(PERIODCATEGORY)　五(Neu)　、(PAUSECATEGORY)　太陽能板(Na)　最佳(A)　功率(Na)　搜尋器(Na)　、(PAUSECATEGORY)　電量計(Na)　。(PERIODCATEGORY)
+***********************************************
+452.　。(PERIODCATEGORY)　ＭＰＰＴ(FW)　的(DE)　任務(Na)　就是(Cbb)　使(VL)　衝(VA)　往(P)　電瓶(Na)　的(DE)　平均(VH)　功率能(Na)　在(P)　太陽能板(Na)　的(DE)　最佳(A)　輸出(VC)[+nom]　功率點(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+453.　，(COMMACATEGORY)　以(P)　使(VL)　太陽能板(Na)　之(DE)　功率(Na)　有效(VH)　發揮(VJ)　。(PERIODCATEGORY)
+***********************************************
+454.　。(PERIODCATEGORY)　目前(Nd)　我們(Nh)　有(V_2)　燒出(VC)　一(Neu)　台(Nf)　ＭＰＰＴ(FW)　，(COMMACATEGORY)
+***********************************************
+455.　，(COMMACATEGORY)　尚未(D)　使用(VC)　測試(Na)　。(PERIODCATEGORY)
+***********************************************
+456.　。(PERIODCATEGORY)　瓦時計(Na)　：(COLONCATEGORY)
+***********************************************
+457.　：(COLONCATEGORY)　這(Nep)　種(Nf)　東西(Na)　類似(VG)　於(P)　機車(Na)　的(DE)　油量表(Na)　，(COMMACATEGORY)
+***********************************************
+458.　，(COMMACATEGORY)　只是(Cbb)　技術(Na)　似乎(D)　困難(VH)　得(DE)　多(VH)　。(PERIODCATEGORY)
+***********************************************
+459.　。(PERIODCATEGORY)　目前(Nd)　有(V_2)　兩(Neu)　種(Nf)　方法(Na)　可(D)　計算(VC)　得出(VJ)　電瓶(Na)　所(D)　剩(VJ)　電量(Na)　：(COLONCATEGORY)
+***********************************************
+460.　：(COLONCATEGORY)　１(Neu)　）(PARENTHESISCATEGORY)　輸出(VC)[+nom]　能量(Na)　積分(Na)　（(PARENTHESISCATEGORY)　ＩＶｄｔ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+461.　，(COMMACATEGORY)　則(D)　所(D)　剩(VJ)　的(DE)　能量(Na)　原有(VJ)[+nom]　能量(Na)　—(DASHCATEGORY)　輸出(VC)[+nom]　能量(Na)　。(PERIODCATEGORY)
+***********************************************
+462.　。(PERIODCATEGORY)　但(Cbb)　問題(Na)　是(SHI)　「(PARENTHESISCATEGORY)　原有(VJ)[+nom]　能量(Na)　」(PARENTHESISCATEGORY)　如何(D)　求得(VC)　？(QUESTIONCATEGORY)
+***********************************************
+463.　？(QUESTIONCATEGORY)　２(Neu)　）(PARENTHESISCATEGORY)　高精確度(Na)　的(DE)　電壓計(Na)　量出(VC)　目前(Nd)　電壓(Na)　多少(Neqa)　，(COMMACATEGORY)
+***********************************************
+464.　，(COMMACATEGORY)　根據(P)　該(Nes)　電瓶(Na)　的(DE)　性能(Na)　曲線(Na)　查表(VA)　比對(VC)　出現(VH)　存電量(Na)　有(V_2)　多少(Neqa)　。(PERIODCATEGORY)
+***********************************************
+465.　。(PERIODCATEGORY)　但(Cbb)　多半(Neqa)　電瓶(Na)　有(V_2)　「(PARENTHESISCATEGORY)　浮動(VA)[+nom]　電壓(Na)　」(PARENTHESISCATEGORY)　存在(VA)　，(COMMACATEGORY)
+***********************************************
+466.　，(COMMACATEGORY)　要(D)　精確(VH)　量出(VC)　電壓(Na)　必須(D)　讓(VL)　電瓶(Na)　「(PARENTHESISCATEGORY)　休息(VA)　」(PARENTHESISCATEGORY)　一(Neu)　段(Nf)　時間(Na)　再(D)　測(VC)　較(Dfa)　準(VH)　。(PERIODCATEGORY)
+***********************************************
+467.　。(PERIODCATEGORY)　我們(Nh)　找(VC)　過(Di)　工研院(Nc)　，(COMMACATEGORY)
+***********************************************
+468.　，(COMMACATEGORY)　才(Da)　知道(VK)　這(Nep)　是(SHI)　國內(Nc)　一(Neu)　項(Nf)　專利(Na)　，(COMMACATEGORY)
+***********************************************
+469.　，(COMMACATEGORY)　巨獅(Nb)　所有(VI)　。(PERIODCATEGORY)
+***********************************************
+470.　。(PERIODCATEGORY)　所以(Cbb)　又(D)　得(D)　看看(VE)　國外(Nc)　的(DE)　廠商(Na)　了(T)　，(COMMACATEGORY)
+***********************************************
+471.　，(COMMACATEGORY)　學弟(Na)　聯絡(VC)　這(Nep)　方面(Na)　的(DE)　結果(Na)　似乎(D)　不錯(VH)　。(PERIODCATEGORY)
+***********************************************
+472.　。(PERIODCATEGORY)　參(Neu)　、(PAUSECATEGORY)　檢討(VE)　改進(VC)　與(P)　下(Nes)　年度(Na)　最(Dfa)　新(VH)　目標(Na)　。(PERIODCATEGORY)
+***********************************************
+473.　。(PERIODCATEGORY)　從(P)　完全(D)　沒有(VJ)　電子(Na)　基礎(Na)　，(COMMACATEGORY)
+***********************************************
+474.　，(COMMACATEGORY)　到(P)　實際(VH)　作出(VC)　一(Neu)　台(Nf)　性能(Na)　相當(Dfa)　優異(VH)　的(DE)　太陽能(Na)　車(Na)　，(COMMACATEGORY)
+***********************************************
+475.　，(COMMACATEGORY)　煒旭(Nb)　同學(Na)　將(P)　電力組(Nc)　腳步(Na)　提昇到(VC)　一(Neu)　個(Nf)　新(VH)　紀元(Nd)　。(PERIODCATEGORY)
+***********************************************
+476.　。(PERIODCATEGORY)　今後(Nd)　雖然(Cbb)　我們(Nh)　有(V_2)　廠商(Na)　優良(VH)　的(DE)　模組(Na)　，(COMMACATEGORY)
+***********************************************
+477.　，(COMMACATEGORY)　整體(Na)　、(PAUSECATEGORY)　精簡(VJ)　、(PAUSECATEGORY)　更(D)　高性能(A)　的(DE)　成品(Na)　支援(VC)　，(COMMACATEGORY)
+***********************************************
+478.　，(COMMACATEGORY)　但(Cbb)　自行(D)　嘗試(VF)　研發(VC)　除錯(VA)　才(Da)　是(SHI)　進入(VCL)　太陽能(Na)　車(Na)　電力組(Nc)　最終(A)　的(DE)　目標(Na)　，(COMMACATEGORY)
+***********************************************
+479.　，(COMMACATEGORY)　也(D)　是(SHI)　電力組長(Na)　們(Na)　最(Dfa)　由衷(D)　的(DE)　期許(VK)　。(PERIODCATEGORY)
+***********************************************
+480.　。(PERIODCATEGORY)　現在(Nd)　已經(D)　開始(VL)　進行(VC)　三(Neu)　號(Nf)　車(Na)　的(DE)　構思(Na)　與(Caa)　資訊(Na)　、(PAUSECATEGORY)　材料(Na)　收集(VC)　，(COMMACATEGORY)
+***********************************************
+481.　，(COMMACATEGORY)　期(VK)　能(D)　在(P)　明年(Nd)　順利(VH)　進軍(VCL)　高水準(Na)　的(DE)　競賽(Na)　，(COMMACATEGORY)
+***********************************************
+482.　，(COMMACATEGORY)　只是(D)　在(P)　校園(Nc)　逛逛街(VA)　、(PAUSECATEGORY)　上(VCL)　綜藝(A)　節目(Na)　亮亮相(VA)　，(COMMACATEGORY)
+***********************************************
+483.　，(COMMACATEGORY)　充其量(D)　只(Da)　能(D)　算作(VG)　秀場(Nc)　，(COMMACATEGORY)
+***********************************************
+484.　，(COMMACATEGORY)　交大(Nc)　追(VC)　夢(Na)　人(Na)　，(COMMACATEGORY)
+***********************************************
+485.　，(COMMACATEGORY)　把(P)　您(Nh)　的(DE)　實力(Na)　亮出來(VB)　吧(T)　！(EXCLANATIONCATEGORY)
+***********************************************
+486.　！(EXCLANATIONCATEGORY)
+***********************************************
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=交大I-CLUB太陽能車計畫的太陽能車。
+487.　！(EXCLANATIONCATEGORY)　交大(Nc)　Ｉ(FW)　—(DASHCATEGORY)　ＣＬＵＢ(FW)　太陽能(Na)　車(Na)　計畫(Na)　的(DE)　太陽能(Na)　車(Na)　。(PERIODCATEGORY)
+***********************************************
+488.　。(PERIODCATEGORY)　設計(Na)　簡介(Na)　：(COLONCATEGORY)
+***********************************************
+489.　：(COLONCATEGORY)　一(Neu)　．(PERIODCATEGORY)　動力(Na)　系統(Na)　性能(Na)　之(DE)　提昇(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+490.　：(COLONCATEGORY)　以(P)　目前(Nd)　現有(A)　之(DE)　太陽能板(Na)　理論(Na)　效率(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+491.　，(COMMACATEGORY)　其(Nep)　能量(Na)　之(DE)　供應(VD)[+nom]　仍(D)　是(SHI)　極為(Dfa)　有限(VH)　，(COMMACATEGORY)
+***********************************************
+492.　，(COMMACATEGORY)　因此(Cbb)　如何(D)　將(D)　所(D)　生成(VH)　之(DE)　能量(Na)　作(VC)　最(Dfa)　有效(VH)　之(DE)　發揮(VJ)　乃是(SHI)　一(Neu)　大(VH)　重點(Na)　，(COMMACATEGORY)
+***********************************************
+493.　，(COMMACATEGORY)　在(P)　這(Nep)　部份(Neqa)　目前(Nd)　我們(Nh)　已(D)　開始(VL)　著手(VF)　研究(VE)　太陽能板(Na)　之(DE)　最佳(A)　功率(Na)　搜尋(VC)[+nom]　線路(Na)　（(PARENTHESISCATEGORY)　ＰＰＴ(FW)　）(PARENTHESISCATEGORY)　之(DE)　設計(Na)　。(PERIODCATEGORY)
+***********************************************
+494.　。(PERIODCATEGORY)　至於(P)　在(P)　太陽能板(Na)　及(Caa)　電瓶(Na)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+495.　，(COMMACATEGORY)　太陽能板(Na)　目前(Nd)　我們(Nh)　是(SHI)　配合(VC)　澳洲(Nc)　世界賽(Na)　最(Dfa)　大(VH)　面積(Na)　八(Neu)　平方公尺(Nf)　之(DE)　標準(Na)　要求(Na)　，(COMMACATEGORY)
+***********************************************
+496.　，(COMMACATEGORY)　使用(VC)　二十七(Neu)　片(Nf)　多晶矽(Na)　太陽能(Na)　電池(Na)　，(COMMACATEGORY)
+***********************************************
+497.　，(COMMACATEGORY)　根據(P)　廠商(Na)　所(D)　給(VD)　我們(Nh)　的(DE)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+498.　，(COMMACATEGORY)　轉換(VC)[+nom]　效率(Na)　可(D)　達(VJ)　１２％(Neqa)　左右(Ng)　，(COMMACATEGORY)
+***********************************************
+499.　，(COMMACATEGORY)　所以(Cbb)　理論(Na)　上(Ng)　在(P)　最佳(A)　狀態(Na)　下(Ng)　可(D)　提供(VD)　車子(Na)　一(Neu)　千瓦(Nf)　左右(Ng)　的(DE)　動力(Na)　來源(Na)　，(COMMACATEGORY)
+***********************************************
+500.　，(COMMACATEGORY)　只要(Cbb)　加上(VC)　最佳(A)　功率(Na)　搜尋(VC)[+nom]　及(Caa)　相關(VH)　效率(Na)　提昇(VC)　線路(Na)　的(DE)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+501.　，(COMMACATEGORY)　和(Caa)　機械(Na)　部份(Neqa)　之(DE)　傳動(VA)[+nom]　、(PAUSECATEGORY)　懸吊(Na)　、(PAUSECATEGORY)　外型(Na)　、(PAUSECATEGORY)　結構(Na)　之(DE)　最佳化(VHC)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+502.　，(COMMACATEGORY)　理論(Na)　上(Ng)　要(D)　無(VJ)　外加(VC)　能源(Na)　無限(VH)　行駛(VA)　的(DE)　最終(A)　目標(Na)　應(D)　可(D)　達成(VC)　。(PERIODCATEGORY)
+***********************************************
+503.　。(PERIODCATEGORY)　二(Neu)　．(PERIODCATEGORY)　減少(VHC)　動力(Na)　耗損(VJ)[+nom]　：(COLONCATEGORY)
+***********************************************
+504.　：(COLONCATEGORY)　在(P)　降低(VHC)　動力(Na)　損耗(VJ)　的(DE)　課題(Na)　方面(Na)　可(D)　細分為(VG)　三(Neu)　部份(Neqa)　：(COLONCATEGORY)
+***********************************************
+505.　：(COLONCATEGORY)　一(Neu)　為(P)　降低(VHC)　路面(Nc)　阻力(Na)　，(COMMACATEGORY)
+***********************************************
+506.　，(COMMACATEGORY)　二(Neu)　為(VG)　風阻(Na)　係數(Na)　之(DE)　降低(VHC)[+nom]　、(PAUSECATEGORY)　三(Neu)　為(VG)　控制(VC)[+nom]　電路(Na)　效率(Na)　之(DE)　提高(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+507.　。(PERIODCATEGORY)　在(P)　降低(VHC)　路阻(Na)　部份(Neqa)　來(D)　說(VE)　，(COMMACATEGORY)
+***********************************************
+508.　，(COMMACATEGORY)　減輕(VHC)　重量(Na)　、(PAUSECATEGORY)　懸吊(Na)　系統(Na)　的(DE)　設計(Na)　都(D)　是(SHI)　要(D)　考慮(VE)　的(DE)　要素(Na)　，(COMMACATEGORY)
+***********************************************
+509.　，(COMMACATEGORY)　目前(Nd)　我們(Nh)　所(D)　採用(VC)　的(DE)　複合(A)　材料(Na)　材料(Na)　設計(Na)　在(P)　輕量化(VHC)　及(Caa)　強度(Na)　的(DE)　要求(Na)　上(Ng)　均(D)　已(D)　達到(VJ)　相當(Dfa)　不錯(VH)　之(DE)　效果(Na)　，(COMMACATEGORY)
+***********************************************
+510.　，(COMMACATEGORY)　車(Na)　底盤(Na)　之(DE)　重量(Na)　還(D)　不(D)　到(VCL)　十二(Neu)　公斤(Nf)　，(COMMACATEGORY)
+***********************************************
+511.　，(COMMACATEGORY)　體積(Na)　龐大(VH)　的(DE)　車殼(Na)　也(D)　只(Da)　有(V_2)　七十(Neu)　公斤(Nf)　的(DE)　重量(Na)　，(COMMACATEGORY)
+***********************************************
+512.　，(COMMACATEGORY)　前輪(Na)　懸吊(Na)　乃是(SHI)　採用(VC)　改良式(A)　雙Ａ臂(Na)[+fw]　設計(Na)　，(COMMACATEGORY)
+***********************************************
+513.　，(COMMACATEGORY)　越野性(Na)　及(Caa)　操控性(Na)　均(D)　十分(Dfa)　理想(VH)　。(PERIODCATEGORY)
+***********************************************
+514.　。(PERIODCATEGORY)　在(P)　降低(VHC)　風阻(Na)　係數(Na)　的(DE)　課題(Na)　上(Ncd)　由於(Cbb)　太陽能(Na)　車(Na)　的(DE)　動力(Na)　有限(VH)　，(COMMACATEGORY)
+***********************************************
+515.　，(COMMACATEGORY)　最佳(A)　氣(Na)　動力(Na)　外型(Na)　之(DE)　設計(Na)　乃為(VG)　一(Neu)　大(VH)　關鍵(Na)　，(COMMACATEGORY)
+***********************************************
+516.　，(COMMACATEGORY)　因此(Cbb)　我們(Nh)　參考(VC)　了(Di)　飛機(Na)　ＬＯＷ(FW)　ＤＲＡＧ(FW)　翼形(Na)　參數(Na)　資料(Na)　做為(VG)　我們(Nh)　外型(Na)　設計(Na)　之(DE)　理論(Na)　依據(Na)　，(COMMACATEGORY)
+***********************************************
+517.　，(COMMACATEGORY)　同時(Nd)　盡量(D)　壓低(VC)　車(Na)　高(Na)　，(COMMACATEGORY)
+***********************************************
+518.　，(COMMACATEGORY)　減少(VHC)　迎(VC)　風(Na)　面積(Na)　，(COMMACATEGORY)
+***********************************************
+519.　，(COMMACATEGORY)　而(Cbb)　做出(VC)　蟑螂形(Na)　車殼(Na)　，(COMMACATEGORY)
+***********************************************
+520.　，(COMMACATEGORY)　這(Nep)　也(D)　是(SHI)　目前(Nd)　太陽能(Na)　競賽(Na)　車(Na)　之(DE)　外型(Na)　最佳化(VHC)　構型(Na)　。(PERIODCATEGORY)
+***********************************************
+521.　。(PERIODCATEGORY)　在(P)　控制(VC)[+nom]　電路(Na)　部份(Neqa)　是(SHI)　採用(VC)　ＰＷＭ(FW)　方式(Na)　控制(VC)　馬達(Na)　，(COMMACATEGORY)
+***********************************************
+522.　，(COMMACATEGORY)　能(D)　以(P)　極少(VH)　之(DE)　損耗(Na)　有效(VH)　改變(VC)　調整(VC)　馬達(Na)　之(DE)　轉速(Na)　，(COMMACATEGORY)
+***********************************************
+523.　，(COMMACATEGORY)　目前(Nd)　正(D)　開始(VL)　進行(VC)　控制(VC)　線路(Na)　之(DE)　後級(Na)　部份(Neqa)　改良(VC)　，(COMMACATEGORY)
+***********************************************
+524.　，(COMMACATEGORY)　加裝(VC)　車子(Na)　行駛(VA)　間(Ng)　及(Caa)　煞車(VA)　時(Ng)　馬達(Na)　之(DE)　動力(Na)　回充(VH)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+525.　。(PERIODCATEGORY)　三(Neu)　．(PERIODCATEGORY)　可靠度(Na)　及(Caa)　自製率(Na)　：(COLONCATEGORY)
+***********************************************
+526.　：(COLONCATEGORY)　可靠度(Na)　的(DE)　提高(VC)　為(VG)　改進(VC)　的(DE)　一(Neu)　大(VH)　重點(Na)　，(COMMACATEGORY)
+***********************************************
+527.　，(COMMACATEGORY)　以(P)　理論(Na)　分析(VC)　作為(VG)　之(DE)　基礎(Na)　，(COMMACATEGORY)
+***********************************************
+528.　，(COMMACATEGORY)　降低(VHC)　試誤(Na)　及(Caa)　故障(VH)　機會(Na)　，(COMMACATEGORY)
+***********************************************
+529.　，(COMMACATEGORY)　使(VL)　整體(Na)　設計(Na)　最佳化(VHC)　，(COMMACATEGORY)
+***********************************************
+530.　，(COMMACATEGORY)　增加(VHC)　實用(VH)　價值(Na)　。(PERIODCATEGORY)
+***********************************************
+531.　。(PERIODCATEGORY)　在(P)　提高(VC)　自製率(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+532.　，(COMMACATEGORY)　除(P)　部份(Neqa)　必要(VH)　裝置(Na)　，(COMMACATEGORY)
+***********************************************
+533.　，(COMMACATEGORY)　車子(Na)　各(Nes)　部份(Neqa)　從(P)　設計(VC)　、(PAUSECATEGORY)　製作(VC)　、(PAUSECATEGORY)　一直(D)　到(P)　最後(Nd)　組裝(VC)　完全(VH)　不(D)　外包(VD)　廠商(Na)　，(COMMACATEGORY)
+***********************************************
+534.　，(COMMACATEGORY)　全部(Neqa)　由(P)　同學(Na)　自行(D)　研發(VC)　製作(VC)　，(COMMACATEGORY)
+***********************************************
+535.　，(COMMACATEGORY)　以期(VK)　能(D)　藉(P)　此(Nep)　確實(D)　獲取(VC)　實(D)　做(VC)　經驗(Na)　，(COMMACATEGORY)
+***********************************************
+536.　，(COMMACATEGORY)　達到(VJ)　此(Nep)　計畫(Na)　之(DE)　真正(A)　用意(Na)　，(COMMACATEGORY)
+***********************************************
+537.　，(COMMACATEGORY)　並(Cbb)　紮實(VH)　日後(Nd)　繼續(VF)　發展(VC)　之(DE)　技術(Na)　基礎(Na)　。(PERIODCATEGORY)
+***********************************************

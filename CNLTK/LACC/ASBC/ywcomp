@@ -1,0 +1,362 @@
+%%  文類=說明手冊
+%%  文體=說明
+%%  語式=written
+%%  主題=資訊
+%%  媒體=視聽媒體
+%%  姓名=蘇守政
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1995
+%%  版次=
+%%  標題=認識電腦繪圖
+1.　。(PERIODCATEGORY)　使用(VC)　電腦(Na)　來(D)　處理(VC)　圖形(Na)　或(Caa)　影像(Na)　等(Cab)　視覺(Na)　表現(Na)　的(DE)　技術(Na)　與(Caa)　形式(Na)　，(COMMACATEGORY)
+***********************************************
+2.　，(COMMACATEGORY)　一般(D)　稱為(VG)　「(PARENTHESISCATEGORY)　電腦(Na)　繪圖(VA)　」(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　Ｃｏｍｐｕｔｅｒ(FW)　Ｇｒａｐｈｉｃ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+3.　，(COMMACATEGORY)　或(Caa)　簡稱為(VG)　ＣＧ(FW)　。(PERIODCATEGORY)
+***********************************************
+4.　。(PERIODCATEGORY)　此(Nep)　一(Neu)　視覺(Na)　媒體(Na)　在(P)　技術(Na)　上(Ng)　的(DE)　特色(Na)　是(SHI)　將(P)　數值(Na)　訊號(Na)　輸入(VC)　電腦(Na)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　會(D)　轉換成(VG)　可(D)　視(VC)　的(DE)　圖形(Na)　或(Caa)　影像(Na)　輸出(VC)　。(PERIODCATEGORY)
+***********************************************
+6.　。(PERIODCATEGORY)　其中(Nep)　包含(VJ)　了(Di)　靜態(Na)　的(DE)　畫面(Na)　與(Caa)　平面(Na)　或(Caa)　立體(VH)　的(DE)　動畫(Na)　。(PERIODCATEGORY)
+***********************************************
+7.　。(PERIODCATEGORY)　回顧(VE)　電腦(Na)　繪圖(VA)　的(DE)　技術(Na)　與(Caa)　表現(Na)　的(DE)　神速(VH)　發展(Na)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　實在(D)　令(VL)　人(Na)　驚嘆(VE)　。(PERIODCATEGORY)
+***********************************************
+9.　。(PERIODCATEGORY)　電腦(Na)　問世(VA)　尚(D)　不滿(VK)　五十(Neu)　年(Nf)　，(COMMACATEGORY)
+***********************************************
+10.　，(COMMACATEGORY)　而(Cbb)　電腦(Na)　繪圖(VA)　的(DE)　正式(VH)　起步(VA)[+nom]　，(COMMACATEGORY)
+***********************************************
+11.　，(COMMACATEGORY)　也(D)　不過(Da)　三十(Neu)　年(Nf)　，(COMMACATEGORY)
+***********************************************
+12.　，(COMMACATEGORY)　其(Nep)　造形(Na)　表現(Na)　能力(Na)　的(DE)　精良(VH)[+nom]　與(Caa)　豐富(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　已(D)　遠(Dfa)　超過(VJ)　以往(Nd)　人類(Na)　所(D)　創造(VC)　的(DE)　任何(Neqa)　一(Neu)　種(Nf)　視覺(Na)　媒體(Na)　。(PERIODCATEGORY)
+***********************************************
+14.　。(PERIODCATEGORY)　電腦(Na)　繪圖(VA)　和(Caa)　其他(Neqa)　視覺(Na)　藝術(Na)　表現(Na)　工具(Na)　的(DE)　最(Dfa)　大(VH)　差異(Na)　是(SHI)　除了(P)　能(D)　依照(P)　指示(Na)　描繪出(VC)　精緻(VH)　的(DE)　圖畫(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+15.　，(COMMACATEGORY)　只要(Cbb)　改變(VC)　數式(Na)　中(Ng)　的(DE)　參數(Na)　，(COMMACATEGORY)
+***********************************************
+16.　，(COMMACATEGORY)　往往(D)　就(D)　能(D)　產生(VHC)　超越(VC)　作者(Na)　想像(Na)　的(DE)　作品(Na)　。(PERIODCATEGORY)
+***********************************************
+17.　。(PERIODCATEGORY)　第二(Neu)　次(Nf)　世界(Nc)　大戰(Na)　期間(Na)　，(COMMACATEGORY)
+***********************************************
+18.　，(COMMACATEGORY)　美國(Nc)　為(P)　了(Di)　精確(VH)　計算(VC)　彈道(Na)　，(COMMACATEGORY)
+***********************************************
+19.　，(COMMACATEGORY)　而(Cbb)　著手(VF)　開發(VC)　電腦(Na)　的(DE)　製作(VC)[+nom]　技術(Na)　但是(Cbb)　直到(P)　戰後(Nd)　的(DE)　一九四六年(Nd)　才(Da)　由(P)　當時(Nd)　還(D)　是(SHI)　美國(Nc)　賓夕法尼亞(Nc)　大學(Nc)　研究生(Na)　的(DE)　艾克特(Nb)　（(PARENTHESISCATEGORY)　Ｊｏｈｎ(Nb)[+fw]　Ｐｒｅｓｐｅｉ(FW)　Ｅｃｋｅｉｔ(FW)　）(PARENTHESISCATEGORY)　完成(VC)　問世(VA)　，(COMMACATEGORY)
+***********************************************
+20.　，(COMMACATEGORY)　當時(Nd)　所(D)　製造(VC)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+21.　，(COMMACATEGORY)　使用(VC)　真空管(Na)　，(COMMACATEGORY)
+***********************************************
+22.　，(COMMACATEGORY)　體積(Na)　龐大(VH)　的(DE)　電腦(Na)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　被(P)　命名為(VG)　「(PARENTHESISCATEGORY)　ＥＮＩＡＣ(FW)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+24.　。(PERIODCATEGORY)　十五(Neu)　年(Nf)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　波士頓(Nc)　麻省理工(Nc)　學院(Nc)　的(DE)　薩惹蘭德(Nb)　（(PARENTHESISCATEGORY)　Ｉ(FW)　，(COMMACATEGORY)
+***********************************************
+26.　，(COMMACATEGORY)　Ｓｕｔｌｉｅｒ(FW)　Ｌａｎｄ(FW)　）(PARENTHESISCATEGORY)　於(P)　一九六一年(Nd)　著手(VF)　研究(VE)　會話型(Na)　的(DE)　圖形(Na)　處理(VC)[+nom]　系統(Na)　，(COMMACATEGORY)
+***********************************************
+27.　，(COMMACATEGORY)　一九六三年(Nd)　發表(VC)　了(Di)　可以(D)　使用(VC)　光筆(Na)　在(P)　圖像(Na)　顯示器(Na)　上(Ncd)　描繪(VC)　圖形(Na)　，(COMMACATEGORY)
+***********************************************
+28.　，(COMMACATEGORY)　人(Na)　與(Caa)　機器(Na)　直接(VH)　對話(VA)　的(DE)　繪圖(VA)[+nom]　系統(Na)　（(PARENTHESISCATEGORY)　Ｓｋｅｔｃｈ(FW)　Ｐａｄ(FW)　Ｓｙｓｔｅｍ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　奠定(VC)　了(Di)　今日(Nd)　電腦(Na)　繪圖(VA)[+nom]　技術(Na)　與(Caa)　發展(Na)　方向(Na)　的(DE)　基礎(Na)　。(PERIODCATEGORY)
+***********************************************
+30.　。(PERIODCATEGORY)　進入(VCL)　七十年代(Nd)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　由於(Cbb)　技術(Na)　的(DE)　進步(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　電腦(Na)　繪圖(VA)　在(P)　色彩(Na)　、(PAUSECATEGORY)　形態(Na)　、(PAUSECATEGORY)　質感(Na)　等(Cab)　造形(Na)　要素(Na)　的(DE)　表現(Na)　上(Ng)　日趨(D)　成熟(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+33.　；(SEMICOLONCATEGORY)　並(D)　超越(VC)　了(Di)　平面(Na)　與(Caa)　靜態(Na)　的(DE)　表現(Na)　，(COMMACATEGORY)
+***********************************************
+34.　，(COMMACATEGORY)　可以(D)　作出(VC)　具有(VJ)　立體感(Na)　與(Caa)　完整(VH)　光影(Na)　表現(Na)　的(DE)　寫實(VH)　場面(Na)　。(PERIODCATEGORY)
+***********************************************
+35.　。(PERIODCATEGORY)　直到(P)　十幾(Neu)　年(Nf)　前(Ng)　，(COMMACATEGORY)
+***********************************************
+36.　，(COMMACATEGORY)　電腦(Na)　所(D)　描繪(VC)　的(DE)　圖形(Na)　除了(P)　符號(Na)　疏密(Na)　構成(VG)　的(DE)　點畫(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　多半(Neqa)　是(SHI)　一些(Neqa)　平面(Na)　或(Caa)　只(Da)　能(D)　暗示(VE)　立體感(Na)　的(DE)　線畫(Na)　。(PERIODCATEGORY)
+***********************************************
+38.　。(PERIODCATEGORY)　後來(Nd)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　先(D)　是(SHI)　可以(D)　消去(VC)　隱線(Na)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+40.　，(COMMACATEGORY)　呈現出(VJ)　面(Na)　的(DE)　組合(VC)[+nom]　之(DE)　映像域(Na)　掃描(VC)[+nom]　技術(Na)　的(DE)　出現(VH)[+nom]　；(SEMICOLONCATEGORY)
+***********************************************
+41.　；(SEMICOLONCATEGORY)　接著(D)　附加(VC)　陰影(Na)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　甚至(D)　以(P)　拼貼(VC)　的(DE)　概念(Na)　與(Caa)　方法(Na)　在(P)　立體(VH)　模型(Na)　上(Ncd)　覆貼(VC)　表層(Na)　質感(Na)　等(Cab)　模擬(VC)　實物(Na)　或(Caa)　實景(Na)　的(DE)　各(Nes)　種(Nf)　視覺(Na)　表現(Na)　技法(Na)　逐項(D)　被(P)　開發出來(VC)　。(PERIODCATEGORY)
+***********************************************
+43.　。(PERIODCATEGORY)　其中(Nep)　具有(VJ)　特色(Na)　的(DE)　表現(Na)　技法(Na)　還(D)　有(V_2)　下列(A)　數(Neu)　項(Nf)　，(COMMACATEGORY)
+***********************************************
+44.　，(COMMACATEGORY)　一九七九年(Nd)　發表(VC)　的(DE)　「(PARENTHESISCATEGORY)　光(Na)　跡(Na)　追蹤(VC)[+nom]　法(Na)　」(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　Ｒａｙ(FW)　Ｔｒａｃｉｎｇ(FW)　Ｍｅｔｈｏｄ(FW)　）(PARENTHESISCATEGORY)　是(SHI)　一(Neu)　種(Nf)　以(P)　光(Na)　的(DE)　反射(VJ)[+nom]　狀態(Na)　來(D)　顯示(VK)　物體(Na)　的(DE)　質感(Na)　，(COMMACATEGORY)
+***********************************************
+45.　，(COMMACATEGORY)　或是(Caa)　呈現出(VJ)　如同(VG)　透過(P)　透明(VH)　材質(Na)　，(COMMACATEGORY)
+***********************************************
+46.　，(COMMACATEGORY)　反映出(VK)　受到(VJ)　折射(VH)　影響(Na)　而(Cbb)　變形(VH)　的(DE)　景象(Na)　等(Cab)　顯示(VK)　材料(Na)　質感(Na)　或(Caa)　透明感(Na)　的(DE)　寫實(VH)　技法(Na)　。(PERIODCATEGORY)
+***********************************************
+47.　。(PERIODCATEGORY)　緊接著(D)　由於(Cbb)　電腦(Na)　計算(VC)[+nom]　能力(Na)　的(DE)　高速化(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　應用(Na)　新(VH)　的(DE)　數學(Na)　理論(Na)　—(DASHCATEGORY)　碎形(Na)　幾何(Na)　（(PARENTHESISCATEGORY)　Ｆｒａｃｔａｌ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　可以(D)　經由(P)　自我(Nh)　相似(VH)　型(Na)　的(DE)　衍生(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+50.　，(COMMACATEGORY)　描繪出(VC)　需要(Na)　龐大(VH)　的(DE)　計算(VC)[+nom]　能力(Na)　才(Da)　能(D)　處理(VC)　的(DE)　山脈(Na)　、(PAUSECATEGORY)　海岸線(Na)　、(PAUSECATEGORY)　雲朵(Na)　等(Cab)　複雜(VH)　的(DE)　不(D)　規則(VH)　型態(Na)　。(PERIODCATEGORY)
+***********************************************
+51.　。(PERIODCATEGORY)　追溯(VC)　電腦(Na)　繪圖(VA)　視覺(Na)　表現(Na)　的(DE)　發展(Na)　歷程(Na)　，(COMMACATEGORY)
+***********************************************
+52.　，(COMMACATEGORY)　從(P)　一九七０年代(Nd)　到(P)　一九八０年代(Nd)　初期(Nd)　的(DE)　十多(Neu)　年(Nf)　間(Ng)　，(COMMACATEGORY)
+***********************************************
+53.　，(COMMACATEGORY)　可(D)　說(VE)　是(SHI)　進化(VHC)　過程(Na)　的(DE)　關鍵性(Na)　時刻(Na)　。(PERIODCATEGORY)
+***********************************************
+54.　。(PERIODCATEGORY)　使用(VC)　電腦(Na)　繪圖(VA)[+nom]　技術(Na)　所(D)　製作(VC)　的(DE)　圖形(Na)　或(Caa)　影像(Na)　，(COMMACATEGORY)
+***********************************************
+55.　，(COMMACATEGORY)　表面(Na)　看起來(D)　和(P)　一般(A)　的(DE)　繪圖(VA)[+nom]　、(PAUSECATEGORY)　照片(Na)　或(Caa)　影片(Na)　十分(Dfa)　雷同(VI)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　但(Cbb)　有(V_2)　一(Neu)　點(Nf)　是(SHI)　截然不同(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　電腦(Na)　所(D)　製作(VC)　的(DE)　圖像(Na)　無論(Cbb)　是(SHI)　多麼(Dfa)　單純(VH)　的(DE)　點(Na)　、(PAUSECATEGORY)　線(Na)　或(Caa)　面(Na)　的(DE)　構圖(Na)　，(COMMACATEGORY)
+***********************************************
+58.　，(COMMACATEGORY)　背後(Nc)　一定(D)　隱藏(VC)　著(Di)　支持(VC)　其(Nep)　成立(VC)　的(DE)　數學(Na)　公式(Na)　或(Caa)　計算(VC)　的(DE)　程序(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+59.　；(SEMICOLONCATEGORY)　因此(Cbb)　在(P)　基本(A)　的(DE)　模型(Na)　建構(VC)　完成(VC)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　還(D)　可(D)　進一步(D)　任(VL)　各(Nes)　種(Nf)　角度(Na)　與(Caa)　動態(Na)　的(DE)　視覺(Na)　模擬(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+61.　。(PERIODCATEGORY)　如果(Cbb)　以(P)　一(Neu)　棟(Nf)　建築物(Na)　來(D)　譬喻(VE)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　除了(P)　可以(D)　確認(VE)　空間(Na)　中(Ncd)　各(Nes)　部份(Neqa)　的(DE)　相關(VH)　座標(Na)　位置(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+63.　，(COMMACATEGORY)　將(P)　座標(Na)　上(Ncd)　的(DE)　點(Na)　與(Caa)　設定(VC)　的(DE)　視點(Na)　連結(VC)　起來(Di)　，(COMMACATEGORY)
+***********************************************
+64.　，(COMMACATEGORY)　經由(P)　關係(Na)　數式(Na)　的(DE)　演算(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+65.　，(COMMACATEGORY)　可以(D)　自由自在(VH)　的(DE)　模擬(VC)　當(P)　視點(Na)　移動(VAC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　從(P)　不同(VH)　視角(Na)　可以(D)　看(VE)[+vrv]　得(DE)　到(VE)[+vrr]　的(DE)　各(Nes)　種(Nf)　靜態(Na)　或(Caa)　動態(Na)　的(DE)　景象(Na)　。(PERIODCATEGORY)
+***********************************************
+67.　。(PERIODCATEGORY)　同時(Nd)　，(COMMACATEGORY)
+***********************************************
+68.　，(COMMACATEGORY)　經由(P)　內部(Ncd)　的(DE)　計算(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+69.　，(COMMACATEGORY)　也(D)　能(D)　呈現出(VJ)　視角(Na)　變化(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　環境(Na)　中(Ng)　光線(Na)　投射(VC)　的(DE)　狀態(Na)　。(PERIODCATEGORY)
+***********************************************
+71.　。(PERIODCATEGORY)　由於(Cbb)　這(Nep)　種(Nf)　計算(VC)[+nom]　程序(Na)　的(DE)　進化(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+72.　，(COMMACATEGORY)　視覺(Na)　模擬(VC)　的(DE)　表現(Na)　更加(Dfa)　精緻(VH)　、(PAUSECATEGORY)　自然(VH)　。(PERIODCATEGORY)
+***********************************************
+73.　。(PERIODCATEGORY)　具體(VH)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+74.　，(COMMACATEGORY)　電腦(Na)　繪圖(VA)　所(D)　製作(VC)　的(DE)　圖形(Na)　或(Caa)　影像(Na)　，(COMMACATEGORY)
+***********************************************
+75.　，(COMMACATEGORY)　與(P)　以往(Nd)　的(DE)　繪畫(Na)　、(PAUSECATEGORY)　攝影(Na)　等(Cab)　視覺(Na)　媒體(Na)　最(Dfa)　大(VH)　的(DE)　差異(Na)　是(SHI)　以(P)　數據化(VHC)　的(DE)　信號(Na)　為(VG)　基礎(Na)　。(PERIODCATEGORY)
+***********************************************
+76.　。(PERIODCATEGORY)　因此(Cbb)　附加有(VJ)　圖像(Na)　自由(VH)　存取(VC)　、(PAUSECATEGORY)　加工(VB)　、(PAUSECATEGORY)　修正(VC)　、(PAUSECATEGORY)　合成(VG)　、(PAUSECATEGORY)　移動(VAC)　等(Cab)　功能(Na)　。(PERIODCATEGORY)
+***********************************************
+77.　。(PERIODCATEGORY)　視訊(Na)　數位化(VHC)　的(DE)　發展(Na)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　使得(VL)　經由(P)　電腦(Na)　所(D)　處理(VC)　的(DE)　電子(Na)　影像(Na)　更加(Dfa)　多姿(VH)　多彩(VH)　，(COMMACATEGORY)
+***********************************************
+79.　，(COMMACATEGORY)　相當(VH)　程度(Na)　滿足(VHC)　了(Di)　人類(Na)　自古以來(D)　對於(P)　變幻(VH)　法術(Na)　的(DE)　憧憬(VK)　之(DE)　情(Na)　。(PERIODCATEGORY)
+***********************************************
+80.　。(PERIODCATEGORY)　色彩(Na)　是(SHI)　造形(Na)　表現(Na)　的(DE)　另(Nes)　一(Neu)　項(Nf)　重要(VH)　要素(Na)　，(COMMACATEGORY)
+***********************************************
+81.　，(COMMACATEGORY)　電腦(Na)　繪圖(VA)　的(DE)　色彩(Na)　顯示(VK)　基本(Na)　上(Ng)　是(SHI)　以(P)　紅(VH)　、(PAUSECATEGORY)　綠(VH)　、(PAUSECATEGORY)　藍色(Na)　光(Na)　三(Neu)　原色(Na)　的(DE)　組合(VC)[+nom]　來(D)　呈現(VJ)　，(COMMACATEGORY)
+***********************************************
+82.　，(COMMACATEGORY)　三(Neu)　原色(Na)　各(D)　區分為(VG)　２５６(Neu)　個(Nf)　階段(Na)　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　因此(Cbb)　組合出來(VB)　的(DE)　色彩(Na)　約為(VG)　１６７７萬(Neu)　色(Na)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　遠(VH)　超過(VJ)　人類(Na)　的(DE)　視覺(Na)　所(D)　能(D)　辨識(VC)　的(DE)　限度(Na)　。(PERIODCATEGORY)
+***********************************************
+85.　。(PERIODCATEGORY)　發展(VC)　至(P)　此(Nep)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　電腦(Na)　繪圖(VA)　已(D)　從(P)　色彩(Na)　與(Caa)　形態(Na)　等(Cab)　造形(Na)　要素(Na)　的(DE)　表現(Na)　都(D)　極為(Dfa)　粗糙(VH)　淺薄(VH)　，(COMMACATEGORY)
+***********************************************
+87.　，(COMMACATEGORY)　不能(D)　滿足(VHC)　造形(Na)　藝術家(Na)　創作(Na)　需求(Na)　的(DE)　繪圖(VA)[+nom]　機器(Na)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　迅速(VH)　轉換為(VG)　造形(Na)　藝術(Na)　與(Caa)　設計(Na)　表現(Na)　的(DE)　嶄新(A)　利器(Na)　。(PERIODCATEGORY)
+***********************************************
+89.　。(PERIODCATEGORY)　電腦(Na)　繪圖(VA)　的(DE)　功能(Na)　與(Caa)　作用(Na)　可以(D)　具體(VH)　地(DE)　歸納(VC)　如(VG)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+90.　：(COLONCATEGORY)　第一(Neu)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　能(D)　使(VL)　一般(A)　肉眼(Na)　看(VE)[+vrv]　不(D)　到(VE)[+vrr]　的(DE)　現象(Na)　或(Caa)　物體(Na)　看(VC)[+vrv]　得(DE)　見(VC)[+vrr]　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+91.　。(PERIODCATEGORY)　例如(P)　分子(Na)　的(DE)　運動(Na)　、(PAUSECATEGORY)　作(VC)　風洞(Na)　實驗(VE)　時(Ng)　飛機(Na)　機身(Na)　周圍(Nc)　空氣(Na)　流動(VA)　與(Caa)　溫度(Na)　分布(VH)　的(DE)　狀態(Na)　等(Cab)　視覺(Na)　無法(D)　看到(VE)　的(DE)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　使用(VC)　電腦(Na)　視覺(Na)　模擬(VC)　的(DE)　技術(Na)　將(P)　其(Nep)　可視化(VHC)　。(PERIODCATEGORY)
+***********************************************
+93.　。(PERIODCATEGORY)　第二(Neu)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　能(D)　使(VL)　一般(D)　不(D)　容易(VH)　看到(VE)　的(DE)　物體(Na)　與(Caa)　現象(Na)　清晰(VH)　可(D)　辨(VC)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+94.　。(PERIODCATEGORY)　例如(P)　使用(VC)　特殊(VH)　的(DE)　工具(Na)　與(Caa)　方法(Na)　方(D)　能(D)　勉強(VH)　以(P)　肉眼(Na)　辨視(VC)　的(DE)　人類(Na)　的(DE)　骨骼(Na)　與(Caa)　肌肉(Na)　的(DE)　運動(Na)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　太空站(Nc)　存在(VA)　的(DE)　狀態(Na)　，(COMMACATEGORY)
+***********************************************
+96.　，(COMMACATEGORY)　植物(Na)　的(DE)　生態(Na)　活動(Na)　等(Cab)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　經由(P)　電腦(Na)　繪圖(VA)　視覺(Na)　模擬(VC)　的(DE)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+98.　，(COMMACATEGORY)　可以(D)　很(Dfa)　清楚(VH)　地(DE)　呈現出來(VC)　。(PERIODCATEGORY)
+***********************************************
+99.　。(PERIODCATEGORY)　第三(Neu)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　不用(D)　製作(VC)　實物(Na)　，(COMMACATEGORY)
+***********************************************
+100.　，(COMMACATEGORY)　或(Caa)　不必(D)　實際(VH)　操作(VC)　實物(Na)　，(COMMACATEGORY)
+***********************************************
+101.　，(COMMACATEGORY)　也(D)　能(D)　進行(VC)　評估(VE)　的(DE)　工作(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+102.　。(PERIODCATEGORY)　若(Cbb)　能(D)　實際(VH)　製作(VC)　實物(Na)　模型(Na)　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　很(Dfa)　容易(VH)　評估(VE)　其(Nep)　優劣(Na)　或(Caa)　可行性(Na)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　但(Cbb)　基於(P)　成本(Na)　或(Caa)　安全性(Na)　的(DE)　考量(VE)　而(Cbb)　無法(D)　實作(VC)　時(Ng)　；(SEMICOLONCATEGORY)
+***********************************************
+105.　；(SEMICOLONCATEGORY)　或(Caa)　為(P)　了(Di)　避免(VE)　浪費(VC)　，(COMMACATEGORY)
+***********************************************
+106.　，(COMMACATEGORY)　提高(VC)　生產性(Na)　。(PERIODCATEGORY)
+***********************************************
+107.　。(PERIODCATEGORY)　例如(P)　景觀(Na)　設計(Na)　等(Cab)　的(DE)　模擬(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+108.　，(COMMACATEGORY)　不(D)　製作(VC)　實物(Na)　，(COMMACATEGORY)
+***********************************************
+109.　，(COMMACATEGORY)　活用(VC)　電腦(Na)　繪圖(VA)　的(DE)　平面(Na)　、(PAUSECATEGORY)　立體(VH)　或(Caa)　動畫(Na)　的(DE)　表現(Na)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+110.　，(COMMACATEGORY)　同樣(VH)　能(D)　達到(VJ)　評估(VE)　的(DE)　效果(Na)　。(PERIODCATEGORY)
+***********************************************
+111.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　商品(Na)　銷售(VC)　的(DE)　動向(Na)　、(PAUSECATEGORY)　機械(Na)　裝配(VC)[+nom]　方法(Na)　的(DE)　說明(Na)　等(Cab)　抽象(VH)　事物(Na)　的(DE)　具象化(VHC)　，(COMMACATEGORY)
+***********************************************
+113.　，(COMMACATEGORY)　電腦(Na)　繪圖(VA)　在(P)　視覺(Na)　資訊(Na)　傳達(VD)　所(D)　發揮(VJ)　的(DE)　功能(Na)　要(D)　遠勝(VJ)　於(P)　傳統(Na)　的(DE)　視覺(Na)　媒體(Na)　。(PERIODCATEGORY)
+***********************************************
+114.　。(PERIODCATEGORY)　在(P)　文明史(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+115.　，(COMMACATEGORY)　繪畫(Na)　或(Caa)　雕刻(Na)　等(Cab)　造形(Na)　的(DE)　手段(Na)　曾(D)　將(P)　人類(Na)　的(DE)　諸多(Neqa)　夢想(Na)　具象化(VHC)　，(COMMACATEGORY)
+***********************************************
+116.　，(COMMACATEGORY)　而(Cbb)　今日(Nd)　的(DE)　電腦(Na)　繪圖(VA)　將(D)　可(D)　在(P)　科學(Na)　與(Caa)　藝術(Na)　的(DE)　世界(Nc)　裡(Ncd)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　成為(VG)　化(VHC)　幻想(VE)　為(VG)　現實(Na)　的(DE)　重要(VH)　工具(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+118.　；(SEMICOLONCATEGORY)　預計(VE)　今後(Nd)　除了(P)　在(P)　藝術(Na)　的(DE)　表現(Na)　上(Ng)　將(D)　開拓出(VC)　更(D)　廣闊(VH)　的(DE)　空間(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+119.　，(COMMACATEGORY)　其(Nep)　細膩(VH)　的(DE)　視覺(Na)　表現(Na)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　更(D)　將(D)　為(P)　未來(Nd)　的(DE)　科學(Na)　、(PAUSECATEGORY)　醫學(Na)　、(PAUSECATEGORY)　教育(Na)　、(PAUSECATEGORY)　文化(Na)　、(PAUSECATEGORY)　娛樂(Na)　等(Cab)　文明(Na)　的(DE)　各(Nes)　個(Nf)　層面(Na)　帶來(VC)　更(D)　大(VH)　的(DE)　貢獻(Na)　。(PERIODCATEGORY)
+***********************************************
+121.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=物理
+%%  媒體=視聽媒體
+%%  姓名=蘇守政。
+%%  性別=男
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1995
+%%  版次=
+%%  標題=
+122.　。(PERIODCATEGORY)　元宵(Nd)　的(DE)　光(Na)　藝術(Na)　。(PERIODCATEGORY)
+***********************************************
+123.　。(PERIODCATEGORY)　上元(Nd)　觀(VC)　燈(Na)　在(P)　文獻(Na)　上(Ng)　可(D)　徵(VC)　者(Na)　，(COMMACATEGORY)
+***********************************************
+124.　，(COMMACATEGORY)　可以(D)　上溯(VC)　至(P)　漢代(Nd)　。(PERIODCATEGORY)
+***********************************************
+125.　。(PERIODCATEGORY)　唐(Nd)　開元(Nd)　年(Nf)　間(Ng)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　韓國(Nc)　夫人(Na)　在(P)　上元(Nd)　時(Ng)　獻造(VC)　的(DE)　百(Neu)　枝(Nf)　燈火(Na)　據說(Dk)　高達(VJ)　八十(Neu)　尺(Nf)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　照亮(VC)　數十(Neu)　里(Nf)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　月色(Na)　亦(D)　為(P)　其(Nep)　所(D)　奪(VC)　。(PERIODCATEGORY)
+***********************************************
+129.　。(PERIODCATEGORY)　除了(P)　靜態(Na)　的(DE)　花燈(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+130.　，(COMMACATEGORY)　古代(Nd)　光(Na)　藝術(Na)　的(DE)　先進(Na)　們(Na)　更(D)　進一步(D)　活用(VC)　冷(VH)　熱(VHC)　空氣(Na)　對流(VA)　的(DE)　物理(Na)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+131.　，(COMMACATEGORY)　製作出(VC)　動態(Na)　的(DE)　「(PARENTHESISCATEGORY)　天燈(Na)　」(PARENTHESISCATEGORY)　與(Caa)　「(PARENTHESISCATEGORY)　走馬燈(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+132.　。(PERIODCATEGORY)　在(P)　科技(Na)　尚未(D)　十分(Dfa)　昌明(VH)　的(DE)　時代(Na)　，(COMMACATEGORY)
+***********************************************
+133.　，(COMMACATEGORY)　藝術家(Na)　的(DE)　巧思(Na)　與(Caa)　創造力(Na)　往往(D)　超越(VC)　了(Di)　有限(VH)　的(DE)　物質(Na)　條件(Na)　與(Caa)　常識(Na)　。(PERIODCATEGORY)
+***********************************************
+134.　。(PERIODCATEGORY)　自(P)　愛迪生(Nb)　發明(VC)　白(VH)　熱(VHC)　燈泡(Na)　以來(Ng)　，(COMMACATEGORY)
+***********************************************
+135.　，(COMMACATEGORY)　百餘(Neu)　年(Nf)　間(Ng)　科技(Na)　的(DE)　持續(VL)　發展(VC)　，(COMMACATEGORY)
+***********************************************
+136.　，(COMMACATEGORY)　除了(P)　鎢絲(Na)　燈(Na)　系(Nc)　的(DE)　光源(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+137.　，(COMMACATEGORY)　鈉氣燈(Na)　、(PAUSECATEGORY)　Ｘ(FW)　射線(Na)　、(PAUSECATEGORY)　日光燈(Na)　、(PAUSECATEGORY)　螢光燈(Na)　、(PAUSECATEGORY)　液晶(Na)　、(PAUSECATEGORY)　光纖(Na)　、(PAUSECATEGORY)　雷射(Na)　等(Cab)　各(Nes)　種(Nf)　人工(Na)　光源(Na)　與(Caa)　導光性(Na)　良好(VH)　的(DE)　素材(Na)　也(D)　相繼(D)　問世(VA)　；(SEMICOLONCATEGORY)
+***********************************************
+138.　；(SEMICOLONCATEGORY)　除了(P)　實用(VH)　的(DE)　目的(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+139.　，(COMMACATEGORY)　更(D)　成(VG)　了(Di)　刺激(VC)　藝術家(Na)　美(Na)　的(DE)　意識(Na)　之(DE)　新(VH)　素材(Na)　。(PERIODCATEGORY)
+***********************************************
+140.　。(PERIODCATEGORY)　此(Nep)　次(Nf)　關渡宮(Nc)　的(DE)　「(PARENTHESISCATEGORY)　關渡(Nc)　．(PERIODCATEGORY)　花燈(Na)　」(PARENTHESISCATEGORY)　系列(Na)　活動(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+141.　，(COMMACATEGORY)　國立(A)　藝術(Na)　學院(Nc)　科技(Na)　藝術(Na)　研究(Na)　中心(Nc)　參與(VC)　現代(VH)　花燈館(Nc)　的(DE)　展出(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+142.　。(PERIODCATEGORY)　配合(VC)　「(PARENTHESISCATEGORY)　光(Na)　的(DE)　馬戲團(Na)　」(PARENTHESISCATEGORY)　此(Nep)　一(Neu)　充滿(VJ)　節慶(Na)　氣氛(Na)　的(DE)　主題(Na)　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　製作(VC)　了(Di)　名為(VG)　「(PARENTHESISCATEGORY)　星光(Na)　雜耍團(Na)　」(PARENTHESISCATEGORY)　與(Caa)　「(PARENTHESISCATEGORY)　圍爐(VA)　」(PARENTHESISCATEGORY)　兩(Neu)　件(Nf)　作品(Na)　，(COMMACATEGORY)
+***********************************************
+144.　，(COMMACATEGORY)　作品(Na)　的(DE)　設計(Na)　與(Caa)　製作(VC)[+nom]　即(D)　著眼於(VC)　反應(Na)　科技(Na)　時代(Na)　的(DE)　新(VH)　素材(Na)　與(Caa)　創新(VC)[+nom]　表現(Na)　。(PERIODCATEGORY)
+***********************************************
+145.　。(PERIODCATEGORY)　製作(VC)　電腦(Na)　音樂(Na)　的(DE)　是(SHI)　音樂系(Nc)　五年級(Na)　的(DE)　陳耕宇(Nb)　；(SEMICOLONCATEGORY)
+***********************************************
+146.　；(SEMICOLONCATEGORY)　影像(Na)　處理(VC)　則(D)　由(P)　美術系(Nc)　校友(Na)　李光暐(Nb)　擔任(VG)　；(SEMICOLONCATEGORY)
+***********************************************
+147.　；(SEMICOLONCATEGORY)　而(Cbb)　其中(Nep)　最(Dfa)　重要(VH)　，(COMMACATEGORY)
+***********************************************
+148.　，(COMMACATEGORY)　且(Cbb)　需(D)　與(P)　音樂(Na)　密切(VH)　連(D)　動(VAC)　的(DE)　影像(Na)　編輯(Na)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　以及(Caa)　現場(Nc)　裝置(Na)　的(DE)　設計(Na)　與(Caa)　施工(VA)　，(COMMACATEGORY)
+***********************************************
+150.　，(COMMACATEGORY)　則(D)　由(P)　美術系(Nc)　三年級(Na)　的(DE)　紀宗助(Nb)　居中(D)　掌控(VC)　、(PAUSECATEGORY)　製作(VC)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　並(Cbb)　由(P)　同(Nes)　年級(Na)　的(DE)　柯學修(Nb)　協助(VC)　完成(VC)　。(PERIODCATEGORY)
+***********************************************
+152.　。(PERIODCATEGORY)　空間(Na)　裝置(Na)　與(Caa)　立體(VH)　造形(Na)　以(P)　幾何(Na)　形態(Na)　為(VG)　基調(Na)　，(COMMACATEGORY)
+***********************************************
+153.　，(COMMACATEGORY)　配合(VC)　鏡面(Na)　與(Caa)　半(Neqa)　透明(VH)　鏡面(Na)　的(DE)　反射(VJ)　與(Caa)　透射(VH)　作用(Na)　，(COMMACATEGORY)
+***********************************************
+154.　，(COMMACATEGORY)　構成(VG)　影像(Na)　與(Caa)　音樂(Na)　層次(Na)　豐富(VHC)　的(DE)　空間(Na)　展現(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+155.　。(PERIODCATEGORY)　影像(Na)　編輯(VC)[+nom]　的(DE)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+156.　，(COMMACATEGORY)　則(D)　將(P)　中心(Nc)　錄影(VA)[+nom]　藝術(Na)　實驗室(Nc)　兩(Neu)　套(Nf)　編輯(VC)[+nom]　特效(Na)　系統(Na)　連線(VB)　，(COMMACATEGORY)
+***********************************************
+157.　，(COMMACATEGORY)　使(VL)　其(Nep)　分別(D)　具有(VJ)　的(DE)　各(Nes)　種(Nf)　二(Neu)　次元(Na)　與(Caa)　三(Neu)　次元(Na)　的(DE)　色彩(Na)　與(Caa)　影像(Na)　特效(Na)　發揮(VJ)　整合(VC)　與(Caa)　相乘(VB)　的(DE)　效果(Na)　，(COMMACATEGORY)
+***********************************************
+158.　，(COMMACATEGORY)　超越(VC)　了(Di)　設備(Na)　與(Caa)　技術(Na)　原有(VJ)　的(DE)　一般性(Na)　功能(Na)　。(PERIODCATEGORY)
+***********************************************
+159.　。(PERIODCATEGORY)　傳統(Na)　的(DE)　花燈(Na)　自有(VJ)　其(Nep)　傳承(VC)　的(DE)　價值(Na)　與(Caa)　意義(Na)　，(COMMACATEGORY)
+***********************************************
+160.　，(COMMACATEGORY)　但是(Cbb)　工業(Na)　社會(Na)　的(DE)　元宵(Nd)　花燈(Na)　似乎(D)　也(D)　應(D)　逐漸(D)　呈顯出(VJ)　與(Caa)　農業(Na)　社會(Na)　不同(VH)　的(DE)　風貌(Na)　。(PERIODCATEGORY)
+***********************************************
+161.　。(PERIODCATEGORY)　今日(Nd)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　各(Nes)　種(Nf)　人工(Na)　光源(Na)　與(Caa)　自動(VH)　控制(VC)[+nom]　設備(Na)　、(PAUSECATEGORY)　電腦(Na)　音樂(Na)　與(Caa)　電子(Na)　影像(Na)　等(Cab)　科技(Na)　媒體(Na)　所(D)　呈現(VJ)　的(DE)　視聽(A)　資訊(Na)　已(D)　是(SHI)　生活(Na)　中(Ng)　習以為常(VI)　的(DE)　存在(VA)[+nom]　。(PERIODCATEGORY)
+***********************************************
+163.　。(PERIODCATEGORY)　活用(VC)　此(Nep)　類(Nf)　素材(Na)　，(COMMACATEGORY)
+***********************************************
+164.　，(COMMACATEGORY)　結合(VHC)　現代(VH)　人文(Na)　與(Caa)　藝術(Na)　的(DE)　新(VH)　思潮(Na)　與(Caa)　感覺(Na)　，(COMMACATEGORY)
+***********************************************
+165.　，(COMMACATEGORY)　擴大(VC)　而(Cbb)　為(VG)　光(Na)　藝術(Na)　的(DE)　概念(Na)　，(COMMACATEGORY)
+***********************************************
+166.　，(COMMACATEGORY)　是(SHI)　我們(Nh)　此(Nep)　次(Nf)　參展(VA)　所(D)　提出(VC)　的(DE)　實驗性(Na)　構想(Na)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　以及(Caa)　對(P)　元宵(Nd)　花燈(Na)　創新(VC)[+nom]　形式(Na)　的(DE)　期待(VK)[+nom]　。(PERIODCATEGORY)
+***********************************************

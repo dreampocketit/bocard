@@ -1,0 +1,1678 @@
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=(楊永斌、 盧煉元)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十期 (1994/6).簡訊
+1.　。(PERIODCATEGORY)　研究(VE)[+nom]　動態(Na)　：(COLONCATEGORY)
+***********************************************
+2.　：(COLONCATEGORY)　結構(Na)　主動(VH)　控制(VC)　—(DASHCATEGORY)　最佳(A)　直接(VH)　多(Neqa)　步幅(Na)　位移(Na)　回饋(VC)　控制(VC)　之(DE)　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+3.　。(PERIODCATEGORY)　摘要(Na)　。(PERIODCATEGORY)
+***********************************************
+4.　。(PERIODCATEGORY)　關鍵詞(Na)　：(COLONCATEGORY)
+***********************************************
+5.　：(COLONCATEGORY)　阻尼(Na)　、(PAUSECATEGORY)　設備(Na)　隔震(VH)　、(PAUSECATEGORY)　滑動(VA)[+nom]　結構(Na)　、(PAUSECATEGORY)　扭轉(VC)　。(PERIODCATEGORY)
+***********************************************
+6.　。(PERIODCATEGORY)　研究(Na)　安置(VC)　於(P)　結構物(Na)　之(DE)　設備(Na)　的(DE)　地震(VA)[+nom]　反應(VE)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+7.　，(COMMACATEGORY)　有(V_2)　三(Neu)　種(Nf)　效應(Na)　最為(Dfa)　重要(VH)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　第一(Neu)　是(SHI)　調協(VH)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+9.　，(COMMACATEGORY)　此(Nep)　一(Neu)　現象(Na)　係(VG)　因(Cbb)　設備(Na)　與(Caa)　支承(VC)[+nom]　結構(Na)　之(DE)　自然(Na)　振動(VAC)[+nom]　頻率(Na)　的(DE)　接近(VH)　或(Caa)　重合(VH)　而(Cbb)　產生(VHC)　；(SEMICOLONCATEGORY)
+***********************************************
+10.　；(SEMICOLONCATEGORY)　其次(Cbb)　是(SHI)　互制(VC)[+nom]　作用(Na)　，(COMMACATEGORY)
+***********************************************
+11.　，(COMMACATEGORY)　此(Nep)　一(Neu)　現象(Na)　係指(VG)　設備(Na)　受(P)　結構(Na)　振動(VAC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+12.　，(COMMACATEGORY)　所(D)　產生(VHC)　的(DE)　反饋(VC)[+nom]　效應(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+13.　；(SEMICOLONCATEGORY)　最後(Nd)　則(D)　是(SHI)　非(A)　古典(VH)　阻尼(Na)　，(COMMACATEGORY)
+***********************************************
+14.　，(COMMACATEGORY)　此(Nep)　類(Nf)　阻尼(Na)　係(VG)　因(Cbb)　設備(Na)　與(Caa)　結構(Na)　阻尼(Na)　特性(Na)　之(DE)　差異(Na)　而(Cbb)　產生(VHC)　。(PERIODCATEGORY)
+***********************************************
+15.　。(PERIODCATEGORY)　在(P)　本(Nes)　計劃(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+16.　，(COMMACATEGORY)　吾人(Nh)　主要(D)　係(VG)　在(P)　研究(VE)　設備(Na)　安置(VC)　在(P)　滑動(VA)[+nom]　結構(Na)　（(PARENTHESISCATEGORY)　即(D)　含(VC)　滑動(VA)　支承(VC)　之(DE)　結構(Na)　）(PARENTHESISCATEGORY)　或(Caa)　扭轉(VC)[+nom]　結構(Na)　之(DE)　反應(Na)　，(COMMACATEGORY)
+***********************************************
+17.　，(COMMACATEGORY)　除了(P)　考慮(VE)　上述(Na)　三(Neu)　種(Nf)　效應(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+18.　，(COMMACATEGORY)　下列(A)　各(Nes)　效應(Na)　皆(D)　為(VG)　研究(VE)　之(DE)　重點(Na)　：(COLONCATEGORY)
+***********************************************
+19.　：(COLONCATEGORY)　滑動(VA)[+nom]　結構(Na)　的(DE)　摩擦(Na)　係數(Na)　、(PAUSECATEGORY)　支承(VC)　結構(Na)　之(DE)　扭轉(VC)[+nom]　特性(Na)　、(PAUSECATEGORY)　以及(Caa)　設備(Na)　之(DE)　偏心(VI)[+nom]　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+20.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　計劃(Na)　緣由(Na)　與(Caa)　目的(Na)　。(PERIODCATEGORY)
+***********************************************
+21.　。(PERIODCATEGORY)　基礎(Na)　隔震(VH)　（(PARENTHESISCATEGORY)　Ｂａｓｅ(FW)　Ｉｓｏｌａｔｉｏｎ(FW)　）(PARENTHESISCATEGORY)　的(DE)　概念(Na)　，(COMMACATEGORY)
+***********************************************
+22.　，(COMMACATEGORY)　近年(Nd)　來(Ng)　因為(Cbb)　相關(VH)　學者(Na)　的(DE)　持(VC)　績(VC)　研究(VE)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　已經(D)　逐漸(D)　成為(VG)　建築物(Na)　抗震(VA)　的(DE)　一(Neu)　項(Nf)　重要(VH)　技術(Na)　。(PERIODCATEGORY)
+***********************************************
+24.　。(PERIODCATEGORY)　而(Cbb)　滑動(VA)[+nom]　建築物(Na)　（(PARENTHESISCATEGORY)　ｓｌｉｄｉｎｇ(FW)　Ｂｕｉｌｄｉｎｇ(FW)　）(PARENTHESISCATEGORY)　的(DE)　產生(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　即(D)　是(SHI)　基於(P)　此(Nep)　一(Neu)　概念(Na)　。(PERIODCATEGORY)
+***********************************************
+26.　。(PERIODCATEGORY)　所謂(VK)　滑動(VA)[+nom]　建築物(Na)　，(COMMACATEGORY)
+***********************************************
+27.　，(COMMACATEGORY)　係指(VG)　在(P)　建築物(Na)　的(DE)　底層(Nc)　安置(VC)　滑動(VA)[+nom]　摩擦(Na)　支承(VC)　，(COMMACATEGORY)
+***********************************************
+28.　，(COMMACATEGORY)　當(P)　強震(Na)　來(VA)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　建築物(Na)　與(Caa)　基礎(Na)　間(Ng)　會(D)　產生(VHC)　相對(VH)　運動(Na)　，(COMMACATEGORY)
+***********************************************
+30.　，(COMMACATEGORY)　因而(Cbb)　降低(VHC)　上(Nes)　層(Nf)　結構(Na)　的(DE)　最(Dfa)　大(VH)　加速度(Na)　及(Caa)　各(Nes)　層(Nf)　間(Ncd)　的(DE)　層(Nf)　間(Nf)　位移(Na)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　也(D)　減少(VHC)　了(Di)　強震(Na)　對(P)　建築物(Na)　所(D)　帶來(VC)　的(DE)　損害(Na)　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　八十年代(Nd)　一些(Neqa)　研究(Na)　工作(Na)　者(Na)　經由(P)　理論(Na)　證明(VE)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　單層(A)　樓房(Na)　結構(Na)　經由(P)　滑動(VA)[+nom]　支承(VC)　的(DE)　安置(VC)　可(D)　有效(VH)　的(DE)　達到(VJ)　隔震(VH)　效果(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+34.　；(SEMICOLONCATEGORY)　而(Caa)　Ｑａｍａｒｕｄｄｉｎ(FW)　等(Cab)　更(D)　輔以(VC)　實驗(VE)　證明(VE)　，(COMMACATEGORY)
+***********************************************
+35.　，(COMMACATEGORY)　文獻(Na)　則(D)　可(D)　進一步(D)　探討(VE)　多(Neqa)　層(Nf)　滑動(VA)[+nom]　結構(Na)　之(DE)　行為(Na)　。(PERIODCATEGORY)
+***********************************************
+36.　。(PERIODCATEGORY)　雖然(Cbb)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　如(P)　上文(Na)　所(D)　述(VE)　，(COMMACATEGORY)
+***********************************************
+38.　，(COMMACATEGORY)　滑動(VA)　支承(VC)　隔震(VH)　的(DE)　有效性(Na)　已(D)　被(P)　證實(VE)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　但是(Cbb)　文獻(Na)　上(Ng)　對於(P)　另(Nes)　一(Neu)　相關(VH)　重要(VH)　課題(Na)　的(DE)　研究(VE)　：(COLONCATEGORY)
+***********************************************
+40.　：(COLONCATEGORY)　即(D)　滑動(VA)[+nom]　建築物(Na)　內部(Ncd)　設備(Na)　的(DE)　動力(Na)　反應(Na)　，(COMMACATEGORY)
+***********************************************
+41.　，(COMMACATEGORY)　卻(D)　付之闕如(VH)　。(PERIODCATEGORY)
+***********************************************
+42.　。(PERIODCATEGORY)　文獻(Na)　藉由(P)　對(P)　簡單(VH)　滑動(VA)[+nom]　結構(Na)　受(P)　簡諧(A)　外力(Na)　驅動(VC)　的(DE)　研究(VE)　，(COMMACATEGORY)
+***********************************************
+43.　，(COMMACATEGORY)　發現(VE)　滑動(VA)[+nom]　系統(Na)　在(P)　低頻率(Na)　驅動(VC)　下(Ng)　會(D)　產生(VHC)　多(Neqa)　個(Nf)　次(Nes)　簡諧(A)　共振(VH)　頻率(Na)　。(PERIODCATEGORY)
+***********************************************
+44.　。(PERIODCATEGORY)　換句話說(Dk)　，(COMMACATEGORY)
+***********************************************
+45.　，(COMMACATEGORY)　該(Nes)　系統(Na)　的(DE)　共振(VH)　頻率(Na)　數(Na)　要(D)　比(P)　固定(VHC)　基礎(A)　的(DE)　同(Nes)　一(Neu)　結構物(Na)　為(VG)　多(VH)　。(PERIODCATEGORY)
+***********************************************
+46.　。(PERIODCATEGORY)　此(Nep)　項(Nf)　發現(Na)　，(COMMACATEGORY)
+***********************************************
+47.　，(COMMACATEGORY)　提醒(VE)　吾人(Nh)　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　不僅(Cbb)　在(P)　多(Neqa)　自由度(Na)　滑動(VA)[+nom]　系統(Na)　的(DE)　研究(Na)　方面(Na)　仍(D)　有(V_2)　必要(VH)　作(VC)　深入(VH)　之(DE)　探討(VE)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　同時(Nd)　，(COMMACATEGORY)
+***********************************************
+50.　，(COMMACATEGORY)　對於(P)　此(Nep)　現象(Na)　所(D)　可能(D)　引起(VC)　之(DE)　設備(Na)　反應(Na)　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　也(D)　有(V_2)　必要(VH)　作(VC)　進一步(D)　之(DE)　研究(VE)　。(PERIODCATEGORY)
+***********************************************
+52.　。(PERIODCATEGORY)　本(Nes)　計劃(Na)　之(DE)　第一(Neu)　個(Nf)　目的(Na)　乃(D)　在(P)　分析(VC)　安置(VC)　於(P)　滑動(VA)[+nom]　結構(Na)　上(Ng)　之(DE)　設備(Na)　受(VJ)　不同(VH)　頻率(Na)　的(DE)　地表(Na)　加速度(Na)　作用(Na)　下(Ng)　之(DE)　動力(Na)　特性(Na)　。(PERIODCATEGORY)
+***********************************************
+53.　。(PERIODCATEGORY)　回顧(VE)　前(Nes)　人(Na)　的(DE)　文獻(Na)　亦(D)　可(D)　發現(VE)　，(COMMACATEGORY)
+***********************************************
+54.　，(COMMACATEGORY)　在(P)　傳統(VH)　的(DE)　設備(Na)　分析(VC)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+55.　，(COMMACATEGORY)　大都(D)　假設(VE)　設備(Na)　係(VG)　安置(VC)　在(P)　不(D)　具(VJ)　扭轉(VC)[+nom]　效應(Na)　的(DE)　主結構(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　因此(Cbb)　在(P)　建立(VC)　設備(Na)　與(Caa)　結構(Na)　的(DE)　動力(Na)　方程式(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　皆(D)　不(D)　考慮(VE)　結構(Na)　之(DE)　扭轉(VC)[+nom]　效應(Na)　及(Caa)　設備(Na)　之(DE)　偏心(VI)[+nom]　，(COMMACATEGORY)
+***********************************************
+58.　，(COMMACATEGORY)　事實(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+59.　，(COMMACATEGORY)　在(P)　大部份(Neqa)　的(DE)　工程(Na)　應用(Na)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　只有(D)　甚為(Na)　規則(Na)　的(DE)　結構(Na)　方(D)　可(D)　省略(VJ)　其(Nep)　扭轉(VC)[+nom]　效應(Na)　，(COMMACATEGORY)
+***********************************************
+61.　，(COMMACATEGORY)　而且(Cbb)　也(D)　僅有(VJ)　極(Dfa)　少數(Neqa)　的(DE)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　可以(D)　毫無(D)　偏心(VI)[+nom]　（(PARENTHESISCATEGORY)　即(D)　與(P)　樓房(Na)　之(DE)　質量(Na)　中心(Nc)　重合(VH)　）(PARENTHESISCATEGORY)　的(DE)　安置(VC)　在(P)　主結構(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+63.　，(COMMACATEGORY)　因此(Cbb)　本(Nes)　計劃(Na)　的(DE)　第二(Neu)　個(Nf)　主題(Na)　乃是(SHI)　在(P)　研究(VE)　安置(VC)　於(P)　扭轉(VC)[+nom]　結構(Na)　之上(Ng)　的(DE)　設備(Na)　的(DE)　動力(Na)　反應(Na)　。(PERIODCATEGORY)
+***********************************************
+64.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　研究(Na)　方法(Na)　及(Caa)　成果(Na)　。(PERIODCATEGORY)
+***********************************************
+65.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　Ａ(FW)　）(PARENTHESISCATEGORY)　設備(Na)　在(P)　滑動(VA)[+nom]　結構(Na)　中(Ng)　行為(Na)　之(DE)　研究(Na)　：(COLONCATEGORY)
+***********************************************
+66.　：(COLONCATEGORY)　（(PARENTHESISCATEGORY)　略(VJ)　）(PARENTHESISCATEGORY)　　(FW)　（(PARENTHESISCATEGORY)　Ｂ(FW)　）(PARENTHESISCATEGORY)　設備(Na)　在(P)　扭轉(VC)[+nom]　結構(Na)　中(Ng)　行為(Na)　之(DE)　研究(Na)　：(COLONCATEGORY)
+***********************************************
+67.　：(COLONCATEGORY)　（(PARENTHESISCATEGORY)　略(VJ)　）(PARENTHESISCATEGORY)　四(Neu)　、(PAUSECATEGORY)　結論(Na)　與(Caa)　討論(VE)[+nom]　。(PERIODCATEGORY)
+***********************************************
+68.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　Ａ(FW)　）(PARENTHESISCATEGORY)　由於(Cbb)　滑動(VA)[+nom]　結構(Na)　曰(VE)　於(P)　不(D)　連續(D)　之(DE)　非線性(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+69.　，(COMMACATEGORY)　無法(D)　以(P)　傳統(VH)　振態(Na)　些加法(Na)　求解(VB)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　本(Nes)　文(Na)　所(D)　採用(VC)　之(DE)　推移(VA)[+nom]　矩陣(Na)　法(Na)　，(COMMACATEGORY)
+***********************************************
+71.　，(COMMACATEGORY)　經(P)　證實(VE)　對於(P)　自由度(Na)　或(Caa)　多(Neqa)　自由度(Na)　滑動(VA)[+nom]　結構(Na)　上(Ng)　設備(Na)　之(DE)　分析(Na)　均(D)　極(Dfa)　有效(VH)　。(PERIODCATEGORY)
+***********************************************
+72.　。(PERIODCATEGORY)　經由(P)　本(Nes)　研究(Na)　，(COMMACATEGORY)
+***********************************************
+73.　，(COMMACATEGORY)　吾人(Nh)　可(D)　知(VK)　利用(VC)　滑動(VA)[+nom]　機制(Na)　可以(D)　達到(VJ)　降低(VHC)　設備(Na)　加速度(Na)　反應(Na)　之(DE)　效果(Na)　，(COMMACATEGORY)
+***********************************************
+74.　，(COMMACATEGORY)　與(Caa)　降低(VHC)　主結構(Na)　反應(Na)　同樣(Dfa)　有效(VH)　。(PERIODCATEGORY)
+***********************************************
+75.　。(PERIODCATEGORY)　但(Cbb)　因(Cbb)　滑動(VA)　所(D)　產生(VHC)　之(DE)　次(Nes)　簡諧(A)　與(Caa)　共振(VH)　效應(Na)　，(COMMACATEGORY)
+***********************************************
+76.　，(COMMACATEGORY)　對(P)　摩擦(VC)[+nom]　係數(Na)　較(Dfa)　高(VH)　之(DE)　系統(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+77.　，(COMMACATEGORY)　在(P)　低頻(Na)　之(DE)　地表(Na)　加速度(Na)　的(DE)　作用(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　反而(Cbb)　會(D)　對(P)　設備(Na)　引致(VL)　較(Dfa)　無(VJ)　隔震(VH)　裝置(VC)[+nom]　狀況(Na)　下(Ng)　為(VG)　高(VH)　之(DE)　加速度(Na)　。(PERIODCATEGORY)
+***********************************************
+79.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　Ｂ(FW)　）(PARENTHESISCATEGORY)　有關(VJ)　扭轉(VC)[+nom]　結構(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　則(D)　有(V_2)　下述(A)　結論(Na)　：(COLONCATEGORY)
+***********************************************
+81.　：(COLONCATEGORY)　（１）(Neu)　當(P)　設備(Na)　與(Caa)　扭轉(VC)[+nom]　結構(Na)　之(DE)　扭轉(VC)[+nom]　振態(Na)　相(D)　調協(VH)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+82.　，(COMMACATEGORY)　加速度(Na)　之(DE)　放大(VC)[+nom]　效應(Na)　一般而言(Dk)　均(D)　不(D)　大(VH)　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　這(Nep)　是(SHI)　由於(Cbb)　扭轉(VC)[+nom]　振態(Na)　參與(VC)　係數(Na)　太(Dfa)　小(VH)　的(DE)　緣故(Na)　。(PERIODCATEGORY)
+***********************************************
+84.　。(PERIODCATEGORY)　當(P)　設備(Na)　與(Caa)　結構(Na)　相(D)　調協(VH)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+85.　，(COMMACATEGORY)　其(Nep)　質量(Na)　愈(D)　小(VH)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　則(D)　加速度(Na)　反應(Na)　將(D)　增大(VH)　，(COMMACATEGORY)
+***********************************************
+87.　，(COMMACATEGORY)　並(Cbb)　趨向(VK)　於(P)　一(Neu)　定值(Na)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　這(Nep)　是(SHI)　因為(Cbb)　互制(VC)[+nom]　作用(Na)　變小(VHC)　的(DE)　緣故(Na)　。(PERIODCATEGORY)
+***********************************************
+89.　。(PERIODCATEGORY)　（２）(Neu)　當(P)　設備(Na)　安置(VC)　在(P)　剪力(VA)[+nom]　結構(Na)　上(Ng)　之(DE)　時(Na)　，(COMMACATEGORY)
+***********************************************
+90.　，(COMMACATEGORY)　設備(Na)　之(DE)　偏心(VI)[+nom]　效應(Na)　一般而言(Dk)　可以(D)　省略(VJ)　。(PERIODCATEGORY)
+***********************************************
+91.　。(PERIODCATEGORY)　（３）(Neu)　如果(Cbb)　能夠(D)　將(P)　設備(Na)　安置(VC)　在(P)　樓層(Na)　中(Ng)　之(DE)　不動點(Na)　（(PARENTHESISCATEGORY)　即(D)　扭轉(VC)[+nom]　中心(Nc)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　則(D)　其(Nep)　加速度(Na)　將(D)　趨近於(VJ)　一(Neu)　極(Dfa)　小(VH)　值(Na)　。(PERIODCATEGORY)
+***********************************************
+93.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名= (陳慧慈)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=出國考察報告
+94.　。(PERIODCATEGORY)　日本(Nc)　北海道(Nc)　南西沖(Nc)　地震(VA)[+nom]　災害(Na)　調查(VE)[+nom]　報告(Na)　（(PARENTHESISCATEGORY)　Ｉ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+95.　。(PERIODCATEGORY)　前言(Na)　。(PERIODCATEGORY)
+***********************************************
+96.　。(PERIODCATEGORY)　西元(Nd)　一九九三年(Nd)　七月(Nd)　十二日(Nd)　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　日本(Nc)　當地(Nc)　時間(Na)　晚上(Nd)　十時(Nd)　十七分(Nd)　發生(VJ)　規模(Na)　為(VG)　７(Neu)　．(PERIODCATEGORY)　８(Neu)　的(DE)　強震(Na)　。(PERIODCATEGORY)
+***********************************************
+98.　。(PERIODCATEGORY)　此(Nep)　次(Nf)　地震(VA)[+nom]　不但(Cbb)　引起(VC)　海嘯(Na)　，(COMMACATEGORY)
+***********************************************
+99.　，(COMMACATEGORY)　並且(Cbb)　在(P)　奧尻島(Nc)　的(DE)　青苗(Nc)　地區(Nc)　造成(VG)　大(VH)　火(Na)　，(COMMACATEGORY)
+***********************************************
+100.　，(COMMACATEGORY)　災情(Na)　相當(Dfa)　慘重(VH)　。(PERIODCATEGORY)
+***********************************************
+101.　。(PERIODCATEGORY)　為(P)　實地(D)　了解(VK)　受(P)　災(Na)　情形(Na)　和(Caa)　救災(VA)[+nom]　體系(Na)　的(DE)　運作(VA)[+nom]　，(COMMACATEGORY)
+***********************************************
+102.　，(COMMACATEGORY)　行政院(Nc)　國家(Na)　科學(Na)　委員會(Nc)　乃(D)　組成(VG)　調查團(Na)　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　前往(VCL)　日本(Nc)　北海道(Nc)　實地(D)　調查(VE)　地震(VA)[+nom]　災害(Na)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　該(Nes)　調查團(Na)　的(DE)　成員(Na)　為(VG)　台大(Nc)　土木系(Nc)　洪如江(Nb)　教授(Na)　（(PARENTHESISCATEGORY)　團長(Na)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　中正(Nb)　大學(Nc)　地震(VA)[+nom]　研究所(Nc)　葉義雄(Nb)　教授(Na)　、(PAUSECATEGORY)　台大(Nc)　城鄉所(Nc)　陳亮全(Nb)　副教授(Na)　、(PAUSECATEGORY)　中央(Nc)　氣象局(Nc)　地震(VA)[+nom]　測報(Na)　中心(Nc)　主任(Na)　辛在勤(Nb)　博士(Na)　、(PAUSECATEGORY)　中央(Nc)　警官(Na)　學校(Nc)　消防系(Nc)　簡賢文(Nb)　副教授(Na)　和(Caa)　本(Nes)　中心(Nc)　資訊(Na)　推廣(VC)[+nom]　組(Nc)　陳慧慈(Nb)　組長(Na)　。(PERIODCATEGORY)
+***********************************************
+105.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+106.　，(COMMACATEGORY)　一同(D)　前往(VCL)　調查(VE)　地震(VA)[+nom]　災害(Na)　的(DE)　有(V_2)　中央(Nc)　研究院(Nc)　地球(Na)　科學(Na)　研究所(Nc)　由(P)　邱宏智(Nb)　副教授(Na)　、(PAUSECATEGORY)　溫國樑(Nb)　副教授(Na)　和(Caa)　劉啟清(Nb)　副教授(Na)　等(Cab)　三(Neu)　人(Na)　所(D)　組成(VG)　的(DE)　調查團(Na)　。(PERIODCATEGORY)
+***********************************************
+107.　。(PERIODCATEGORY)　整(Neqa)　個(Nf)　行程(Na)　主要(D)　係(VG)　由(P)　陳亮全(Nb)　副教授(Na)　和(Caa)　設(VC)　在(P)　日本(Nc)　東京(Nc)　的(DE)　「(PARENTHESISCATEGORY)　防災(VH)　都市(Na)　計劃(Na)　研究所(Nc)　」(PARENTHESISCATEGORY)　共同(A)　協助(VC)　安排(VE)　。(PERIODCATEGORY)
+***********************************************
+108.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　行程(Na)　。(PERIODCATEGORY)
+***********************************************
+109.　。(PERIODCATEGORY)　調查團(Na)　於(P)　七月(Nd)　二十五日(Nd)　中午(Nd)　搭機(VA)　前往(VCL)　東京(Nc)　。(PERIODCATEGORY)
+***********************************************
+110.　。(PERIODCATEGORY)　七月(Nd)　二十六日(Nd)　上午(Nd)　至(P)　東京(Nc)　大學(Nc)　地震(VA)[+nom]　研究所(Nc)　拜訪(VC)　溝上惠(Nb)　教授(Na)　。(PERIODCATEGORY)
+***********************************************
+111.　。(PERIODCATEGORY)　溝上(Nb)　教授(Na)　先(D)　就(P)　本(Nes)　次(Nf)　地震(VA)[+nom]　發生(VJ)　的(DE)　機制(Na)　（(PARENTHESISCATEGORY)　ｍｅｃｈａｎｉｓｍ(FW)　）(PARENTHESISCATEGORY)　做(VC)　詳細(VH)　的(DE)　說明(VE)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　並(Cbb)　提供(VD)　其(Nep)　所(D)　蒐集(VC)　之(DE)　受(VJ)　災(Na)　情形(Na)　資料(Na)　和(Caa)　引導(VC)　所有(Neqa)　成員(Na)　參觀(VC)　研究(Na)　設施(Na)　。(PERIODCATEGORY)
+***********************************************
+113.　。(PERIODCATEGORY)　隨後(Nd)　前往(VCL)　防災(VH)　都市(Na)　計劃(Na)　研究所(Nc)　與(P)　有關(VJ)[+nom]　人員(Na)　進行(VC)　座談(VA)　，(COMMACATEGORY)
+***********************************************
+114.　，(COMMACATEGORY)　聽取(VC)　災情(Na)　的(DE)　簡報(Na)　，(COMMACATEGORY)
+***********************************************
+115.　，(COMMACATEGORY)　尤其(D)　是(SHI)　奧尻島(Nc)　的(DE)　部分(Neqa)　。(PERIODCATEGORY)
+***********************************************
+116.　。(PERIODCATEGORY)　由於(Cbb)　該(Nes)　研究所(Nc)　於(P)　地震(VA)[+nom]　發生(VJ)　的(DE)　次日(Nd)　即(D)　派員(VF)　前往(VCL)　該(Nes)　島(Na)　進行(VC)　災害(Na)　調查(VE)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　因此(Cbb)　所(D)　拍得(VA)　的(DE)　照片(Na)　均(D)　為(VG)　未(D)　進行(VC)　災區(Nc)　整理(VC)　前(Ng)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+118.　，(COMMACATEGORY)　頗(Dfa)　具(VJ)　參考(Na)　價值(Na)　。(PERIODCATEGORY)
+***********************************************
+119.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　該(Nes)　研究(Na)　派請(VF)　兩(Neu)　位(Nf)　就讀(VCL)　於(P)　橫濱(Nc)　大學(Nc)　的(DE)　研究生(Na)　隨(P)　我們(Nh)　前往(VCL)　災區(Nc)　，(COMMACATEGORY)
+***********************************************
+121.　，(COMMACATEGORY)　為(P)　調查團(Na)　開車(VA)　。(PERIODCATEGORY)
+***********************************************
+122.　。(PERIODCATEGORY)　下午(Nd)　六時(Nd)　三十分(Nd)　搭機(VA)　抵(VCL)　函館(Nc)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+123.　，(COMMACATEGORY)　隨即(D)　搭乘(VC)　租借(VC)　的(DE)　車子(Na)　前往(VCL)　江差(Nc)　，(COMMACATEGORY)
+***********************************************
+124.　，(COMMACATEGORY)　抵達(VCL)　住宿(VA)　的(DE)　民宿(Nc)　時(Ng)　已(D)　近(VJ)　晚間(Nd)　九點(Nd)　。(PERIODCATEGORY)
+***********************************************
+125.　。(PERIODCATEGORY)　七月(Nd)　二十七日(Nd)　本來(D)　預定(VE)　到(VCL)　奧尻島(Nc)　調查(VE)　災害(Na)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　因(Cbb)　當天(Nd)　日皇(Na)　臨時(Nd)　決定(VE)　前往(VCL)　該(Nes)　島(Na)　慰問(VC)　災民(Na)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　故(Cbb)　變更(VC)　行程(Na)　至(Caa)　乙部町(Nc)　、(PAUSECATEGORY)　大成町(Nc)　、(PAUSECATEGORY)　瀨棚町(Nc)　等(Cab)　地(Na)　進行(VC)　災害(Na)　調查(VE)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　並(Cbb)　訪問(VC)　大成町(Nc)　公所(Nc)　，(COMMACATEGORY)
+***********************************************
+129.　，(COMMACATEGORY)　以(P)　了解(VK)　該(Nes)　町(Nc)　受(VJ)　災(Na)　的(DE)　情形(Na)　和(Caa)　救災(VA)[+nom]　體系(Na)　的(DE)　運作(VA)[+nom]　。(PERIODCATEGORY)
+***********************************************
+130.　。(PERIODCATEGORY)　七月(Nd)　二十八日(Nd)　整(Neqa)　日(Nf)　在(P)　奧尻島(Nc)　的(DE)　奧尻(Nc)　、(PAUSECATEGORY)　松江(Nc)　、(PAUSECATEGORY)　青苗(Nc)　、(PAUSECATEGORY)　藻內(Nc)　附近(Nc)　地區(Nc)　調查(VE)　災害(Na)　，(COMMACATEGORY)
+***********************************************
+131.　，(COMMACATEGORY)　當天(Nd)　因(Cbb)　天候(Na)　不佳(VH)　，(COMMACATEGORY)
+***********************************************
+132.　，(COMMACATEGORY)　時有(VJ)　強風(Na)　大雨(Na)　，(COMMACATEGORY)
+***********************************************
+133.　，(COMMACATEGORY)　使得(VL)　調查(VE)[+nom]　工作(Na)　皆(D)　是(SHI)　在(P)　趁(P)　雨勢(Na)　較(P)　小(VH)　時(Ng)　進行(VC)　。(PERIODCATEGORY)
+***********************************************
+134.　。(PERIODCATEGORY)　我們(Nh)　亦(D)　拜訪(VC)　了(Di)　奧尻町(Nc)　公所(Nc)　和(Caa)　設(VC)　在(P)　青苗(Nc)　中學(Nc)　的(DE)　災民(Na)　收容(VC)[+nom]　中心(Nc)　，(COMMACATEGORY)
+***********************************************
+135.　，(COMMACATEGORY)　以(P)　了解(VK)　救災(VA)[+nom]　體系(Na)　的(DE)　運作(VA)[+nom]　和(Caa)　遇到(VC)　的(DE)　困難(Na)　。(PERIODCATEGORY)
+***********************************************
+136.　。(PERIODCATEGORY)　趕搭(VC)　下午(Nd)　最後(Nd)　一(Neu)　班(Nf)　的(DE)　渡輪(Na)　返抵(VCL)　江差(Nc)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+137.　，(COMMACATEGORY)　隨即(D)　驅車(VA)　前往(VCL)　瀨棚町(Nc)　過夜(VA)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　抵達(VCL)　旅社(Nc)　時(Ng)　已(D)　近(Da)　九點(Nd)　。(PERIODCATEGORY)
+***********************************************
+139.　。(PERIODCATEGORY)　七月(Nd)　二十九日(Nd)　一早(D)　自(P)　瀨棚町(Nc)　出發(VA)　，(COMMACATEGORY)
+***********************************************
+140.　，(COMMACATEGORY)　前往(VCL)　因(Cbb)　受到(VJ)　土壤(Na)　液化(VHC)　而(Caa)　造成(VG)　災害(Na)　的(DE)　長萬部町(Nc)　，(COMMACATEGORY)
+***********************************************
+141.　，(COMMACATEGORY)　除(P)　在(P)　一些(Neqa)　受(VJ)　災(Na)　嚴重(VH)　的(DE)　地區(Nc)　調查(VE)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+142.　，(COMMACATEGORY)　並(Cbb)　臨時(Nd)　拜訪(VC)　長萬部町(Nc)　公所(Nc)　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　請求(VF)　提供(VD)　受(VJ)　災(Na)　情形(Na)　的(DE)　資料(Na)　。(PERIODCATEGORY)
+***********************************************
+144.　。(PERIODCATEGORY)　隨後(Nd)　再(D)　開車(VA)　回(VCL)　函館(Nc)　至(Caa)　北海道(Nc)　開發局(Nc)　函館(Nc)　開發(VC)[+nom]　建設部(Na)　拜訪(VC)　，(COMMACATEGORY)
+***********************************************
+145.　，(COMMACATEGORY)　聽取(VC)　有關(VJ)　道路(Na)　受(VJ)　災(Na)　情形(Na)　及(Caa)　救災(VA)[+nom]　措施(Na)　運作(VA)　的(DE)　簡報(Na)　。(PERIODCATEGORY)
+***********************************************
+146.　。(PERIODCATEGORY)　簡報(Na)　結束(VHC)　後(Ng)　前往(VCL)　機場(Nc)　搭(VC)　晚間(Nd)　七月(Nd)　二十五分(Nd)　的(DE)　飛機(Na)　前往(VCL)　東京(Nc)　。(PERIODCATEGORY)
+***********************************************
+147.　。(PERIODCATEGORY)　七月(Nd)　三十日(Nd)　上午(Nd)　至(P)　東京都(Nc)　都廳(Nc)　參觀(VC)　東京都(Nc)　防災(VH)　中心(Nc)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+148.　，(COMMACATEGORY)　再(D)　前往(VCL)　東京都(Nc)　北區(Nc)　防災(VH)　中心(Nc)　參觀(VC)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　對(P)　東京都(Nc)　地區(Nc)　的(DE)　防災(VH)　及(Caa)　救災(VA)　的(DE)　體系(Na)　與(Caa)　作業(Na)　有(V_2)　深刻(VH)　的(DE)　認識(VJ)　。(PERIODCATEGORY)
+***********************************************
+150.　。(PERIODCATEGORY)　七月(Nd)　三十一日(Nd)　調查團(Na)　離(VC)　日(Nc)　結束(VHC)　了(Di)　為期(VH)　一(Neu)　週(Nf)　的(DE)　地震(VA)[+nom]　災害(Na)　調查(VE)　的(DE)　行程(Na)　。(PERIODCATEGORY)
+***********************************************
+151.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　地震(VA)[+nom]　與(Caa)　海嘯(Na)　。(PERIODCATEGORY)
+***********************************************
+152.　。(PERIODCATEGORY)　本(Nes)　次(Nf)　地震(VA)[+nom]　發生(VJ)　在(P)　日本(Nc)　當地(Nc)　時間(Na)　七月(Nd)　十二日(Nd)　晚間(Nd)　十時(Nd)　十七分(Nd)　，(COMMACATEGORY)
+***********************************************
+153.　，(COMMACATEGORY)　規模(Na)　為(VG)　７(Neu)　．(PERIODCATEGORY)　８(Neu)　震央(Na)　位置(Na)　在(P)　北緯(Na)　４２度(Na)　１７分(Na)　東經(Na)　１３９度(Na)　１２分(Na)　，(COMMACATEGORY)
+***********************************************
+154.　，(COMMACATEGORY)　震源(Na)　深度(Na)　最初(Nd)　判斷(VE)　為(VG)　５０(Neu)　公里(Nf)　，(COMMACATEGORY)
+***********************************************
+155.　，(COMMACATEGORY)　但(Cbb)　後來(Nd)　幾經(VCL)　修正(VC)　，(COMMACATEGORY)
+***********************************************
+156.　，(COMMACATEGORY)　最後(Nd)　認定(VE)　的(DE)　深度(Na)　為(VG)　３４(Neu)　公里(Nf)　。(PERIODCATEGORY)
+***********************************************
+157.　。(PERIODCATEGORY)　根據(P)　推斷(VE)　，(COMMACATEGORY)
+***********************************************
+158.　，(COMMACATEGORY)　本(Nes)　次(Nf)　地震(VA)　中(Ng)　受害(VH)　最(Dfa)　深(VH)　的(DE)　奧尻島(Nc)　之(DE)　震度(Na)　約為(VG)　５(Neu)　．(PERIODCATEGORY)　６(Neu)　級(Na)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　而(Cbb)　北海道(Nc)　西南部(Ncd)　以及(Caa)　青森縣(Nc)　等(Cab)　的(DE)　大(VH)　區域(Na)　的(DE)　震度(Na)　為(VG)　４(Neu)　．(PERIODCATEGORY)　５(Neu)　級(Na)　，(COMMACATEGORY)
+***********************************************
+160.　，(COMMACATEGORY)　至於(P)　量測到(VC)　的(DE)　地表(Na)　最(Dfa)　大(VH)　加速度(Na)　在(P)　很多(Neqa)　的(DE)　地區(Nc)　都(D)　超過(VJ)　２０(Neu)　Ｏｇａｌ(FW)　。(PERIODCATEGORY)
+***********************************************
+161.　。(PERIODCATEGORY)　另一方面(Cbb)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　自(P)　地震(VA)[+nom]　發生(VJ)　後(Ng)　到(P)　七月(Nd)　底(Ng)　為止(Ng)　，(COMMACATEGORY)
+***********************************************
+163.　，(COMMACATEGORY)　共(Da)　發生(VJ)　了(Di)　約(Da)　５７００(Neu)　次(Nf)　的(DE)　餘震(Na)　，(COMMACATEGORY)
+***********************************************
+164.　，(COMMACATEGORY)　其中(Nep)　有(V_2)　規模(Na)　為(VG)　６(Neu)　．(PERIODCATEGORY)　１(Neu)　和(Caa)　６(Neu)　．(PERIODCATEGORY)　３(Neu)　者(Na)　。(PERIODCATEGORY)
+***********************************************
+165.　。(PERIODCATEGORY)　本(Nes)　次(Nf)　地震(VA)[+nom]　的(DE)　震源(Na)　與(Caa)　積丹半島(Nc)　沖(Nc)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　西元(Nd)　１９４０年(Nd)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　男鹿半島(Nc)　沖(Nc)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　西元(Nd)　１９６４年(Nd)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　新潟(Nc)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　西元(Nd)　１９６４年(Nd)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　日本海(Nc)　中部(Ncd)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　西元(Nd)　１９８３年(Nd)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　能登半島(Nc)　沖(Nc)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　西元(Nd)　１９９３年(Nd)　）(PARENTHESISCATEGORY)　等(Cab)　地震(VA)[+nom]　的(DE)　震源(Na)　區域(Na)　很(Dfa)　漂亮(VH)　地(DE)　排成(VG)　一(Neu)　條(Nf)　線(Na)　。(PERIODCATEGORY)
+***********************************************
+166.　。(PERIODCATEGORY)　事(Na)　直(D)　上(VCL)　自(P)　西元(Nd)　１９８３年(Nd)　的(DE)　日本海(Nc)　中部(Ncd)　地震(VA)　以來(Ng)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　就(D)　有(V_2)　人(Na)　指出(VE)　從(P)　北海道(Nc)　西岸(Nc)　到(VCL)　能登半島(Nc)　外海(Nc)　間(Ncd)　的(DE)　日本海(Nc)　東(Ncd)　緣(Ncd)　部分(Neqa)　有(V_2)　斷層(Na)　存在(VA)　，(COMMACATEGORY)
+***********************************************
+168.　，(COMMACATEGORY)　而(Cbb)　東京(Nc)　大學(Nc)　的(DE)　溝上惠(Nb)　教授(Na)　則(D)　認為(VE)　此(Nep)　次(Nf)　地震(VA)[+nom]　應(D)　是(SHI)　北美(Nc)　板塊(Na)　存在(VA)　的(DE)　有利(VK)[+nom]　證據(Na)　。(PERIODCATEGORY)
+***********************************************
+169.　。(PERIODCATEGORY)　與(P)　先前(Nd)　的(DE)　釧路(Nc)　地震(VA)[+nom]　的(DE)　震源(Na)　深度(Na)　１０７(Neu)　公里(Nf)　相較(VB)　，(COMMACATEGORY)
+***********************************************
+170.　，(COMMACATEGORY)　本(Nes)　次(Nf)　的(DE)　地震(VA)[+nom]　不但(Cbb)　規模(Na)　大(VH)　而且(Cbb)　震源(Na)　較(Dfa)　淺(VH)　，(COMMACATEGORY)
+***********************************************
+171.　，(COMMACATEGORY)　因此(Cbb)　地震(VA)[+nom]　發生(VJ)　後(Ng)　五(Neu)　分鐘(Nf)　，(COMMACATEGORY)
+***********************************************
+172.　，(COMMACATEGORY)　北海道(Nc)　札幌(Nc)　管區(Na)　氣象台(Nc)　對(P)　北海道(Nc)　和(Caa)　東北部(Ncd)　的(DE)　日本海(Nc)　沿岸(Nc)　發佈(VE)　大(VH)　海嘯(Na)　警報(Na)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　對(P)　太平洋(Nc)　沿岸(Nc)　發佈(VE)　海嘯(Na)　警報(Na)　，(COMMACATEGORY)
+***********************************************
+174.　，(COMMACATEGORY)　而(Cbb)　對(P)　鄂霍次克海(Nc)　沿岸(Nc)　則(D)　發佈(VE)　注意(VK)　海嘯(Na)　，(COMMACATEGORY)
+***********************************************
+175.　，(COMMACATEGORY)　並(Cbb)　預測(VE)　海嘯(Na)　到達(VCL)　的(DE)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+176.　，(COMMACATEGORY)　要求(VF)　日本海(Nc)　側(Ncd)　的(DE)　地區(Nc)　嚴加(D)　戒備(VA)　並(D)　進行(VC)　避難(VA)[+nom]　和(Caa)　防災(VH)　措施(Na)　。(PERIODCATEGORY)
+***********************************************
+177.　。(PERIODCATEGORY)　此(Nep)　一(Neu)　芒戒(Nc)　區域(Na)　的(DE)　範圍(Na)　後來(Nd)　更(D)　進一步(D)　擴大到(VC)　九州(Nc)　沿岸(Nc)　。(PERIODCATEGORY)
+***********************************************
+178.　。(PERIODCATEGORY)　而(Cbb)　位(VCL)　在(P)　震源(Na)　附近(Nc)　的(DE)　奧尻島(Nc)　北部(Ncd)　的(DE)　稻穗(Nc)　地區(Nc)　、(PAUSECATEGORY)　奧尻島(Nc)　南部(Ncd)　的(DE)　青苗(Nc)　地區(Nc)　、(PAUSECATEGORY)　北海道(Nc)　的(DE)　瀨棚町(Nc)　等(Cab)　地(Na)　於(P)　地震(VA)[+nom]　發生(VJ)　後(Ng)　２(Neu)[+p1]　至(Caa)　７(Neu)　分鐘(Nf)　內(Ng)　即(D)　受到(VJ)　２０(Neu)　公尺(Nf)　以上(Ng)　的(DE)　海嘯(Na)　的(DE)　侵襲(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+179.　。(PERIODCATEGORY)　對於(P)　海嘯(Na)　的(DE)　高度(Na)　為(VG)　何(Nes)　，(COMMACATEGORY)
+***********************************************
+180.　，(COMMACATEGORY)　隨著(P)　不同(VH)　單位(Na)　的(DE)　調查(VE)[+nom]　而(Cbb)　有(V_2)　不同(VH)　的(DE)　數據(Na)　。(PERIODCATEGORY)
+***********************************************
+181.　。(PERIODCATEGORY)　就(P)　奧尻島(Nc)　的(DE)　藻內(Nc)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+182.　，(COMMACATEGORY)　日本(Nc)　東北(Ncd)　大學(Nc)　和(Caa)　東京(Nc)　大學(Nc)　的(DE)　調查(VE)[+nom]　指出(VE)　的(DE)　海嘯(Na)　高度(Na)　為(VG)　３０(Neu)　公尺(Nf)　，(COMMACATEGORY)
+***********************************************
+183.　，(COMMACATEGORY)　但是(Cbb)　札幌(Nc)　管區(Na)　氣象台(Nc)　在(P)　該(Nes)　地(Na)　，(COMMACATEGORY)
+***********************************************
+184.　，(COMMACATEGORY)　但(Cbb)　與(P)　東北(Ncd)　大學(Nc)　量測點(Na)　不同(VH)　的(DE)　地點(Na)　所(D)　測得(VC)　的(DE)　值(Na)　為(VG)　２１(Neu)　公尺(Nf)　，(COMMACATEGORY)
+***********************************************
+185.　，(COMMACATEGORY)　而(Cbb)　最(Dfa)　大(VH)　的(DE)　海嘯(Na)　則(D)　是(SHI)　發生(VJ)　在(P)　青苗(Nc)　附近(Nc)　的(DE)　群來岬(Nc)　，(COMMACATEGORY)
+***********************************************
+186.　，(COMMACATEGORY)　其(Nep)　高度(Na)　為(VG)　２２(Neu)　公尺(Nf)　。(PERIODCATEGORY)
+***********************************************
+187.　。(PERIODCATEGORY)　一般而言(Dk)　，(COMMACATEGORY)
+***********************************************
+188.　，(COMMACATEGORY)　非常(Dfa)　大(VH)　的(DE)　海嘯(Na)　大都(D)　集中(VC)　在(P)　奧尻島(Nc)　的(DE)　西岸(Nc)　和(Caa)　南端(Ncd)　。(PERIODCATEGORY)
+***********************************************
+189.　。(PERIODCATEGORY)　另外(Cbb)　，(COMMACATEGORY)
+***********************************************
+190.　，(COMMACATEGORY)　在(P)　地震(VA)[+nom]　發生(VJ)　後(Ng)　的(DE)　測量(VC)[+nom]　發現(VE)　奧尻島(Nc)　整(Neqa)　島(Na)　沉陷(VA)　了(Di)　５０(Neu)[+p1]　至(Caa)　９０(Neu)　公分(Nf)　，(COMMACATEGORY)
+***********************************************
+191.　，(COMMACATEGORY)　但是(Cbb)　本(Nes)　次(Nf)　地震(VA)[+nom]　中(Ng)　奧尻島(Nc)　所在(Na)　的(DE)　北美(Nc)　板塊(Na)　是(SHI)　上升(VA)　，(COMMACATEGORY)
+***********************************************
+192.　，(COMMACATEGORY)　理論(Na)　上(Ng)　該(Nes)　島(Na)　應(D)　不會(D)　下沉(VA)　；(SEMICOLONCATEGORY)
+***********************************************
+193.　；(SEMICOLONCATEGORY)　在(P)　經過(VCL)　海(Na)　上(Ncd)　保安店(Nc)　的(DE)　測量(VC)[+nom]　船(Na)　以(P)　音波(Na)　裝置(Na)　探查(VC)　，(COMMACATEGORY)
+***********************************************
+194.　，(COMMACATEGORY)　發現(VE)　在(P)　震源(Na)　附近(Nc)　東西(Ncd)　約(Da)　６０(Neu)　公里(Nf)　，(COMMACATEGORY)
+***********************************************
+195.　，(COMMACATEGORY)　南北(Ncd)　約(Da)　八十(Neu)　公里(Nf)　的(DE)　區域(Na)　內(Ncd)　有(V_2)　十九(Neu)　處(Nf)　的(DE)　活(VH)　斷層(Na)　，(COMMACATEGORY)
+***********************************************
+196.　，(COMMACATEGORY)　其中(Nep)　有(V_2)　四(Neu)　處(Nc)　產生(VHC)　滑動(VA)　，(COMMACATEGORY)
+***********************************************
+197.　，(COMMACATEGORY)　其中(Nep)　位(VCL)　在(P)　奧尻島(Nc)　東西(Ncd)　兩(Neu)　側(Ncd)　的(DE)　的(DE)　斯層(Na)　移動量(Na)　最(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+198.　，(COMMACATEGORY)　其(Nep)　值(Na)　為(VG)　ｌ０(Neu)　公尺(Nf)　，(COMMACATEGORY)
+***********************************************
+199.　，(COMMACATEGORY)　如此(VH)　或(Caa)　可(D)　解釋(VE)　奧尻島(Nc)　下沉(VA)　的(DE)　原因(Na)　。(PERIODCATEGORY)
+***********************************************
+200.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=(黃國將)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第八期 (1993/12).簡訊
+201.　。(PERIODCATEGORY)　地震(VA)[+nom]　災害(Na)　報導(VE)　。(PERIODCATEGORY)
+***********************************************
+202.　。(PERIODCATEGORY)　印度(Nc)　馬哈拉斯特立省(Nc)　地震(VA)[+nom]　。(PERIODCATEGORY)
+***********************************************
+203.　。(PERIODCATEGORY)　九月(Nd)　三十日(Nd)　，(COMMACATEGORY)
+***********************************************
+204.　，(COMMACATEGORY)　清晨(Nd)　六時(Nd)　二十六分(Nd)　，(COMMACATEGORY)
+***********************************************
+205.　，(COMMACATEGORY)　在(P)　印度(Nc)　當地(Nc)　時間(Na)　凌晨(Nd)　三時(Nd)　五十六分(Nd)　，(COMMACATEGORY)
+***********************************************
+206.　，(COMMACATEGORY)　發生(VJ)　規模(Na)　六(Neu)　．(PERIODCATEGORY)　Ｏ(Neu)　的(DE)　強烈(VH)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　美國(Nc)　測震(VA)[+nom]　當局(Na)　則(D)　說(VE)　是(SHI)　芮氏(Nb)　六(Neu)　．(PERIODCATEGORY)　四(Neu)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+207.　，(COMMACATEGORY)　震央(Na)　在(P)　印度(Nc)　中西部(Ncd)　，(COMMACATEGORY)
+***********************************************
+208.　，(COMMACATEGORY)　位於(VCL)　拉土耳布匹(Nc)　十(Neu)　公里(Nf)　，(COMMACATEGORY)
+***********************************************
+209.　，(COMMACATEGORY)　該(Nes)　地(Na)　為(VG)　一(Neu)　農業(Na)　地帶(Nc)　，(COMMACATEGORY)
+***********************************************
+210.　，(COMMACATEGORY)　西(Ncd)　距(P)　印度(Nc)　金融(Na)　中心(Nc)　孟買市(Nc)　約(Da)　七百(Neu)　公里(Nf)　處(Nc)　，(COMMACATEGORY)
+***********************************************
+211.　，(COMMACATEGORY)　最(Dfa)　嚴重(VH)　的(DE)　災區(Nc)　要日(Nc)　位於(VCL)　震央(Na)　南方(Ncd)　三十(Neu)　公里(Nf)　處(Nc)　的(DE)　安瑪加(Nc)　和(Caa)　北方(Ncd)　八十(Neu)　公里(Nf)　處(Nc)　的(DE)　古拉瑞(Nc)　兩(Neu)　個(Nf)　地區(Nc)　，(COMMACATEGORY)
+***********************************************
+212.　，(COMMACATEGORY)　安瑪加(Nc)　附近(Nc)　二十幾(Neu)　個(Nf)　村莊(Nc)　被(P)　夷為平地(VB)　，(COMMACATEGORY)
+***********************************************
+213.　，(COMMACATEGORY)　居民(Na)　至少(Da)　有(V_2)　三千(Neu)　人(Na)　喪生(VH)　，(COMMACATEGORY)
+***********************************************
+214.　，(COMMACATEGORY)　至於(P)　古拉瑞(Nc)　則(D)　百分之八十(Neqa)　的(DE)　建築物(Na)　被(P)　震毀(VC)　，(COMMACATEGORY)
+***********************************************
+215.　，(COMMACATEGORY)　罹難(VH)　者(Na)　已(D)　超過(VJ)　三千(Neu)　人(Na)　，(COMMACATEGORY)
+***********************************************
+216.　，(COMMACATEGORY)　位於(VCL)　馬哈拉斯特立省(Nc)　南方(Ncd)　的(DE)　卡那塔加省(Nc)　也(D)　有(V_2)　十三(Neu)　人(Na)　被(P)　倒塌(VA)　的(DE)　房屋(Na)　活埋(VC)　，(COMMACATEGORY)
+***********************************************
+217.　，(COMMACATEGORY)　而(Cbb)　其他(Neqa)　鄰近(VJ)[+nom]　地區(Nc)　也(D)　有(V_2)　五十(Neu)　人(Na)　，(COMMACATEGORY)
+***********************************************
+218.　，(COMMACATEGORY)　因(Cbb)　這(Nep)　次(Nf)　地震(VA)[+nom]　而(Cbb)　死亡(VH)　。(PERIODCATEGORY)
+***********************************************
+219.　。(PERIODCATEGORY)　地震(VA)[+nom]　學家(Na)　指出(VE)　，(COMMACATEGORY)
+***********************************************
+220.　，(COMMACATEGORY)　馬哈拉斯特立省(Nc)　南部(Ncd)　地區(Nc)　，(COMMACATEGORY)
+***********************************************
+221.　，(COMMACATEGORY)　雖然(Cbb)　經常(D)　有(V_2)　地震(VA)[+nom]　發生(VJ)　，(COMMACATEGORY)
+***********************************************
+222.　，(COMMACATEGORY)　但(Cbb)　並(Cbb)　未(D)　歸於(VK)　地震(VA)[+nom]　頻繁(VH)　區(Nc)　，(COMMACATEGORY)
+***********************************************
+223.　，(COMMACATEGORY)　當(P)　地震(VA)[+nom]　發生(VJ)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+224.　，(COMMACATEGORY)　大部份(Neqa)　居民(Na)　都(D)　在(P)　泥磚房(Na)　裡(Ncd)　沈睡(VH)　，(COMMACATEGORY)
+***********************************************
+225.　，(COMMACATEGORY)　根本(D)　不及(VJ)　躲避(VC)　，(COMMACATEGORY)
+***********************************************
+226.　，(COMMACATEGORY)　以致(Cbb)　傷亡(Na)　如此(Dfa)　慘重(VH)　，(COMMACATEGORY)
+***********************************************
+227.　，(COMMACATEGORY)　但(Cbb)　亦(D)　有(V_2)　專家(Na)　認為(VE)　，(COMMACATEGORY)
+***********************************************
+228.　，(COMMACATEGORY)　造成(VG)　這(Nep)　次(Nf)　災情(Na)　嚴重(VH)　的(DE)　原因(Na)　是(SHI)　由於(Cbb)　印度(Nc)　大多(Neqa)　是(SHI)　泥磚房(Na)　，(COMMACATEGORY)
+***********************************************
+229.　，(COMMACATEGORY)　且(Caa)　建築(Na)　不(D)　打(VC)　地基(Na)　所(D)　致(VL)　。(PERIODCATEGORY)
+***********************************************
+230.　。(PERIODCATEGORY)　附註(VE)　「(PARENTHESISCATEGORY)　此(Nep)　篇(Nf)　整理(VC)　自(P)　新聞(Na)　報導(Na)　，(COMMACATEGORY)
+***********************************************
+231.　，(COMMACATEGORY)　若(Cbb)　收到(VC)　更(D)　詳細(VH)　的(DE)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+232.　，(COMMACATEGORY)　再(D)　予以(D)　刊登(VC)　。(PERIODCATEGORY)
+***********************************************
+233.　。(PERIODCATEGORY)　中心(Nc)　動態(Na)　：(COLONCATEGORY)
+***********************************************
+234.　：(COLONCATEGORY)　新建(VC)[+nom]　工程(Na)　執行(VC)[+nom]　概況(Na)　。(PERIODCATEGORY)
+***********************************************
+235.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　研究(Na)　大樓(Na)　和(Caa)　大型(Na)　實驗室(Nc)　已(D)　於(P)　本(Nes)　年(Nf)　八月(Nd)　十七日(Nd)　正式(VH)　動工(VA)　，(COMMACATEGORY)
+***********************************************
+236.　，(COMMACATEGORY)　該(Nes)　工程(Na)　係(VG)　由(P)　大陸(Nc)　工程(Na)　公司(Nc)　承造(VC)　，(COMMACATEGORY)
+***********************************************
+237.　，(COMMACATEGORY)　宗邁(Nb)　建築師(Na)　事務所(Nc)　監造(VC)　，(COMMACATEGORY)
+***********************************************
+238.　，(COMMACATEGORY)　技術(Na)　顧問(Na)　則(D)　由(P)　中興(VH)[+prop]　工程(Na)　顧問(Na)　社(Nc)　義務(D)　指導(VC)　。(PERIODCATEGORY)
+***********************************************
+239.　。(PERIODCATEGORY)　該(Nes)　工程(Na)　自(P)　動工(VA)　以來(Ng)　，(COMMACATEGORY)
+***********************************************
+240.　，(COMMACATEGORY)　積極(VH)　地(DE)　進行(VC)　地上物(Na)　的(DE)　清除(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+241.　，(COMMACATEGORY)　由於(Cbb)　天候(Na)　的(DE)　配合(VC)[+nom]　和(Caa)　有關(VJ)[+nom]　單位(Na)　的(DE)　協助(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+242.　，(COMMACATEGORY)　工作(Na)　的(DE)　進行(VC)　尚(D)　稱(VE)　順利(VH)　，(COMMACATEGORY)
+***********************************************
+243.　，(COMMACATEGORY)　同時(Nd)　亦(D)　已(D)　獲(VJ)　建管處(Nc)　核准(VE)　工程(Na)　的(DE)　進行(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+244.　，(COMMACATEGORY)　目前(Nd)　正(D)　準備(VF)　試(VF)　樁(Na)　工程(Na)　。(PERIODCATEGORY)
+***********************************************
+245.　。(PERIODCATEGORY)　試(VF)　樁(Na)　部分(Neqa)　計有(VJ)　１３００(Neu)　公噸(Nf)　和(Caa)　２２００(Neu)　公噸(Nf)　兩(Neu)　組(Nf)　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　每(Nes)　組(Nf)　含(VC)　試驗樁(Na)　乙(Neu)　支(Nf)　，(COMMACATEGORY)
+***********************************************
+247.　，(COMMACATEGORY)　錨椿(Na)　八(Neu)　支(Nf)　，(COMMACATEGORY)
+***********************************************
+248.　，(COMMACATEGORY)　合計(VG)　共(Da)　須(D)　施作(VC)　十八(Neu)　支(Nf)　樁(Nf)　，(COMMACATEGORY)
+***********************************************
+249.　，(COMMACATEGORY)　而(Cbb)　基樁(Na)　的(DE)　施作(VC)[+nom]　方式(Na)　採(VC)　反(VC)[+nom]　循環(Na)　方式(Na)　進行(VC)　。(PERIODCATEGORY)
+***********************************************
+250.　。(PERIODCATEGORY)　鋼(Na)　結構(Na)　裝置(VC)　隔震(VH)[+nom]　、(PAUSECATEGORY)　消能(VH)　元件(Na)　地震(VA)[+nom]　反應(Na)　實(D)　測(VC)　與(Caa)　分析(VC)[+nom]　進度(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+251.　。(PERIODCATEGORY)　本(Nes)　案(Na)　自(P)　８２年(Nd)　７月(Nd)　７日(Nd)　召集(VC)　第一(Neu)　次(Nf)　執行(VC)[+nom]　會議(Na)　，(COMMACATEGORY)
+***********************************************
+252.　，(COMMACATEGORY)　成立(VC)　儀器(Na)　作業(Na)　小組(Na)　及(Caa)　工務(Na)　小組(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+253.　，(COMMACATEGORY)　即(D)　分頭(D)　積極(VH)　推動(VC)　鍆(Na)　結構(Na)　設計(Na)　定案(VB)[+nom]　、(PAUSECATEGORY)　發包(VD)　以及(Caa)　儀器(Na)　系統(Na)　之(DE)　再(D)　檢討(VE)　、(PAUSECATEGORY)　招標(VA)　等(Cab)　工作(Na)　。(PERIODCATEGORY)
+***********************************************
+254.　。(PERIODCATEGORY)　其中(Nep)　儀器(Na)　作業(Na)　小組(Na)　已(D)　分別(D)　在(P)　八月(Nd)　及(Caa)　十月(Nd)　召開(VC)　第一(Neu)　次(Nf)　與(Caa)　第二(Neu)　次(Nf)　小組(Na)　會議(Na)　，(COMMACATEGORY)
+***********************************************
+255.　，(COMMACATEGORY)　對(P)　儀器(Na)　種類(Na)　、(PAUSECATEGORY)　數量(Na)　、(PAUSECATEGORY)　規格(Na)　、(PAUSECATEGORY)　價格(Na)　做(VC)　詳盡(VH)　討論(VE)　，(COMMACATEGORY)
+***********************************************
+256.　，(COMMACATEGORY)　已(D)　接近(VC)　定案(VB)　，(COMMACATEGORY)
+***********************************************
+257.　，(COMMACATEGORY)　有關(VJ)　招標(VA)[+nom]　文件(Na)　之(DE)　準備(VC)[+nom]　亦(D)　大致(D)　就緒(VH)　。(PERIODCATEGORY)
+***********************************************
+258.　。(PERIODCATEGORY)　關於(P)　鋼(Na)　結構(Na)　設計(Na)　定案(VB)　，(COMMACATEGORY)
+***********************************************
+259.　，(COMMACATEGORY)　發包(VD)[+nom]　工作(Na)　，(COMMACATEGORY)
+***********************************************
+260.　，(COMMACATEGORY)　工務(Na)　小組(Na)　已(D)　在(P)　十月(Nd)　十四日(Nd)　召開(VC)　第一(Neu)　次(Nf)　會議(Na)　，(COMMACATEGORY)
+***********************************************
+261.　，(COMMACATEGORY)　目前(Nd)　設計(VC)[+nom]　細節(Na)　已(D)　差不多(D)　定案(VB)　，(COMMACATEGORY)
+***********************************************
+262.　，(COMMACATEGORY)　有關(VJ)　設計圖說(Na)　項維邦(Nb)　博士(Na)　主持(VC)　之(DE)　聯邦(Na)　工程(Na)　顧問(Na)　公司(Nc)　亦(D)　將(D)　在(P)　十月(Nd)　底(Ng)　將(P)　所有(Neqa)　招標(VA)[+nom]　文件(Na)　送達(VD)　中心(Nc)　做(VC)　再次(D)　的(DE)　審定(VC)　。(PERIODCATEGORY)
+***********************************************
+263.　。(PERIODCATEGORY)　預訂(VC)　結構(Na)　設計(Na)　與(Caa)　儀器(Na)　系統(Na)　定案(VB)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+264.　，(COMMACATEGORY)　將(D)　召開(VC)　本(Nes)　案(Na)　第二(Neu)　次(Nf)　執行(VC)[+nom]　會議(Na)　，(COMMACATEGORY)
+***********************************************
+265.　，(COMMACATEGORY)　做(VC)　最後(Nd)　的(DE)　審定(VC)　。(PERIODCATEGORY)
+***********************************************
+266.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=[葉勇凱、葉超雄]
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十一期 (1994/9).簡訊
+267.　。(PERIODCATEGORY)　研究(Na)　動態(Na)　：(COLONCATEGORY)
+***********************************************
+268.　：(COLONCATEGORY)　半球形(Na)　谷地(Na)　的(DE)　顯著(VH)　週期(Na)　。(PERIODCATEGORY)
+***********************************************
+269.　。(PERIODCATEGORY)　摘要(Na)　。(PERIODCATEGORY)
+***********************************************
+270.　。(PERIODCATEGORY)　關鍵字(Na)　：(COLONCATEGORY)
+***********************************************
+271.　：(COLONCATEGORY)　地震波(Na)　、(PAUSECATEGORY)　地形(Na)　效應(Na)　、(PAUSECATEGORY)　顯著(VH)　週期(Na)　本(Nes)　文(Na)　在(P)　探討(VE)　於(P)　三(Neu)　度(Nf)　空間(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+272.　，(COMMACATEGORY)　Ｐ(FW)　（(PARENTHESISCATEGORY)　縱波(Na)　）(PARENTHESISCATEGORY)　與(Caa)　Ｓ(FW)　（(PARENTHESISCATEGORY)　橫波(Na)　）(PARENTHESISCATEGORY)　以(P)　垂直(VI)　入射於(VJ)　半(Neqa)　無限(VH)　彈性(Na)　體(Na)　中(Ng)　半球形(Na)　谷地(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+273.　，(COMMACATEGORY)　於(P)　頻率域(Na)　的(DE)　波動(VAC)[+nom]　散射(VA)[+nom]　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+274.　。(PERIODCATEGORY)　在(P)　研究(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+275.　，(COMMACATEGORY)　得到(VJ)　了(Di)　三(Neu)　個(Nf)　點波源勢(Na)　函數(Na)　序列(Na)　。(PERIODCATEGORY)
+***********************************************
+276.　。(PERIODCATEGORY)　這些(Neqa)　勢(Na)　函數(Na)　在(P)　谷地(Na)　內(Ncd)　的(DE)　一(Neu)　特定(A)　點(Na)　有(V_2)　奇異性(Na)　，(COMMACATEGORY)
+***********************************************
+277.　，(COMMACATEGORY)　而(Cbb)　滿足(VHC)　地表(Na)　自由(VH)　邊界(Nc)　條件(Na)　及(Caa)　遠處(Nc)　的(DE)　幅射(Na)　條件(Na)　。(PERIODCATEGORY)
+***********************************************
+278.　。(PERIODCATEGORY)　散射波(Na)　即可(D)　由(P)　這些(Neqa)　基本(A)　波源勢(Na)　函數(Na)　組成(VG)　，(COMMACATEGORY)
+***********************************************
+279.　，(COMMACATEGORY)　勢(Na)　函數(Na)　的(DE)　係數(Na)　則(D)　可(D)　由(P)　谷地(Na)　的(DE)　邊界(Nc)　條件(Na)　得到(VJ)　。(PERIODCATEGORY)
+***********************************************
+280.　。(PERIODCATEGORY)　藉由(P)　不同(VH)　頻率(Na)　下(Ng)　谷地(Na)　底部(Ncd)　與(P)　頂部(Ncd)　的(DE)　地表(Na)　運動(Na)　，(COMMACATEGORY)
+***********************************************
+281.　，(COMMACATEGORY)　可(D)　提供(VD)　顯著(VH)　週期(Na)　的(DE)　參考(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+282.　。(PERIODCATEGORY)　研究(Na)　內容(Na)　。(PERIODCATEGORY)
+***********************************************
+283.　。(PERIODCATEGORY)　由於(Cbb)　地表(Na)　的(DE)　不(D)　規則(VH)[+nom]　與(Caa)　地質(Na)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+284.　，(COMMACATEGORY)　地表(Na)　運動(Na)　的(DE)　振幅(Na)　在(P)　短距離(Na)　內(Ng)　即可(D)　能(D)　有(V_2)　很(Dfa)　大(VH)　的(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+285.　，(COMMACATEGORY)　二(Neu)　度(Nf)　空間(Na)　的(DE)　不(D)　規則(VH)　地表(Na)　的(DE)　波動(VAC)[+nom]　問題(Na)　，(COMMACATEGORY)
+***********************************************
+286.　，(COMMACATEGORY)　已(D)　有(V_2)　多(Neqa)　位(Nf)　學者(Na)　予以(D)　探討(VE)　（(PARENTHESISCATEGORY)　Ｗｏｎｇ(FW)　１９８２(Nd)　，(COMMACATEGORY)
+***********************************************
+287.　，(COMMACATEGORY)　Ｓａｎｃｈｅｚ(FW)　．(PERIODCATEGORY)　Ｓｅｓｍａ(FW)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+288.　，(COMMACATEGORY)　１９８５(Nd)　，(COMMACATEGORY)
+***********************************************
+289.　，(COMMACATEGORY)　１９９３(Nd)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+290.　。(PERIODCATEGORY)　但(Cbb)　對於(P)　三(Neu)　度(Nf)　空間(Na)　的(DE)　問題(Na)　卻(D)　僅存(VC)　很少(VH)　的(DE)　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+291.　。(PERIODCATEGORY)　這(Nep)　是(SHI)　由於(Cbb)　三(Neu)　度(Nf)　空間(Na)　問題(Na)　增加(VHC)　了(Di)　許多(Neqa)　困難度(Na)　。(PERIODCATEGORY)
+***********************************************
+292.　。(PERIODCATEGORY)　ＳＨ波(Na)　的(DE)　映射(VC)[+nom]　方法(Na)　（(PARENTHESISCATEGORY)　ｉｍａｇｅ(FW)　ｍｅｔｈｏｄ(FW)　）(PARENTHESISCATEGORY)　在(P)　三(Neu)　度(Nf)　空間(Na)　問題(Na)　中(Ng)　已(D)　不能(D)　使用(VC)　。(PERIODCATEGORY)
+***********************************************
+293.　。(PERIODCATEGORY)　Ｐ(FW)　．(PERIODCATEGORY)　Ｓ(FW)　．(PERIODCATEGORY)　及雷利波(Na)　在(P)　不(D)　規則(VH)　地表(Na)　間(Ncd)　會(D)　互相(D)　轉變(VHC)　。(PERIODCATEGORY)
+***********************************************
+294.　。(PERIODCATEGORY)　這些(Neqa)　現象(Na)　即(D)　造成(VG)　三(Neu)　度(Nf)　空間(Na)　的(DE)　半(Neqa)　無限(VH)　體(Na)　中(Ng)　的(DE)　波動(VAC)[+nom]　問題(Na)　，(COMMACATEGORY)
+***********************************************
+295.　，(COMMACATEGORY)　比(P)　二(Neu)　度(Nf)　空間(Na)　更(D)　複雜(VH)　。(PERIODCATEGORY)
+***********************************************
+296.　。(PERIODCATEGORY)　Ｌｅｅ(FW)　於(P)　一九八二年(Nd)　分析(VC)　了(Di)　半球(Nc)　谷地(Na)　的(DE)　波動(VAC)[+nom]　散射(VA)[+nom]　問題(Na)　（(PARENTHESISCATEGORY)　ｐ(FW)　．(PERIODCATEGORY)　ＳＶ(FW)　．(PERIODCATEGORY)　ＳＨ波(Na)　入射(VJ)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+297.　。(PERIODCATEGORY)　他(Nh)　以(P)　球形波(Na)　函數(Na)　為(VG)　級數(Na)　解(Na)　的(DE)　基函數(Na)　，(COMMACATEGORY)
+***********************************************
+298.　，(COMMACATEGORY)　再(D)　經由(P)　Ｂｅｓｓｅｌ函數(Na)　的(DE)　冪級數(Na)　比較(Na)　係數(Na)　來(D)　滿足(VHC)　地表(Na)　的(DE)　邊界(Nc)　條件(Na)　。(PERIODCATEGORY)
+***********************************************
+299.　。(PERIODCATEGORY)　然而(Cbb)　他(Nh)　的(DE)　解(Na)　在(P)　高頻(Na)　問題(Na)　時有(VJ)　不(D)　穩定(VHC)[+nom]　現象(Na)　。(PERIODCATEGORY)
+***********************************************
+300.　。(PERIODCATEGORY)　Ｓａｎｃｈｅｚ(FW)　．(PERIODCATEGORY)　Ｓｅｓｍａ(FW)　在(P)　１９８３年(Nd)　也(D)　針對(P)　相同(VH)　的(DE)　問題(Na)　作(VC)　了(Di)　分析(Na)　，(COMMACATEGORY)
+***********************************************
+301.　，(COMMACATEGORY)　他(Nh)　也(D)　用(P)　球形波(Na)　函數(Na)　作(VC)　基函數(Na)　，(COMMACATEGORY)
+***********************************************
+302.　，(COMMACATEGORY)　但(Cbb)　以(P)　最(Dfa)　小(VH)　乘方(Na)　法(Na)　同時(Nd)　處理(VC)　地面(Nc)　與(Caa)　谷地(Na)　的(DE)　邊界(Nc)　條件(Na)　。(PERIODCATEGORY)
+***********************************************
+303.　。(PERIODCATEGORY)　以上(Ncd)　兩(Neu)　位(Nf)　的(DE)　解(Na)　都(D)　未(D)　包含(VJ)　雷利表面波(Na)　的(DE)　貢獻(Na)　。(PERIODCATEGORY)
+***********************************************
+304.　。(PERIODCATEGORY)　在(P)　本(Nes)　文(Na)　中(Ng)　我們(Nh)　用(P)　不同(VH)　的(DE)　基函數(Na)　，(COMMACATEGORY)
+***********************************************
+305.　，(COMMACATEGORY)　來(D)　滿足(VHC)　地表(Na)　邊界(Nc)　條件(Na)　及(Caa)　遠處(Nc)　幅射(Na)　條件(Na)　。(PERIODCATEGORY)
+***********************************************
+306.　。(PERIODCATEGORY)　以(P)　三(Neu)　種(Nf)　勢函數(Na)　序列(Na)　來(D)　表現(VC)　散射波(Na)　，(COMMACATEGORY)
+***********************************************
+307.　，(COMMACATEGORY)　而(Cbb)　同時(Nd)　涵蓋(VJ)　了(Di)　雷利表面波(Na)　的(DE)　貢獻(Na)　。(PERIODCATEGORY)
+***********************************************
+308.　。(PERIODCATEGORY)　１９６７年(Nd)　Ｃｒｅｇｏｒｙ(FW)　針對(P)　半(Neqa)　無限(VH)　體(Na)　內(Ncd)　含(VC)　十(Neu)　圓柱(Na)　洞穴(Na)　的(DE)　波動(VAC)[+nom]　問題(Na)　求解(VB)　。(PERIODCATEGORY)
+***********************************************
+309.　。(PERIODCATEGORY)　他(Nh)　介紹(VE)　兩(Neu)　個(Nf)　以(P)　洞穴(Na)　中(Ncd)　的(DE)　軸(Na)　為(VG)　奇異值(Na)　的(DE)　線波源勢(Na)　函數(Na)　，(COMMACATEGORY)
+***********************************************
+310.　，(COMMACATEGORY)　滿足(VHC)　地表(Na)　邊界(Nc)　條件(Na)　及(Caa)　遠處(Nc)　的(DE)　幅射(Na)　條件(Na)　。(PERIODCATEGORY)
+***********************************************
+311.　。(PERIODCATEGORY)　任何(Neqa)　波動(VAC)[+nom]　方程(Na)　的(DE)　解(Na)　，(COMMACATEGORY)
+***********************************************
+312.　，(COMMACATEGORY)　又(D)　滿足(VHC)　地表(Na)　邊界(Nc)　條件(Na)　及(Caa)　遠處(Nc)　幅射(Na)　條件(Na)　者(Na)　，(COMMACATEGORY)
+***********************************************
+313.　，(COMMACATEGORY)　都(D)　能(D)　用(VC)　這些(Neqa)　勢函數(Na)　展開(VC)　。(PERIODCATEGORY)
+***********************************************
+314.　。(PERIODCATEGORY)　勢函數(Na)　的(DE)　未定(VH)　係數(Na)　則(D)　由(P)　洞穴(Na)　的(DE)　邊界(Nc)　條件(Na)　決定(VE)　。(PERIODCATEGORY)
+***********************************************
+315.　。(PERIODCATEGORY)　他(Nh)　的(DE)　方法(Na)　提供(VD)　了(T)　個(Nf)　直接(VH)　解決(VC)　半(Neqa)　無限(VH)　體(Na)　勺波動(VAC)[+nom]　問題(Na)　的(DE)　方法(Na)　。(PERIODCATEGORY)
+***********************************************
+316.　。(PERIODCATEGORY)　在(P)　本(Nes)　研究(Na)　中(Ng)　我們(Nh)　採用(VC)　相同(VH)　的(DE)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+317.　，(COMMACATEGORY)　用(VC)　在(P)　三(Neu)　度(Nf)　空間(Na)　中(Ncd)　。(PERIODCATEGORY)
+***********************************************
+318.　。(PERIODCATEGORY)　而(Cbb)　波源(Na)　函數(Na)　換成(VG)　三(Neu)　個(Nf)　序列(Na)　的(DE)　點波源勢(Na)　函數(Na)　，(COMMACATEGORY)
+***********************************************
+319.　，(COMMACATEGORY)　其(Nep)　波源(Na)　位(VCL)　在(P)　谷地(Na)　內(Ncd)　。(PERIODCATEGORY)
+***********************************************
+320.　。(PERIODCATEGORY)　結論(Na)　。(PERIODCATEGORY)
+***********************************************
+321.　。(PERIODCATEGORY)　在(P)　本(Nes)　文(Na)　中(Ng)　所(D)　用(VC)　的(DE)　級數(Na)　展開(VC)[+nom]　法(Na)　，(COMMACATEGORY)
+***********************************************
+322.　，(COMMACATEGORY)　對於(P)　處理(VC)　半(Neqa)　無限(VH)　體(Na)　中(Ng)　波動(VAC)[+nom]　問題(Na)　在(P)　數值(Na)　處理(VC)　上(Ng)　有(V_2)　很(Dfa)　好(VH)　的(DE)　穩定性(Na)　。(PERIODCATEGORY)
+***********************************************
+323.　。(PERIODCATEGORY)　而且(Cbb)　虛擬(VC)　波源(Na)　的(DE)　位置(Na)　只要(Cbb)　置於(VC)　谷地(Na)　內(Ncd)　，(COMMACATEGORY)
+***********************************************
+324.　，(COMMACATEGORY)　其(Nep)　值(Na)　並(D)　不(D)　影響(VC)　計算(VC)[+nom]　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+325.　。(PERIODCATEGORY)　這些(Neqa)　勢函數(Na)　的(DE)　最(Dfa)　重要(VH)　價值(Na)　，(COMMACATEGORY)
+***********************************************
+326.　，(COMMACATEGORY)　就(D)　是(SHI)　將(P)　雷利表面波(Na)　的(DE)　貢獻(Na)　放進(VC)　結果(Na)　內(Ncd)　，(COMMACATEGORY)
+***********************************************
+327.　，(COMMACATEGORY)　這(Nep)　是(SHI)　其他(Neqa)　作者(Na)　所(D)　不足(VH)　之(DE)　處(Na)　。(PERIODCATEGORY)
+***********************************************
+328.　。(PERIODCATEGORY)　若(Cbb)　沒有(VJ)　雷利表面波(Na)　，(COMMACATEGORY)
+***********************************************
+329.　，(COMMACATEGORY)　將(D)　造成(VG)　高頻(Na)　解(Na)　之(Nh)　不(D)　精確(VH)[+nom]　。(PERIODCATEGORY)
+***********************************************
+330.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=[葉超雄、鍾立來]
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=出國參加會議報告
+331.　。(PERIODCATEGORY)　第五(Neu)　屆(Nf)　美國(Nc)　國家(Na)　地震(VA)[+nom]　工程(Na)　會議(Na)　。(PERIODCATEGORY)
+***********************************************
+332.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　前言(Na)　。(PERIODCATEGORY)
+***********************************************
+333.　。(PERIODCATEGORY)　在(P)　訂(VC)　於(P)　１９９０年(Nd)　５月(Nd)　召開(VC)　的(DE)　第四(Neu)　屆(Nf)　美國(Nc)　國家(Na)　地震(VA)[+nom]　工程(Na)　會議(Na)　舉行(VC)　之前(Ng)　約(Da)　八(Neu)　個(Nf)　月(Na)　左右(Ng)　，(COMMACATEGORY)
+***********************************************
+334.　，(COMMACATEGORY)　正好(Da)　發生(VJ)　了(Di)　洛馬普利塔(Nc)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　Ｌｏｍａ(FW)　Ｐｒｉｅｔａ(FW)　）(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　１９８９年(Nd)　１０月(Nd)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+335.　；(SEMICOLONCATEGORY)　不料(D)　在(P)　訂(VC)　於(P)　今年(Nd)　７月(Nd)　召開(VC)　的(DE)　第五(Neu)　屆(Nf)　美國(Nc)　國家(Na)　地震(VA)[+nom]　工程(Na)　會議(Na)　舉行(VC)　之前(Ng)　約(Da)　六(Neu)　個(Nf)　月(Na)　左右(Ng)　，(COMMACATEGORY)
+***********************************************
+336.　，(COMMACATEGORY)　又(D)　發生(VJ)　了(Di)　北嶺(Nc)　地震(VA)[+nom]　（(PARENTHESISCATEGORY)　Ｎｏｒｔｈｒｉｄｇｅ(FW)　）(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　１９９４年(Nd)　１月(Nd)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+337.　。(PERIODCATEGORY)　地震(VA)　的(DE)　威力(Na)　及(Caa)　其(Nep)　所(D)　帶來(VC)　之(DE)　災害(Na)　確實(D)　能(D)　有效(VH)　地(DE)　喚醒(VC)　人(Na)　們(Na)　對(P)　震(VA)[+nom]　前(Ng)　防範(VE)　及(Caa)　震(VA)[+nom]　後(Ng)　復原(VH)　之(DE)　警覺性(Na)　，(COMMACATEGORY)
+***********************************************
+338.　，(COMMACATEGORY)　更(D)　提高(VC)　了(Di)　學者(Na)　專家(Na)　致力(VL)　於(P)　防震(VH)　、(PAUSECATEGORY)　耐震(VH)　及(Caa)　減震(VH)　等(Cab)　方面(Na)　之(DE)　使命感(Na)　。(PERIODCATEGORY)
+***********************************************
+339.　。(PERIODCATEGORY)　第五(Neu)　屆(Nf)　美國(Nc)　國家(Na)　地震(VA)[+nom]　工程(Na)　會議(Na)　從(P)　７月(Nd)　１０日(Nd)　至(P)　１４日(Nd)　在(P)　美國(Nc)　伊利諾州(Nc)　芝加哥(Nc)　舉行(VC)　，(COMMACATEGORY)
+***********************************************
+340.　，(COMMACATEGORY)　為期(VH)　五(Neu)　天(Nf)　之(DE)　會議(Na)　由(P)　美國(Nc)　地震(VA)[+nom]　工程(Na)　研究所(Nc)　（(PARENTHESISCATEGORY)　ＥＥＲｌ(FW)　）(PARENTHESISCATEGORY)　主辦(VC)　。(PERIODCATEGORY)
+***********************************************
+341.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　由(P)　葉超雄(Nb)　主任(Na)　與(Caa)　鍾立來(Nb)　副研究員(Na)　代表(VK)　出席(VC)　該(Nes)　次(Nf)　會議(Na)　。(PERIODCATEGORY)
+***********************************************
+342.　。(PERIODCATEGORY)　本(Nes)　次(Nf)　會議(Na)　之(DE)　宗旨(Na)　為(VG)　提供(VD)　學術界(Nc)　與(Caa)　工程界(Nc)　在(P)　減緩(VC)　地震(VA)[+nom]　效應(Na)　方面(Na)　之(DE)　最(Dfa)　新(VH)　知識(Na)　與(Caa)　技術(Na)　的(DE)　交流(VH)　機會(Na)　，(COMMACATEGORY)
+***********************************************
+343.　，(COMMACATEGORY)　從(P)　失敗(VH)　與(Caa)　成功(VH)　之(DE)　經驗(Na)　中(Ng)　學習(VC)　，(COMMACATEGORY)
+***********************************************
+344.　，(COMMACATEGORY)　了解(VK)　地震(VA)[+nom]　工程(Na)　研發(VC)　有成(VH)　之(DE)　處(Na)　及(Caa)　其(Nep)　短缺(VJ)　之(DE)　處(Na)　，(COMMACATEGORY)
+***********************************************
+345.　，(COMMACATEGORY)　進而(Cbb)　減輕(VHC)　地震(VA)[+nom]　之(DE)　災害(Na)　。(PERIODCATEGORY)
+***********************************************
+346.　。(PERIODCATEGORY)　三(Neu)　與會(VA)[+nom]　心得(Na)　。(PERIODCATEGORY)
+***********************************************
+347.　。(PERIODCATEGORY)　１(Neu)　．(PERIODCATEGORY)　在(P)　大會(Na)　中(Ncd)　所(D)　發表(VC)　之(DE)　論文(Na)　，(COMMACATEGORY)
+***********************************************
+348.　，(COMMACATEGORY)　有(V_2)　不少(Neqa)　是(SHI)　針對(P)　真實(VH)　且(Cbb)　已(D)　存在(VA)　之(DE)　結構物(Na)　而(Cbb)　進行(VC)　之(DE)　研究(Na)　，(COMMACATEGORY)
+***********************************************
+349.　，(COMMACATEGORY)　或(Caa)　作(VC)　耐震(VH)　分析(VC)　之(DE)　研究(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+350.　；(SEMICOLONCATEGORY)　或(Caa)　作(VC)　損壞(VC)　評估(VE)　之(DE)　研究(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+351.　；(SEMICOLONCATEGORY)　或(Caa)　作(VC)　震(VAC)[+nom]　後(Ng)　修復(VC)　之(DE)　研究(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+352.　；(SEMICOLONCATEGORY)　或(Caa)　作(VC)　隔震(VH)　及(Caa)　減震(VH)[+nom]　之(DE)　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+353.　。(PERIODCATEGORY)　如此(VH)　才(Da)　能(D)　將(P)　學者(Na)　專家(Na)　之(DE)　研究(Na)　成果(Na)　落實(VHC)　於(P)　工程界(Nc)　。(PERIODCATEGORY)
+***********************************************
+354.　。(PERIODCATEGORY)　國內(Nc)　學者(Na)　所(D)　進行(VC)　及(Caa)　規劃(VC)　中(Ng)　的(DE)　研究(Na)　也(D)　已(D)　循(P)　此(Nep)　方向(Na)　，(COMMACATEGORY)
+***********************************************
+355.　，(COMMACATEGORY)　可見(Dk)　我國(Nc)　在(P)　地震(VA)[+nom]　工程(Na)　之(DE)　研究(Na)　既(Cbb)　合(VJ)　本(Nes)　地(Nc)　所(D)　需(VK)　也(D)　符(VJ)　國際(Nc)　之(DE)　潮流(Na)　。(PERIODCATEGORY)
+***********************************************
+356.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　在(P)　大會所(Nc)　發表(VC)　之(DE)　論文(Na)　，(COMMACATEGORY)
+***********************************************
+357.　，(COMMACATEGORY)　亦(D)　有(V_2)　不少(Neqa)　是(SHI)　透過(P)　實驗(VE)[+nom]　方法(Na)　來(D)　驗證(VE)　其中(Nep)　的(DE)　論據(Na)　，(COMMACATEGORY)
+***********************************************
+358.　，(COMMACATEGORY)　或(Caa)　為(VG)　擬(VC)　動態(Na)　試驗(Na)　，(COMMACATEGORY)
+***********************************************
+359.　，(COMMACATEGORY)　或(Caa)　為(VG)　振動台(Na)　試驗(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+360.　；(SEMICOLONCATEGORY)　或(Caa)　為(VG)　現地(Nc)　試驗(Na)　。(PERIODCATEGORY)
+***********************************************
+361.　。(PERIODCATEGORY)　足見(Dk)　理論(Na)　之(DE)　推導(VC)[+nom]　、(PAUSECATEGORY)　數值(Na)　之(DE)　模擬(VC)[+nom]　與(Caa)　試驗(Na)　之(DE)　驗證(VE)[+nom]　乃(D)　相輔相成(VA)　的(T)　。(PERIODCATEGORY)
+***********************************************
+362.　。(PERIODCATEGORY)　此(Nep)　一(Neu)　研究(VE)[+nom]　方式(Na)　亦(D)　正(D)　是(SHI)　本(Nes)　中心(Nc)　所(D)　規劃(VC)　專題(Na)　的(DE)　研究(VE)[+nom]　方法(Na)　，(COMMACATEGORY)
+***********************************************
+363.　，(COMMACATEGORY)　是故(Cbb)　未來(Nd)　本(Nes)　中心(Nc)　之(DE)　研究(Na)　成果(Na)　必(D)　不(D)　脫(VC)　先進國(Nc)　之(DE)　研究(Na)　趨勢(Na)　，(COMMACATEGORY)
+***********************************************
+364.　，(COMMACATEGORY)　且(Cbb)　目前(Nd)　本(Nes)　中心(Nc)　所(D)　規劃(VC)　，(COMMACATEGORY)
+***********************************************
+365.　，(COMMACATEGORY)　利用(VC)　實驗(VE)[+nom]　園區(Nc)　之(DE)　設備(Na)　所(D)　進行(VC)　之(DE)　種種(Neqa)　研究(Na)　專題(Na)　如(P)　鋼(Na)　結構(Na)　裝置(VC)　隔震(VH)　消能(VH)　元件(Na)　地震(VA)[+nom]　反應(Na)　實測(VC)[+nom]　與(Caa)　分析(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+366.　，(COMMACATEGORY)　在(P)　同(Nes)　一(Neu)　套(Nf)　試驗(Na)　佈置(VC)[+nom]　中(Ng)　，(COMMACATEGORY)
+***********************************************
+367.　，(COMMACATEGORY)　不同(VH)　的(DE)　子(Na)　計劃(Na)　驗證(VE)　不同(VH)　的(DE)　抗震(VA)[+nom]　裝置(Na)　之(DE)　效果(Na)　，(COMMACATEGORY)
+***********************************************
+368.　，(COMMACATEGORY)　如此(VH)　各(Nes)　子(Na)　計劃(Na)　既(Cbb)　可(D)　彼此(Nh)　驗證(VE)　，(COMMACATEGORY)
+***********************************************
+369.　，(COMMACATEGORY)　彼此(Nh)　激勵(VC)　，(COMMACATEGORY)
+***********************************************
+370.　，(COMMACATEGORY)　更(D)　可(D)　共用(VC)　試驗(Na)　設備(Na)　之(DE)　資源(Na)　，(COMMACATEGORY)
+***********************************************
+371.　，(COMMACATEGORY)　充份(VH)　發揮(VJ)　成本(Na)　效益(Na)　。(PERIODCATEGORY)
+***********************************************
+372.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=(葉勇凱)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十一期 (1994/9).簡訊中心動態
+373.　。(PERIODCATEGORY)　地盤(Na)　地震(VA)　反應(Na)　大型(Na)　研究案(Na)　計劃(Na)　。(PERIODCATEGORY)
+***********************************************
+374.　。(PERIODCATEGORY)　結構物(Na)　或(Caa)　建(VC)　於(P)　地盤(Na)　之上(Ng)　，(COMMACATEGORY)
+***********************************************
+375.　，(COMMACATEGORY)　或(Caa)　築(VC)　於(P)　地盤(Na)　內(Ncd)　，(COMMACATEGORY)
+***********************************************
+376.　，(COMMACATEGORY)　而(Cbb)　震波(Na)　經由(P)　地盤(Na)　傳(VD)　於(P)　結構物(Na)　，(COMMACATEGORY)
+***********************************************
+377.　，(COMMACATEGORY)　引(VC)　其(Nep)　振動(VAC)　，(COMMACATEGORY)
+***********************************************
+378.　，(COMMACATEGORY)　所以(Cbb)　尋求(VC)　結構物(Na)　的(DE)　耐震(VH)　對策(Na)　，(COMMACATEGORY)
+***********************************************
+379.　，(COMMACATEGORY)　除(P)　對(P)　結構物(Na)　本身(Nh)　的(DE)　特性(Na)　須(D)　了解(VK)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+380.　，(COMMACATEGORY)　必須(D)　對(P)　地盤(Na)　振動(VAC)[+nom]　特性(Na)　加以(D)　掌握(VC)　，(COMMACATEGORY)
+***********************************************
+381.　，(COMMACATEGORY)　才(Da)　能(D)　真正(D)　求得(VC)　結構(Na)　系統(Na)　承受(VC)　地震(VA)[+nom]　反應(Na)　，(COMMACATEGORY)
+***********************************************
+382.　，(COMMACATEGORY)　以(P)　作為(VG)　設計(Na)　依據(Na)　。(PERIODCATEGORY)
+***********************************************
+383.　。(PERIODCATEGORY)　為(VJ)　此(Nep)　本(Nf)　中心(Nc)　乃(D)　將(D)　「(PARENTHESISCATEGORY)　地盤(Na)　地震(VA)[+nom]　反應(Na)　」(PARENTHESISCATEGORY)　列為(VG)　近(Nes)　中程(A)　研究(Na)　的(DE)　重點(Na)　，(COMMACATEGORY)
+***********************************************
+384.　，(COMMACATEGORY)　雖然(Cbb)　此(Nep)　一(Neu)　大型(Na)　研究案(Na)　已(D)　自(P)　八十三年(Nd)　八月(Nd)　開始(VL)　執行(VC)　，(COMMACATEGORY)
+***********************************************
+385.　，(COMMACATEGORY)　但(Cbb)　為(P)　擴大(VC)　參與面(Na)　，(COMMACATEGORY)
+***********************************************
+386.　，(COMMACATEGORY)　故(Cbb)　本(Nes)　中心(Nc)　於(P)　八十三年(Nd)　八月(Nd)　十九日(Nd)　下午(Nd)　一時(Nd)　至(P)　三時(Nd)　召開(VC)　整合型(Na)　計畫(Na)　「(PARENTHESISCATEGORY)　地盤(Na)　地震(VA)[+nom]　反應(Na)　大型(A)　研究(Na)　」(PARENTHESISCATEGORY)　的(DE)　規畫(Na)　會議(Na)　，(COMMACATEGORY)
+***********************************************
+387.　，(COMMACATEGORY)　由(P)　葉超雄(Nb)　主任(Na)　主持(VC)　。(PERIODCATEGORY)
+***********************************************
+388.　。(PERIODCATEGORY)　會議(Na)　中(Ncd)　基本(Na)　研究組(Nc)　組長(Na)　陳正興(Nb)　教授(Na)　首先(D)　報告(VE)　，(COMMACATEGORY)
+***********************************************
+389.　，(COMMACATEGORY)　原則(Na)　已(D)　獲(VJ)　國科會(Nc)　同意(VK)　之(DE)　本(Nes)　中心(Nc)　推動(VC)　大型(Na)　研究案(Na)　的(DE)　作業(Na)　流程(Na)　，(COMMACATEGORY)
+***********************************************
+390.　，(COMMACATEGORY)　依據(P)　該(Nes)　流程(Na)　，(COMMACATEGORY)
+***********************************************
+391.　，(COMMACATEGORY)　某(Nes)　一(Neu)　年度(Na)　八月份(Nd)　開始(VL)　執行(VC)　的(DE)　計畫(Na)　，(COMMACATEGORY)
+***********************************************
+392.　，(COMMACATEGORY)　必須(D)　於(P)　前(Nes)　一(Neu)　年度(Na)　之(DE)　九月(Nd)　提出(VC)　申請(VF)　，(COMMACATEGORY)
+***********************************************
+393.　，(COMMACATEGORY)　而(Cbb)　在(P)　十二月(Nd)　即可(D)　獲知(VK)　審查(VC)[+nom]　結果(Na)　。(PERIODCATEGORY)
+***********************************************
+394.　。(PERIODCATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+395.　，(COMMACATEGORY)　本(Nes)　整合型(Na)　計畫(Na)　之(DE)　研究(Na)　人員(Na)　必須(D)　在(P)　九月(Nd)　底(Ng)　前(Ng)　將(P)　計畫書(Na)　提交(VD)　本(Nes)　中心(Nc)　，(COMMACATEGORY)
+***********************************************
+396.　，(COMMACATEGORY)　隨後(Nd)　，(COMMACATEGORY)
+***********************************************
+397.　，(COMMACATEGORY)　就(P)　本(Nes)　整合型(Na)　研究(Na)　計畫(Na)　的(DE)　背景(Na)　、(PAUSECATEGORY)　目標(Na)　和(Caa)　執行(VC)[+nom]　方式(Na)　作(VC)　一(Neu)　說明(Na)　，(COMMACATEGORY)
+***********************************************
+398.　，(COMMACATEGORY)　並(Cbb)　討論(VE)　第二(Neu)　年(Nf)　研究(Na)　子題(Na)　與(Caa)　預算(Na)　。(PERIODCATEGORY)
+***********************************************
+399.　。(PERIODCATEGORY)　目前(Nd)　為止(Ng)　，(COMMACATEGORY)
+***********************************************
+400.　，(COMMACATEGORY)　已(D)　有(V_2)　台(Nc)　尚(D)　大學(Nc)　羅俊雄(Nb)　教授(Na)　與(Caa)　中興(VH)[+prop]　大學(Nc)　林(Nb)　柄(Na)　森(Na)　教授(Na)　提出(VC)　研究(Na)　子題(Na)　的(DE)　內容(Na)　與(Caa)　預算(Na)　，(COMMACATEGORY)
+***********************************************
+401.　，(COMMACATEGORY)　若(Cbb)　明年度(Nd)　還(D)　有(V_2)　興趣(Na)　參與(VC)　本(Nes)　大型(Na)　研究(Na)　計畫(Na)　者(Na)　，(COMMACATEGORY)
+***********************************************
+402.　，(COMMACATEGORY)　請(VF)　與(P)　本(Nes)　中心(Nc)　葉勇凱(Nb)　副研究員(Na)　聯絡(VC)　。(PERIODCATEGORY)
+***********************************************
+403.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=(鍾立來、鄭橙標)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十一期 (1994/9).簡訊中心動態
+404.　。(PERIODCATEGORY)　地震(VA)[+nom]　模擬(VC)[+nom]　振動台(Na)　系統(Na)　之(DE)　建造(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+405.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　係(VG)　一(Neu)　國家(Na)　研究(Na)　中心(Nc)　，(COMMACATEGORY)
+***********************************************
+406.　，(COMMACATEGORY)　具有(VJ)　整合(VC)　學術界(Nc)　與(Caa)　工程界(Nc)　在(P)　地震(VA)[+nom]　工程(Na)　方面(Na)　之(DE)　研究(Na)　發展(VC)　與(Caa)　應用(VC)　之(DE)　重責(Na)　。(PERIODCATEGORY)
+***********************************************
+407.　。(PERIODCATEGORY)　鑑於(Cbb)　本(Nes)　中心(Nc)　未來(Nd)　在(P)　國內(Nc)　地震(VA)[+nom]　工程(Na)　實驗(Na)　方面(Na)　所(D)　擔負(VC)　的(DE)　角色(Na)　，(COMMACATEGORY)
+***********************************************
+408.　，(COMMACATEGORY)　並(Cbb)　兼顧(VC)　理論(Na)　與(Caa)　應用(Na)　之(DE)　平衡(VHC)　發展(VC)　，(COMMACATEGORY)
+***********************************************
+409.　，(COMMACATEGORY)　咸(D)　認(VE)　有(V_2)　建立(VC)　振動台(Na)　實驗(VE)[+nom]　系統(Na)　之(DE)　必要(Na)　。(PERIODCATEGORY)
+***********************************************
+410.　。(PERIODCATEGORY)　根據(P)　本(Nes)　中心(Nc)　對(P)　美(Nc)　、(PAUSECATEGORY)　日(Nc)　等(Cab)　國(Nc)　之(DE)　主要(A)　振動台(Na)　特性(Na)　所(D)　做(VC)　之(DE)　研究(Na)　與(Caa)　比較(Na)　，(COMMACATEGORY)
+***********************************************
+411.　，(COMMACATEGORY)　並(Cbb)　配合(VC)　國內(Nc)　地震(VA)[+nom]　環境(Na)　之(DE)　實際(VH)　需求(Na)　，(COMMACATEGORY)
+***********************************************
+412.　，(COMMACATEGORY)　擬定出(VC)　國內(Nc)　振動台(Na)　大小(Na)　５(Neu)　ｍｘ(FW)　５(Neu)　ｍ(FW)　，(COMMACATEGORY)
+***********************************************
+413.　，(COMMACATEGORY)　載重(VA)　５０(Neu)　公噸(Nf)　，(COMMACATEGORY)
+***********************************************
+414.　，(COMMACATEGORY)　並(Cbb)　具(VJ)　三軸向(Na)　自由度(Na)　的(DE)　運動(Na)　（(PARENTHESISCATEGORY)　ｘ軸土(Na)　３(Neu)　↑ｇ(FW)　，(COMMACATEGORY)
+***********************************************
+415.　，(COMMACATEGORY)　ｙ軸土(Na)　１(Neu)　ｇ(FW)　，(COMMACATEGORY)
+***********************************************
+416.　，(COMMACATEGORY)　ｚ軸土(Na)　１(Neu)　ｇ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+417.　，(COMMACATEGORY)　除了(P)　與(P)　美(Nc)　、(PAUSECATEGORY)　日(Nc)　等(Cab)　國(Nc)　同(Nes)　等級(Na)　之(DE)　振動台(Na)　有(V_2)　相當(VH)　之(DE)　能量(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+418.　，(COMMACATEGORY)　振動台(Na)　兩(Neu)　個(Nf)　水平(Na)　方向(Na)　所(D)　具有(VJ)　的(DE)　不同(VH)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+419.　，(COMMACATEGORY)　更(D)　可(D)　迎合(VJ)　結構(Na)　模型(Na)　及(Caa)　儀器(Na)　設備(Na)　實驗(Na)　之(DE)　不同(VH)　需求(Na)　。(PERIODCATEGORY)
+***********************************************
+420.　。(PERIODCATEGORY)　振動台(Na)　系統(Na)　極(Dfa)　具(VJ)　複雜性(Na)　，(COMMACATEGORY)
+***********************************************
+421.　，(COMMACATEGORY)　具(VJ)　結合(VHC)　了(Di)　土木(Na)　、(PAUSECATEGORY)　機械(Na)　、(PAUSECATEGORY)　電子(Na)　、(PAUSECATEGORY)　電機(Na)　及(Caa)　控制(VC)　等(Cab)　工程(Na)　，(COMMACATEGORY)
+***********************************************
+422.　，(COMMACATEGORY)　且(Caa)　於(P)　系統(Na)　整合(VC)　之(DE)　設備(Na)　。(PERIODCATEGORY)
+***********************************************
+423.　。(PERIODCATEGORY)　本(Nes)　案(Na)　幾經(VCL)　多(Neqa)　次(Nf)　公開(VHC)　招標(VA)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+424.　，(COMMACATEGORY)　於(P)　８３年(Nd)　５月(Nd)　決標(VA)　，(COMMACATEGORY)
+***********************************************
+425.　，(COMMACATEGORY)　最後(Nd)　由(P)　有(V_2)　多(Neqa)　年(Nf)　承造(VC)　振動(VAC)　而(Caa)　業績(Na)　且(D)　頗(Dfa)　負盛名(VH)　的(DE)　美國(Nc)　ＭＴＳ(FW)　公司(Nc)　得標(VH)　。(PERIODCATEGORY)
+***********************************************
+426.　。(PERIODCATEGORY)　目前(Nd)　振動台(Na)　系統(Na)　之(DE)　建造(VC)[+nom]　工程(Na)　，(COMMACATEGORY)
+***********************************************
+427.　，(COMMACATEGORY)　正(D)　積極(VH)　與(Caa)　土木(Na)　工程(Na)　方面(Na)　配合(VC)　進行(VC)　，(COMMACATEGORY)
+***********************************************
+428.　，(COMMACATEGORY)　各(Nes)　相關(VH)　界面(Na)　工程(Na)　問題(Na)　也(D)　逐漸(D)　釐清(VC)　。(PERIODCATEGORY)
+***********************************************
+429.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　當(P)　盡(VJ)　最(Dfa)　大(VH)　的(DE)　努力(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+430.　，(COMMACATEGORY)　如期(D)　完成(VC)　振動台(Na)　之(DE)　建置(VC)[+nom]　；(SEMICOLONCATEGORY)
+***********************************************
+431.　；(SEMICOLONCATEGORY)　並(D)　積極(VH)　培訓(VC)　人員(Na)　，(COMMACATEGORY)
+***********************************************
+432.　，(COMMACATEGORY)　使(VL)　此(Nep)　一(Neu)　設備(Na)　發揮(VJ)　最(Dfa)　大(VH)　的(DE)　功效(Na)　，(COMMACATEGORY)
+***********************************************
+433.　，(COMMACATEGORY)　期(VK)　對(P)　國內(Nc)　地震(VA)[+nom]　工程(Na)　研究(Na)　多所(D)　貢獻(VC)　。(PERIODCATEGORY)
+***********************************************
+434.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=[吳阿明]
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十一期 (1994/9).簡訊中心動態
+435.　。(PERIODCATEGORY)　新建(VC)[+nom]　工程(Na)　執行(VC)[+nom]　概況(Na)　。(PERIODCATEGORY)
+***********************************************
+436.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　研究(Na)　大樓(Na)　暨(Caa)　大型(Na)　結構(Na)　實驗室(Nc)　興建(VC)[+nom]　工程(Na)　自(P)　開工(VH)　以來(Ng)　，(COMMACATEGORY)
+***********************************************
+437.　，(COMMACATEGORY)　在(P)　各(Nes)　方面(Na)　的(DE)　配合(VC)[+nom]　下(Ng)　，(COMMACATEGORY)
+***********************************************
+438.　，(COMMACATEGORY)　截至(P)　目前(Nd)　為止(Ng)　，(COMMACATEGORY)
+***********************************************
+439.　，(COMMACATEGORY)　進度(Na)　有(V_2)　超前(VC)　。(PERIODCATEGORY)
+***********************************************
+440.　。(PERIODCATEGORY)　在(P)　大型(Na)　結構(Na)　實驗室(Nc)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+441.　，(COMMACATEGORY)　除(P)　已(D)　完成(VC)　原有(VJ)　的(DE)　基礎(Na)　開挖(VC)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+442.　，(COMMACATEGORY)　亦(D)　正(D)　進行(VC)　振動台(Na)　基礎(VH)　的(DE)　開挖(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+443.　。(PERIODCATEGORY)　振動台(Na)　基礎(VH)　的(DE)　開挖(VC)[+nom]　使用(VC)　鋼版(Na)　椿(Na)　作為(VG)　擋土壁(Na)　，(COMMACATEGORY)
+***********************************************
+444.　，(COMMACATEGORY)　而(Cbb)　水平(Na)　支撐(VC)　則(D)　採用(VC)　Ｈ型鋼(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+445.　；(SEMICOLONCATEGORY)　水平(Na)　支撐(VC)[+nom]　已(D)　架設(VC)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+446.　，(COMMACATEGORY)　正(D)　進行(VC)　點井(VA)[+nom]　排水(VA)　以(P)　降低(VHC)　開挖面(Na)　水位(Na)　。(PERIODCATEGORY)
+***********************************************
+447.　。(PERIODCATEGORY)　至於(P)　研究(Na)　大樓(Na)　部分(Neqa)　，(COMMACATEGORY)
+***********************************************
+448.　，(COMMACATEGORY)　目前(Nd)　正(D)　進行(VC)　Ｂｌ版(Na)　配筋(VA)　，(COMMACATEGORY)
+***********************************************
+449.　，(COMMACATEGORY)　而(Caa)　已(D)　完成(VC)　的(DE)　工作(Na)　項目(Na)　有(V_2)　舖底(VA)[+nom]　混凝土(Na)　、(PAUSECATEGORY)　筏基版(Na)　，(COMMACATEGORY)
+***********************************************
+450.　，(COMMACATEGORY)　地梁(Na)　等(Cab)　；(SEMICOLONCATEGORY)
+***********************************************
+451.　；(SEMICOLONCATEGORY)　在(P)　各(Nes)　個(Nf)　施工(VA)[+nom]　階段(Na)　，(COMMACATEGORY)
+***********************************************
+452.　，(COMMACATEGORY)　如(P)　組模(Na)　、(PAUSECATEGORY)　配筋(VA)　、(PAUSECATEGORY)　澆置(VC)[+nom]　混凝土(Na)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+453.　，(COMMACATEGORY)　監造(VC)[+nom]　單位(Na)　皆(D)　進行(VC)　查驗(VE)　，(COMMACATEGORY)
+***********************************************
+454.　，(COMMACATEGORY)　合格(VH)　後(Ng)　才(Da)　同意(VK)　施作(VC)　。(PERIODCATEGORY)
+***********************************************
+455.　。(PERIODCATEGORY)　除(P)　上述(Na)　的(DE)　土建(VA)[+nom]　工程(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+456.　，(COMMACATEGORY)　水電(Na)　工程(Na)　業已(D)　於(P)　八月(Nd)　十九日(Nd)　決標(VA)　。(PERIODCATEGORY)
+***********************************************
+457.　。(PERIODCATEGORY)　雖然(Cbb)　現在(Nd)　正在(D)　辦理(VC)　簽約(VA)[+nom]　事宜(Na)　，(COMMACATEGORY)
+***********************************************
+458.　，(COMMACATEGORY)　但(Cbb)　為(P)　求(VC)　能(D)　配合(VC)　建築(Na)　工程(Na)　的(DE)　進行(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+459.　，(COMMACATEGORY)　已(D)　要求(VF)　廠商(Na)　立即(D)　派員(VF)　進駐(VCL)　工地(Na)　，(COMMACATEGORY)
+***********************************************
+460.　，(COMMACATEGORY)　而(Cbb)　監造(VC)[+nom]　單位(Na)　亦(D)　已(D)　遴派(VF)　水電(Na)　專業(VH)　人員(Na)　乙(Neu)　名(Nf)　在(P)　工地(Na)　負責(VL)　監造(VC)[+nom]　事宜(Na)　。(PERIODCATEGORY)
+***********************************************
+461.　。(PERIODCATEGORY)　雖然(Cbb)　本(Nes)　工程(Na)　的(DE)　進行(VC)[+nom]　尚(D)　稱(VG)　順利(VH)　，(COMMACATEGORY)
+***********************************************
+462.　，(COMMACATEGORY)　但(Cbb)　為(P)　更(D)　進一步(D)　增進(VC)　工地(Na)　協調(VC)[+nom]　功能(Na)　，(COMMACATEGORY)
+***********************************************
+463.　，(COMMACATEGORY)　掌握(VC)　時效(Na)　以(P)　提升(VC)　工程(Na)　施工(VA)[+nom]　品質(Na)　，(COMMACATEGORY)
+***********************************************
+464.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　函請(VF)　監造(VC)[+nom]　單位(Na)　自(P)　八月(Nd)　二十三日(Nd)　起(Ng)　，(COMMACATEGORY)
+***********************************************
+465.　，(COMMACATEGORY)　每(Nes)　週二(Nd)　上午(Nd)　假(P)　工地(Na)　召開(VC)　監造(VC)[+nom]　會議(Na)　。(PERIODCATEGORY)
+***********************************************
+466.　。(PERIODCATEGORY)　據(P)　本(Nes)　中心(Nc)　派駐(VCL)　工地(Na)　的(DE)　人員(Na)　指出(VE)　，(COMMACATEGORY)
+***********************************************
+467.　，(COMMACATEGORY)　會議(Na)　中(Ncd)　討論(VE)[+nom]　情況(Na)　相當(Dfa)　熱絡(VH)　，(COMMACATEGORY)
+***********************************************
+468.　，(COMMACATEGORY)　執行(VC)[+nom]　效果(Na)　不錯(VH)　。(PERIODCATEGORY)
+***********************************************
+469.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=﹝葉超雄、鄧崇任、蔡宜璋﹞
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十二期 (1994/12).簡訊研究動態。
+470.　。(PERIODCATEGORY)　傾斜(VH)　入射(VJ)　Ｒａｙｌｅｉｇｈ波(Na)　在(P)　山谷(Na)　的(DE)　散射(VA)[+nom]　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+471.　。(PERIODCATEGORY)　摘要(Na)　。(PERIODCATEGORY)
+***********************************************
+472.　。(PERIODCATEGORY)　關鍵字(Na)　：(COLONCATEGORY)
+***********************************************
+473.　：(COLONCATEGORY)　傾斜(VH)　入射(VJ)　，(COMMACATEGORY)
+***********************************************
+474.　，(COMMACATEGORY)　Ｒａｙｌｅｉｇｈ波(Na)　，(COMMACATEGORY)
+***********************************************
+475.　，(COMMACATEGORY)　Ｇｒｅｅｎ函數(Na)　直接(VH)　邊界(Nc)　元素(Na)　法(Na)　。(PERIODCATEGORY)
+***********************************************
+476.　。(PERIODCATEGORY)　本(Nes)　研究(Na)　旨在(VK)　探討(VE)　Ｒａyｌｅｉｇｈ波(Na)　傾斜(VH)　射入(VC)　一(Neu)　狹長(VH)　山谷(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+477.　，(COMMACATEGORY)　對(P)　山谷(Na)　的(DE)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+478.　，(COMMACATEGORY)　並(Cbb)　建立(VC)　其(Nep)　運動(Na)　的(DE)　分析(VC)[+nom]　模式(Na)　。(PERIODCATEGORY)
+***********************************************
+479.　。(PERIODCATEGORY)　研究(Na)　中(Ng)　利用(VC)　直接(VH)　邊界(Nc)　元素(Na)　法(Na)　分析(VC)　此(Nep)　三維(A)　散射(VA)[+nom]　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+480.　。(PERIODCATEGORY)　首先(D)　求得(VC)　滿足(VHC)　半(Neqa)　無限(VH)　域地(Nc)　表面(Na)　無(VJ)　曳引力(Na)　條件(Na)　的(DE)　Ｇｒｅｅｎ函數(Na)　，(COMMACATEGORY)
+***********************************************
+481.　，(COMMACATEGORY)　並(Cbb)　根據(P)　Ｂｅｔｔｉ(FW)　互換(VC)[+nom]　原理(Na)　導得(VJ)　問題(Na)　的(DE)　邊界(Nc)　積分(Na)　方程式(Na)　。(PERIODCATEGORY)
+***********************************************
+482.　。(PERIODCATEGORY)　為(P)　求(VC)　更(D)　精確(VH)　合理(VH)　地(DE)　應用(VC)　邊界(Nc)　元素(Na)　法(Na)　，(COMMACATEGORY)
+***********************************************
+483.　，(COMMACATEGORY)　在(P)　其(Nep)　離散化(VHC)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+484.　，(COMMACATEGORY)　應用(VC)　了(Di)　複變(Na)　函數(Na)　理論(Na)　中(Ng)　的(DE)　保角(Na)　映射(VC)　技巧(Na)　於(P)　元素(Na)　的(DE)　安排(VE)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+485.　，(COMMACATEGORY)　使(VL)　元素(Na)　大小(Na)　及(Caa)　疏密(Na)　程度(Na)　更(D)　合理(VH)　，(COMMACATEGORY)
+***********************************************
+486.　，(COMMACATEGORY)　以(P)　提高(VC)　分析(Na)　的(DE)　精確度(Na)　。(PERIODCATEGORY)
+***********************************************
+487.　。(PERIODCATEGORY)　文(Na)　中(Ng)　探討(VE)　了(Di)　各(Nes)　種(Nf)　不同(VH)　頻率(Na)　及(Caa)　入射(VJ)[+nom]　角度(Na)　入射波(Na)　引致(VL)　山谷(Na)　附近(Nc)　的(DE)　放大(VC)[+nom]　效應(Na)　。(PERIODCATEGORY)
+***********************************************
+488.　。(PERIODCATEGORY)　地震波(Na)　由於(Cbb)　受到(VJ)　山谷(Na)　的(DE)　散射(VA)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+489.　，(COMMACATEGORY)　導致(VL)　其(Nep)　周圍(Nc)　地表(Na)　運動(Na)　產生(VHC)　不(D)　規則(VH)　的(DE)　變化(Na)　，(COMMACATEGORY)
+***********************************************
+490.　，(COMMACATEGORY)　這(Nep)　種(Nf)　效應(Na)　常(D)　會(D)　造成(VG)　鄰近(VJ)　結構物(Na)　產生(VHC)　嚴重(VH)　的(DE)　損毀(VC)　。(PERIODCATEGORY)
+***********************************************
+491.　。(PERIODCATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+492.　，(COMMACATEGORY)　如(P)　橋梁(Na)　、(PAUSECATEGORY)　混凝土塌(Na)　及(Caa)　水道(Na)　等(Cab)　的(DE)　設計(Na)　與(Caa)　分析(Na)　均(D)　須(D)　考量(VE)　地震波(Na)　因(Cbb)　散射(VA)　所(D)　產生(VHC)　的(DE)　放大(VC)[+nom]　效應(Na)　。(PERIODCATEGORY)
+***********************************************
+493.　。(PERIODCATEGORY)　自(P)　Ｔｒｉｆｕｎａｃ(FW)　在(P)　１９７１年(Nd)　開始(VL)　研究(Na)　狹長(VH)　半圓形(Na)　山谷(Na)　對(P)　ＳＨ波(Na)　的(DE)　散射(VA)[+nom]　問題(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+494.　，(COMMACATEGORY)　許多(Neqa)　學者(Na)　陸續(D)　進行(VC)　了(Di)　許多(Neqa)　的(DE)　相關(VH)　研究(Na)　（(PARENTHESISCATEGORY)　Ｔｒｉｆｕｎａｃ(FW)　ｌ９７３(Nd)　，(COMMACATEGORY)
+***********************************************
+495.　，(COMMACATEGORY)　　Ｗｏｎｇ(FW)　等(Cab)　１９７４(Nd)　，(COMMACATEGORY)
+***********************************************
+496.　，(COMMACATEGORY)　１９７５(Nd)　，(COMMACATEGORY)
+***********************************************
+497.　，(COMMACATEGORY)　　Ｓａｎｃｈｅｚ(FW)　—(DASHCATEGORY)　Ｓｅｓｍａ(FW)　ｌ９７９(Nd)　，(COMMACATEGORY)
+***********************************************
+498.　，(COMMACATEGORY)　Ｙｅｈ(FW)　等(Cab)　１９８５(Nd)　，(COMMACATEGORY)
+***********************************************
+499.　，(COMMACATEGORY)　１９８８(Nd)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+500.　。(PERIODCATEGORY)　然而(Cbb)　以上(Ncd)　各(Nes)　文獻(Na)　所(D)　研究(VE)　的(DE)　散射(VA)[+nom]　問題(Na)　，(COMMACATEGORY)
+***********************************************
+501.　，(COMMACATEGORY)　可(D)　分為(VG)　反平面(Na)　問題(Na)　（(PARENTHESISCATEGORY)　ＳＨ波(Na)　入射(VJ)　）(PARENTHESISCATEGORY)　及(Caa)　平面(Na)　問題(Na)　Ｐ波(Na)　，(COMMACATEGORY)
+***********************************************
+502.　，(COMMACATEGORY)　ＳＶ波(Na)　或(Caa)　Ｒａｙｌｅｉｇｈ波(Na)　入射(VJ)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+503.　。(PERIODCATEGORY)　這些(Neqa)　問題(Na)　的(DE)　基本(A)　假設(Na)　乃(VG)　山谷(Na)　為(VG)　無限(VH)　長(VH)　，(COMMACATEGORY)
+***********************************************
+504.　，(COMMACATEGORY)　波(Na)　入射(VJ)[+nom]　方向(Na)　垂直(VI)　於(P)　山谷(Na)　的(DE)　軸(Na)　，(COMMACATEGORY)
+***********************************************
+505.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+506.　，(COMMACATEGORY)　日(Nd)　於(P)　二維(A)　的(DE)　散射(VA)[+nom]　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+507.　。(PERIODCATEGORY)　但(Cbb)　實際(VH)　上(Ng)　無論(Cbb)　何(Nes)　種(Nf)　入射波(Na)　，(COMMACATEGORY)
+***********************************************
+508.　，(COMMACATEGORY)　其(Nep)　入射(VJ)[+nom]　方向(Na)　均(D)　可能(D)　與(P)　山谷(Na)　的(DE)　軸(Na)　夾(VC)　任意(VH)　角度(Na)　，(COMMACATEGORY)
+***********************************************
+509.　，(COMMACATEGORY)　在(P)　本(Nes)　文(Na)　中(Ng)　稱(VG)　此(Nep)　入射波(Na)　為(VG)　傾斜(VH)　入射波(Na)　。(PERIODCATEGORY)
+***********************************************
+510.　。(PERIODCATEGORY)　在(P)　本(Nes)　研究(Na)　中(Ng)　主要(D)　探討(VE)　Ｒａｙｌｅｉｇｈ波(Na)　傾斜(VH)　射入(VC)　一(Neu)　無限(VH)　長(VH)　的(DE)　半圓形(Na)　山谷(Na)　後(Ng)　的(DE)　散射(VA)[+nom]　現象(Na)　。(PERIODCATEGORY)
+***********************************************
+511.　。(PERIODCATEGORY)　利用(VC)　直接(VH)　邊界(Nc)　元素(Na)　法(Na)　進行(VC)　分析(VC)　此(Nep)　三維(A)　的(DE)　散射(VA)[+nom]　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+512.　。(PERIODCATEGORY)　根據(P)　Ｂｅｔｔｉ(FW)　互換(VC)[+nom]　原理(Na)　導得(VJ)　問題(Na)　的(DE)　邊界(Nc)　積分(Na)　方程式(Na)　，(COMMACATEGORY)
+***********************************************
+513.　，(COMMACATEGORY)　其(Nep)　相關(VH)　的(DE)　Ｇｒｅｅｎ函數(Na)　則(D)　利用(VC)　一(Neu)　組(Nf)　對(P)　時間(Na)　變數(Na)　及(Caa)　沿(P)　山谷(Na)　軸向(Na)　的(DE)　空間(Na)　變數(Na)　均(D)　具有(VJ)　諧合性(Na)　的(DE)　單位(Na)　力(Na)　作用(Na)　於(P)　半(Neqa)　無限(VH)　空間(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+514.　，(COMMACATEGORY)　配合(VC)　地表(Na)　無(VJ)　曳引力(Na)　條件(Na)　求得(VC)　。(PERIODCATEGORY)
+***********************************************
+515.　。(PERIODCATEGORY)　為(P)　更(D)　精確(VH)　、(PAUSECATEGORY)　合理(VH)　地(DE)　應用(VC)　邊界(Nc)　元素(Na)　法(Na)　，(COMMACATEGORY)
+***********************************************
+516.　，(COMMACATEGORY)　在(P)　離散化(VHC)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+517.　，(COMMACATEGORY)　應用(VC)　了(Di)　複變(Na)　函數(Na)　理論(Na)　中(Ng)　的(DE)　保角(Na)　映射(VC)[+nom]　技巧(Na)　於(P)　元素(Na)　的(DE)　安排(VE)[+nom]　上(Ng)　，(COMMACATEGORY)
+***********************************************
+518.　，(COMMACATEGORY)　使(VL)　元素(Na)　的(DE)　大小(Na)　及(Caa)　疏密(Na)　程度(Na)　更(D)　合理(VH)　，(COMMACATEGORY)
+***********************************************
+519.　，(COMMACATEGORY)　藉以(Cbb)　提高(VC)　分析(VC)　的(DE)　精確度(Na)　。(PERIODCATEGORY)
+***********************************************
+520.　。(PERIODCATEGORY)　結論(Na)　本(Nes)　文(Na)　中(Ng)　所(D)　發展(VC)　的(DE)　直接(VH)　邊界(Nc)　元素(Na)　法(Na)　，(COMMACATEGORY)
+***********************************************
+521.　，(COMMACATEGORY)　其(Nep)　最(Dfa)　大(VH)　優點(Na)　乃(D)　可(D)　適用(VJ)　於(P)　各(Nes)　種(Nf)　幾何(Na)　形狀(Na)　的(DE)　狹長(VH)　山谷(Na)　之(DE)　散射(VA)[+nom]　問題(Na)　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+522.　。(PERIODCATEGORY)　亦(D)　可(D)　適用(VJ)　於(P)　研究(VE)　其它(Neqa)　型式(Na)　入射波(Na)　（(PARENTHESISCATEGORY)　如(VG)　Ｐ波(Na)　及(Caa)　Ｓ波(Na)　）(PARENTHESISCATEGORY)　以(P)　任意(VH)　角度(Na)　入射(VJ)　的(DE)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+523.　，(COMMACATEGORY)　僅(Da)　須(D)　將(P)　自由(VH)　場(Nf)　型式(Na)　改變(VC)　即(D)　可(VH)　。(PERIODCATEGORY)
+***********************************************
+524.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=[陳慧慈]
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十二期 (1994/12).簡訊出國參加會議報告
+525.　。(PERIODCATEGORY)　第十(Neu)　屆(Nf)　歐洲(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　。(PERIODCATEGORY)
+***********************************************
+526.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　前言(Na)　。(PERIODCATEGORY)
+***********************************************
+527.　。(PERIODCATEGORY)　第十(Neu)　屆(Nf)　歐洲(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　於(P)　西元(Nd)　１９９４年(Nd)　８月(Nd)　２８日(Nd)　至(P)　９月(Nd)　２日(Nd)　於(P)　奧地利(Nc)　維也納(Nc)　舉行(VC)　。(PERIODCATEGORY)
+***********************************************
+528.　。(PERIODCATEGORY)　本(Nes)　次(Nf)　會議(Na)　係(VG)　由(P)　Ｉｎｓｔｉｔｕｔ(FW)　Ｆｕｒ(FW)　Ａｌｌｇｅｍｅｉｎｅ(FW)　Ｍｅｃｈａｎｉｋ(FW)　ＴＵＷｉｅｎ(FW)　，(COMMACATEGORY)
+***********************************************
+529.　，(COMMACATEGORY)　ＩｎＳｔｉｔｕｔ(FW)　ｆｏｒ(FW)　Ｌｅｉ(FW)　Ｃｈｔｂａｕ(FW)　ａｎｄ(FW)　Ｆｌｕｇｚｅｕｇｂａｕ(FW)　ＴＵＷｉｅｎ(FW)　，(COMMACATEGORY)
+***********************************************
+530.　，(COMMACATEGORY)　　Ａｕｓｔｒｉａｎ(FW)　Ａｓｓｏｃｉａｔｉｏｎ(FW)　ｆｏｒ(FW)　Ｅａｒｔｈｑｕａｋｅ(FW)　Ｅｎｇｉｎｅｅｒｉｎｇ(FW)　（(PARENTHESISCATEGORY)　ＯＧＥ(FW)　）(PARENTHESISCATEGORY)　及(Caa)　Ｅｕｒｏｐｅａｎ(FW)　Ａｓｓｏｃｉａｔｉｏｎ(FW)　ｆｏｒ(FW)　Ｅａｒｔｈｑｕａｋｅ(FW)　Ｅｎｇｉｎｅｅｒｉｎｇ(FW)　（(PARENTHESISCATEGORY)　ＥＡＥＥ(FW)　）(PARENTHESISCATEGORY)　共同(A)　主辦(VC)　，(COMMACATEGORY)
+***********************************************
+531.　，(COMMACATEGORY)　主要(A)　的(DE)　目的(Na)　在(P)　提供(VD)　各(Nes)　國(Nc)　地震(VA)[+nom]　工程(Na)　研究(Na)　人員(Na)　及(Caa)　專家(Na)　一(Neu)　個(Nf)　可以(D)　面對面(VA)　互相(D)　討論(VE)　及(Caa)　交換(VC)　研究(Na)　心得(Na)　與(Caa)　經驗(Na)　的(DE)　機會(Na)　。(PERIODCATEGORY)
+***********************************************
+532.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　心得(Na)　。(PERIODCATEGORY)
+***********************************************
+533.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　次(Nf)　參加(VC)　第十(Neu)　屆(Nf)　歐洲(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　可(D)　說(VE)　是(SHI)　國家(Na)　地震(VA)[+nom]　工程(Na)　研究(Na)　中心(Nc)　自(P)　成立(VC)　以來(Ng)　首次(D)　與(P)　歐洲(Nc)　的(DE)　地震(VA)[+nom]　工程(Na)　研究(Na)　學者(Na)　與(Caa)　專家(Na)　的(DE)　交流(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+534.　，(COMMACATEGORY)　因此(Cbb)　我們(Nh)　相當(Dfa)　珍惜(VJ)　這(Nep)　個(Nf)　機會(Na)　，(COMMACATEGORY)
+***********************************************
+535.　，(COMMACATEGORY)　希望(VK)　能(D)　以(P)　此(Nep)　作為(VG)　未來(Nd)　交流(VH)[+nom]　與(Caa)　合作(VH)　的(DE)　基礎(Na)　。(PERIODCATEGORY)
+***********************************************
+536.　。(PERIODCATEGORY)　茲(Nd)　將(D)　參加(VC)　這(Nep)　一(Neu)　次(Nf)　會議(Na)　所(D)　獲致(VC)　的(DE)　心得(Na)　敘述(VE)　如(P)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+537.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　過去(Nd)　參加(VC)　的(DE)　許多(Neqa)　國際性(Na)　的(DE)　會議(Na)　甚少(D)　看到(VE)　在(P)　開幕典禮(Na)　的(DE)　會場(Nc)　懸掛(VC)　各(Nes)　國(Nc)　的(DE)　國旗(Na)　，(COMMACATEGORY)
+***********************************************
+538.　，(COMMACATEGORY)　本(Nes)　次(Nf)　大會(Na)　在(P)　主席台(Nc)　後(Ng)　懸掛(VC)　各(Nes)　與會國(Nc)　的(DE)　國旗(Na)　，(COMMACATEGORY)
+***********************************************
+539.　，(COMMACATEGORY)　其中(Nep)　有(V_2)　一(Neu)　面(Nf)　是(SHI)　我國(Nc)　的(DE)　國旗(Na)　，(COMMACATEGORY)
+***********************************************
+540.　，(COMMACATEGORY)　令(VL)　人(Na)　倍感(VK)　親切(VH)　。(PERIODCATEGORY)
+***********************************************
+541.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　本(Nes)　次(Nf)　會議(Na)　的(DE)　議程(Na)　由於(Cbb)　預定(VE)　發表(VC)　的(DE)　論文(Na)　相當(Dfa)　多(VH)　，(COMMACATEGORY)
+***********************************************
+542.　，(COMMACATEGORY)　而(Cbb)　會議(Na)　的(DE)　時間(Na)　只(Da)　有(V_2)　四(Neu)　天(Nf)　半(Neqb)　，(COMMACATEGORY)
+***********************************************
+543.　，(COMMACATEGORY)　因此(Cbb)　在(P)　同(Nes)　一(Neu)　個(Nf)　時段(Na)　進行(VC)　的(DE)　場次(Na)　相當(Dfa)　多(VH)　，(COMMACATEGORY)
+***********************************************
+544.　，(COMMACATEGORY)　以致(Cbb)　常(D)　有(V_2)　遺珠之憾(Na)　。(PERIODCATEGORY)
+***********************************************
+545.　。(PERIODCATEGORY)　然而(Cbb)　實際(VH)　的(DE)　情形(Na)　卻(D)　是(SHI)　議程(Na)　的(DE)　安排(VE)　以(P)　送達(VD)　的(DE)　摘要(Na)　為準(VI)　，(COMMACATEGORY)
+***********************************************
+546.　，(COMMACATEGORY)　而(Cbb)　論文(Na)　則(D)　是(SHI)　參加(VC)　會議(Na)　時(Ng)　在(P)　交給(VD)　籌備會(Na)　，(COMMACATEGORY)
+***********************************************
+547.　，(COMMACATEGORY)　因此(Cbb)　有(V_2)　許多(Neqa)　人(Na)　雖然(Cbb)　無法(D)　參加(VC)　，(COMMACATEGORY)
+***********************************************
+548.　，(COMMACATEGORY)　但(Cbb)　卻(D)　安排(VE)　其(Nep)　論文(Na)　發表(VC)　的(DE)　時間(Na)　。(PERIODCATEGORY)
+***********************************************
+549.　。(PERIODCATEGORY)　如此一來(Dk)　，(COMMACATEGORY)
+***********************************************
+550.　，(COMMACATEGORY)　本來(D)　預定(VE)　聽(VE)　某(Nes)　位(Nf)　先生(Na)　的(DE)　論文(Na)　發表(VC)　而(Cbb)　放棄(VC)　其他(Neqa)　同(Nes)　時段(Na)　的(DE)　其他(Neqa)　論文(Na)　發表(VC)　，(COMMACATEGORY)
+***********************************************
+551.　，(COMMACATEGORY)　結果(Dk)　是(SHI)　等(VC)[+vrv]　不(D)　到(VC)[+vrr]　人(Na)　，(COMMACATEGORY)
+***********************************************
+552.　，(COMMACATEGORY)　以致(Cbb)　兩(Neu)　頭(Nf)　落空(VH)　，(COMMACATEGORY)
+***********************************************
+553.　，(COMMACATEGORY)　以(P)　我國(Nc)　為(VG)　例(Na)　，(COMMACATEGORY)
+***********************************************
+554.　，(COMMACATEGORY)　依據(P)　大會(Na)　的(DE)　資料(Na)　計有(VJ)　十四(Neu)　篇(Nf)　論文(Na)　擬(VF)　在(P)　大會(Na)　發表(VC)　（(PARENTHESISCATEGORY)　中國(Nc)　大陸(Nc)　有(V_2)　九(Neu)　篇(Nf)　論文(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+555.　，(COMMACATEGORY)　但(Cbb)　實際(VH)　上(Ng)　只有(D)　五(Neu)　位(Nf)　先生(Na)　與會(VA)　。(PERIODCATEGORY)
+***********************************************
+556.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　點(Nf)　可(D)　說(VE)　是(SHI)　美中不足(VH)　。(PERIODCATEGORY)
+***********************************************
+557.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　由於(Cbb)　過去(Nd)　本(Nes)　中心(Nc)　與(Caa)　歐洲(Nc)　各(Nes)　國(Nc)　的(DE)　交流(VH)[+nom]　較少(VH)　，(COMMACATEGORY)
+***********************************************
+558.　，(COMMACATEGORY)　因此(Cbb)　參加(VC)　了(Di)　幾(Neu)　場(Nf)　歐洲(Nc)　地震(VA)[+nom]　工程(Na)　學會(Nc)　所(D)　安排(VE)　的(DE)　工作(Na)　小組(Na)　報告(VE)　，(COMMACATEGORY)
+***********************************************
+559.　，(COMMACATEGORY)　希望(VK)　藉(P)　此(Nep)　能(D)　了解(VK)　歐洲(Nc)　地震(VA)[+nom]　工程界(Nc)　的(DE)　研究(Na)　方向(Na)　和(Caa)　其(Nep)　所(D)　致力(VL)　於(P)　推動(VC)　的(DE)　工作(Na)　。(PERIODCATEGORY)
+***********************************************
+560.　。(PERIODCATEGORY)　然而(Cbb)　有(V_2)　幾(Neu)　場(Nf)　如(P)　「(PARENTHESISCATEGORY)　Ｂａｓｅ(FW)　Ｉｓｏｌａｔｉｏｎ(FW)　ｏｆ(FW)　Ｓｔｒｕｃｔｕｒｅｓ(FW)　ｆｏｒ(FW)　ＳｅｉｓｍｉＣ(FW)　Ａｒｅａｓ(FW)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　Ｐｒｅｆａｂｒｉｃａｔｅｄ(FW)　Ｂｕｉｌｄｉｎｇ(FW)　ＳｔｒｕｃｔｕｒｅＳ(FW)　ｉｎ(FW)　Ｓｅｉｓｍｉｃ(FW)　Ｒｅｇｉｏｎｓ(FW)　」(PARENTHESISCATEGORY)　幾乎(Da)　在(P)　沒有(VJ)　很(Dfa)　好(VH)　的(DE)　協調(VC)[+nom]　下(Ng)　進行(VC)　，(COMMACATEGORY)
+***********************************************
+561.　，(COMMACATEGORY)　只有(Cbb)　臨時(Nd)　請(VF)　幾(Neu)　位(Nf)　人士(Na)　談(VE)　其(Nep)　研究(VE)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+562.　，(COMMACATEGORY)　頗(Dfa)　令(VL)　人(Na)　有(V_2)　打發(VC)　時間(Na)　之(DE)　感(Na)　。(PERIODCATEGORY)
+***********************************************
+563.　。(PERIODCATEGORY)　不過(Cbb)　根據(P)　了解(VK)　這(Nep)　個(Nf)　原因(Na)　主要(D)　是(SHI)　因為(Cbb)　在(P)　過去(Nd)　四(Neu)　年(Nf)　之中(Ng)　由於(Cbb)　缺乏(VJ)　經費(Na)　，(COMMACATEGORY)
+***********************************************
+564.　，(COMMACATEGORY)　幾乎(Da)　各(Nes)　工作(Na)　小組(Na)　都(D)　未(D)　能(D)　開會(VA)　，(COMMACATEGORY)
+***********************************************
+565.　，(COMMACATEGORY)　僅(Da)　以(P)　書信(Na)　聯絡(VC)　，(COMMACATEGORY)
+***********************************************
+566.　，(COMMACATEGORY)　以致(Cbb)　成效(Na)　不彰(VH)　，(COMMACATEGORY)
+***********************************************
+567.　，(COMMACATEGORY)　為(P)　此(Nep)　甚至(D)　有(V_2)　一(Neu)　位(Nf)　工作(Na)　小組(Na)　的(DE)　負責人(Na)　提出(VC)　與其(Cbb)　如此(Dfa)　不如(VJ)　解散(VHC)　的(DE)　建議(Na)　。(PERIODCATEGORY)
+***********************************************
+568.　。(PERIODCATEGORY)　以(P)　「(PARENTHESISCATEGORY)　Ｂａｓｅ(FW)　Ｉｓｏｌａｔｉｏｎ(FW)　ｏｆ(FW)　Ｓｔｒｕｃｔｕｒｅｓ(FW)　ｆｏｒ(FW)　Ｓｅｉｓｍｉｃ(FW)　Ａｒｅａｓ(FW)　」(PARENTHESISCATEGORY)　的(DE)　工作(Na)　小組(Na)　報告(Na)　為(VG)　例(Na)　，(COMMACATEGORY)
+***********************************************
+569.　，(COMMACATEGORY)　吸引(VJ)　了(Di)　美國(Nc)　國家(Na)　地震(VA)[+nom]　工程(Na)　中心(Nc)　的(DE)　Ｐｒｏｆ(FW)　．(PERIODCATEGORY)　Ｂｕｃｋｌｅ(FW)　和(Caa)　紐西蘭(Nc)　的(DE)　Ｄｒ(FW)　．(PERIODCATEGORY)　Ｒｏｂｉｎｓｏｎ(FW)　兩(Neu)　位(Nf)　對(P)　隔震(VH)　相當(Dfa)　有(V_2)　研究(VE)　的(DE)　學者(Na)　之(DE)　參與(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+570.　，(COMMACATEGORY)　但(Cbb)　會(Na)　後(Ng)　他們(Nh)　感到(VK)　相當(Dfa)　失望(VH)　。(PERIODCATEGORY)
+***********************************************
+571.　。(PERIODCATEGORY)　即使(Cbb)　如此(VH)　，(COMMACATEGORY)
+***********************************************
+572.　，(COMMACATEGORY)　陳慧慈(Nb)　組長(Na)　還是(D)　利用(VC)　與會(VA)　者(Na)　發言(VA)　的(DE)　機會(Na)　報告(VE)　了(Di)　本(Nes)　中心(Nc)　目前(Nd)　正(D)　積極(VH)　推動(VC)　之(DE)　「(PARENTHESISCATEGORY)　鋼(Na)　結構(Na)　裝置(VC)[+nom]　隔震(VH)　、(PAUSECATEGORY)　消能(VH)　元件(Na)　反應(Na)　實測(VC)[+nom]　與(Caa)　分析(VC)[+nom]　」(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　此(Nep)　一(Neu)　研究(Na)　計畫(Na)　係(VG)　與(P)　美國(Nc)　國家(Na)　地震(VA)[+nom]　工程(Na)　研究(Na)　中心(Nc)　共同(A)　合作(VH)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+573.　。(PERIODCATEGORY)　結束(VHC)　後(Ng)　俄羅斯(Nc)　的(DE)　地震(VA)[+nom]　工程(Na)　研究(Na)　中心(Nc)　主任(Na)　Ｐｒｏｆ(FW)　．(PERIODCATEGORY)　Ｊ(FW)　．(PERIODCATEGORY)　Ｍ(FW)　．(PERIODCATEGORY)　Ｅｉｓｅｎｂｅｒｇ(FW)　表示(VE)　和(P)　本(Nes)　中心(Nc)　合作(VH)　與(Caa)　交流(VH)　的(DE)　意願(Na)　，(COMMACATEGORY)
+***********************************************
+574.　，(COMMACATEGORY)　而(Cbb)　約定(VE)　在(P)　８月(Nd)　３１日(Nd)　年祭(VC)　時(Ng)　與(P)　葉超雄(Nb)　主任(Na)　和(Caa)　陳慧慈(Nb)　組長(Na)　見面(VA)　並(D)　交換(VC)[+nom]　意見(Na)　。(PERIODCATEGORY)
+***********************************************
+575.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　歐洲(Nc)　共同體(Na)　（(PARENTHESISCATEGORY)　ＥＣ(FW)　）(PARENTHESISCATEGORY)　近年(Nd)　來(Ng)　致力(VL)　於(P)　訂定(VC)　各(Nes)　項(Nf)　共通(A)　的(DE)　規範(Na)　，(COMMACATEGORY)
+***********************************************
+576.　，(COMMACATEGORY)　其中(Nep)　Ｅｕｒｏｃｏｄｅ(FW)　８(Neu)　（(PARENTHESISCATEGORY)　簡稱(VG)　ＥＣ(FW)　８(Neu)　）(PARENTHESISCATEGORY)　為(VG)　「(PARENTHESISCATEGORY)　Ｄｅｓｉｇｎ(FW)　Ｐｒｏｖｉｓｉｏｎｓ(FW)　ｆｏｒ(FW)　Ｅａｒｔｈｑｕａｋｅ(FW)　Ｒｅｓｉｓｔａｎｃｅ(FW)　ｏｆ(FW)　Ｓｔｒｕｃｔｕｒｅｓ(FW)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+577.　，(COMMACATEGORY)　目前(Nd)　已(D)　接近(VC)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+578.　，(COMMACATEGORY)　僅(Da)　剩下(VJ)　一些(Neqa)　條文(Na)　待(P)　投票(VA)　通過(VC)　。(PERIODCATEGORY)
+***********************************************
+579.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　次(Nf)　的(DE)　會議(Na)　中(Ncd)　就(D)　有關於(P)　ＥＣ(FW)　８(Neu)　的(DE)　兩(Neu)　個(Nf)　特別(VH)　主題(Na)　：(COLONCATEGORY)
+***********************************************
+580.　：(COLONCATEGORY)　Ｐｒｅｎｏｒｍｔｉｖｅ(FW)　Ｒｅｓｅａｒｃｈ(FW)　ｉｎ(FW)　Ｓｕｐｐｏｒｔ(FW)　Ｏｆ(FW)　ＥＣ(FW)　８(Neu)　和(Caa)　Ｅｕｒｏｃｏｄｅ(FW)　８(Neu)　：(COLONCATEGORY)
+***********************************************
+581.　：(COLONCATEGORY)　Ｅａｒｔｈｑｕａｋｅ(FW)　Ｒｅｓｉｓｔａｎｔ(FW)　Ｄｅｓｉｇｎ(FW)　ｏｆ(FW)　Ｓｔｒｕｃｔｕｒｅｓ(FW)　，(COMMACATEGORY)
+***********************************************
+582.　，(COMMACATEGORY)　前者(Nh)　係(VG)　藉著(P)　一(Neu)　系列(Na)　理論(Na)　和(Caa)　大型(Na)　實驗(VE)[+nom]　研究(Na)　來(D)　支持(VC)　ＥＣ(FW)　８(Neu)　的(DE)　規定(Na)　，(COMMACATEGORY)
+***********************************************
+583.　，(COMMACATEGORY)　其中(Nep)　大型(Na)　的(DE)　實驗(VE)[+nom]　研究(Na)　則(D)　是(SHI)　使用(VC)　了(Di)　振動台(Na)　和(Caa)　擬(VC)　動態(Na)　試檢(VF)[+nom]　設備(Na)　，(COMMACATEGORY)
+***********************************************
+584.　，(COMMACATEGORY)　而(Cbb)　後者(Nh)　則(D)　是(SHI)　在(P)　介紹(VE)　ＥＣ(FW)　８(Neu)　的(DE)　內容(Na)　、(PAUSECATEGORY)　邀請(VC)　非(A)　歐洲(Nc)　地區(Nc)　的(DE)　學者(Na)　表示(VE)　他們(Nh)　的(DE)　看法(Na)　，(COMMACATEGORY)
+***********************************************
+585.　，(COMMACATEGORY)　和(Caa)　自由(VH)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+586.　。(PERIODCATEGORY)　過去(Nd)　國內(Nc)　耐震(VH)　規範(Na)　的(DE)　修訂(VC)[+nom]　因(Cbb)　受到(VJ)　實驗(VE)[+nom]　設備(Na)　的(DE)　限制(Na)　，(COMMACATEGORY)
+***********************************************
+587.　，(COMMACATEGORY)　大都(D)　未(D)　能(D)　經由(P)　試驗(VC)　來(D)　決定(VE)　一些(Neqa)　與(Caa)　地域性(Na)　或(Caa)　施工性(Na)　有關(VJ)　的(DE)　參數(Na)　，(COMMACATEGORY)
+***********************************************
+588.　，(COMMACATEGORY)　未來(Nd)　本(Nes)　中心(Nc)　的(DE)　振動台(Na)　與(Caa)　擬(VF)　動態(Na)　設備(Na)　完成(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+589.　，(COMMACATEGORY)　應(D)　可(D)　擔任(VG)　此(Nep)　一(Neu)　任務(Na)　。(PERIODCATEGORY)
+***********************************************
+590.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+591.　，(COMMACATEGORY)　陳慧慈(Nb)　組長(Na)　亦(D)　利用(VC)　自由(VH)　發言(VA)　的(DE)　機會(Na)　介紹(VE)　了(Di)　本(Nes)　中心(Nc)　的(DE)　振動台(Na)　和(Caa)　擬(VF)　動態(Na)　實驗(VE)[+nom]　設備(Na)　。(PERIODCATEGORY)
+***********************************************
+592.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)　在(P)　地震(VA)[+nom]　工程(Na)　的(DE)　實驗(VE)[+nom]　研究(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+593.　，(COMMACATEGORY)　振動台(Na)　是(SHI)　一(Neu)　不可或缺(A)　的(DE)　重要(VH)　設備(Na)　。(PERIODCATEGORY)
+***********************************************
+594.　。(PERIODCATEGORY)　西元(Nd)　１９８９年(Nd)　歐洲(Nc)　共同體(Na)　在(P)　一(Neu)　個(Nf)　名為(VG)　「(PARENTHESISCATEGORY)　Ｐｌａｎ(FW)　ｔｏ(FW)　Ｆａｃｉｌｉｔａｔｅ(FW)　Ａｃｃｅｓｓ(FW)　ｔｏ(FW)　Ｌａｒｇｅ(FW)　—(DASHCATEGORY)　Ｓｃａｌｅ(FW)　Ｓｃｉｅｎｔｉｆｉｃ(FW)　Ｆａｃｉｌｉｔｉｅｓ(FW)　Ｏｆ(FW)　Ｅｕｒｏｐｅａｎ(FW)　Ｉｎｔｅｒｅｓｔ(FW)　」(PARENTHESISCATEGORY)　的(DE)　計劃(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+595.　，(COMMACATEGORY)　提及(VE)　七(Neu)　項(Nf)　的(DE)　研究(Na)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+596.　，(COMMACATEGORY)　其中(Nep)　一(Neu)　項(Nf)　即為(VG)　振動台(Na)　。(PERIODCATEGORY)
+***********************************************
+597.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　個(Nf)　計劃(Na)　係(VG)　根據(P)　各(Nes)　單位(Na)　所(D)　提出(VC)　的(DE)　計劃書(Na)　決定(VE)　補助(VD)　的(DE)　對象(Na)　，(COMMACATEGORY)
+***********************************************
+598.　，(COMMACATEGORY)　而(Cbb)　振動台(Na)　這(Nep)　一(Neu)　個(Nf)　項目(Na)　的(DE)　經費(Na)　主要(D)　是(SHI)　支援(VC)　葡萄牙(Nc)　的(DE)　Ｎａｔｉｏｎａｌ(FW)　Ｌａｂｏｒａｔｏｒｙ(FW)　ｆｏｒ(FW)　Ｃｉｖｉｌ(FW)　Ｅｎｇｉｎｅｅｒｉｎｇ(FW)　興建(VC)　一(Neu)　座(Nf)　５(Neu)　．(PERIODCATEGORY)　６(Neu)　ｍ(FW)　Ｘ(FW)　４(Neu)　．(PERIODCATEGORY)　６(Neu)　ｍ(FW)　的(DE)　三(Neu)　軸(Na)　振動台(Na)　。(PERIODCATEGORY)
+***********************************************
+599.　。(PERIODCATEGORY)　６(Neu)　．(PERIODCATEGORY)　在(P)　西元(Nd)　１９９０(Nd)　—１９９４年(Nd)　的(DE)　「(PARENTHESISCATEGORY)　Ｔｈｉｒｄ(FW)　Ｆｒａｍｅｗｏｒｋ(FW)　ｐｒｏｇｒａｍｍｅ(FW)　」(PARENTHESISCATEGORY)　所(D)　包含(VJ)　的(DE)　「(PARENTHESISCATEGORY)　Ｈｕｍａｎ(FW)　Ｃａｐｉｔａｌ(FW)　ａｎｄ(FW)　Ｍｏｂｉｌｉｔｙ(FW)　Ｐｒｏｇｒａｍｍｅ(FW)　（(PARENTHESISCATEGORY)　ＨＣＭＰ(FW)　）(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　中(Ng)　有(V_2)　一(Neu)　個(Nf)　稱為(VG)　「(PARENTHESISCATEGORY)　Ａｃｃｅｓｓ(FW)　ｔｏ(FW)　Ｌａｒｇｅ(FW)　—(DASHCATEGORY)　Ｓｃａｌｅ(FW)　Ｓｃｉｅｎｔｉｆｉｃ(FW)　ａｎｄ(FW)　Ｔｅｃｈｎｉ(FW)　Ｃａｌ(FW)　Ｆａｃｉｌｉｔｉｅｓ(FW)　」(PARENTHESISCATEGORY)　的(DE)　部分(Neqa)　，(COMMACATEGORY)
+***********************************************
+600.　，(COMMACATEGORY)　其(Nep)　主要(A)　的(DE)　目的(Na)　在(P)　使(VL)　各(Nes)　國(Nc)　對(P)　使用(VC)　昂貴(VH)　的(DE)　大型(Na)　研究(Na)　設備(Na)　進行(VC)　研究(Na)　有(V_2)　興趣(Na)　年輕(VH)　學者(Na)　能(D)　很(Dfa)　方便(VH)　地(DE)　使用(VC)　這些(Neqa)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+601.　，(COMMACATEGORY)　以及(Caa)　協調(VC)　整(Neqa)　個(Nf)　歐體(Nc)　在(P)　這(Nep)　個(Nf)　領域(Na)　的(DE)　研究(Na)　。(PERIODCATEGORY)
+***********************************************
+602.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　點(Nf)　的(DE)　做法(Na)　和(Caa)　國家(Na)　地震(VA)[+nom]　工程(Na)　研究(Na)　中心(Nc)　成立(VC)　的(DE)　宗旨(Na)　相當(Dfa)　一致(VH)　。(PERIODCATEGORY)
+***********************************************
+603.　。(PERIODCATEGORY)　７(Neu)　．(PERIODCATEGORY)　為(VG)　更(D)　有效(VH)　地(DE)　進行(VC)　振動台(Na)　的(DE)　實驗(VE)[+nom]　研究(Na)　，(COMMACATEGORY)
+***********************************************
+604.　，(COMMACATEGORY)　乃(D)　成立(VC)　了(T)　「(PARENTHESISCATEGORY)　Ｔｈｅ(FW)　Ｅｕｒｏｐｅａｎ(FW)　Ｃｏｎｓｏｒｔｒｕｍ(FW)　ｏｆ(FW)　ｅａｒｔｈｑｕａｋｅ(FW)　Ｓｈａｋｉｎｇ(FW)　Ｔａｂｌｅｓ(FW)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+605.　，(COMMACATEGORY)　在(P)　這(Nep)　一(Neu)　個(Nf)　組織(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+606.　，(COMMACATEGORY)　第一(Neu)　個(Nf)　階段(Na)　的(DE)　工作(Na)　（(PARENTHESISCATEGORY)　即(VG)　目前(Nd)　正(D)　進行(VC)　）(PARENTHESISCATEGORY)　為(VG)　委由(VF)　Ｎａｔｉｏｎａｌ(FW)　Ｔｅｃｈｎｉｃａｌ(FW)　Ｕｎｉｖｅｒｓｉｔｙ(FW)　Ａｔｈｅｎｓ(FW)　ａｎｄ(FW)　Ｕｎｉｖｅｒｓｉｔｙ(FW)　ｏｆ(FW)　Ｂｒｉｓｔｏｌ(FW)　利用(VC)　其(Nep)　原有(VJ)　的(DE)　較(Dfa)　小型(Na)　之(DE)　振動台(Na)　進行(VC)　三(Neu)　項(Nf)　工作(Na)　：(COLONCATEGORY)
+***********************************************
+607.　：(COLONCATEGORY)　檢討(VE)　振動台(Na)　的(DE)　性能(Na)　表現(VC)　、(PAUSECATEGORY)　檢討(VE)　軟體(Na)　以及(Caa)　檢討(VE)　操作(VC)　程序(Na)　，(COMMACATEGORY)
+***********************************************
+608.　，(COMMACATEGORY)　目的(Na)　再(D)　將(D)　振動台(Na)　的(DE)　實驗(Na)　標準化(VHC)　。(PERIODCATEGORY)
+***********************************************
+609.　。(PERIODCATEGORY)　第二(Neu)　階段(Na)　的(DE)　工作(Na)　則(D)　是(SHI)　利用(VC)　振動台(Na)　進行(VC)　研究(Na)　以(P)　檢核(VC)　將要(D)　施行(VC)　的(DE)　Ｅｕｒｏｃｏｄｅ(FW)　。(PERIODCATEGORY)
+***********************************************
+610.　。(PERIODCATEGORY)　８(Neu)　．(PERIODCATEGORY)　國內(Nc)　在(P)　這(Nep)　一(Neu)　兩(Neu)　年(Nf)　內(Ng)　將(D)　會(D)　有(V_2)　兩(Neu)　部(Nf)　小型(Na)　的(DE)　單(A)　軸(Na)　振動台(Na)　興建(VC)　，(COMMACATEGORY)
+***********************************************
+611.　，(COMMACATEGORY)　再(D)　加上(VC)　國立(A)　台灣(Nc)　工業(Na)　技術(Na)　學院(Nc)　的(DE)　振動台(Na)　和(Caa)　國家(Na)　地震(VA)[+nom]　工程(Na)　研究(Na)　中心(Nc)　的(DE)　三(Neu)　軸(Na)　振動台(Na)　，(COMMACATEGORY)
+***********************************************
+612.　，(COMMACATEGORY)　如何(D)　將(P)　這些(Neqa)　設備(Na)　仿照(P)　歐體(Nc)　的(DE)　做法(Na)　進行(VC)　整體性(Na)　的(DE)　研究(VE)　是(SHI)　值得(VH)　我們(Nh)　深思(VE)　。(PERIODCATEGORY)
+***********************************************
+613.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　感想(Na)　。(PERIODCATEGORY)
+***********************************************
+614.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　次(Nf)　的(DE)　第十(Neu)　屆(Nf)　歐洲(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　雖然(Cbb)　在(P)　議程(Na)　的(DE)　安排(VE)　上(Ng)　有(V_2)　不周(VH)　之(DE)　處(Na)　，(COMMACATEGORY)
+***********************************************
+615.　，(COMMACATEGORY)　但是(Cbb)　經由(P)　這(Nep)　一(Neu)　次(Nf)　的(DE)　與會(VA)[+nom]　卻(D)　可(D)　讓(VL)　我們(Nh)　了解(VK)　歐洲(Nc)　地區(Nc)　的(DE)　重要(VH)　研究(Na)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+616.　，(COMMACATEGORY)　以及(Caa)　地震(VA)[+nom]　工程(Na)　研究(Na)　的(DE)　方向(Na)　，(COMMACATEGORY)
+***********************************************
+617.　，(COMMACATEGORY)　可以(D)　說(VE)　收穫(Na)　相當(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+618.　，(COMMACATEGORY)　為(P)　本(Nes)　中心(Nc)　未來(Nd)　與(P)　歐洲(Nc)　地區(Nc)　的(DE)　交流(VH)　奠定(VC)　了(Di)　基礎(Na)　。(PERIODCATEGORY)
+***********************************************
+619.　。(PERIODCATEGORY)　經由(P)　這(Nep)　一(Neu)　次(Nf)　的(DE)　與會(VA)[+nom]　，(COMMACATEGORY)
+***********************************************
+620.　，(COMMACATEGORY)　我們(Nh)　發現(VE)　除了(P)　國內(Nc)　的(DE)　地震(VA)[+nom]　工程(Na)　研究(Na)　有(V_2)　相當(Dfa)　好(VH)　的(DE)　水準(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+621.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　的(DE)　大型(Na)　研究(Na)　設備(Na)　均(D)　較(P)　歐洲(Nc)　各(Nes)　國(Nc)　或(Caa)　歐體(Nc)　出資(VC)　成立(VC)　的(DE)　實驗室(Nc)　為(VG)　佳(VH)　，(COMMACATEGORY)
+***********************************************
+622.　，(COMMACATEGORY)　在(P)　這(Nep)　種(Nf)　良好(VH)　的(DE)　研究(Na)　環境(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+623.　，(COMMACATEGORY)　如果(Cbb)　國內(Nc)　的(DE)　政府(Na)　單位(Na)　、(PAUSECATEGORY)　本(Nes)　中心(Nc)　的(DE)　成員(Na)　、(PAUSECATEGORY)　學術界(Nc)　和(Caa)　產業界(Nc)　能(D)　共同(A)　攜手(D)　合作(VH)　，(COMMACATEGORY)
+***********************************************
+624.　，(COMMACATEGORY)　相信(VK)　在(P)　地震(VA)[+nom]　工程(Na)　研究(Na)　的(DE)　領域(Na)　應(D)　可(D)　與(P)　各(Nes)　先進(VH)　國家(Na)　並駕齊驅(VH)　。(PERIODCATEGORY)
+***********************************************
+625.　。(PERIODCATEGORY)　值得(VH)　一(D)　提(VE)　的(DE)　是(SHI)　，(COMMACATEGORY)
+***********************************************
+626.　，(COMMACATEGORY)　根據(P)　國立(A)　成功(VH)[+prop]　大學(Nc)　建築系(Nc)　許茂雄(Nb)　教授(Na)　的(DE)　說明(Na)　，(COMMACATEGORY)
+***********************************************
+627.　，(COMMACATEGORY)　與(P)　他(Nh)　住(VCL)　同(Nes)　一(Neu)　間(Nf)　旅館(Nc)　的(DE)　紐西蘭(Nc)　Ｐａｕｌａｙ(FW)　教授(Na)　告訴(VE)　他(Nh)　，(COMMACATEGORY)
+***********************************************
+628.　，(COMMACATEGORY)　利用(VC)　這(Nep)　一(Neu)　次(Nf)　歐洲(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　所(D)　召開(VC)　的(DE)　世界(Nc)　地震(VA)　工程(Na)　學會(VC)　的(DE)　理事會(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+629.　，(COMMACATEGORY)　花(VC)　了(Di)　相當(Dfa)　多(VH)　的(DE)　時間(Na)　討論(VE)　是否(D)　應(D)　修改(VC)　章程(Na)　，(COMMACATEGORY)
+***********************************************
+630.　，(COMMACATEGORY)　以便(Cbb)　讓(VL)　我國(Nc)　亦(D)　能(D)　加入(VC)　成為(VG)　會員(Na)　。(PERIODCATEGORY)
+***********************************************
+631.　。(PERIODCATEGORY)　經過(VCL)　討論(VE)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+632.　，(COMMACATEGORY)　理事會(Na)　通過(VC)　修改(VC)[+nom]　章程(Na)　，(COMMACATEGORY)
+***********************************************
+633.　，(COMMACATEGORY)　將(D)　在(P)　西元(Nd)　１９９６年(Nd)　於(P)　墨西哥(Nc)　舉行(VC)　的(DE)　第十一(Neu)　屆(Nf)　世界(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　時(Ng)　提交(VD)　會員(Na)　同意(VK)　後(Ng)　實施(VC)　。(PERIODCATEGORY)
+***********************************************
+634.　。(PERIODCATEGORY)　在(P)　國內(Nc)　學者(Na)　專家(Na)　這些(Neqa)　年(Nf)　的(DE)　努力(VH)　研究(VE)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+635.　，(COMMACATEGORY)　此(Nep)　一(Neu)　消息(Na)　相信(VK)　對(P)　國內(Nc)　地震(VA)[+nom]　工程(Na)　研究(Na)　人員(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+636.　，(COMMACATEGORY)　是(SHI)　一(Neu)　件(Nf)　相當(Dfa)　值得(VH)　欣慰(VK)　的(DE)　事(Na)　。(PERIODCATEGORY)
+***********************************************
+637.　。(PERIODCATEGORY)　未來(Nd)　這(Nep)　一(Neu)　年(Nf)　內(Ng)　，(COMMACATEGORY)
+***********************************************
+638.　，(COMMACATEGORY)　應(D)　首先(D)　成立(VC)　我國(Nc)　的(DE)　地震(VA)[+nom]　工程(Na)　學會(VC)　，(COMMACATEGORY)
+***********************************************
+639.　，(COMMACATEGORY)　並(Cbb)　向(P)　世界(Nc)　地震(VA)[+nom]　工程(Na)　學會(Nc)　提出(VC)　申請(VF)　為(P)　會員(Na)　，(COMMACATEGORY)
+***********************************************
+640.　，(COMMACATEGORY)　另一方面(Cbb)　則(D)　希望(VK)　國科會(Nc)　、(PAUSECATEGORY)　教育部(Nc)　和(Caa)　國內(Nc)　工業界(Nc)　支持(VC)　成立(VC)　一(Neu)　個(Nf)　代表團(Na)　赴(VCL)　墨西哥(Nc)　參加(VC)　第十一(Neu)　屆(Nf)　世界(Nc)　地震(VA)[+nom]　工程(Na)　會議(Na)　，(COMMACATEGORY)
+***********************************************
+641.　，(COMMACATEGORY)　讓(VL)　我國(Nc)　在(P)　全球(Nc)　的(DE)　地震(VA)[+nom]　工程(Na)　研究(Na)　上(Ng)　能(D)　扮演(VC)　更(D)　積極(VH)　的(DE)　角色(Na)　。(PERIODCATEGORY)
+***********************************************
+642.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=(楊永斌、鍾立來、鄭橙標)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十二期 (1994/12).簡訊中心動態
+643.　。(PERIODCATEGORY)　地震(VA)[+nom]　模擬(VC)[+nom]　振動台(Na)　建造(VC)[+nom]　工程(Na)　進度(Na)　報告(Na)　。(PERIODCATEGORY)
+***********************************************
+644.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　新建(VC)　工程(Na)　包括(VK)　六(Neu)　層(Nf)　之(DE)　研究(Na)　大樓(Na)　及(Caa)　實驗室(Nc)　之(DE)　建造(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+645.　，(COMMACATEGORY)　而(Cbb)　實驗室(Nc)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+646.　，(COMMACATEGORY)　以(P)　５(Neu)　Ｍｘ(FW)　５(Neu)　Ｍ(FW)　的(DE)　地震(VA)[+nom]　模擬(VC)[+nom]　振動台(Na)　最(Dfa)　具(VJ)　特色(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+647.　；(SEMICOLONCATEGORY)　此(Nep)　一(Neu)　設備(Na)　屬(VG)　三軸向(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+648.　，(COMMACATEGORY)　可以(D)　進行(VC)　各(Nes)　式(A)　結構(Na)　或(Caa)　儀器(Na)　設備(Na)　之(DE)　地震(VA)[+nom]　模擬(VC)[+nom]　實驗(Na)　。(PERIODCATEGORY)
+***********************************************
+649.　。(PERIODCATEGORY)　在(P)　設計(Na)　方面(Na)　則(D)　採用(VC)　最(Dfa)　先進(VH)　的(DE)　隔震(VH)　觀念(Na)　，(COMMACATEGORY)
+***********************************************
+650.　，(COMMACATEGORY)　以(P)　阻絕(VC)　振動台(Na)　在(P)　實驗(VE)　中(Ng)　所(D)　產生(VHC)　之(DE)　振動(VAC)[+nom]　對(P)　鄰近(VJ)　建築(Na)　之(DE)　影響(Na)　。(PERIODCATEGORY)
+***********************************************
+651.　。(PERIODCATEGORY)　基於(P)　此(Nep)　一(Neu)　理念(Na)　，(COMMACATEGORY)
+***********************************************
+652.　，(COMMACATEGORY)　振動台(Na)　之(DE)　鋼桌(Na)　（(PARENTHESISCATEGORY)　約(Da)　２５(Neu)　噸(Nf)　）(PARENTHESISCATEGORY)　及(Caa)　１２(Neu)　支(Nf)　致動器(Na)　，(COMMACATEGORY)
+***********************************************
+653.　，(COMMACATEGORY)　係(VG)　安置(VC)　於(P)　長(VH)　寬(VH)　各(D)　達(VJ)　１６(Neu)　Ｍ(FW)　，(COMMACATEGORY)
+***********************************************
+654.　，(COMMACATEGORY)　重(D)　達(VJ)　近(Nes)　三千八百(Neu)　公噸(Nf)　的(DE)　「(PARENTHESISCATEGORY)　浮動(VA)[+nom]　基礎(Na)　」(PARENTHESISCATEGORY)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+655.　，(COMMACATEGORY)　如(P)　附圖(Na)　，(COMMACATEGORY)
+***********************************************
+656.　，(COMMACATEGORY)　再(D)　以(P)　空氣(Na)　彈簧(Na)　及(Caa)　阻尼器(Na)　，(COMMACATEGORY)
+***********************************************
+657.　，(COMMACATEGORY)　固定(VHC)　於(P)　「(PARENTHESISCATEGORY)　固定(VHC)[+nom]　基礎(Na)　」(PARENTHESISCATEGORY)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+658.　，(COMMACATEGORY)　而(Cbb)　固定(VHC)[+nom]　基礎(Na)　則(D)　透過(P)　四十餘(Neu)　公尺(Nf)　長(VH)　之(DE)　基樁(Na)　，(COMMACATEGORY)
+***********************************************
+659.　，(COMMACATEGORY)　將(D)　載重(VA)　傳達(VD)　至(P)　岩盤(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+660.　，(COMMACATEGORY)　經過(VCL)　此(Nep)　一(Neu)　嚴密(VH)　之(DE)　支承(VC)　設計(VC)　，(COMMACATEGORY)
+***********************************************
+661.　，(COMMACATEGORY)　振動台(Na)　所(D)　產生(VHC)　之(DE)　能量(Na)　，(COMMACATEGORY)
+***********************************************
+662.　，(COMMACATEGORY)　幾乎(Da)　可以(D)　完全(D)　被(P)　隔絕掉(VC)　。(PERIODCATEGORY)
+***********************************************
+663.　。(PERIODCATEGORY)　為(VG)　能(D)　順利(VH)　完成(VC)　此(Nep)　集合(Na)　機械(Na)　、(PAUSECATEGORY)　土木(Na)　、(PAUSECATEGORY)　電機(Na)　等(Cab)　各(Nes)　項(Nf)　技術(Na)　的(DE)　振動台(Na)　建造(VC)　，(COMMACATEGORY)
+***********************************************
+664.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　目前(Nd)　由(P)　地震(VA)[+nom]　模擬(VC)[+nom]　實驗組(Na)　楊永斌(Nb)　組長(Na)　、(PAUSECATEGORY)　鍾立來(Nb)　博士(Na)　、(PAUSECATEGORY)　鄭橙標(Nb)　先生(Na)　、(PAUSECATEGORY)　李明興(Nb)　先生(Na)　負責(VL)　此(Nep)　項(Nf)　工程(Na)　之(DE)　推動(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+665.　。(PERIODCATEGORY)　自(P)　本(Nes)　（八十三）(Nd)　年(Nf)　七月(Nd)　正式(VH)　簽約(VA)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+666.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　即(D)　積極(VH)　與(Caa)　得標商(Na)　ＭＴＳ(FW)　公司(Nc)　（(PARENTHESISCATEGORY)　代理商(Na)　國科(Nb)　公司(Nc)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　建築師(Na)　、(PAUSECATEGORY)　結構(Na)　設計(Na)　單位(Na)　、(PAUSECATEGORY)　水電(Na)　工程(Na)　單位(Na)　及(Caa)　土木(Na)　承包商(Na)　等(Cab)　相關(VH)　單位(Na)　多方(D)　協調(VC)　與(Caa)　討論(VE)　，(COMMACATEGORY)
+***********************************************
+667.　，(COMMACATEGORY)　至今(D)　共(Da)　舉行(VC)　五(Neu)　次(Nf)　建造(VC)[+nom]　工程(Na)　會議(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+668.　；(SEMICOLONCATEGORY)　數(Neu)　月(Na)　來(T)　，(COMMACATEGORY)
+***********************************************
+669.　，(COMMACATEGORY)　經(P)　各(Nes)　參與(VC)[+nom]　單位(Na)　全力(D)　投入(VC)　與(Caa)　配合(VC)　，(COMMACATEGORY)
+***********************************************
+670.　，(COMMACATEGORY)　於今(D)　與(P)　振動台(Na)　有關(VJ)　之(DE)　界面(Na)　，(COMMACATEGORY)
+***********************************************
+671.　，(COMMACATEGORY)　諸如(P)　：(COLONCATEGORY)
+***********************************************
+672.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　與(Caa)　固定(VHC)[+nom]　基礎(VH)　之(DE)　土木(Na)　界面(Na)　一(Neu)　固定(VHC)[+nom]　基礎(Na)　之(DE)　整體(Na)　平整度(Na)　要求(VF)　在(P)　２Ｏ(Neu)　ｍｍ(Nf)[+fw]　，(COMMACATEGORY)
+***********************************************
+673.　，(COMMACATEGORY)　而(Cbb)　每(Nes)　平方公尺(Nf)　則(D)　為(VG)　３(Neu)　ｍｍ(Nf)[+fw]　，(COMMACATEGORY)
+***********************************************
+674.　，(COMMACATEGORY)　使(VL)　各(Nes)　支(Nf)　空氣(Na)　彈簧(Na)　均(D)　能(D)　平均(VH)　受(VJ)　力(Na)　。(PERIODCATEGORY)
+***********************************************
+675.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　與(Caa)　浮動(VA)[+nom]　基礎(A)　之(DE)　土木(Na)　界面(Na)　一(Neu)　空氣(Na)　彈簧(Na)　、(PAUSECATEGORY)　阻尼器(Na)　及(Caa)　１２(Neu)　支(Nf)　致動器(Na)　瞄定(VC)　的(DE)　界面(Na)　配合(VC)　。(PERIODCATEGORY)
+***********************************************
+676.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　與(Caa)　泵室(Nc)　之(DE)　機電(Na)　、(PAUSECATEGORY)　土木(Na)　界面(Na)　一(Neu)　油壓(Na)　管路(Na)　安排(VE)[+nom]　、(PAUSECATEGORY)　冷卻(VHC)[+nom]　系統(Na)　設計(Na)　、(PAUSECATEGORY)　排氣(VA)[+nom]　系統(Na)　等(Cab)　之(DE)　配合(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+677.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　與(Caa)　控制室(Nc)　之(DE)　機電(Na)　、(PAUSECATEGORY)　土木(Na)　界面(Na)　一(Neu)　信號(Na)　管線(Na)　安排(VE)[+nom]　、(PAUSECATEGORY)　電源(Na)　管路(Na)　安排(VE)[+nom]　等(Cab)　之(DE)　配合(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+678.　。(PERIODCATEGORY)　截至(P)　目前(Nd)　為止(Ng)　，(COMMACATEGORY)
+***********************************************
+679.　，(COMMACATEGORY)　上述(Na)　大部份(Neqa)　工作(Na)　均(D)　已(D)　釐清(VC)　，(COMMACATEGORY)
+***********************************************
+680.　，(COMMACATEGORY)　並(Cbb)　進入(VCL)　設計(Na)　藍圖(Na)　定稿(VA)[+nom]　階段(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+681.　；(SEMICOLONCATEGORY)　其中(Nep)　振動台(Na)　固定(VHC)　基礎(Na)　亦(D)　於(P)　本(Nes)　年(Nf)　１０月(Nd)　２５日(Nd)　澆置(VC)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+682.　，(COMMACATEGORY)　一切(Neqa)　尚(D)　稱(VE)　順利(VH)　。(PERIODCATEGORY)
+***********************************************
+683.　。(PERIODCATEGORY)　另外(Cbb)　，(COMMACATEGORY)
+***********************************************
+684.　，(COMMACATEGORY)　振動台(Na)　所(D)　需(VK)　專業(VH)　人員(Na)　，(COMMACATEGORY)
+***********************************************
+685.　，(COMMACATEGORY)　亦(D)　正(D)　積極(VH)　接受(VC)　有(V_2)　系統(Na)　的(DE)　養成(VG)　訓練(VC)　，(COMMACATEGORY)
+***********************************************
+686.　，(COMMACATEGORY)　一方面(Cbb)　除(P)　借助(VC)　於(P)　台灣(Nc)　工業(Na)　技術(Na)　學院(Nc)　之(DE)　振動台(Na)　進行(VC)　培訓(VC)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+687.　，(COMMACATEGORY)　另一方面(Cbb)　則(D)　多方(D)　蒐集(VC)　美(Nc)　、(PAUSECATEGORY)　日(Nc)　、(PAUSECATEGORY)　大陸(Nc)　等(Cab)　國(Nc)　在(P)　振動台(Na)　測試(VC)　及(Caa)　使用(VC)　上(Ng)　所(D)　曾(D)　遭遇(VJ)　的(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+688.　，(COMMACATEGORY)　相信(VK)　這些(Neqa)　經驗(Na)　及(Caa)　問題(Na)　的(DE)　解決(VC)[+nom]　方案(Na)　，(COMMACATEGORY)
+***********************************************
+689.　，(COMMACATEGORY)　將(D)　會(D)　成為(VG)　本(Nes)　中心(Nc)　寶貴(VH)　的(DE)　資料庫(Na)　。(PERIODCATEGORY)
+***********************************************
+690.　。(PERIODCATEGORY)　除此以外(Dk)　，(COMMACATEGORY)
+***********************************************
+691.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　亦(D)　與(P)　位於(VCL)　紐約(Nc)　大學(Nc)　水牛城(Nc)　分校(Nc)　的(DE)　美國(Nc)　國家(Na)　地震(VA)[+nom]　中心(Nc)　建立(VC)　長期(Nd)　合作(VH)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+692.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　預計(VE)　於(P)　明(Nd)　（八十四）(Nd)　年(Nf)　夏季(Nd)　派員(VF)　參與(VC)　其(Nep)　振動台(Na)　地震(VA)[+nom]　模擬(VC)[+nom]　實驗(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+693.　；(SEMICOLONCATEGORY)　這(Nep)　一(Neu)　系列(Na)　的(DE)　訓練(Na)　，(COMMACATEGORY)
+***********************************************
+694.　，(COMMACATEGORY)　相信(VK)　對(P)　本(Nes)　中心(Nc)　所(D)　建造(VC)　的(DE)　振動台(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+695.　，(COMMACATEGORY)　無論(Cbb)　是(SHI)　在(P)　Ｄｅｓｉｇｎ(FW)　Ｒｅｖｉｅｗ(FW)　、(PAUSECATEGORY)　Ｓｙｓｔｅｍ(FW)　Ｃｈｅｃｋｏｕｔ(FW)　或是(Caa)　將來(Nd)　操作(VC)　使用(VC)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+696.　，(COMMACATEGORY)　一定(D)　有(V_2)　莫大(A)　的(DE)　助益(Na)　。(PERIODCATEGORY)
+***********************************************
+697.　。(PERIODCATEGORY)　一(Neu)　部(Nf)　完美(VH)　的(DE)　振動台(Na)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+698.　，(COMMACATEGORY)　最(Dfa)　重要(VH)　的(DE)　在於(VK)　它(Nh)　與(P)　土木(Na)　工程(Na)　（(PARENTHESISCATEGORY)　特別(VH)　是(SHI)　基礎(A)　方面(Na)　）(PARENTHESISCATEGORY)　的(DE)　配合(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+699.　，(COMMACATEGORY)　而(Cbb)　因為(Cbb)　它(Nh)　是(SHI)　一(Neu)　項(Nf)　特殊(VH)　的(DE)　土木(Na)　工程(Na)　，(COMMACATEGORY)
+***********************************************
+700.　，(COMMACATEGORY)　至今(D)　國內(Nc)　向(P)　無(VJ)　此(Nep)　項(Nf)　土木(Na)　施工(VA)[+nom]　經驗(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+701.　；(SEMICOLONCATEGORY)　本(Nes)　中心(Nc)　為(VG)　使(VL)　將來(Nd)　振動台(Na)　與(Caa)　土木(Na)　工程(Na)　界面(Na)　配合(VC)　良好(VH)　，(COMMACATEGORY)
+***********************************************
+702.　，(COMMACATEGORY)　並(Cbb)　發揮(VJ)　應(D)　有(V_2)　的(DE)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+703.　，(COMMACATEGORY)　遂(D)　要求(VF)　振動台(Na)　製造(Na)　廠商(Na)　提出(VC)　土木(Na)　工程(Na)　施工(VA)　幾(Neu)　項(Nf)　重要(VH)　的(DE)　勘驗(VC)[+nom]　時機(Na)　（(PARENTHESISCATEGORY)　Ｃｈｅｃｋ(FW)　Ｐｏｉｎｔ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+704.　，(COMMACATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+705.　：(COLONCATEGORY)　（１）(Neu)　固定(VHC)　基礎(Na)　澆置(VC)[+nom]　後(Ng)　（２）(Neu)　浮動(VA)　基礎(Na)　澆置(VC)[+nom]　前(Ng)　、(PAUSECATEGORY)　中(Ng)　、(PAUSECATEGORY)　後(Ng)　（３）(Neu)　固定(VHC)　致動器(Na)　之(DE)　鋼板(Na)　安置(VC)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+706.　，(COMMACATEGORY)　在(P)　土木(Na)　工程(Na)　進行(VC)　將(D)　會同(VC)　各(Nes)　單位(Na)　勘驗(VC)　認可(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+707.　，(COMMACATEGORY)　始(D)　可(D)　接受(VC)　其(Nep)　施工(VA)[+nom]　品質(Na)　。(PERIODCATEGORY)
+***********************************************
+708.　。(PERIODCATEGORY)　本(Nes)　中心(Nc)　相信(VK)　，(COMMACATEGORY)
+***********************************************
+709.　，(COMMACATEGORY)　此(Nep)　一(Neu)　建造(VC)[+nom]　工程(Na)　在(P)　各(Nes)　方(Nf)　殷切(VH)　關心(VK)　與(Caa)　期盼(VK)　，(COMMACATEGORY)
+***********************************************
+710.　，(COMMACATEGORY)　並(Cbb)　經由(P)　參與(VC)[+nom]　單位(Na)　高度(A)　配合(VC)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+711.　，(COMMACATEGORY)　必(D)　能(D)　順利(VH)　建造(VC)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+712.　，(COMMACATEGORY)　早日(D)　投入(VC)　地震(VA)[+nom]　工程(Na)　研究(VE)　的(DE)　行列(Na)　。(PERIODCATEGORY)
+***********************************************
+713.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=視聽媒體
+%%  姓名=(吳阿明)
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=蕃薯藤網路
+%%  出版地=台灣台北市
+%%  出版日期=1996
+%%  版次=
+%%  標題=第十二期 (1994/12).簡訊中心動態
+714.　。(PERIODCATEGORY)　新建(VC)[+nom]　工程(Na)　執行(VC)[+nom]　概況(Na)　：(COLONCATEGORY)
+***********************************************
+715.　：(COLONCATEGORY)　本(Nes)　中心(Nc)　研究(Na)　大樓(Na)　暨(Caa)　大型(Na)　結構(Na)　實驗室(Nc)　興建(VC)[+nom]　工程(Na)　，(COMMACATEGORY)
+***********************************************
+716.　，(COMMACATEGORY)　截至(P)　目前(Nd)　為止(Ng)　，(COMMACATEGORY)
+***********************************************
+717.　，(COMMACATEGORY)　施工(VA)[+nom]　進度(Na)　仍然(D)　超前(VC)　預定(VE)　之(DE)　進度(Na)　。(PERIODCATEGORY)
+***********************************************
+718.　。(PERIODCATEGORY)　在(P)　大型(Na)　結構(Na)　實驗室(Nc)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+719.　，(COMMACATEGORY)　已(D)　完成(VC)　振動台(Na)　固定(VHC)[+nom]　基礎(Na)　和(Caa)　基礎牆(Nc)　，(COMMACATEGORY)
+***********************************************
+720.　，(COMMACATEGORY)　並且(Cbb)　拔除(VC)　Ｈ型(Na)　鋼(Na)　水平(Na)　支撐(VC)　及(Caa)　鋼版(Na)　椿擋土壁(Na)　。(PERIODCATEGORY)
+***********************************************
+721.　。(PERIODCATEGORY)　至於(P)　研究(Na)　大樓(Na)　部分(Neqa)　，(COMMACATEGORY)
+***********************************************
+722.　，(COMMACATEGORY)　則(D)　已(D)　完成(VC)　一樓版(Na)　及(Caa)　車道(Na)　之(DE)　混凝土(Na)　澆置(VC)[+nom]　工作(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+723.　；(SEMICOLONCATEGORY)　在(P)　各(Nes)　個(Nf)　施工(VA)[+nom]　階段(Na)　，(COMMACATEGORY)
+***********************************************
+724.　，(COMMACATEGORY)　如(P)　組模(Na)　尺寸(Na)　、(PAUSECATEGORY)　配筋量(Na)　及(Caa)　間距(Na)　、(PAUSECATEGORY)　澆置(VC)[+nom]　混凝土(Na)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+725.　，(COMMACATEGORY)　監造(VC)[+nom]　單位(Na)　皆(D)　依(P)　規定(Na)　進行(VC)　查驗(VE)　，(COMMACATEGORY)
+***********************************************
+726.　，(COMMACATEGORY)　合格(VH)　後(Ng)　才(Da)　同意(VK)　施作(VC)　。(PERIODCATEGORY)
+***********************************************
+727.　。(PERIODCATEGORY)　除(P)　土建(VA)[+nom]　工程(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+728.　，(COMMACATEGORY)　水電(Na)　工程(Na)　自(P)　八月(Nd)　十九日(Nd)　決標(VA)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+729.　，(COMMACATEGORY)　承包商(Na)　亦(D)　能(D)　配合(VC)　土建(VA)[+nom]　工程(Na)　之(DE)　施工(VA)[+nom]　，(COMMACATEGORY)
+***********************************************
+730.　，(COMMACATEGORY)　進行(VC)　管路(Na)　之(DE)　安裝(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+731.　，(COMMACATEGORY)　迄(P)　目前(Nd)　為止(Ng)　尚(D)　稱(VE)　順利(VH)　。(PERIODCATEGORY)
+***********************************************
+732.　。(PERIODCATEGORY)　在(P)　本(Nes)　期(Nf)　（(PARENTHESISCATEGORY)　簡訊(Na)　以(P)　三(Neu)　個(Nf)　月(Na)　為(VG)　一(Neu)　期(Nf)　）(PARENTHESISCATEGORY)　內(Ng)　，(COMMACATEGORY)
+***********************************************
+733.　，(COMMACATEGORY)　已(D)　召開(VC)　二(Neu)　次(Nf)　工務(Na)　小組(Na)　會議(Na)　（(PARENTHESISCATEGORY)　第３３(Neu)[+p1]　、(PAUSECATEGORY)　３４(Neu)　次(Nf)　）(PARENTHESISCATEGORY)　及(Caa)　八(Neu)　次(Nf)　工地(Na)　監造(VC)[+nom]　會議(Na)　（(PARENTHESISCATEGORY)　第２(Neu)　次(Nf)　至(P)　第９(Neu)　次(Nf)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+734.　。(PERIODCATEGORY)　討論(VE)　事項(Na)　較(Dfa)　重要(VH)　者(Na)　，(COMMACATEGORY)
+***********************************************
+735.　，(COMMACATEGORY)　如(P)　給水(VA)　不(D)　鋼管(Na)　接頭(VA)　處理(VC)　之(DE)　方式(Na)　、(PAUSECATEGORY)　振動台(Na)　固定(VHC)　基礎(VH)　之(DE)　防水(VH)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+736.　，(COMMACATEGORY)　以及(Caa)　配電室(Nc)　空間(Na)　檢討(VE)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+737.　。(PERIODCATEGORY)　在(P)　本(Nes)　期(Nf)　內(Ng)　所(D)　完成(VC)　之(DE)　振動台(Na)　固定(VHC)[+nom]　基礎(Na)　，(COMMACATEGORY)
+***********************************************
+738.　，(COMMACATEGORY)　厚達(VJ)　二(Neu)　公尺(Nf)　，(COMMACATEGORY)
+***********************************************
+739.　，(COMMACATEGORY)　混凝土(Na)　強度(Na)　為(VG)　５０００(Neu)　ｐｓｉ(FW)　。(PERIODCATEGORY)
+***********************************************
+740.　。(PERIODCATEGORY)　且(Cbb)　因(Cbb)　厚達(VJ)　二(Neu)　公尺(Nf)　，(COMMACATEGORY)
+***********************************************
+741.　，(COMMACATEGORY)　屬(VG)　巨積(A)　混凝土(Na)　，(COMMACATEGORY)
+***********************************************
+742.　，(COMMACATEGORY)　為(P)　降低(VHC)　混凝土(Na)　之(DE)　水(Na)　化(VG)　熱(VHC)　，(COMMACATEGORY)
+***********************************************
+743.　，(COMMACATEGORY)　於(P)　混凝土(Na)　中(Ncd)　加入(VC)　液化(VHC)　氮(Na)　，(COMMACATEGORY)
+***********************************************
+744.　，(COMMACATEGORY)　將(P)　溫度(Na)　控制(VC)　在(P)　２１(Neu)　Ｃ(FW)　。(PERIODCATEGORY)
+***********************************************
+745.　。(PERIODCATEGORY)　固定(VHC)　基礎(Na)　於(P)　十月(Nd)　二十五日(Nd)　早上(Nd)　七點(Nd)　開始(VL)　澆置(VC)　，(COMMACATEGORY)
+***********************************************
+746.　，(COMMACATEGORY)　至(P)　十月(Nd)　二十六日(Nd)　早上(Nd)　五點(Nd)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+747.　，(COMMACATEGORY)　前後(D)　共(Da)　達(VJ)　二十二(Neu)　小時(Na)　。(PERIODCATEGORY)
+***********************************************
+748.　。(PERIODCATEGORY)　此(Nep)　間(Ng)　，(COMMACATEGORY)
+***********************************************
+749.　，(COMMACATEGORY)　本(Nes)　中心(Nc)　葉(Nb)　主任(Na)　率同(VF)　二(Neu)　位(Nf)　駐地(Nc)　助理(Na)　工程師(Na)　，(COMMACATEGORY)
+***********************************************
+750.　，(COMMACATEGORY)　於(P)　工地(Na)　全程(D)　監督(VC)　施工(VA)　，(COMMACATEGORY)
+***********************************************
+751.　，(COMMACATEGORY)　再(D)　加上(VC)　監造(VC)[+nom]　單位(Na)　派駐(VCL)　工地(Na)　監工(VA)　及(Caa)　承包商(Na)　大陸(Nc)　工程(Na)　公司(Nc)　之(DE)　配合(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+752.　，(COMMACATEGORY)　雖(Cbb)　天空(Nc)　不作美(VH)　，(COMMACATEGORY)
+***********************************************
+753.　，(COMMACATEGORY)　整(Neqa)　日(Nf)　飄(VA)　著(Di)　寒(VH)　雨(Na)　，(COMMACATEGORY)
+***********************************************
+754.　，(COMMACATEGORY)　仍(D)　能(D)　順利(VH)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+755.　，(COMMACATEGORY)　慶幸(VK)　之至(Dfb)　。(PERIODCATEGORY)
+***********************************************

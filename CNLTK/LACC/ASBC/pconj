@@ -1,0 +1,1234 @@
+%%  文類=評論
+%%  文體=論說
+%%  語式=written
+%%  主題=語文
+%%  媒體=學術論著
+%%  姓名=魏文真 陳克健
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院資訊所
+%%  出版地=臺北市研究院路二段128號
+%%  出版日期=1991
+%%  版次=
+%%  標題=
+1.　。(PERIODCATEGORY)　摘要(Na)　。(PERIODCATEGORY)
+***********************************************
+2.　。(PERIODCATEGORY)　本(Nes)　論文(Na)　提出(VC)　一(Neu)　個(Nf)　有關(VJ)　連接詞(Na)　的(DE)　語法(Na)　表達(VC)[+nom]　模式(Na)　，(COMMACATEGORY)
+***********************************************
+3.　，(COMMACATEGORY)　這(Nep)　個(Nf)　語法(Na)　表達(VC)[+nom]　模式(Na)　是(SHI)　根據(P)　訊息(Na)　為本(VI)　的(DE)　格位(Na)　語法(Na)　（(PARENTHESISCATEGORY)　ＩＣＧ(FW)　）(PARENTHESISCATEGORY)　所(D)　架構(VC)　，(COMMACATEGORY)
+***********************************************
+4.　，(COMMACATEGORY)　依(P)　連接詞(Na)　的(DE)　特性(Na)　分(VC)　兩(Neu)　種(Nf)　方式(Na)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　一(Neu)　為(VG)　以(P)　連接詞(Na)　為(VG)　中心語(Na)　，(COMMACATEGORY)
+***********************************************
+6.　，(COMMACATEGORY)　組成(VG)　的(DE)　成分(Na)　由(P)　所(D)　連接(VJ)　的(DE)　語法(Na)　結構(Na)　取代(VC)　；(SEMICOLONCATEGORY)
+***********************************************
+7.　；(SEMICOLONCATEGORY)　二(Neu)　為(VG)　以(P)　連接詞(Na)　為(VG)　修飾語(Na)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　由(P)　連繫(VC)[+nom]　特徵(Na)　照應(VC)　配對(VA)[+nom]　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+9.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　個(Nf)　語法(Na)　表達(VC)[+nom]　模式(Na)　使(VL)　中文(Na)　自然(Na)　語言(Na)　處理(VC)　由(P)　簡單(VH)　句(Nf)　向(P)　複雜(VH)　句(Nf)　跨前(VC)　一(Neu)　步(Nf)　。(PERIODCATEGORY)
+***********************************************
+10.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　前言(Na)　。(PERIODCATEGORY)
+***********************************************
+11.　。(PERIODCATEGORY)　語言(Na)　是(SHI)　人類(Na)　用以(D)　表達(VC)　思想(Na)　的(DE)　工具(Na)　，(COMMACATEGORY)
+***********************************************
+12.　，(COMMACATEGORY)　簡單(VH)　的(DE)　意思(Na)　用(P)　簡單(VH)　句(Nf)　表達(VC)　即(D)　可(VH)　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　但是(Cbb)　若要(Cbb)　完盡(VH)　的(DE)　表達(VC)　人類(Na)　思想(Na)　中(Ng)　繁複(VH)　的(DE)　語意(Na)　，(COMMACATEGORY)
+***********************************************
+14.　，(COMMACATEGORY)　必須(D)　藉(P)　諸(Nes)　較(Dfa)　複雜(VH)　的(DE)　語言(Na)　機制(Na)　。(PERIODCATEGORY)
+***********************************************
+15.　。(PERIODCATEGORY)　自然(Na)　語言(Na)　發展(VC)　的(DE)　過程(Na)　與(Caa)　人類(Na)　語言(Na)　習得(VC)[+nom]　歷程(Na)　相近(VH)　：(COLONCATEGORY)
+***********************************************
+16.　：(COLONCATEGORY)　由(P)　簡單(VH)　而(Cbb)　複雜(VH)　，(COMMACATEGORY)
+***********************************************
+17.　，(COMMACATEGORY)　由(P)　理解(VK)　而(Cbb)　創造(VC)　。(PERIODCATEGORY)
+***********************************************
+18.　。(PERIODCATEGORY)　所以(Cbb)　在(P)　作(VC)　自然(Na)　語言(Na)　處理(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+19.　，(COMMACATEGORY)　得(D)　先(D)　考慮(VE)　語言(Na)　的(DE)　基本(A)　構件(Na)　—(DASHCATEGORY)　個別(A)　詞彙(Na)　，(COMMACATEGORY)
+***********************************************
+20.　，(COMMACATEGORY)　再(D)　由(P)　個別(A)　詞彙(Na)　的(DE)　訊息(Na)　聯結(VC)　與(Caa)　語法(Na)　組合(VC)　，(COMMACATEGORY)
+***********************************************
+21.　，(COMMACATEGORY)　完成(VC)　一(Neu)　個(Nf)　簡單(VH)　句(Nf)　的(DE)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+22.　。(PERIODCATEGORY)　若是(Cbb)　想(VE)　對(P)　人類(Na)　語言(Na)　做(VC)　較(Dfa)　完整(VH)　全面(A)　的(DE)　處理(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　必定(D)　會(D)　面臨(VK)　複句(Na)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+24.　。(PERIODCATEGORY)　連接詞(Na)　能(D)　連接(VJ)　兩(Neu)　個(Nf)　或(Caa)　兩(Neu)　個(Nf)　以上(Ng)　的(DE)　語言(Na)　單位(Na)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　組成(VG)　較(Dfa)　大(VH)　的(DE)　語言(Na)　單位(Na)　。(PERIODCATEGORY)
+***********************************************
+26.　。(PERIODCATEGORY)　本(Nes)　文(Na)　的(DE)　目的(Na)　在(P)　探討(VE)　由(P)　連接詞(Na)　造成(VG)　的(DE)　複合(A)　形式(Na)　（(PARENTHESISCATEGORY)　包括(VK)　複句(Na)　和(Caa)　詞組(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+27.　，(COMMACATEGORY)　嚐試(VF)　提出(VC)　一(Neu)　個(Nf)　適用(VJ)　於(P)　自然(Na)　語言(Na)　處理(VC)　的(DE)　表達(VC)[+nom]　形式(Na)　。(PERIODCATEGORY)
+***********************************************
+28.　。(PERIODCATEGORY)　我們(Nh)　之所以(Cbb)　把(P)　討論(VE)[+nom]　範圍(Na)　限定(VK)　在(P)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+29.　，(COMMACATEGORY)　是(SHI)　想(VE)　簡化(VHC)　自然(Na)　語言(Na)　的(DE)　處理(VC)[+nom]　問題(Na)　，(COMMACATEGORY)
+***********************************************
+30.　，(COMMACATEGORY)　因為(Cbb)　複句(Na)　的(DE)　形式(Na)　關係(Na)　極為(Dfa)　複雜(VH)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　必須(D)　配合(VC)　人(Na)　的(DE)　理解(VK)[+nom]　能力(Na)　及(Caa)　常識(Na)　才(Da)　能(D)　詮釋(VC)　清楚(VH)　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　而(Cbb)　目前(Nd)　中文(Na)　自然(Na)　語言(Na)　處理(VC)　還(D)　在(VCL)　起步(VA)　階段(Na)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　比較(Dfa)　可行(VH)　的(DE)　方向(Na)　是(SHI)　先(D)　針對(P)　有(V_2)　標記(Na)　的(DE)　情形(Na)　加以(D)　研究(VE)　，(COMMACATEGORY)
+***********************************************
+34.　，(COMMACATEGORY)　再(D)　考慮(VE)　零(Neu)　標記(Na)　的(DE)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+35.　。(PERIODCATEGORY)　而(Cbb)　連接詞(Na)　本身(Nh)　是(SHI)　組成(VG)　複句(Na)　的(DE)　明顯(VH)　標記(Na)　，(COMMACATEGORY)
+***********************************************
+36.　，(COMMACATEGORY)　是(SHI)　由(P)　簡單(VH)　句(Na)　過渡到(VCL)　篇章(Na)　的(DE)　重要(VH)　橋樑(Na)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　辨識出(VC)　連接詞(Na)　及(Caa)　其(Nep)　背後(Nc)　代表(VK)　的(DE)　意義(Na)　，(COMMACATEGORY)
+***********************************************
+38.　，(COMMACATEGORY)　可(D)　簡化(VHC)　複句(Na)　結構(Na)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　對(P)　句(Na)　與(Caa)　句(Na)　的(DE)　關係(Na)　大略(D)　可(D)　釐清(VC)　，(COMMACATEGORY)
+***********************************************
+40.　，(COMMACATEGORY)　所以(Cbb)　實有(VJ)　討論(VE)　的(DE)　必要(Na)　。(PERIODCATEGORY)
+***********************************************
+41.　。(PERIODCATEGORY)　因為(Cbb)　連接詞(Na)　是(SHI)　組成(VG)　複句(Na)　的(DE)　重要(VH)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　本(Nes)　文(Na)　首先(D)　將(D)　就(P)　複句(Na)　的(DE)　形式(Na)　作(VC)　簡單(VH)　的(DE)　討論(VE)[+nom]　，(COMMACATEGORY)
+***********************************************
+43.　，(COMMACATEGORY)　兼及(VJ)　其他(Neqa)　可能(D)　造成(VG)　複句(Na)　的(DE)　關聯(Na)　成分(Na)　作(VC)　說明(VE)　，(COMMACATEGORY)
+***********************************************
+44.　，(COMMACATEGORY)　其次(Cbb)　專門(VL)　討論(VE)　連接詞(Na)　的(DE)　類別(Na)　，(COMMACATEGORY)
+***********************************************
+45.　，(COMMACATEGORY)　接著(D)　將(D)　根據(P)　連接詞(Na)　的(DE)　語法(Na)　語意(Na)　特性(Na)　，(COMMACATEGORY)
+***********************************************
+46.　，(COMMACATEGORY)　以(P)　陳(Nb)　與(Caa)　黃(Nb)　【(PARENTHESISCATEGORY)　６(Neu)　】(PARENTHESISCATEGORY)　的(DE)　訊息(Na)　為本(VI)　的(DE)　格位(Na)　語法(Na)　表達(VC)[+nom]　模式(Na)　（(PARENTHESISCATEGORY)　ＩＣＧ(FW)　）(PARENTHESISCATEGORY)　為(VG)　基礎(Na)　，(COMMACATEGORY)
+***********************************************
+47.　，(COMMACATEGORY)　提出(VC)　一(Neu)　套(Nf)　適用(VJ)　於(P)　中文(Na)　自然(Na)　語言(Na)　處理(VC)　的(DE)　連接詞(Na)　表達(VC)[+nom]　形式(Na)　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　最後(Nd)　將(D)　舉(VC)　實例(Na)　說明(VE)　實際(VH)　運用(VC)　於(P)　剖析(VC)　時(Ng)　的(DE)　策略(Na)　。(PERIODCATEGORY)
+***********************************************
+49.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　複句(Na)　和(Caa)　複句(Na)　的(DE)　分類(Na)　。(PERIODCATEGORY)
+***********************************************
+50.　。(PERIODCATEGORY)　在(P)　語言(Na)　的(DE)　構件(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　由(P)　小(VH)　至(P)　大(VH)　包括(VK)　詞素(Na)　、(PAUSECATEGORY)　詞(Na)　、(PAUSECATEGORY)　詞組(Na)　、(PAUSECATEGORY)　句子(Na)　、(PAUSECATEGORY)　句段(Na)　五(Neu)　種(Nf)　單位(Na)　，(COMMACATEGORY)
+***********************************************
+52.　，(COMMACATEGORY)　各(Nes)　樣(Nf)　繁雜(VH)　的(DE)　語言(Na)　形式(Na)　都(D)　是(SHI)　由(P)　以上(Ncd)　五(Neu)　個(Nf)　單位(Na)　組合(VC)　而(Cbb)　成(VG)　。(PERIODCATEGORY)
+***********************************************
+53.　。(PERIODCATEGORY)　基本(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+54.　，(COMMACATEGORY)　人類(Na)　在(P)　進行(VC)　訊息(Na)　溝通(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+55.　，(COMMACATEGORY)　是(SHI)　以(P)　句子(Na)　為(VG)　使用(VC)[+nom]　單位(Na)　，(COMMACATEGORY)
+***********************************************
+56.　，(COMMACATEGORY)　而(Cbb)　句子(Na)　是(SHI)　由(P)　詞(Na)　或(Caa)　詞組(Na)　的(DE)　訊息(Na)　累積(VC)　組合成(VG)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　可以(D)　簡單(VH)　到(P)　只(Da)　包含(VJ)　一(Neu)　個(Nf)　詞(Na)　或(Caa)　詞組(Na)　（(PARENTHESISCATEGORY)　註(Na)　１(Neu)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+58.　，(COMMACATEGORY)　也(D)　可能(D)　長(VH)　至(P)　整(Neqa)　個(Nf)　段落(Na)　只(Da)　是(SHI)　一(Neu)　個(Nf)　句子(Na)　。(PERIODCATEGORY)
+***********************************************
+59.　。(PERIODCATEGORY)　一般而言(Dk)　，(COMMACATEGORY)
+***********************************************
+60.　，(COMMACATEGORY)　句子(Na)　分為(VG)　簡單(VH)　句(Na)　和(Caa)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+61.　，(COMMACATEGORY)　簡單(VH)　句(Na)　的(DE)　構成(VG)[+nom]　形式(Na)　較(Dfa)　簡單(VH)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　只(Da)　有(V_2)　一(Neu)　個(Nf)　謂語(Na)　中心(Nc)　，(COMMACATEGORY)
+***********************************************
+63.　，(COMMACATEGORY)　而(Cbb)　一般(D)　對(P)　複句(Na)　所(D)　下(VC)　的(DE)　定義(Na)　，(COMMACATEGORY)
+***********************************************
+64.　，(COMMACATEGORY)　是(SHI)　指(VG)　由(P)　兩(Neu)　個(Nf)　或(Caa)　兩(Neu)　個(Nf)　以上(Ng)　的(DE)　單句(Na)　所(D)　組成(VG)　，(COMMACATEGORY)
+***********************************************
+65.　，(COMMACATEGORY)　能夠(D)　表達(VC)　一(Neu)　個(Nf)　比較(Dfa)　複雜(VH)　意思(Na)　的(DE)　語言(Na)　單位(Na)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　其中(Nep)　被(P)　組合(VC)　在(P)　複句(Na)　裡(Ng)　的(DE)　單句(Na)　叫做(VG)　分句(Na)　【(PARENTHESISCATEGORY)　３(Neu)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+67.　。(PERIODCATEGORY)　由(P)　上面(Ncd)　的(DE)　定義(Na)　可(D)　知(VK)　，(COMMACATEGORY)
+***********************************************
+68.　，(COMMACATEGORY)　複句(Na)　是(SHI)　由(P)　單句(Na)　擴展(VC)　而(Cbb)　來(VA)　，(COMMACATEGORY)
+***********************************************
+69.　，(COMMACATEGORY)　而且(Cbb)　組合(VC)　在(P)　複句(Na)　裡(Ng)　的(DE)　單句(Na)　已(D)　改稱(VG)　分句(Na)　。(PERIODCATEGORY)
+***********************************************
+70.　。(PERIODCATEGORY)　複句(Na)　也(D)　可以(D)　再(D)　擴展(VC)　，(COMMACATEGORY)
+***********************************************
+71.　，(COMMACATEGORY)　分句(Na)　本身(Nh)　就(D)　包含(VJ)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+72.　，(COMMACATEGORY)　形成(VG)　多重(A)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+73.　。(PERIODCATEGORY)　根據(P)　分句(Na)　之間(Ng)　地位(Na)　關係(Na)　的(DE)　不同(Na)　，(COMMACATEGORY)
+***********************************************
+74.　，(COMMACATEGORY)　複句(Na)　可(D)　分為(VG)　聯合(VC)[+nom]　複句(Na)　和(Caa)　偏正(A)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+75.　。(PERIODCATEGORY)　聯合(VC)[+nom]　分句(Na)　中(Ng)　各(Nes)　分句(Na)　地位(Na)　平等(VH)　，(COMMACATEGORY)
+***********************************************
+76.　，(COMMACATEGORY)　沒有(VJ)　主次(A)　之(DE)　分(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+77.　，(COMMACATEGORY)　在(P)　「(PARENTHESISCATEGORY)　現代(Nd)　漢語(Na)　複句(Na)　」(PARENTHESISCATEGORY)　【(PARENTHESISCATEGORY)　５(Neu)　】(PARENTHESISCATEGORY)　裡(Ng)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　依照(P)　語義(Na)　把(P)　聯合(VC)[+nom]　複句(Na)　分為(VG)　並列(VG)　、(PAUSECATEGORY)　承接(VJ)　、(PAUSECATEGORY)　選擇(VC)　、(PAUSECATEGORY)　遞進(VA)　、(PAUSECATEGORY)　總分(Na)　、(PAUSECATEGORY)　對比(VB)　等(Cab)　六(Neu)　類(Nf)　。(PERIODCATEGORY)
+***********************************************
+79.　。(PERIODCATEGORY)　（１）(Neu)　天(Nf)　這麼(D)　黑(VH)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　風(Na)　這麼(D)　大(VH)　。(PERIODCATEGORY)
+***********************************************
+81.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　並列(VG)　）(PARENTHESISCATEGORY)　（２）(Neu)　他(Nh)　喝(VC)　了(Di)　盅(Nf)　熱(VHC)　茶(Na)　，(COMMACATEGORY)
+***********************************************
+82.　，(COMMACATEGORY)　戴上(VC)　軟(VH)　帽(Na)　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　站(VA)　了(Di)　起身(VA)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　緩緩(VH)　走出(VCL)　門(Na)　去(T)　。(PERIODCATEGORY)
+***********************************************
+85.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　承接(VJ)　）(PARENTHESISCATEGORY)　（３）(Neu)　要麼(Cbb)　你(Nh)　就(D)　認命(VH)　，(COMMACATEGORY)
+***********************************************
+86.　，(COMMACATEGORY)　要麼(Cbb)　你(Nh)　就(D)　奮力(D)　一(D)　搏(VC)　。(PERIODCATEGORY)
+***********************************************
+87.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　選擇(VC)　）(PARENTHESISCATEGORY)　（４）(Neu)　小妮子(Na)　不但(Cbb)　不(D)　緊張(VH)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　反而(Cbb)　忙著(VL)　安慰(VC)　人(Na)　。(PERIODCATEGORY)
+***********************************************
+89.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　遞進(VA)　）(PARENTHESISCATEGORY)　（５）(Neu)　成熟(VH)　的(DE)　麥子(Na)　各(D)　有(V_2)　歷程(Na)　：(COLONCATEGORY)
+***********************************************
+90.　：(COLONCATEGORY)　有的(Neqa)　變成(VG)　盤中飧(Na)　，(COMMACATEGORY)
+***********************************************
+91.　，(COMMACATEGORY)　有的(Neqa)　掉進(VCL)　泥土(Na)　重新(D)　復活(VH)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　有的(Neqa)　沉入(VCL)　了(Di)　溝(Na)　底(Ncd)　。(PERIODCATEGORY)
+***********************************************
+93.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　總分(Na)　）(PARENTHESISCATEGORY)　（６）(Neu)　他(Nh)　不(D)　是(SHI)　笨(VH)　，(COMMACATEGORY)
+***********************************************
+94.　，(COMMACATEGORY)　而(Cbb)　是(SHI)　懶惰(VH)　。(PERIODCATEGORY)
+***********************************************
+95.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　對比(VB)　）(PARENTHESISCATEGORY)　偏正(A)　複句(Na)　則(D)　是(SHI)　指(VG)　構成(VG)　的(DE)　兩(Neu)　分句(Na)　有(V_2)　偏正(A)　、(PAUSECATEGORY)　主次(A)　之(DE)　分(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+96.　，(COMMACATEGORY)　偏句(Na)　為(P)　主句(Na)　服務(VC)　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　對(P)　主句(Na)　有(V_2)　說明(VE)　、(PAUSECATEGORY)　限制(VE)　的(DE)　作用(Na)　。(PERIODCATEGORY)
+***********************************************
+98.　。(PERIODCATEGORY)　根據(P)　分句(Na)　所(D)　表現(VC)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+99.　，(COMMACATEGORY)　吳(Nb)　【(PARENTHESISCATEGORY)　３(Neu)　】(PARENTHESISCATEGORY)　把(P)　偏正(A)　分句(Na)　分為(VG)　轉折(Na)　、(PAUSECATEGORY)　因果(Na)　、(PAUSECATEGORY)　假設(VE)[+nom]　、(PAUSECATEGORY)　條件(Na)　（(PARENTHESISCATEGORY)　註(Na)　２(Neu)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　取捨(Na)　、(PAUSECATEGORY)　目的(Na)　六(Neu)　種(Nf)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+100.　，(COMMACATEGORY)　而(Cbb)　在(P)　劉(Nb)　【(PARENTHESISCATEGORY)　５(Neu)　】(PARENTHESISCATEGORY)　中(Ng)　未(D)　列(VC)　取捨(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+101.　，(COMMACATEGORY)　卻(D)　另(Nes)　列(VC)　連鎖(A)　關係(Na)　（(PARENTHESISCATEGORY)　註(Na)　３(Neu)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+102.　。(PERIODCATEGORY)　（７）(Neu)　雖然(Cbb)　我(Nh)　心(Na)　裡(Ng)　明白(VK)　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　嘴(Na)　裡(Ncd)　卻(D)　不(D)　願(VK)　說破(VC)　。(PERIODCATEGORY)
+***********************************************
+104.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　轉折(VAC)　）(PARENTHESISCATEGORY)　（８）(Neu)　他(Nh)　因為(Cbb)　身材(Na)　高大(VH)　，(COMMACATEGORY)
+***********************************************
+105.　，(COMMACATEGORY)　被(P)　選作(VG)　鼓手(Na)　。(PERIODCATEGORY)
+***********************************************
+106.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　因果(Na)　）(PARENTHESISCATEGORY)　（９）(Neu)　天(Nf)　若(Cbb)　有情(VH)　天(Nf)　亦(D)　老(VH)　。(PERIODCATEGORY)
+***********************************************
+107.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　假設(VE)　）(PARENTHESISCATEGORY)　（１０）(Neu)　只要(Cbb)　他(Nh)　沒(VJ)　意見(Na)　，(COMMACATEGORY)
+***********************************************
+108.　，(COMMACATEGORY)　我們(Nh)　就(D)　照(VC)　計(Na)　行事(VA)　。(PERIODCATEGORY)
+***********************************************
+109.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　條件(Na)　）(PARENTHESISCATEGORY)　（１１）(Neu)　他(Nh)　寧可(VK)　叫(VF)　人(Na)　指指點點(VA)　，(COMMACATEGORY)
+***********************************************
+110.　，(COMMACATEGORY)　也(D)　不(D)　願(VK)　剪去(VC)　辮子(Na)　。(PERIODCATEGORY)
+***********************************************
+111.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　取捨(VC)　）(PARENTHESISCATEGORY)　（１２）(Neu)　早點(D)　動手(VA)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　省得(Cbb)　措手不及(VH)　。(PERIODCATEGORY)
+***********************************************
+113.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　目的(Na)　）(PARENTHESISCATEGORY)　（１３）(Neu)　根(Na)　埋(VC)　得(DE)　越(D)　深(VH)　，(COMMACATEGORY)
+***********************************************
+114.　，(COMMACATEGORY)　樹(Na)　長(VC)　得(DE)　越(D)　好(VH)　。(PERIODCATEGORY)
+***********************************************
+115.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　連鎖(A)　）(PARENTHESISCATEGORY)　單句(Na)　形成(VG)　複句(Na)　的(DE)　方式(Na)　有(V_2)　兩(Neu)　種(Nf)　：(COLONCATEGORY)
+***********************************************
+116.　：(COLONCATEGORY)　一(Neu)　種(Nf)　是(SHI)　直接(VH)　組合法(Na)　，(COMMACATEGORY)
+***********************************************
+117.　，(COMMACATEGORY)　另(Nes)　一(Neu)　種(Nf)　是(SHI)　關聯(Na)　組合法(Na)　。(PERIODCATEGORY)
+***********************************************
+118.　。(PERIODCATEGORY)　直接(VH)　組合法(Na)　是(SHI)　指(VG)　兩(Neu)　個(Nf)　以上(Ng)　的(DE)　單句(Na)　在(P)　意義(Na)　上(Ng)　有(V_2)　一定(A)　的(DE)　聯繫(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+119.　，(COMMACATEGORY)　就(D)　可以(D)　把(P)　它們(Nh)　直接(VH)　組合(VC)　在一起(VH)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　構成(VG)　複句(Na)　【(PARENTHESISCATEGORY)　３(Neu)　】(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+121.　，(COMMACATEGORY)　例如(P)　（１）(Neu)　的(DE)　並列(VG)[+nom]　複句(Na)　，(COMMACATEGORY)
+***********************************************
+122.　，(COMMACATEGORY)　表示(VE)　幾(Neu)　個(Nf)　相關(VH)　的(DE)　事物(Na)　或(Caa)　情況(Na)　，(COMMACATEGORY)
+***********************************************
+123.　，(COMMACATEGORY)　（２）(Neu)　的(DE)　連續(A)　複句(Na)　則(D)　是(SHI)　依照(P)　分句(Na)　次序(Na)　順(P)　著(Di)　往(P)　下(Ncd)　說(VE)　；(SEMICOLONCATEGORY)
+***********************************************
+124.　；(SEMICOLONCATEGORY)　至於(P)　關聯(Na)　組合法(Na)　，(COMMACATEGORY)
+***********************************************
+125.　，(COMMACATEGORY)　是(SHI)　使用(VC)　關聯(Na)　語詞(Na)　把(P)　兩(Neu)　個(Nf)　或(Caa)　兩(Neu)　個(Nf)　以上(Ng)　的(DE)　句子(Na)　組合(VC)　起來(Di)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　構成(VG)　複句(Na)　的(DE)　方法(Na)　，(COMMACATEGORY)
+***********************************************
+127.　，(COMMACATEGORY)　如(P)　例(Na)　（７）(Neu)　、(PAUSECATEGORY)　（８）(Neu)　、(PAUSECATEGORY)　（９）(Neu)　、(PAUSECATEGORY)　（１０）(Neu)　表現(Na)　轉折(VAC)　、(PAUSECATEGORY)　因果(Na)　、(PAUSECATEGORY)　假設(VE)　、(PAUSECATEGORY)　條件(Na)　等(Cab)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　是(SHI)　根據(P)　分句(Na)　關係(Na)　借助(VC)　關聯(Na)　語詞(Na)　加(VC)　在(P)　複句(Na)　中(Ng)　。(PERIODCATEGORY)
+***********************************************
+129.　。(PERIODCATEGORY)　關聯(Na)　組合法(Na)　的(DE)　句子(Na)　有時(D)　沒有(VJ)　關聯(Na)　語詞(Na)　，(COMMACATEGORY)
+***********************************************
+130.　，(COMMACATEGORY)　仍(D)　能(D)　表現出(VC)　其中(Nep)　的(DE)　聯繫(VC)[+nom]　關係(Na)　，(COMMACATEGORY)
+***********************************************
+131.　，(COMMACATEGORY)　如(P)　（７）(Neu)　句(Nf)　的(DE)　「(PARENTHESISCATEGORY)　雖然(Cbb)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　（８）(Neu)　的(DE)　「(PARENTHESISCATEGORY)　因為(Cbb)　」(PARENTHESISCATEGORY)　是(SHI)　可以(D)　省略(VJ)　的(T)　。(PERIODCATEGORY)
+***********************************************
+132.　。(PERIODCATEGORY)　雖然(Cbb)　用(VC)　不(D)　用(VC)　關聯詞(Na)　沒有(VJ)　一定(A)　的(DE)　標準(Na)　，(COMMACATEGORY)
+***********************************************
+133.　，(COMMACATEGORY)　但(Cbb)　站(VA)　在(P)　自然(Na)　語言(Na)　處理(VC)　的(DE)　觀點(Na)　，(COMMACATEGORY)
+***********************************************
+134.　，(COMMACATEGORY)　有(V_2)　關聯詞(Na)　的(DE)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+135.　，(COMMACATEGORY)　電腦(Na)　較(Dfa)　易(VH)　掌握(VC)　分句(Na)　間(Ng)　的(DE)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+136.　。(PERIODCATEGORY)　而且(Cbb)　有(V_2)　些(Nf)　情況(Na)　最好(D)　能(D)　選用(VC)　關聯(Na)　詞語(Na)　：(COLONCATEGORY)
+***********************************************
+137.　：(COLONCATEGORY)　（一）(Neu)　不用(D)　關聯(VI)[+nom]　語詞(Na)　的話(Cba)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　可能(D)　有(V_2)　幾(Neu)　種(Nf)　不同(VH)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+139.　。(PERIODCATEGORY)　例如(P)　資訊(Na)　不(D)　透明(VH)　，(COMMACATEGORY)
+***********************************************
+140.　，(COMMACATEGORY)　勞工(Na)　糾紛(Na)　不斷(VH)　這(Nep)　個(Nf)　句子(Na)　，(COMMACATEGORY)
+***********************************************
+141.　，(COMMACATEGORY)　就(D)　可(D)　有(V_2)　下列(A)　幾(Neu)　種(Nf)　情況(Na)　：(COLONCATEGORY)
+***********************************************
+142.　：(COLONCATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ａ(FW)　）(PARENTHESISCATEGORY)　資訊(Na)　不(D)　透明(VH)　，(COMMACATEGORY)
+***********************************************
+143.　，(COMMACATEGORY)　而且(Cbb)　勞工(Na)　糾紛(Na)　不斷(VH)　。(PERIODCATEGORY)
+***********************************************
+144.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ｂ(FW)　）(PARENTHESISCATEGORY)　因為(Cbb)　資訊(Na)　不(D)　透明(VH)　，(COMMACATEGORY)
+***********************************************
+145.　，(COMMACATEGORY)　所以(Cbb)　勞工(Na)　糾紛(Na)　不斷(VH)　。(PERIODCATEGORY)
+***********************************************
+146.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ｃ(FW)　）(PARENTHESISCATEGORY)　如果(Cbb)　資訊(Na)　不(D)　透明(VH)　，(COMMACATEGORY)
+***********************************************
+147.　，(COMMACATEGORY)　就(D)　會(D)　勞工(Na)　糾紛(Na)　不斷(VH)　。(PERIODCATEGORY)
+***********************************************
+148.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ｄ(FW)　）(PARENTHESISCATEGORY)　只要(Cbb)　資訊(Na)　不(D)　透明(VH)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　就(D)　會(D)　勞工(Na)　糾紛(Na)　不斷(VH)　。(PERIODCATEGORY)
+***********************************************
+150.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ａ(FW)　）(PARENTHESISCATEGORY)　表現(VC)　的(DE)　是(SHI)　並列(VG)[+nom]　關係(Na)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ｂ(FW)　）(PARENTHESISCATEGORY)　是(SHI)　因果(Na)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+152.　，(COMMACATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ｃ(FW)　）(PARENTHESISCATEGORY)　是(SHI)　假設(VE)[+nom]　關係(Na)　，(COMMACATEGORY)
+***********************************************
+153.　，(COMMACATEGORY)　（(PARENTHESISCATEGORY)　１４(Neu)　ｄ(FW)　）(PARENTHESISCATEGORY)　是(SHI)　條件(Na)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+154.　。(PERIODCATEGORY)　原(A)　句(Na)　內容(Na)　隱含(VJ)　不明(VH)　，(COMMACATEGORY)
+***********************************************
+155.　，(COMMACATEGORY)　有(V_2)　了(Di)　關聯詞(Na)　，(COMMACATEGORY)
+***********************************************
+156.　，(COMMACATEGORY)　就(D)　能(D)　明確(VH)　的(DE)　表現出(VC)　兩(Neu)　分句(Na)　的(DE)　意含(Na)　。(PERIODCATEGORY)
+***********************************************
+157.　。(PERIODCATEGORY)　（二）(Neu)　多重(A)　複句(Na)　關係(Na)　較為(Dfa)　複雜(VH)　，(COMMACATEGORY)
+***********************************************
+158.　，(COMMACATEGORY)　選用(VC)　適當(VH)　的(DE)　關聯(Na)　詞語(Na)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　能(D)　明確(VH)　清楚(VH)　表達(VC)　各(Nes)　層(Nf)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+160.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+161.　：(COLONCATEGORY)　（１５）(Neu)　從(P)　１９６０年(Nd)　起(Ng)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　蘇俄(Nc)　與(Caa)　中共(Nb)　一直(D)　處於(VJ)　激烈(VH)　的(DE)　競爭(Na)　狀態(Na)　，(COMMACATEGORY)
+***********************************************
+163.　，(COMMACATEGORY)　雙方(Nh)　都(D)　想(VE)　稱霸(VH)　共產(A)　世界(Nc)　，(COMMACATEGORY)
+***********************************************
+164.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+165.　，(COMMACATEGORY)　毛澤東(Nb)　時代(Na)　的(DE)　結束(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+166.　，(COMMACATEGORY)　對(P)　克里姆林宮(Nc)　的(DE)　執政(VA)　者(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　自然(D)　如釋重負(VH)　。(PERIODCATEGORY)
+***********************************************
+168.　。(PERIODCATEGORY)　但是(Cbb)　，(COMMACATEGORY)
+***********************************************
+169.　，(COMMACATEGORY)　當(P)　一九七八年(Nd)　中共(Nb)　開始(VL)　將(P)　市場(Nc)　機能(Na)　引進(VC)　中共(Nb)　集權(VH)　經濟(Na)　制度(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+170.　，(COMMACATEGORY)　蘇俄(Nc)　則(D)　猛烈(VH)　的(DE)　批評(VC)　中共(Nb)　欲(VK)　將(P)　共產主義(Na)　帶回(VC)　「(PARENTHESISCATEGORY)　資本主義(Na)　的(DE)　道路(Na)　上(Ncd)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+171.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　天下(Nc)　７９(Neu)　期(Nf)　頁(Na)　１８９(Neu)　）(PARENTHESISCATEGORY)　在(P)　（１５）(Neu)　中(Ng)　用(VC)　了(T)　「(PARENTHESISCATEGORY)　因此(Cbb)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　但是(Cbb)　」(PARENTHESISCATEGORY)　關聯詞(Na)　表達(VC)　分句(Na)　間(Ng)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+172.　，(COMMACATEGORY)　（１５）(Neu)　本身(Nh)　是(SHI)　個(Nf)　多重(A)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　在(P)　複句(Na)　最(Dfa)　外層(Nc)　表現(Na)　的(DE)　是(SHI)　轉折(Na)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+174.　，(COMMACATEGORY)　由(P)　關聯詞(Na)　「(PARENTHESISCATEGORY)　但是(Cbb)　」(PARENTHESISCATEGORY)　標識出(VC)　，(COMMACATEGORY)
+***********************************************
+175.　，(COMMACATEGORY)　前(Nes)　一(Neu)　個(Nf)　分句(Na)　本身(Nh)　也(D)　是(SHI)　個(Nf)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+176.　，(COMMACATEGORY)　運用(VC)　關聯詞(Na)　「(PARENTHESISCATEGORY)　因此(Cbb)　」(PARENTHESISCATEGORY)　表達(VC)　了(Di)　因果(Na)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+177.　。(PERIODCATEGORY)　因為(Cbb)　有(V_2)　關聯詞(Na)　的(DE)　使用(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+178.　，(COMMACATEGORY)　使得(VL)　分句(Na)　間(Ng)　的(DE)　連繫(VC)[+nom]　密切(VH)　，(COMMACATEGORY)
+***********************************************
+179.　，(COMMACATEGORY)　結構(Na)　的(DE)　層次(Na)　也(D)　較為(Dfa)　清楚(VH)　。(PERIODCATEGORY)
+***********************************************
+180.　。(PERIODCATEGORY)　如若(Cbb)　去掉(VC)　了(Di)　關聯詞(Na)　，(COMMACATEGORY)
+***********************************************
+181.　，(COMMACATEGORY)　則(D)　結構(Na)　鬆散(VH)　，(COMMACATEGORY)
+***********************************************
+182.　，(COMMACATEGORY)　無法(D)　交代出(VE)　前(Nes)　後(Nes)　分句(Na)　的(DE)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+183.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　關聯(Na)　詞語(Na)　。(PERIODCATEGORY)
+***********************************************
+184.　。(PERIODCATEGORY)　既然(Cbb)　關聯(Na)　詞語(Na)　對(P)　行文(VA)　的(DE)　結構(Na)　頗(Dfa)　具(VJ)　影響力(Na)　，(COMMACATEGORY)
+***********************************************
+185.　，(COMMACATEGORY)　下面(Ncd)　我們(Nh)　將(D)　對(P)　關聯(Na)　詞語(Na)　的(DE)　定義(Na)　及(Caa)　類別(Na)　加以(D)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+186.　。(PERIODCATEGORY)　關聯(Na)　是(SHI)　指(VG)　事物(Na)　之間(Ng)　互相(D)　發生(VJ)　牽聯(VC)　和(Caa)　影響(VC)　，(COMMACATEGORY)
+***********************************************
+187.　，(COMMACATEGORY)　故(Cbb)　關聯(Na)　詞語(Na)　是(SHI)　指(VG)　能(D)　使(VL)　各(Nes)　級(Na)　語言(Na)　單位(Na)　起(VC)　互相(D)　關聯(VI)　的(DE)　語詞(Na)　【(PARENTHESISCATEGORY)　５(Neu)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+188.　。(PERIODCATEGORY)　關聯(Na)　語詞(Na)　適用(VJ)　的(DE)　範圍(Na)　不僅(Cbb)　止於(VK)　句(Na)　與(Caa)　句(Na)　的(DE)　聯繫(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+189.　，(COMMACATEGORY)　只要(Cbb)　是(SHI)　能(D)　把(P)　兩(Neu)　個(Nf)　或(Caa)　兩(Neu)　個(Nf)　以上(Ng)　較(Dfa)　小(VH)　的(DE)　語言(Na)　單位(Na)　連接起來(VB)　，(COMMACATEGORY)
+***********************************************
+190.　，(COMMACATEGORY)　組成(VG)　一(Neu)　個(Nf)　較(Dfa)　大(VH)　的(DE)　語言(Na)　單位(Na)　，(COMMACATEGORY)
+***********************************************
+191.　，(COMMACATEGORY)　這樣(VH)　的(DE)　詞(Na)　就(D)　可以(D)　說(VE)　是(SHI)　關聯(Na)　詞語(Na)　，(COMMACATEGORY)
+***********************************************
+192.　，(COMMACATEGORY)　所(D)　聯繫(VC)　的(DE)　可以(D)　是(SHI)　詞(Na)　和(Caa)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+193.　，(COMMACATEGORY)　也(D)　可以(D)　是(SHI)　詞組(Na)　和(Caa)　詞組(Na)　。(PERIODCATEGORY)
+***********************************************
+194.　。(PERIODCATEGORY)　一般而言(Dk)　，(COMMACATEGORY)
+***********************************************
+195.　，(COMMACATEGORY)　能(D)　起(VC)　關聯(Na)　作用(Na)　的(DE)　詞(Na)　多半(Neqa)　是(SHI)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+196.　，(COMMACATEGORY)　前面(Ncd)　所(D)　舉(VC)　的(DE)　例子(Na)　大部分(Neqa)　屬(VG)　之(Nh)　，(COMMACATEGORY)
+***********************************************
+197.　，(COMMACATEGORY)　常見(VH)　的(DE)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+198.　，(COMMACATEGORY)　如(P)　：(COLONCATEGORY)
+***********************************************
+199.　：(COLONCATEGORY)　雖然(Cbb)　。(PERIODCATEGORY)
+***********************************************
+200.　。(PERIODCATEGORY)　但是(Cbb)　。(PERIODCATEGORY)
+***********************************************
+201.　。(PERIODCATEGORY)　如果(Cbb)　。(PERIODCATEGORY)
+***********************************************
+202.　。(PERIODCATEGORY)　因為(Cbb)　。(PERIODCATEGORY)
+***********************************************
+203.　。(PERIODCATEGORY)　所以(Cbb)　。(PERIODCATEGORY)
+***********************************************
+204.　。(PERIODCATEGORY)　不但(Cbb)　。(PERIODCATEGORY)
+***********************************************
+205.　。(PERIODCATEGORY)　而且(Cbb)　。(PERIODCATEGORY)
+***********************************************
+206.　。(PERIODCATEGORY)　除了(P)　連接詞(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+207.　，(COMMACATEGORY)　有的(Neqa)　副詞(Na)　、(PAUSECATEGORY)　詞組(Na)　也(D)　能(D)　作(VG)　關聯詞(Na)　。(PERIODCATEGORY)
+***********************************************
+208.　。(PERIODCATEGORY)　能(D)　作(VG)　關聯(Na)　成分(Na)　的(DE)　副詞(Na)　，(COMMACATEGORY)
+***********************************************
+209.　，(COMMACATEGORY)　常見(VH)　的(DE)　有(V_2)　：(COLONCATEGORY)
+***********************************************
+210.　：(COLONCATEGORY)　就(D)　、(PAUSECATEGORY)　便(D)　、(PAUSECATEGORY)　才(Da)　、(PAUSECATEGORY)　接著(D)　、(PAUSECATEGORY)　卻(D)　、(PAUSECATEGORY)　都(D)　。(PERIODCATEGORY)
+***********************************************
+211.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+212.　：(COLONCATEGORY)　（１６）(Neu)　他(Nh)　看看(VE)　屋子(Na)　悶熱(VH)　，(COMMACATEGORY)
+***********************************************
+213.　，(COMMACATEGORY)　就(D)　把(P)　所有(Neqa)　的(DE)　窗子(Na)　敞開(VC)　。(PERIODCATEGORY)
+***********************************************
+214.　。(PERIODCATEGORY)　（１７）(Neu)　弟弟(Na)　聰明(VH)　活潑(VH)　，(COMMACATEGORY)
+***********************************************
+215.　，(COMMACATEGORY)　哥哥(Na)　卻(D)　沉默(VH)　寡言(VH)　。(PERIODCATEGORY)
+***********************************************
+216.　。(PERIODCATEGORY)　一般(D)　對(P)　連接詞(Na)　及(Caa)　具(VJ)　關聯(Na)　作用(Na)　副詞(Na)　的(DE)　區辨(VC)[+nom]　辦法(Na)　，(COMMACATEGORY)
+***********************************************
+217.　，(COMMACATEGORY)　是(SHI)　以(P)　出現(VH)　在(P)　主語(Na)　前後(Ng)　位置(Na)　做(VC)　判斷(VE)　，(COMMACATEGORY)
+***********************************************
+218.　，(COMMACATEGORY)　只(Da)　能(D)　出現(VH)　在(P)　主語(Na)　後邊(Ncd)　的(DE)　是(SHI)　副詞(Na)　，(COMMACATEGORY)
+***********************************************
+219.　，(COMMACATEGORY)　出現(VH)　在(P)　主語(Na)　前(Ng)　，(COMMACATEGORY)
+***********************************************
+220.　，(COMMACATEGORY)　也(D)　可(D)　出現(VH)　在(P)　主語(Na)　後(Ng)　的(DE)　是(SHI)　連接詞(Na)　【(PARENTHESISCATEGORY)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+221.　，(COMMACATEGORY)　１０(Neu)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+222.　。(PERIODCATEGORY)　例(P)　：(COLONCATEGORY)
+***********************************************
+223.　：(COLONCATEGORY)　（１８）(Neu)　他(Nh)　雖然(Cbb)　沒(D)　來(VA)　，(COMMACATEGORY)
+***********************************************
+224.　，(COMMACATEGORY)　禮(Na)　卻(D)　到(VCL)　了(T)　。(PERIODCATEGORY)
+***********************************************
+225.　。(PERIODCATEGORY)　（１９）(Neu)　雖然(Cbb)　他(Nh)　沒(D)　來(VA)　，(COMMACATEGORY)
+***********************************************
+226.　，(COMMACATEGORY)　禮(Na)　卻(D)　到(VCL)　了(T)　。(PERIODCATEGORY)
+***********************************************
+227.　。(PERIODCATEGORY)　＊(FW)　（２０）(Neu)　我(Nh)　今天(Nd)　去(D)　找(VC)　他(Nh)　，(COMMACATEGORY)
+***********************************************
+228.　，(COMMACATEGORY)　卻(D)　他(Nh)　不(D)　在(VCL)　。(PERIODCATEGORY)
+***********************************************
+229.　。(PERIODCATEGORY)　「(PARENTHESISCATEGORY)　雖然(Cbb)　」(PARENTHESISCATEGORY)　是(SHI)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+230.　，(COMMACATEGORY)　可以(D)　在(P)　主語(Na)　前後(Ng)　出現(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+231.　；(SEMICOLONCATEGORY)　「(PARENTHESISCATEGORY)　卻(D)　」(PARENTHESISCATEGORY)　是(SHI)　副詞(Na)　，(COMMACATEGORY)
+***********************************************
+232.　，(COMMACATEGORY)　（２０）(Neu)　句(Nf)　出現(VH)　在(P)　主語(Na)　前(Ng)　，(COMMACATEGORY)
+***********************************************
+233.　，(COMMACATEGORY)　造成(VG)　了(Di)　錯誤(VH)　的(DE)　句子(Na)　。(PERIODCATEGORY)
+***********************************************
+234.　。(PERIODCATEGORY)　另外(Cbb)　，(COMMACATEGORY)
+***********************************************
+235.　，(COMMACATEGORY)　能(D)　作(VC)　關聯(Na)　語詞(Na)　的(DE)　詞組(Na)　如(P)　：(COLONCATEGORY)
+***********************************************
+236.　：(COLONCATEGORY)　一方面(Cbb)　。(PERIODCATEGORY)
+***********************************************
+237.　。(PERIODCATEGORY)　另一方面(Cbb)　。(PERIODCATEGORY)
+***********************************************
+238.　。(PERIODCATEGORY)　總言之(Dk)　。(PERIODCATEGORY)
+***********************************************
+239.　。(PERIODCATEGORY)　換言之(Dk)　。(PERIODCATEGORY)
+***********************************************
+240.　。(PERIODCATEGORY)　據說(Dk)　。(PERIODCATEGORY)
+***********************************************
+241.　。(PERIODCATEGORY)　因為(Cbb)　缺少(VJ)　「(PARENTHESISCATEGORY)　關聯(Na)　短語(Na)　」(PARENTHESISCATEGORY)　「(PARENTHESISCATEGORY)　關聯(Na)　狀語(Na)　」(PARENTHESISCATEGORY)　之類(Cab)　的(DE)　名稱(Na)　，(COMMACATEGORY)
+***********************************************
+242.　，(COMMACATEGORY)　所以(Cbb)　籠統(VH)　的(DE)　把(P)　「(PARENTHESISCATEGORY)　一方面(Cbb)　、(PAUSECATEGORY)　另一方面(Cbb)　」(PARENTHESISCATEGORY)　等(Cab)　叫做(VG)　連接詞(Na)　。(PERIODCATEGORY)
+***********************************************
+243.　。(PERIODCATEGORY)　不過(Cbb)　「(PARENTHESISCATEGORY)　總而言之(Dk)　、(PAUSECATEGORY)　換言之(Dk)　」(PARENTHESISCATEGORY)　等(Cab)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+244.　，(COMMACATEGORY)　僅(Da)　是(SHI)　語義(Na)　上(Ng)　的(DE)　承前(Na)　，(COMMACATEGORY)
+***********************************************
+245.　，(COMMACATEGORY)　在(P)　句法(Na)　上(Ng)　並(D)　無(VJ)　承接(VJ)[+nom]　功能(Na)　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　所以(Cbb)　在(P)　我們(Nh)　的(DE)　系統(Na)　中(Ng)　以(P)　句(Na)　副詞(Na)　視(VC)　之(Nh)　【(PARENTHESISCATEGORY)　４(Neu)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+247.　。(PERIODCATEGORY)　劉(Nb)　【(PARENTHESISCATEGORY)　５(Neu)　】(PARENTHESISCATEGORY)　列有(VJ)　第四(Neu)　種(Nf)　表(VE)　關聯(Na)　的(DE)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+248.　，(COMMACATEGORY)　認為(VE)　判斷詞(Na)　是(SHI)　和(P)　包含(VJ)　判斷詞(Na)　是(SHI)　的(DE)　詞組(Na)　合(VG)　起來(Di)　有時(D)　也(D)　具(VJ)　關聯(Na)　作用(Na)　。(PERIODCATEGORY)
+***********************************************
+249.　。(PERIODCATEGORY)　例(P)　：(COLONCATEGORY)
+***********************************************
+250.　：(COLONCATEGORY)　是(SHI)　…(ETCCATEGORY)
+***********************************************
+251.　…(ETCCATEGORY)　還(D)　是(SHI)　。(PERIODCATEGORY)
+***********************************************
+252.　。(PERIODCATEGORY)　是(SHI)　…(ETCCATEGORY)
+***********************************************
+253.　…(ETCCATEGORY)　而(Cbb)　不(D)　是(SHI)　。(PERIODCATEGORY)
+***********************************************
+254.　。(PERIODCATEGORY)　不(D)　是(SHI)　…(ETCCATEGORY)
+***********************************************
+255.　…(ETCCATEGORY)　就(D)　是(SHI)　。(PERIODCATEGORY)
+***********************************************
+256.　。(PERIODCATEGORY)　下(Nes)　一(Neu)　節(Nf)　我們(Nh)　將(D)　針對(P)　連接詞(Na)　的(DE)　類型(Na)　作(VC)　一(Neu)　番(Nf)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+257.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　連接詞(Na)　的(DE)　分類(Na)　。(PERIODCATEGORY)
+***********************************************
+258.　。(PERIODCATEGORY)　連接詞(Na)　是(SHI)　用以(D)　表示(VE)　並列(VG)[+nom]　關係(Na)　或(Caa)　標明(VC)　兩(Neu)　分句(Na)　關係(Na)　的(DE)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+259.　，(COMMACATEGORY)　根據(P)　連接詞(Na)　的(DE)　功能(Na)　與(Caa)　定義(Na)　，(COMMACATEGORY)
+***********************************************
+260.　，(COMMACATEGORY)　我們(Nh)　把(P)　連接詞(Na)　分為(VG)　兩(Neu)　大(VH)　類(Nf)　，(COMMACATEGORY)
+***********************************************
+261.　，(COMMACATEGORY)　一(Neu)　是(SHI)　並列(VG)[+nom]　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+262.　，(COMMACATEGORY)　一(Neu)　是(SHI)　關聯(Na)　連接詞(Na)　。(PERIODCATEGORY)
+***********************************************
+263.　。(PERIODCATEGORY)　（一）(Neu)　並列(VG)[+nom]　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃａ(FW)　）(PARENTHESISCATEGORY)　—(DASHCATEGORY)　連接(VJ)　兩(Neu)　個(Nf)　詞性(Na)　相似(VH)　的(DE)　成分(Na)　形成(VG)　向心式(A)　結構(Na)　，(COMMACATEGORY)
+***********************************************
+264.　，(COMMACATEGORY)　其中(Nep)　每(Nes)　一(Neu)　個(Nf)　成分(Na)　的(DE)　功能(Na)　都(D)　跟(P)　整(Neqa)　個(Nf)　結構(Na)　相同(VH)　。(PERIODCATEGORY)
+***********************************************
+265.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　類(Nf)　的(DE)　連接詞(Na)　帶有(VJ)　的(DE)　語義(Na)　特徵(Na)　可(D)　分為(VG)　：(COLONCATEGORY)
+***********************************************
+266.　：(COLONCATEGORY)　１(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　複數性(Na)　（(PARENTHESISCATEGORY)　ｐｌｕｒａｌ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+267.　，(COMMACATEGORY)　如(P)　：(COLONCATEGORY)
+***********************************************
+268.　：(COLONCATEGORY)　和(Caa)　、(PAUSECATEGORY)　跟(Caa)　、(PAUSECATEGORY)　與(Caa)　、(PAUSECATEGORY)　同(P)　、(PAUSECATEGORY)　及(Caa)　；(SEMICOLONCATEGORY)
+***********************************************
+269.　；(SEMICOLONCATEGORY)　２(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　選擇性(Na)　（(PARENTHESISCATEGORY)　ｄｉｓｊｕｎｃｔｉｏｎ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+270.　，(COMMACATEGORY)　如(P)　：(COLONCATEGORY)
+***********************************************
+271.　：(COLONCATEGORY)　或(Caa)　、(PAUSECATEGORY)　或者(Caa)　、(PAUSECATEGORY)　還是(Caa)　；(SEMICOLONCATEGORY)
+***********************************************
+272.　；(SEMICOLONCATEGORY)　３(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　範圍性(Na)　（(PARENTHESISCATEGORY)　ｒａｎｇｅ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+273.　，(COMMACATEGORY)　只有(Cbb)　「(PARENTHESISCATEGORY)　至(Caa)　」(PARENTHESISCATEGORY)　和(Caa)　「(PARENTHESISCATEGORY)　到(Caa)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+274.　。(PERIODCATEGORY)　「(PARENTHESISCATEGORY)　又(Caa)　」(PARENTHESISCATEGORY)　除了(P)　常見(VH)　的(DE)　副詞(Na)　用法(Na)　，(COMMACATEGORY)
+***********************************************
+275.　，(COMMACATEGORY)　如(P)　：(COLONCATEGORY)
+***********************************************
+276.　：(COLONCATEGORY)　「(PARENTHESISCATEGORY)　他(Nh)　又(D)　胖(VH)　了(T)　」(PARENTHESISCATEGORY)　表示(VE)　重複(VC)　的(DE)　意思(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+277.　，(COMMACATEGORY)　另(Nes)　可(D)　連接(VJ)　兩(Neu)　個(Nf)　狀態(Na)　動詞(Na)　（(PARENTHESISCATEGORY)　即(D)　一般(D)　所(D)　稱(VG)　的(DE)　形容詞(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+278.　，(COMMACATEGORY)　如(P)　「(PARENTHESISCATEGORY)　介壽路(Nc)　長(VH)　又(D)　寬(VH)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+279.　，(COMMACATEGORY)　意思(Na)　相當於(VG)　英文(Na)　的(DE)　ａｎｄ(FW)　，(COMMACATEGORY)
+***********************************************
+280.　，(COMMACATEGORY)　雖然(Cbb)　不能(D)　出現(VH)　在(P)　主語(Na)　前(Ng)　，(COMMACATEGORY)
+***********************************************
+281.　，(COMMACATEGORY)　也(D)　可(D)　視同(VK)　表(VE)　複數(Na)　意義(Na)　的(DE)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+282.　，(COMMACATEGORY)　「(PARENTHESISCATEGORY)　且(Cbb)　」(PARENTHESISCATEGORY)　有時(D)　也(D)　具有(VJ)　類似(VG)　的(DE)　功用(Na)　。(PERIODCATEGORY)
+***********************************************
+283.　。(PERIODCATEGORY)　標點符號(Na)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　也(D)　具有(VJ)　並列(VG)　連接(VJ)　的(DE)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+284.　，(COMMACATEGORY)　比較(Dfa)　有意思(VH)　的(DE)　是(SHI)　它(Nh)　兼有(VJ)　複數(Na)　及(Caa)　選擇(VC)　兩(Neu)　種(Nf)　可能(VH)　，(COMMACATEGORY)
+***********************************************
+285.　，(COMMACATEGORY)　得(D)　視(P)　情況(Na)　而(Cbb)　定(VE)　。(PERIODCATEGORY)
+***********************************************
+286.　。(PERIODCATEGORY)　（２１）(Neu)　他(Nh)　喜歡(VK)　的(DE)　運動(Na)　有(V_2)　籃球(Na)　、(PAUSECATEGORY)　滑草(VA)　、(PAUSECATEGORY)　溜冰(VA)　及(Caa)　游泳(VA)　。(PERIODCATEGORY)
+***********************************************
+287.　。(PERIODCATEGORY)　（２２）(Neu)　你(Nh)　想(VE)　喝(VC)　咖啡(Na)　、(PAUSECATEGORY)　果汁(Na)　還是(Caa)　紅茶(Na)　？(QUESTIONCATEGORY)
+***********************************************
+288.　？(QUESTIONCATEGORY)　（２３）(Neu)　你(Nh)　想(VE)　搭(VC)　車(Na)　、(PAUSECATEGORY)　走路(VA)　？(QUESTIONCATEGORY)
+***********************************************
+289.　？(QUESTIONCATEGORY)　（２４）(Neu)　不管(Cbb)　晴天(Nd)　、(PAUSECATEGORY)　雨天(Nd)　都(D)　可(D)　看見(VE)　他(Nh)　掃(VC)　大街(Na)　的(DE)　身影(Na)　。(PERIODCATEGORY)
+***********************************************
+290.　。(PERIODCATEGORY)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　的(DE)　功能(Na)　常常(D)　可(D)　由(P)　出現(VH)　在(P)　其後(Nd)　的(DE)　並列(VG)[+nom]　連接詞(Na)　決定(VE)　，(COMMACATEGORY)
+***********************************************
+291.　，(COMMACATEGORY)　出現(VH)　在(P)　（２１）(Neu)　的(DE)　連接詞(Na)　是(SHI)　具(VJ)　複數(Na)　特徵(Na)　的(DE)　「(PARENTHESISCATEGORY)　及(Caa)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+292.　，(COMMACATEGORY)　所以(Cbb)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　也(D)　帶(VC)　ｐｌｕｒａｌ(FW)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+293.　，(COMMACATEGORY)　而(Cbb)　（２２）(Neu)　句(Nf)　中(Ng)　的(DE)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　則(D)　與(P)　「(PARENTHESISCATEGORY)　還是(Caa)　」(PARENTHESISCATEGORY)　一樣(VH)　，(COMMACATEGORY)
+***********************************************
+294.　，(COMMACATEGORY)　帶(VC)　ｄｉｓｊｕｎｃｔｉｏｎ(FW)　特徵(Na)　。(PERIODCATEGORY)
+***********************************************
+295.　。(PERIODCATEGORY)　有時(D)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　後面(Ncd)　並(D)　沒有(VJ)　任何(Neqa)　並列(VG)[+nom]　連接詞(Na)　以資(D)　辨別(VC)　，(COMMACATEGORY)
+***********************************************
+296.　，(COMMACATEGORY)　通常(D)　作(VC)　複數性(Na)　大致(D)　不會(D)　錯(VH)　，(COMMACATEGORY)
+***********************************************
+297.　，(COMMACATEGORY)　不過(Cbb)　仍(D)　有(V_2)　可能(Na)　是(SHI)　選擇性(Na)　，(COMMACATEGORY)
+***********************************************
+298.　，(COMMACATEGORY)　可(D)　藉(P)　帶(VC)　疑問(Na)　的(DE)　標點符號(Na)　「(PARENTHESISCATEGORY)　？(QUESTIONCATEGORY)
+***********************************************
+299.　？(QUESTIONCATEGORY)　」(PARENTHESISCATEGORY)　判定(VE)　，(COMMACATEGORY)
+***********************************************
+300.　，(COMMACATEGORY)　如(P)　（２３）(Neu)　。(PERIODCATEGORY)
+***********************************************
+301.　。(PERIODCATEGORY)　出現(VH)　在(P)　連接詞(Na)　「(PARENTHESISCATEGORY)　不論(Cbb)　、(PAUSECATEGORY)　不管(Cbb)　、(PAUSECATEGORY)　無論(Cbb)　」(PARENTHESISCATEGORY)　後(Ng)　的(DE)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　也(D)　具(VJ)　選擇性(Na)　，(COMMACATEGORY)
+***********************************************
+302.　，(COMMACATEGORY)　因為(Cbb)　這些(Neqa)　連接詞(Na)　後(Ng)　要求(VF)　帶(VC)　疑問(Na)　語意(Na)　的(DE)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+303.　，(COMMACATEGORY)　如(P)　（２４）(Neu)　。(PERIODCATEGORY)
+***********************************************
+304.　。(PERIODCATEGORY)　「(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+305.　，(COMMACATEGORY)　」(PARENTHESISCATEGORY)　除了(P)　作(VC)　分句(Na)　標記(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+306.　，(COMMACATEGORY)　有時(D)　也(D)　與(P)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　有(V_2)　相同(VH)　的(DE)　語法(Na)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+307.　，(COMMACATEGORY)　可(D)　替代(VJ)　「(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　」(PARENTHESISCATEGORY)　的(DE)　功能(Na)　。(PERIODCATEGORY)
+***********************************************
+308.　。(PERIODCATEGORY)　（２５）(Neu)　計算(VC)[+prop]　中心(Nc)　分(VC)　行政組(Nc)　，(COMMACATEGORY)
+***********************************************
+309.　，(COMMACATEGORY)　技術組(Na)　，(COMMACATEGORY)
+***********************************************
+310.　，(COMMACATEGORY)　操作組(Nc)　，(COMMACATEGORY)
+***********************************************
+311.　，(COMMACATEGORY)　及(Caa)　服務組(Nc)　。(PERIODCATEGORY)
+***********************************************
+312.　。(PERIODCATEGORY)　（２６）(Neu)　他(Nh)　是(SHI)　闖紅燈(VA)　，(COMMACATEGORY)
+***********************************************
+313.　，(COMMACATEGORY)　超速(VH)　還是(Caa)　違規(VA)　停車(VA)　？(QUESTIONCATEGORY)
+***********************************************
+314.　？(QUESTIONCATEGORY)　帶(VC)　範圍(Na)　特徵(Na)　的(DE)　連接詞(Na)　用以(D)　連接(VJ)　數量(Na)　定詞(Na)　或(Caa)　定量式(A)　複合詞(Na)　，(COMMACATEGORY)
+***********************************************
+315.　，(COMMACATEGORY)　表現(VC)　數量(Na)　的(DE)　範圍(Na)　，(COMMACATEGORY)
+***********************************************
+316.　，(COMMACATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+317.　：(COLONCATEGORY)　（２７）(Neu)　平均(VH)　溫度(Na)　上升(VA)　三(Neu)　到(P)　四(Neu)　度(Nf)　。(PERIODCATEGORY)
+***********************************************
+318.　。(PERIODCATEGORY)　（２８）(Neu)　四月(Nd)　四日(Nd)　至(P)　七日(Nd)　放假(VH)　。(PERIODCATEGORY)
+***********************************************
+319.　。(PERIODCATEGORY)　並列(VG)[+nom]　連接詞(Na)　的(DE)　組合(VC)[+nom]　成分(Na)　在(P)　句(Na)　中(Ng)　可以(D)　扮演(VC)　任何(Neqa)　語法(Na)　角色(Na)　，(COMMACATEGORY)
+***********************************************
+320.　，(COMMACATEGORY)　可能(D)　是(SHI)　單句(Na)　的(DE)　謂語(Na)　，(COMMACATEGORY)
+***********************************************
+321.　，(COMMACATEGORY)　也(D)　可能(D)　是(SHI)　主語(Na)　、(PAUSECATEGORY)　賓語(Na)　、(PAUSECATEGORY)　狀語(Na)　或是(Caa)　定語(Na)　。(PERIODCATEGORY)
+***********************************************
+322.　。(PERIODCATEGORY)　其(Nep)　角色(Na)　是(SHI)　由(P)　所(D)　連接(VJ)　的(DE)　成分(Na)　及(Caa)　連接(VJ)[+nom]　成分(Na)　出現(VH)　的(DE)　位置(Na)　而(Cbb)　定(VE)　。(PERIODCATEGORY)
+***********************************************
+323.　。(PERIODCATEGORY)　（２９）(Neu)　今晚(Nd)　的(DE)　月亮(Na)　【(PARENTHESISCATEGORY)　大(VH)　又(D)　圓(VH)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+324.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　謂語(Na)　）(PARENTHESISCATEGORY)　（３０）(Neu)　【(PARENTHESISCATEGORY)　陽光(Na)　和(Caa)　水分(Na)　】(PARENTHESISCATEGORY)　都(D)　有助(VK)　植物(Na)　的(DE)　生長(VH)[+nom]　。(PERIODCATEGORY)
+***********************************************
+325.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　主語(Na)　）(PARENTHESISCATEGORY)　（３１）(Neu)　他(Nh)　早餐(Na)　吃(VC)　【(PARENTHESISCATEGORY)　燒餅(Na)　油條(Na)　和(Caa)　豆漿(Na)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+326.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　賓語(Na)　）(PARENTHESISCATEGORY)　（３２）(Neu)　請(VF)　你(Nh)　【(PARENTHESISCATEGORY)　今天(Nd)　或(Caa)　明天(Nd)　】(PARENTHESISCATEGORY)　給(VD)　我(Nh)　一(Neu)　個(Nf)　答覆(Na)　。(PERIODCATEGORY)
+***********************************************
+327.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　時間(Na)　狀語(Na)　）(PARENTHESISCATEGORY)　（３３）(Neu)　【(PARENTHESISCATEGORY)　正確(VH)　而且(Caa)　詳實(VH)　】(PARENTHESISCATEGORY)　的(DE)　資料(Na)　（(PARENTHESISCATEGORY)　定語(Na)　）(PARENTHESISCATEGORY)　（二）(Neu)　關聯(Na)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂ(FW)　）(PARENTHESISCATEGORY)　—(DASHCATEGORY)　能夠(D)　把(P)　幾(Neu)　個(Nf)　分句(Na)　連成(VG)　複句(Na)　形式(Na)　的(DE)　連接詞(Na)　。(PERIODCATEGORY)
+***********************************************
+328.　。(PERIODCATEGORY)　句子(Na)　的(DE)　連繫(VC)[+nom]　方法(Na)　有(V_2)　前繫(VH)　（(PARENTHESISCATEGORY)　ｆｏｒｗａｒｄ(FW)　ｌｉｎｋｉｎｇ(FW)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　後繫(VH)　（(PARENTHESISCATEGORY)　ｂａｃｋｗａｒｄ(FW)　ｌｉｎｋｉｎｇ(FW)　）(PARENTHESISCATEGORY)　兩(Neu)　種(Nf)　【(PARENTHESISCATEGORY)　１３(Neu)　】(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+329.　，(COMMACATEGORY)　前繫(VH)　是(SHI)　一(Neu)　個(Nf)　分句(Na)　依賴(VK)　後面(Ncd)　的(DE)　句子(Na)　使(VL)　語意(Na)　完整(VH)　，(COMMACATEGORY)
+***********************************************
+330.　，(COMMACATEGORY)　後繫(VH)　則(D)　是(SHI)　位於(VCL)　後面(Ncd)　的(DE)　子句(Na)　靠(P)　前(Nes)　一(Neu)　子句(Na)　使(VL)　語意(Na)　完整(VH)　。(PERIODCATEGORY)
+***********************************************
+331.　。(PERIODCATEGORY)　關聯(Na)　組合式(A)　的(DE)　複句(Na)　在(P)　分句(Na)　中(Ng)　至少(Da)　有(V_2)　一(Neu)　個(Nf)　連繫(VC)[+nom]　成分(Na)　，(COMMACATEGORY)
+***********************************************
+332.　，(COMMACATEGORY)　連接詞(Na)　以(P)　其(Nep)　所在(Na)　分句(Na)　位置(Na)　可(D)　分為(VG)　前繫(VH)　連接詞(Na)　、(PAUSECATEGORY)　後繫(VH)　連接詞(Na)　。(PERIODCATEGORY)
+***********************************************
+333.　。(PERIODCATEGORY)　如果(Cbb)　組合成(VG)　的(DE)　是(SHI)　偏正(A)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+334.　，(COMMACATEGORY)　通常(D)　有(V_2)　前繫(VH)　連接詞(Na)　的(DE)　分句(Na)　可(D)　具(VJ)　移動性(Na)　，(COMMACATEGORY)
+***********************************************
+335.　，(COMMACATEGORY)　能(D)　移位(VA)　至(P)　後面(Ncd)　。(PERIODCATEGORY)
+***********************************************
+336.　。(PERIODCATEGORY)　不過(Cbb)　也(D)　有(V_2)　少數(Neqa)　例外(VH)　的(DE)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+337.　，(COMMACATEGORY)　如(P)　「(PARENTHESISCATEGORY)　雖(Cbb)　、(PAUSECATEGORY)　固然(Cbb)　、(PAUSECATEGORY)　既(Cbb)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+338.　。(PERIODCATEGORY)　（３４）(Neu)　因為(Cbb)　生命(Na)　有限(VH)　，(COMMACATEGORY)
+***********************************************
+339.　，(COMMACATEGORY)　要(D)　好好(VH)　把握(VC)　時間(Na)　。(PERIODCATEGORY)
+***********************************************
+340.　。(PERIODCATEGORY)　（３５）(Neu)　要(D)　好好(VH)　把握(VC)　時間(Na)　，(COMMACATEGORY)
+***********************************************
+341.　，(COMMACATEGORY)　因為(Cbb)　生命(Na)　有限(VH)　。(PERIODCATEGORY)
+***********************************************
+342.　。(PERIODCATEGORY)　（３６）(Neu)　現在(Nd)　雖(Cbb)　是(SHI)　正午(Nd)　，(COMMACATEGORY)
+***********************************************
+343.　，(COMMACATEGORY)　陽光(Na)　並(D)　沒有(VJ)　出現(VH)　。(PERIODCATEGORY)
+***********************************************
+344.　。(PERIODCATEGORY)　＊(FW)　（３７）(Neu)　陽光(Na)　並(D)　沒有(VJ)　出現(VH)　，(COMMACATEGORY)
+***********************************************
+345.　，(COMMACATEGORY)　現在(Nd)　雖(Cbb)　是(SHI)　正午(Nd)　。(PERIODCATEGORY)
+***********************************************
+346.　。(PERIODCATEGORY)　由(P)　連接詞(Na)　接繫(VC)[+nom]　方式(Na)　及(Caa)　移位(VA)[+nom]　情形(Na)　，(COMMACATEGORY)
+***********************************************
+347.　，(COMMACATEGORY)　可(D)　把(P)　關聯(Na)　連接詞(Na)　分為(VG)　三(Neu)　類(Nf)　（(PARENTHESISCATEGORY)　參見(VC)　表(Na)　一(Neu)　、(PAUSECATEGORY)　二(Neu)　）(PARENTHESISCATEGORY)　：(COLONCATEGORY)
+***********************************************
+348.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　移動性(Na)　前繫(VH)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂａ(FW)　）(PARENTHESISCATEGORY)　—(DASHCATEGORY)　語意(Na)　上(Ng)　具(VJ)　起頭(Na)　作用(Na)　，(COMMACATEGORY)
+***********************************************
+349.　，(COMMACATEGORY)　後面(Ncd)　常(D)　須(D)　接(VC)　一(Neu)　個(Nf)　分句(Na)　，(COMMACATEGORY)
+***********************************************
+350.　，(COMMACATEGORY)　可(D)　移位(VA)　於(P)　後面(Ncd)　。(PERIODCATEGORY)
+***********************************************
+351.　。(PERIODCATEGORY)　這(Nep)　類(Nf)　詞(Na)　常見(VH)　的(DE)　有(V_2)　：(COLONCATEGORY)
+***********************************************
+352.　：(COLONCATEGORY)　１(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　偏正(A)　句(Nf)　移動性(Na)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂａａ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+353.　。(PERIODCATEGORY)　２(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　偏正(A)　句(Na)　句尾(Na)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂａｂ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+354.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　小(VH)　類(Nf)　只(Da)　有(V_2)　「(PARENTHESISCATEGORY)　的話(Cba)　」(PARENTHESISCATEGORY)　一(Neu)　個(Nf)　詞(Na)　，(COMMACATEGORY)
+***********************************************
+355.　，(COMMACATEGORY)　帶(VC)　ｈｙｐｏｔｈｅｓｉｓ(FW)　特徵(Na)　。(PERIODCATEGORY)
+***********************************************
+356.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　非(A)　移動性(Na)　前繫(VH)　連接詞(Na)　—(DASHCATEGORY)　語意(Na)　上(Ng)　具(VJ)　起頭(Na)　作用(Na)　，(COMMACATEGORY)
+***********************************************
+357.　，(COMMACATEGORY)　後面(Ncd)　常(D)　須(D)　接(VC)　一(Neu)　個(Nf)　分句(Na)　，(COMMACATEGORY)
+***********************************************
+358.　，(COMMACATEGORY)　位置(Na)　固定(VHC)　在(P)　前(Nes)　一(Neu)　分句(Na)　。(PERIODCATEGORY)
+***********************************************
+359.　。(PERIODCATEGORY)　聯合(VC)[+nom]　複句(Na)　的(DE)　前繫(VH)　成分(Na)　均(D)　屬(VG)　此(Nep)　類(Nf)　，(COMMACATEGORY)
+***********************************************
+360.　，(COMMACATEGORY)　前面(Ncd)　提及(VE)　部分(Neqa)　偏正(A)　前繫(VH)　連接詞(Na)　不可(D)　移動(VAC)　也(D)　屬(VG)　這(Nep)　類(Nf)　，(COMMACATEGORY)
+***********************************************
+361.　，(COMMACATEGORY)　故(Cbb)　此(Nep)　類(Na)　連接詞(Na)　可(D)　分為(VG)　兩(Neu)　類(Nf)　：(COLONCATEGORY)
+***********************************************
+362.　：(COLONCATEGORY)　１(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　偏正(A)　句(Na)　非移動性(Na)　前繫(VH)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂｂａ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+363.　。(PERIODCATEGORY)　２(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　聯合(VC)[+nom]　句(Na)　前繫(VH)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂｂｂ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+364.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　後繫(VH)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂｃ(FW)　）(PARENTHESISCATEGORY)　—(DASHCATEGORY)　是(SHI)　將(P)　一(Neu)　個(Nf)　分句(Na)　聯繫(VC)　於(P)　前(Nes)　一(Neu)　個(Nf)　句子(Na)　的(DE)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+365.　，(COMMACATEGORY)　依(P)　其(Nep)　組合(VC)[+nom]　方式(Na)　是(SHI)　偏正(A)　、(PAUSECATEGORY)　聯合(VC)　分為(VG)　二(Neu)　類(Nf)　：(COLONCATEGORY)
+***********************************************
+366.　：(COLONCATEGORY)　１(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　偏正(A)　句(Na)　後繫(VH)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂｃａ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+367.　。(PERIODCATEGORY)　２(Neu)　）(PARENTHESISCATEGORY)　．(PERIODCATEGORY)　聯合(VC)[+nom]　句(Na)　後繫(VH)　連接詞(Na)　（(PARENTHESISCATEGORY)　Ｃｂｃｂ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+368.　。(PERIODCATEGORY)　五(Neu)　、(PAUSECATEGORY)　連接詞(Na)　的(DE)　語法(Na)　表達(VC)[+nom]　模式(Na)　。(PERIODCATEGORY)
+***********************************************
+369.　。(PERIODCATEGORY)　陳(Nb)　與(Caa)　黃(Nb)　【(PARENTHESISCATEGORY)　６(Neu)　】(PARENTHESISCATEGORY)　中(Ng)　所(D)　提(VE)　的(DE)　訊息(Na)　為本(VI)　的(DE)　格位(Na)　語法(Na)　（(PARENTHESISCATEGORY)　ＩＣＧ(FW)　，(COMMACATEGORY)
+***********************************************
+370.　，(COMMACATEGORY)　Ｉｎｆｏｒｍａｔｉｏｎ(FW)　Ｂａｓｅｄ(FW)　ＣａｓｅＧｒａｍｍａｒ(FW)　）(PARENTHESISCATEGORY)　是(SHI)　採用(VC)　詞彙(Na)　為(VG)　中心(Nc)　的(DE)　表達(VC)[+nom]　方式(Na)　，(COMMACATEGORY)
+***********************************************
+371.　，(COMMACATEGORY)　將(P)　每(Nes)　個(Nf)　詞(Na)　的(DE)　語法(Na)　及(Caa)　語意(Na)　訊息(Na)　以(P)　特徵(Na)　結構(Na)　表示(VE)　。(PERIODCATEGORY)
+***********************************************
+372.　。(PERIODCATEGORY)　詞彙(Na)　結合為(VG)　片語(Na)　，(COMMACATEGORY)
+***********************************************
+373.　，(COMMACATEGORY)　再(D)　由(P)　片語(Na)　組成(VG)　句子(Na)　，(COMMACATEGORY)
+***********************************************
+374.　，(COMMACATEGORY)　層層(Neqa)　累加(VC)　堆積(VC)　而(Cbb)　成(VG)　。(PERIODCATEGORY)
+***********************************************
+375.　。(PERIODCATEGORY)　在(P)　建構(VC)　片語(Na)　及(Caa)　句子(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+376.　，(COMMACATEGORY)　是(SHI)　以(P)　中心語(Na)　驅動(VC)　的(DE)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+377.　，(COMMACATEGORY)　所有(Neqa)　成分(Na)　的(DE)　結合(VHC)[+nom]　都(D)　必須(D)　符合(VJ)　詞彙(Na)　所(D)　規定(VE)　的(DE)　語法(Na)　限制(Na)　。(PERIODCATEGORY)
+***********************************************
+378.　。(PERIODCATEGORY)　根據(P)　中心語(Na)　主導(VC)[+nom]　原則(Na)　（(PARENTHESISCATEGORY)　ｈｅａｄ(FW)　—(DASHCATEGORY)　ｄｒｉｖｅｎ(FW)　ｐｒｉｎｃｉｐｌｅ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+379.　，(COMMACATEGORY)　中心語(Na)　的(DE)　語意(Na)　訊息欄(Na)　內(Ng)　規定(VE)　由(P)　此(Nep)　中心語(Na)　組成(VG)　的(DE)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+380.　，(COMMACATEGORY)　包括(VK)　中心語(Na)　本身(Nh)　所(D)　帶有(VJ)　的(DE)　論元(Na)　角色(Na)　及(Caa)　附加(VC)[+nom]　成分(Na)　。(PERIODCATEGORY)
+***********************************************
+381.　。(PERIODCATEGORY)　中心語(Na)　若(Cbb)　為(VG)　動詞(Na)　，(COMMACATEGORY)
+***********************************************
+382.　，(COMMACATEGORY)　則(D)　形成(VG)　動詞(Na)　片語(Na)　（(PARENTHESISCATEGORY)　ＶＰ(FW)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+383.　；(SEMICOLONCATEGORY)　若(Cbb)　為(VG)　名詞(Na)　，(COMMACATEGORY)
+***********************************************
+384.　，(COMMACATEGORY)　則(D)　形成(VG)　名詞(Na)　片語(Na)　（(PARENTHESISCATEGORY)　ＮＰ(FW)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+385.　；(SEMICOLONCATEGORY)　若(Cbb)　為(VG)　介詞(Na)　，(COMMACATEGORY)
+***********************************************
+386.　，(COMMACATEGORY)　則(D)　形成(VG)　介詞(Na)　片語(Na)　（(PARENTHESISCATEGORY)　ＰＰ(FW)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+387.　；(SEMICOLONCATEGORY)　若(Cbb)　為(VG)　方位詞(Na)　，(COMMACATEGORY)
+***********************************************
+388.　，(COMMACATEGORY)　則(D)　形成(VG)　方位詞(Na)　片語(Na)　（(PARENTHESISCATEGORY)　ＧＰ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+389.　。(PERIODCATEGORY)　不過(Cbb)　，(COMMACATEGORY)
+***********************************************
+390.　，(COMMACATEGORY)　也(D)　有(V_2)　一些(Neqa)　詞類(Na)　只(Da)　作為(VG)　修飾語(Na)　，(COMMACATEGORY)
+***********************************************
+391.　，(COMMACATEGORY)　並(Cbb)　不(D)　形成(VG)　任何(Neqa)　片語(Na)　結構(Na)　的(T)　；(SEMICOLONCATEGORY)
+***********************************************
+392.　；(SEMICOLONCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+393.　：(COLONCATEGORY)　副詞(Na)　、(PAUSECATEGORY)　語助詞(Na)　、(PAUSECATEGORY)　感歎詞(Na)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+394.　。(PERIODCATEGORY)　連接詞(Na)　比較(Dfa)　特殊(VH)　，(COMMACATEGORY)
+***********************************************
+395.　，(COMMACATEGORY)　並列(VG)[+nom]　連接詞(Na)　做(VC)　中心語(Na)　比較(Dfa)　方便(VH)　，(COMMACATEGORY)
+***********************************************
+396.　，(COMMACATEGORY)　但是(Cbb)　關聯(Na)　連接詞(Na)　不(D)　好(VH)　做為(VG)　中心語(Na)　，(COMMACATEGORY)
+***********************************************
+397.　，(COMMACATEGORY)　因為(Cbb)　：(COLONCATEGORY)
+***********************************************
+398.　：(COLONCATEGORY)　其(Nep)　一(Neu)　．(PERIODCATEGORY)　前繫(VH)　連接詞(Na)　可(D)　出現(VH)　在(P)　句(Na)　主語(Na)　前後(Ng)　，(COMMACATEGORY)
+***********************************************
+399.　，(COMMACATEGORY)　難以(D)　表達(VC)　連接詞(Na)　片語(Na)　的(DE)　論元(Na)　、(PAUSECATEGORY)　中心語(Na)　間(Ng)　的(DE)　詞(Na)　序(Na)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+400.　。(PERIODCATEGORY)　其(Nep)　二(Neu)　．(PERIODCATEGORY)　關聯(Na)　連接詞(Na)　連繫(VC)　兩(Neu)　個(Nf)　以(P)　標點符號(Na)　分開(VHC)　的(DE)　句子(Na)　而(Cbb)　一般(A)　語法(Na)　皆(D)　以(P)　標點符號(Na)　之間(Ng)　的(DE)　句子(Na)　或(Caa)　片語(Na)　為(VG)　表達(VC)　的(DE)　段落(Na)　單位(Na)　，(COMMACATEGORY)
+***********************************************
+401.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+402.　，(COMMACATEGORY)　我們(Nh)　先(D)　討論(VE)　各別(A)　句子(Na)　中(Ng)　連接詞(Na)　的(DE)　表達(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+403.　。(PERIODCATEGORY)　我們(Nh)　以(P)　兩(Neu)　種(Nf)　不同(VH)　的(DE)　類型(Na)　Ｃａ(FW)　、(PAUSECATEGORY)　Ｃｂ(FW)　分別(D)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+404.　，(COMMACATEGORY)　下(Nes)　一(Neu)　節(Nf)　再(D)　討論(VE)　複句(Na)　間(Ng)　連接(VJ)　關係(Na)　建立(VC)　的(DE)　方法(Na)　。(PERIODCATEGORY)
+***********************************************
+405.　。(PERIODCATEGORY)　１(Neu)　．(PERIODCATEGORY)　連接詞(Na)　為(VG)　中心語(Na)　（(PARENTHESISCATEGORY)　Ｃａ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+406.　。(PERIODCATEGORY)　並列(VG)　連接詞(Na)　為(VG)　中心語(Na)　所(D)　表達(VC)　的(DE)　連接詞(Na)　片語(Na)　在(P)　句(Na)　中(Ng)　的(DE)　作用(Na)　和(Caa)　其(Nep)　連接(VJ)[+nom]　成分(Na)　的(DE)　作用(Na)　完全(D)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+407.　，(COMMACATEGORY)　例如(P)　（(PARENTHESISCATEGORY)　２９—３３(Neu)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+408.　。(PERIODCATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+409.　，(COMMACATEGORY)　即使(Cbb)　並列(VG)[+nom]　連接詞(Na)　為(VG)　中心語(Na)　，(COMMACATEGORY)
+***********************************************
+410.　，(COMMACATEGORY)　但(Cbb)　所(D)　形成(VG)　的(DE)　連接詞(Na)　片語(Na)　在(P)　剖析(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+411.　，(COMMACATEGORY)　將(D)　以(P)　連接(VJ)[+nom]　成分(Na)　的(DE)　語法(Na)　結構(Na)　取代(VC)　。(PERIODCATEGORY)
+***********************************************
+412.　。(PERIODCATEGORY)　例(Na)　（２８）(Neu)　中(Ng)　四(Neu)　日(Na)　至(Caa)　七(Neu)　日(Na)　為(VG)　ＤＭ(FW)　（(PARENTHESISCATEGORY)　Ｄｅｔｅｒｍｉｎａｔｉｖｅ(FW)　Ｍｅａｓｕｒｅ(FW)　Ｃｏｍｐｏｕｎｄ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+413.　。(PERIODCATEGORY)　例(Na)　（２９）(Neu)　中(Ng)　大(VH)　又(Caa)　圓(VH)　為(VG)　ＶＰ(FW)　。(PERIODCATEGORY)
+***********************************************
+414.　。(PERIODCATEGORY)　例(Na)　（３０）(Neu)　中(Ng)　陽光(Na)　和(Caa)　水分(Na)　為(VG)　ＮＰ(FW)　。(PERIODCATEGORY)
+***********************************************
+415.　。(PERIODCATEGORY)　連接(VJ)[+nom]　成分(Na)　間(Ng)　有(V_2)　語法(Na)　結構(Na)　及(Caa)　語義(Na)　一致性(Na)　（(PARENTHESISCATEGORY)　ａｇｒｅｅｍｅｎｔ(FW)　）(PARENTHESISCATEGORY)　的(DE)　特性(Na)　。(PERIODCATEGORY)
+***********************************************
+416.　。(PERIODCATEGORY)　我們(Nh)　採用(VC)　一(Neu)　個(Nf)　特殊(VH)　的(DE)　特徵(Na)　ＡＧＲＥＥ(FW)　來(D)　表示(VE)　兩(Neu)　個(Nf)　成分(Na)　之間(Ng)　的(DE)　一致性(Na)　關係(Na)　（(PARENTHESISCATEGORY)　註(Na)　４(Neu)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+417.　。(PERIODCATEGORY)　（３８）(Neu)　並列(VG)[+nom]　連接詞(Na)　的(DE)　詞彙(Na)　訊息(Na)　。(PERIODCATEGORY)
+***********************************************
+418.　。(PERIODCATEGORY)　＊(FW)　例如(P)　：(COLONCATEGORY)
+***********************************************
+419.　：(COLONCATEGORY)　和(Caa)　，(COMMACATEGORY)
+***********************************************
+420.　，(COMMACATEGORY)　跟(Caa)　，(COMMACATEGORY)
+***********************************************
+421.　，(COMMACATEGORY)　與(Caa)　，(COMMACATEGORY)
+***********************************************
+422.　，(COMMACATEGORY)　或(Caa)　，(COMMACATEGORY)
+***********************************************
+423.　，(COMMACATEGORY)　、(PAUSECATEGORY)　等(Cab)　＊(FW)　視(VC)　詞(Na)　的(DE)　個別性(Na)　略(D)　有(V_2)　變動(VHC)　，(COMMACATEGORY)
+***********************************************
+424.　，(COMMACATEGORY)　例如(P)　表(Na)　範圍(Na)　的(DE)　連接詞(Na)　形式(Na)　為(VG)　：(COLONCATEGORY)
+***********************************************
+425.　：(COLONCATEGORY)　ＤＵＭＭＹ(FW)　【(PARENTHESISCATEGORY)　ＮＰ(FW)　】(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+426.　，(COMMACATEGORY)　表示(VE)　其(Nep)　形式(Na)　必須(D)　是(SHI)　名詞(Na)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+427.　，(COMMACATEGORY)　包括(VK)　數量(Na)　定詞(Na)　及(Caa)　定量式(A)　複合詞(Na)　。(PERIODCATEGORY)
+***********************************************
+428.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)　連接詞(Na)　為(VG)　修飾語(Na)　（(PARENTHESISCATEGORY)　Ｃｂ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+429.　。(PERIODCATEGORY)　通常(D)　在(P)　句(Na)　中(Ng)　出現(VH)　並(D)　連繫(VC)　兩(Neu)　個(Nf)　句子(Na)　成分(Na)　的(DE)　連接詞(Na)　其(Nep)　處理(VC)　的(DE)　方式(Na)　和(Caa)　句子(Na)　中(Ng)　的(DE)　附加(VC)[+nom]　成分(Na)　的(DE)　處理(VC)[+nom]　方式(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+430.　，(COMMACATEGORY)　不過(Cbb)　附帶(D)　有(V_2)　連繫(VC)[+nom]　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+431.　，(COMMACATEGORY)　如(P)　ｒｅａｓｏｎ(FW)　，(COMMACATEGORY)
+***********************************************
+432.　，(COMMACATEGORY)　ｈｙｐｏｔｈｅｓｉｓ(FW)　，(COMMACATEGORY)
+***********************************************
+433.　，(COMMACATEGORY)　ｃｏｎｄｉｔｉｏｎ(FW)　，(COMMACATEGORY)
+***********************************************
+434.　，(COMMACATEGORY)　ｒｅｓｕｌｔ(FW)　，(COMMACATEGORY)
+***********************************************
+435.　，(COMMACATEGORY)　…(ETCCATEGORY)
+***********************************************
+436.　…(ETCCATEGORY)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+437.　。(PERIODCATEGORY)　連繫(VC)[+nom]　特徵(Na)　具有(VJ)　配對(VA)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+438.　，(COMMACATEGORY)　如(P)　表(Na)　一(Neu)　、(PAUSECATEGORY)　表(Na)　二(Neu)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+439.　，(COMMACATEGORY)　偏正(A)　複句(Na)　及(Caa)　聯合(VC)[+nom]　複句(Na)　中(Ng)　所(D)　示(VE)　以(P)　成對(VH)　出現(VH)　，(COMMACATEGORY)
+***********************************************
+440.　，(COMMACATEGORY)　不同(VH)　的(DE)　連接詞(Na)　會(D)　賦予(VD)　不同(VH)　的(DE)　連繫(VC)[+nom]　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+441.　，(COMMACATEGORY)　有時(D)　連接(VJ)[+nom]　成分(Na)　並(D)　不一定(D)　帶有(VJ)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+442.　，(COMMACATEGORY)　這時(Nd)　其(Nep)　配對(VA)[+nom]　關係(Na)　是(SHI)　由(P)　其中(Nep)　一(Neu)　個(Nf)　連接(VJ)[+nom]　成分(Na)　中(Ng)　的(DE)　連繫(VC)[+nom]　特徵(Na)　或(Caa)　由(P)　常識(Na)　推論(Na)　得到(VJ)　；(SEMICOLONCATEGORY)
+***********************************************
+443.　；(SEMICOLONCATEGORY)　有時(D)　某些(Neqa)　副詞(Na)　也(D)　帶有(VJ)　連繫(VC)[+nom]　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+444.　，(COMMACATEGORY)　可以(D)　和(P)　帶有(VJ)　連接(VJ)[+nom]　成分(Na)　的(DE)　從屬(Na)　句(Na)　形成(VG)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+445.　，(COMMACATEGORY)　不過(Cbb)　還是(D)　要(D)　符合(VJ)　連繫(VC)[+nom]　特徵(Na)　間(Ng)　的(DE)　配對(VA)[+nom]　原則(Na)　。(PERIODCATEGORY)
+***********************************************
+446.　。(PERIODCATEGORY)　（３９）(Neu)　連接詞(Na)　為(VG)　句(Na)　中(Ng)　附加(VC)[+nom]　成分(Na)　的(DE)　表示法(Na)　。(PERIODCATEGORY)
+***********************************************
+447.　。(PERIODCATEGORY)　前繫(VH)　連接詞(Na)　的(DE)　移動性(Na)　或(Caa)　非(A)　移動性(Na)　可以(D)　表示(VE)　在(P)　線性律(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+448.　，(COMMACATEGORY)　移動性(Na)　前繫(VH)　連接詞(Na)　「(PARENTHESISCATEGORY)　雖然(Cbb)　」(PARENTHESISCATEGORY)　的(DE)　表達(VC)[+nom]　結果(Na)　如(P)　下(Ng)　：(COLONCATEGORY)
+***********************************************
+449.　：(COLONCATEGORY)　六(Neu)　、(PAUSECATEGORY)　複句(Na)　的(DE)　配對(VA)[+nom]　原則(Na)　。(PERIODCATEGORY)
+***********************************************
+450.　。(PERIODCATEGORY)　語法(Na)　的(DE)　表達(VC)[+nom]　單元(Na)　一般(Ng)　都(D)　只(Da)　及於(VJ)　句子(Na)　層次(Na)　。(PERIODCATEGORY)
+***********************************************
+451.　。(PERIODCATEGORY)　由於(Cbb)　複句(Na)　結構(Na)　通常(D)　由(P)　兩(Neu)　個(Nf)　句子(Na)　所(D)　合成(VG)　，(COMMACATEGORY)
+***********************************************
+452.　，(COMMACATEGORY)　其(Nep)　關聯(Na)　成分(Na)　可能(D)　帶有(VJ)　連繫(VC)　兩(Neu)　個(Nf)　句子(Na)　關係(Na)　的(DE)　連接詞(Na)　或(Caa)　副詞(Na)　，(COMMACATEGORY)
+***********************************************
+453.　，(COMMACATEGORY)　剖析(VC)　時(Ng)　如何(D)　完成(VC)　一(Neu)　個(Nf)　複句(Na)　中(Ng)　兩(Neu)　個(Nf)　分句(Na)　的(DE)　結合(VHC)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+454.　，(COMMACATEGORY)　必需(D)　要(D)　用(P)　一(Neu)　種(Nf)　超越(VC)　句子(Na)　層次(Na)　的(DE)　處理(VC)[+nom]　方法(Na)　。(PERIODCATEGORY)
+***********************************************
+455.　。(PERIODCATEGORY)　我們(Nh)　採用(VC)　連繫(VC)[+nom]　特徵(Na)　配對(VA)　的(DE)　方式(Na)　處理(VC)　。(PERIODCATEGORY)
+***********************************************
+456.　。(PERIODCATEGORY)　連繫(VC)[+nom]　特徵(Na)　為(VG)　一(Neu)　種(Nf)　自動(VH)　傳承(VC)　特徵(Na)　（(PARENTHESISCATEGORY)　ｆｏｏｔｆｅａｔｕｒｅｓ(FW)　）(PARENTHESISCATEGORY)　【(PARENTHESISCATEGORY)　６(Neu)　，(COMMACATEGORY)
+***********************************************
+457.　，(COMMACATEGORY)　１２(Neu)　】(PARENTHESISCATEGORY)　連繫(VC)[+nom]　特徵(Na)　在(P)　剖析(VC)　時(Ng)　由(P)　連接詞(Na)　或(Caa)　副詞(Na)　傳遞至(VC)　句子(Na)　層次(Na)　，(COMMACATEGORY)
+***********************************************
+458.　，(COMMACATEGORY)　完成(VC)　第一(Neu)　階段(Na)　的(DE)　剖析(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+459.　。(PERIODCATEGORY)　第二(Neu)　階段(Na)　的(DE)　剖析(VC)[+nom]　將(P)　連繫(VC)　兩(Neu)　個(Nf)　相鄰(VH)　且(Caa)　帶有(VJ)　連繫(VC)[+nom]　特徵(Na)　的(DE)　句子(Na)　形成(VG)　一(Neu)　個(Nf)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+460.　。(PERIODCATEGORY)　１(Neu)　．(PERIODCATEGORY)　前繫(VH)　特徵(Na)　及(Caa)　後繫(VH)　特徵(Na)　皆(D)　存在(VA)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+461.　，(COMMACATEGORY)　其(Nep)　配對(VA)[+nom]　限制(Na)　為(VG)　：(COLONCATEGORY)
+***********************************************
+462.　：(COLONCATEGORY)　２(Neu)　．(PERIODCATEGORY)　僅(Da)　後繫(VH)　特徵(Na)　出現(VH)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+463.　，(COMMACATEGORY)　和(P)　前(Nes)　句(Na)　配對(VA)　形成(VG)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+464.　，(COMMACATEGORY)　其(Nep)　可能(VH)　關係(Na)　如(P)　（４１）(Neu)　。(PERIODCATEGORY)
+***********************************************
+465.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　僅(Da)　前繫(VH)　特徵(Na)　出現(VH)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+466.　，(COMMACATEGORY)　可能(D)　和(P)　前(Nes)　句(Na)　或(Caa)　後(Nes)　句(Na)　形成(VG)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+467.　，(COMMACATEGORY)　由(P)　常識(Na)　決定(VE)　或(Caa)　句號(Na)　。(PERIODCATEGORY)
+***********************************************
+468.　。(PERIODCATEGORY)　、(PAUSECATEGORY)　分號(Nc)　；(SEMICOLONCATEGORY)
+***********************************************
+469.　；(SEMICOLONCATEGORY)　決定(VE)　。(PERIODCATEGORY)
+***********************************************
+470.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　連續(A)　特徵(Na)　出現(VH)　時(Ng)　：(COLONCATEGORY)
+***********************************************
+471.　：(COLONCATEGORY)　ａｌｔｅｒｎａｔｉｖｅ(FW)　成對(VH)　形成(VG)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+472.　。(PERIODCATEGORY)　ｌｉｓｔｉｎｇ(FW)　可以(D)　無(VJ)　限制(Na)　連續(D)　出現(VH)　，(COMMACATEGORY)
+***********************************************
+473.　，(COMMACATEGORY)　形成(VG)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+474.　。(PERIODCATEGORY)　七(Neu)　、(PAUSECATEGORY)　剖析(VC)　時(Ng)　的(DE)　角色(Na)　辨別(VC)[+nom]　及(Caa)　語法(Na)　策略(Na)　。(PERIODCATEGORY)
+***********************************************
+475.　。(PERIODCATEGORY)　綜合(VC)　前面(Ncd)　所(D)　述(VE)　，(COMMACATEGORY)
+***********************************************
+476.　，(COMMACATEGORY)　我們(Nh)　將(P)　連接詞(Na)　分為(VG)　不同(VH)　類別(Na)　，(COMMACATEGORY)
+***********************************************
+477.　，(COMMACATEGORY)　不同(VH)　類別(Na)　的(DE)　連接詞(Na)　有(V_2)　不同(VH)　的(DE)　詞彙(Na)　訊息(Na)　，(COMMACATEGORY)
+***********************************************
+478.　，(COMMACATEGORY)　在(P)　句子(Na)　中(Ng)　可能(D)　有(V_2)　不同(VH)　的(DE)　角色(Na)　考量(VE)[+nom]　—(DASHCATEGORY)　可能(D)　做(VC)　中心語(Na)　，(COMMACATEGORY)
+***********************************************
+479.　，(COMMACATEGORY)　也(D)　可能(D)　是(SHI)　動詞(Na)　修飾語(Na)　。(PERIODCATEGORY)
+***********************************************
+480.　。(PERIODCATEGORY)　以下(Ng)　我們(Nh)　將就(VH)　一些(Neqa)　簡單(VH)　的(DE)　實例(Na)　說明(VE)　如何(D)　利用(VC)　語法(Na)　表達(VC)[+nom]　模式(Na)　來(D)　組合(VC)　所(D)　要(VC)　的(DE)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+481.　，(COMMACATEGORY)　完成(VC)　句子(Na)　正確(VH)　的(DE)　分析(Na)　。(PERIODCATEGORY)
+***********************************************
+482.　。(PERIODCATEGORY)　（４２）(Neu)　政府(Na)　根據(P)　國內(Nc)　學者(Na)　和(Caa)　專家(Na)　的(DE)　意見(Na)　制訂(VC)　完整(VH)　的(DE)　辦法(Na)　。(PERIODCATEGORY)
+***********************************************
+483.　。(PERIODCATEGORY)　句(Na)　中(Ng)　介詞(Na)　「(PARENTHESISCATEGORY)　根據(P)　」(PARENTHESISCATEGORY)　所(D)　帶(VC)　的(DE)　成分(Na)　應(D)　是(SHI)　名詞(Na)　，(COMMACATEGORY)
+***********************************************
+484.　，(COMMACATEGORY)　「(PARENTHESISCATEGORY)　國內(Nc)　學者(Na)　和(Caa)　專家(Na)　的(DE)　意見(Na)　」(PARENTHESISCATEGORY)　可能(VH)　的(DE)　組合(VC)[+nom]　有(V_2)　幾(Neu)　種(Nf)　情形(Na)　：(COLONCATEGORY)
+***********************************************
+485.　：(COLONCATEGORY)　「(PARENTHESISCATEGORY)　和(Caa)　」(PARENTHESISCATEGORY)　屬於(VG)　並列(VG)[+nom]　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+486.　，(COMMACATEGORY)　如(P)　（３８）(Neu)　所(D)　示(VE)　要求(VF)　兩(Neu)　個(Nf)　對等(A)　的(DE)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+487.　，(COMMACATEGORY)　所以(Cbb)　雖然(Cbb)　可以(D)　是(SHI)　第１(Neu)　種(Nf)　和(Caa)　第２(Neu)　種(Nf)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+488.　，(COMMACATEGORY)　但是(Cbb)　由於(Cbb)　「(PARENTHESISCATEGORY)　學者(Na)　」(PARENTHESISCATEGORY)　和(Caa)　「(PARENTHESISCATEGORY)　意見(Na)　」(PARENTHESISCATEGORY)　分(D)　屬(VG)　不同(VH)　的(DE)　名詞(Na)　觀念(Na)　範疇(Na)　【(PARENTHESISCATEGORY)　１１(Neu)　】(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+489.　，(COMMACATEGORY)　所以(Cbb)　並(D)　非(VG)　優先(D)　考慮(VE)　的(DE)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+490.　。(PERIODCATEGORY)　第３(Neu)　中(Ncd)　雖然(Cbb)　正確(VH)　連接(VJ)　「(PARENTHESISCATEGORY)　學者(Na)　」(PARENTHESISCATEGORY)　和(Caa)　「(PARENTHESISCATEGORY)　專家(Na)　」(PARENTHESISCATEGORY)　兩(Neu)　個(Nf)　同(D)　屬(VG)　人(Na)　的(DE)　名詞(Na)　，(COMMACATEGORY)
+***********************************************
+491.　，(COMMACATEGORY)　但是(Cbb)　「(PARENTHESISCATEGORY)　學者(Na)　」(PARENTHESISCATEGORY)　之前(Ng)　有(V_2)　修飾(VC)[+nom]　成分(Na)　「(PARENTHESISCATEGORY)　國內(Nc)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+492.　，(COMMACATEGORY)　而(Cbb)　「(PARENTHESISCATEGORY)　專家(Na)　」(PARENTHESISCATEGORY)　是(SHI)　光桿(Na)　名詞(Na)　（(PARENTHESISCATEGORY)　ｂａｒｅ(FW)　ＮＰ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+493.　，(COMMACATEGORY)　呈現(VJ)　不(D)　平衡(VHC)　的(DE)　連接(VJ)[+nom]　，(COMMACATEGORY)
+***********************************************
+494.　，(COMMACATEGORY)　所以(Cbb)　不若(Cbb)　最後(Nd)　一(Neu)　種(Nf)　情形(Na)　的(DE)　分析(Na)　來得(Dfa)　最為(Dfa)　妥當(VH)　：(COLONCATEGORY)
+***********************************************
+495.　：(COLONCATEGORY)　結合(VHC)　「(PARENTHESISCATEGORY)　學者(Na)　」(PARENTHESISCATEGORY)　和(Caa)　「(PARENTHESISCATEGORY)　專家(Na)　」(PARENTHESISCATEGORY)　為(VG)　同心(VH)　結構(Na)　的(DE)　名詞組(Na)　，(COMMACATEGORY)
+***********************************************
+496.　，(COMMACATEGORY)　做(VC)　「(PARENTHESISCATEGORY)　意見(Na)　」(PARENTHESISCATEGORY)　的(DE)　定語(Na)　。(PERIODCATEGORY)
+***********************************************
+497.　。(PERIODCATEGORY)　下面(Ncd)　我們(Nh)　來(D)　看(VE)　一些(Neqa)　偏正(A)　複句(Na)　的(DE)　例子(Na)　：(COLONCATEGORY)
+***********************************************
+498.　：(COLONCATEGORY)　（４３）(Neu)　他(Nh)　因為(Cbb)　樂於助人(VH)　，(COMMACATEGORY)
+***********************************************
+499.　，(COMMACATEGORY)　所以(Cbb)　得到(VJ)　大家(Nh)　的(DE)　讚賞(VJ)[+nom]　。(PERIODCATEGORY)
+***********************************************
+500.　。(PERIODCATEGORY)　（４４）(Neu)　如果(Cbb)　人(Na)　沒有(VJ)　信用(Na)　做不了(VC)　事(Na)　。(PERIODCATEGORY)
+***********************************************
+501.　。(PERIODCATEGORY)　（４５）(Neu)　你(Nh)　必須(D)　來(VA)　，(COMMACATEGORY)
+***********************************************
+502.　，(COMMACATEGORY)　否則(Cbb)　會議(Na)　開(VG)[+vrv]　不(D)　成(VC)[+vrr]　。(PERIODCATEGORY)
+***********************************************
+503.　。(PERIODCATEGORY)　這些(Neqa)　例句(Na)　都(D)　是(SHI)　由(P)　兩(Neu)　個(Nf)　子句(Na)　形成(VG)　的(DE)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+504.　，(COMMACATEGORY)　剖析(VC)　時(Ng)　個別(A)　句子(Na)　依據(P)　句(Na)　中(Ng)　主要(A)　動詞(Na)　所(D)　規範(VC)　的(DE)　語法(Na)　規律(Na)　完成(VC)　句子(Na)　的(DE)　剖析(Na)　。(PERIODCATEGORY)
+***********************************************
+505.　。(PERIODCATEGORY)　在(P)　（４３）(Neu)　句(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+506.　，(COMMACATEGORY)　「(PARENTHESISCATEGORY)　因為(Cbb)　」(PARENTHESISCATEGORY)　描述(VC)　事件(Na)　的(DE)　理由(Na)　，(COMMACATEGORY)
+***********************************************
+507.　，(COMMACATEGORY)　帶有(VJ)　連繫(VC)[+nom]　特徵(Na)　ｒｅａｓｏｎ(FW)　，(COMMACATEGORY)
+***********************************************
+508.　，(COMMACATEGORY)　後面(Ncd)　一(Neu)　個(Nf)　動詞組(Na)　含有(VJ)　ｒｅｓｕｌｔ(FW)　特徵(Na)　。(PERIODCATEGORY)
+***********************************************
+509.　。(PERIODCATEGORY)　依據(P)　連繫(VC)[+nom]　特徵(Na)　配對(VA)[+nom]　原則(Na)　，(COMMACATEGORY)
+***********************************************
+510.　，(COMMACATEGORY)　ｒｅａｓｏｎ(FW)　和(Caa)　ｒｅｓｕｌｔ(FW)　可以(D)　配對(VA)　形成(VG)　一(Neu)　個(Nf)　偏正(A)　結構(Na)　的(DE)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+511.　。(PERIODCATEGORY)　（４４）(Neu)　為(VG)　前繫(VH)　連接詞(Na)　「(PARENTHESISCATEGORY)　如果(Cbb)　」(PARENTHESISCATEGORY)　搭配(VC)　一(Neu)　個(Nf)　不(D)　帶(VC)　任何(Neqa)　連接(VJ)[+nom]　記號(Na)　的(DE)　動詞(Na)　片語(Na)　，(COMMACATEGORY)
+***********************************************
+512.　，(COMMACATEGORY)　形成(VG)　一(Neu)　個(Nf)　（(PARENTHESISCATEGORY)　ｈｙｐｏｔｈｅｓｉｓ(FW)　，(COMMACATEGORY)
+***********************************************
+513.　，(COMMACATEGORY)　ｃｏｎｃｌｕｓｉｏｎ(FW)　）(PARENTHESISCATEGORY)　的(DE)　配對(VA)[+nom]　。(PERIODCATEGORY)
+***********************************************
+514.　。(PERIODCATEGORY)　（４５）(Neu)　有(V_2)　一(Neu)　個(Nf)　後繫(VH)　連接詞(Na)　「(PARENTHESISCATEGORY)　否則(Cbb)　」(PARENTHESISCATEGORY)　帶有(VJ)　ｃｏｎｖｅｒｓｉｏｎ(FW)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+515.　，(COMMACATEGORY)　由(P)　配對(VA)[+nom]　原則(Na)　知道(VK)　前(Nes)　句(Nf)　為(VG)　一(Neu)　條件(Na)　（(PARENTHESISCATEGORY)　ｃｏｎｄｉｔｉｏｎ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+516.　，(COMMACATEGORY)　形成(VG)　一(Neu)　個(Nf)　條件(Na)　複句(Na)　。(PERIODCATEGORY)
+***********************************************
+517.　。(PERIODCATEGORY)　有時候(D)　偏正(A)　複句(Na)　的(DE)　偏句(Na)　會(D)　有(V_2)　疊用(VH)　的(DE)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+518.　，(COMMACATEGORY)　這時(Nd)　只要(Cbb)　把(P)　兩(Neu)　個(Nf)　偏句(Na)　均(D)　視為(VG)　與(P)　帶有(VJ)　配對(VA)[+nom]　特徵(Na)　的(DE)　主句(Na)　相應(VH)　即(D)　可(VH)　，(COMMACATEGORY)
+***********************************************
+519.　，(COMMACATEGORY)　例(Na)　：(COLONCATEGORY)
+***********************************************
+520.　：(COLONCATEGORY)　（４６）(Neu)　雖然(Cbb)　今天(Nd)　天氣(Na)　不(D)　太(Dfa)　好(VH)　，(COMMACATEGORY)
+***********************************************
+521.　，(COMMACATEGORY)　雖然(Cbb)　時間(Na)　訂(VC)　得(DE)　不(D)　太(Dfa)　對(VH)　，(COMMACATEGORY)
+***********************************************
+522.　，(COMMACATEGORY)　但是(Cbb)　參加(VC)　的(DE)　人(Na)　卻(D)　十分(Dfa)　踴躍(VH)　。(PERIODCATEGORY)
+***********************************************
+523.　。(PERIODCATEGORY)　至於(P)　聯合(VC)[+nom]　複句(Na)　，(COMMACATEGORY)
+***********************************************
+524.　，(COMMACATEGORY)　只要(Cbb)　能(D)　掌握(VC)　複句(Na)　是(SHI)　聯合(VC)[+nom]　結構(Na)　的(DE)　關係(Na)　，(COMMACATEGORY)
+***********************************************
+525.　，(COMMACATEGORY)　並且(Cbb)　確認(VE)　前繫(VH)　、(PAUSECATEGORY)　後繫(VH)　連接詞(Na)　前後(Ng)　的(DE)　對應(VC)[+nom]　關係(Na)　即可(VH)　。(PERIODCATEGORY)
+***********************************************
+526.　。(PERIODCATEGORY)　前面(Ncd)　曾(D)　提及(VE)　複句(Na)　若(Cbb)　無(VJ)　標記(Na)　可能(D)　有(V_2)　不同(VH)　的(DE)　解釋(Na)　，(COMMACATEGORY)
+***********************************************
+527.　，(COMMACATEGORY)　如(P)　：(COLONCATEGORY)
+***********************************************
+528.　：(COLONCATEGORY)　（４７）(Neu)　他(Nh)　費心(VH)　安排(VE)　課程(Na)　，(COMMACATEGORY)
+***********************************************
+529.　，(COMMACATEGORY)　鼓勵(VF)　學生(Na)　參加(VC)　活動(Na)　。(PERIODCATEGORY)
+***********************************************
+530.　。(PERIODCATEGORY)　我們(Nh)　可以(D)　理解(VK)　為(VG)　表(VE)　目的(Na)　的(DE)　連動句(Na)　，(COMMACATEGORY)
+***********************************************
+531.　，(COMMACATEGORY)　安排(VE)　課程(Na)　是(SHI)　為(P)　了(Di)　鼓勵(VF)　學生(Na)　參加(VC)　，(COMMACATEGORY)
+***********************************************
+532.　，(COMMACATEGORY)　也(D)　可能(D)　解釋為(VG)　他(Nh)　又(D)　安排(VE)　活動(Na)　同時(Nd)　也(D)　鼓勵(VF)　學生(Na)　參加(VC)　的(DE)　並列句(Na)　，(COMMACATEGORY)
+***********************************************
+533.　，(COMMACATEGORY)　如果(Cbb)　有(V_2)　「(PARENTHESISCATEGORY)　不但(Cbb)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　而且(Cbb)　」(PARENTHESISCATEGORY)　的(DE)　連接詞(Na)　，(COMMACATEGORY)
+***********************************************
+534.　，(COMMACATEGORY)　則(D)　使得(VL)　結構(Na)　的(DE)　關係(Na)　清楚(VH)　：(COLONCATEGORY)
+***********************************************
+535.　：(COLONCATEGORY)　（４８）(Neu)　他(Nh)　不但(Cbb)　費心(VH)　安排(VE)　課程(Na)　，(COMMACATEGORY)
+***********************************************
+536.　，(COMMACATEGORY)　而且(Cbb)　鼓勵(VF)　學生(Na)　多(D)　參加(VC)　活動(Na)　。(PERIODCATEGORY)
+***********************************************
+537.　。(PERIODCATEGORY)　在(P)　（４８）(Neu)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+538.　，(COMMACATEGORY)　前後(Ng)　兩(Neu)　個(Nf)　連接詞(Na)　直接(VH)　作(VC)　動詞(Na)　修飾語(Na)　即(D)　可(VH)　，(COMMACATEGORY)
+***********************************************
+539.　，(COMMACATEGORY)　由(P)　配對(VA)[+nom]　原則(Na)　可(D)　找到(VC)　相應(VH)　特徵(Na)　的(DE)　連接詞(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+540.　；(SEMICOLONCATEGORY)　「(PARENTHESISCATEGORY)　不但(Cbb)　」(PARENTHESISCATEGORY)　可(D)　與(P)　帶(VC)　ａｄｄｉｔｉｏｎ(FW)　特徵(Na)　的(DE)　後繫(VH)　連接詞(Na)　相應(VH)　，(COMMACATEGORY)
+***********************************************
+541.　，(COMMACATEGORY)　即(VG)　「(PARENTHESISCATEGORY)　而且(Cbb)　、(PAUSECATEGORY)　並且(Cbb)　、(PAUSECATEGORY)　且(Cbb)　、(PAUSECATEGORY)　反而(Cbb)　」(PARENTHESISCATEGORY)　等(Cab)　連用(VB)　，(COMMACATEGORY)
+***********************************************
+542.　，(COMMACATEGORY)　因此(Cbb)　可(D)　確認(VE)　二(Neu)　者(Na)　所在(Na)　分句(Na)　組成(VG)　聯合(VC)[+nom]　結構(Na)　。(PERIODCATEGORY)
+***********************************************
+543.　。(PERIODCATEGORY)　常常(D)　相(D)　對應(VC)　的(DE)　分句(Na)　並(D)　不(D)　是(SHI)　緊鄰(VJ)　出現(VH)　，(COMMACATEGORY)
+***********************************************
+544.　，(COMMACATEGORY)　中間(Ncd)　插有(VJ)　其他(Neqa)　句子(Na)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+545.　，(COMMACATEGORY)　必須(D)　藉(P)　諸(P)　前後(D)　相應(VH)　的(DE)　特徵(Na)　限制(Na)　，(COMMACATEGORY)
+***********************************************
+546.　，(COMMACATEGORY)　才(Da)　容易(VH)　掌握(VC)　，(COMMACATEGORY)
+***********************************************
+547.　，(COMMACATEGORY)　在(P)　偏正句(Na)　及(Caa)　聯合句(Na)　均(D)　有(V_2)　此(Nep)　現象(Na)　。(PERIODCATEGORY)
+***********************************************
+548.　。(PERIODCATEGORY)　例(Na)　：(COLONCATEGORY)
+***********************************************
+549.　：(COLONCATEGORY)　（４９）(Neu)　他(Nh)　雖然(Cbb)　年紀(Na)　輕(VH)　，(COMMACATEGORY)
+***********************************************
+550.　，(COMMACATEGORY)　經驗(Na)　不(D)　豐富(VHC)　，(COMMACATEGORY)
+***********************************************
+551.　，(COMMACATEGORY)　但是(Cbb)　處理(VC)　事情(Na)　井井有條(VH)　。(PERIODCATEGORY)
+***********************************************
+552.　。(PERIODCATEGORY)　（５０）(Neu)　她(Nh)　不但(Cbb)　端莊(VH)　秀麗(VH)　，(COMMACATEGORY)
+***********************************************
+553.　，(COMMACATEGORY)　善體人意(VH)　，(COMMACATEGORY)
+***********************************************
+554.　，(COMMACATEGORY)　並且(Cbb)　會(D)　說(VE)　會(D)　唱(VC)　，(COMMACATEGORY)
+***********************************************
+555.　，(COMMACATEGORY)　多才多藝(VH)　。(PERIODCATEGORY)
+***********************************************
+556.　。(PERIODCATEGORY)　對於(P)　分句(Na)　本身(Nh)　是(SHI)　含有(VJ)　連接(VJ)[+nom]　成分(Na)　的(DE)　複句(Na)　，(COMMACATEGORY)
+***********************************************
+557.　，(COMMACATEGORY)　也(D)　可(D)　依照(P)　上述(Na)　的(DE)　方式(Na)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+558.　，(COMMACATEGORY)　例(Na)　：(COLONCATEGORY)
+***********************************************
+559.　：(COLONCATEGORY)　（５１）(Neu)　他(Nh)　雖然(Cbb)　早年(Nd)　的(DE)　家境(Na)　不(D)　太(Dfa)　好(VH)　，(COMMACATEGORY)
+***********************************************
+560.　，(COMMACATEGORY)　但是(Cbb)　由於(Cbb)　他(Nh)　個人(Na)　的(DE)　努力(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+561.　，(COMMACATEGORY)　成為(VG)　一(Neu)　位(Nf)　偉大(VH)　的(DE)　音樂家(Na)　。(PERIODCATEGORY)
+***********************************************
+562.　。(PERIODCATEGORY)　句(Na)　中(Ng)　「(PARENTHESISCATEGORY)　雖然(Cbb)　早年(Nd)　的(DE)　家境(Na)　不(D)　太(Dfa)　好(VH)　」(PARENTHESISCATEGORY)　作(VC)　主句(Na)　的(DE)　修飾語(Na)　，(COMMACATEGORY)
+***********************************************
+563.　，(COMMACATEGORY)　因為(Cbb)　主句(Na)　本身(Nh)　也(D)　是(SHI)　個(Nf)　偏正句(Na)　，(COMMACATEGORY)
+***********************************************
+564.　，(COMMACATEGORY)　由(P)　「(PARENTHESISCATEGORY)　由於(Cbb)　」(PARENTHESISCATEGORY)　帶出(VC)　另(Nes)　一(Neu)　個(Nf)　修飾(VC)[+nom]　成分(Na)　「(PARENTHESISCATEGORY)　由於(Cbb)　他(Nh)　個人(Na)　的(DE)　努力(VH)[+nom]　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+565.　，(COMMACATEGORY)　整(Neqa)　個(Nf)　複句(Na)　陳述(VE)　的(DE)　中心(Nc)　成分(Na)　是(SHI)　「(PARENTHESISCATEGORY)　他(Nh)　成為(VG)　一(Neu)　位(Nf)　偉大(VH)　的(DE)　音樂家(Na)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+566.　。(PERIODCATEGORY)　八(Neu)　、(PAUSECATEGORY)　結論(Na)　。(PERIODCATEGORY)
+***********************************************
+567.　。(PERIODCATEGORY)　本(Nes)　文(Na)　針對(P)　連接詞(Na)　的(DE)　不同(VH)　特性(Na)　，(COMMACATEGORY)
+***********************************************
+568.　，(COMMACATEGORY)　提出(VC)　一(Neu)　套(Nf)　適用(VJ)　的(DE)　表達(VC)[+nom]　模式(Na)　以及(Caa)　剖析(Na)　策略(Na)　，(COMMACATEGORY)
+***********************************************
+569.　，(COMMACATEGORY)　由於(Cbb)　許多(Neqa)　複句(Na)　是(SHI)　由(P)　連接詞(Na)　連接(VJ)　組合(VC)　而(Cbb)　成(VG)　，(COMMACATEGORY)
+***********************************************
+570.　，(COMMACATEGORY)　我們(Nh)　根據(P)　複句(Na)　不同(VH)　的(DE)　組合(VC)[+nom]　形式(Na)　及(Caa)　連接詞(Na)　相(D)　對應(VC)　的(DE)　語意(Na)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+571.　，(COMMACATEGORY)　掌握(VC)　其(Nep)　配合(VC)　的(DE)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+572.　。(PERIODCATEGORY)　人類(Na)　理解(VK)　語言(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+573.　，(COMMACATEGORY)　運用(VC)　豐富(VHC)　的(DE)　背景(Na)　知識(Na)　及(Caa)　複雜(VH)　的(DE)　認知(VJ)[+nom]　方式(Na)　，(COMMACATEGORY)
+***********************************************
+574.　，(COMMACATEGORY)　所以(Cbb)　即使(Cbb)　是(SHI)　一(Neu)　個(Nf)　複雜句(Na)　、(PAUSECATEGORY)　一(Neu)　個(Nf)　段落(Na)　、(PAUSECATEGORY)　一(Neu)　長篇(A)　文章(Na)　，(COMMACATEGORY)
+***********************************************
+575.　，(COMMACATEGORY)　均(D)　不會(D)　有(V_2)　太多(Neqa)　的(DE)　困難(Na)　。(PERIODCATEGORY)
+***********************************************
+576.　。(PERIODCATEGORY)　而(Cbb)　我們(Nh)　進行(VC)　自然(Na)　語言(Na)　的(DE)　初步(Na)　，(COMMACATEGORY)
+***********************************************
+577.　，(COMMACATEGORY)　僅(Da)　能(D)　先(D)　就(D)　有(V_2)　標記(Na)　、(PAUSECATEGORY)　比較(Dfa)　簡單(VH)　的(DE)　現象(Na)　做(VC)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+578.　，(COMMACATEGORY)　自然(D)　無法(D)　與(P)　人類(Na)　的(DE)　認知(VJ)[+nom]　相(D)　比擬(VE)　，(COMMACATEGORY)
+***********************************************
+579.　，(COMMACATEGORY)　也(D)　存在(VA)　許多(Neqa)　困難(Na)　是(SHI)　電腦(Na)　不(D)　容易(VH)　解決(VC)　的(T)　，(COMMACATEGORY)
+***********************************************
+580.　，(COMMACATEGORY)　如(P)　對應(VC)　的(DE)　連接(VJ)[+nom]　成分(Na)　中(Ng)　的(DE)　連接詞(Na)　完全(D)　省略(VJ)　，(COMMACATEGORY)
+***********************************************
+581.　，(COMMACATEGORY)　其(Nep)　連接(VJ)　的(DE)　分句(Na)　範圍(Na)　不(D)　容易(VH)　掌握(VC)　。(PERIODCATEGORY)
+***********************************************
+582.　。(PERIODCATEGORY)　所以(Cbb)　，(COMMACATEGORY)
+***********************************************
+583.　，(COMMACATEGORY)　未來(Nd)　仍(D)　有(V_2)　很(Dfa)　長(VH)　的(DE)　路(Na)　要(D)　走(VA)　，(COMMACATEGORY)
+***********************************************
+584.　，(COMMACATEGORY)　僅(Da)　以(P)　簡單(VH)　的(DE)　研究(Na)　心得(Na)　供作(VG)　進一步(D)　研究(Na)　的(DE)　基礎(Na)　。(PERIODCATEGORY)
+***********************************************
+585.　。(PERIODCATEGORY)　註釋(Na)　：(COLONCATEGORY)
+***********************************************
+586.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)　根據(P)　「(PARENTHESISCATEGORY)　現代(Nd)　漢語(Na)　複句(Na)　」(PARENTHESISCATEGORY)　【(PARENTHESISCATEGORY)　５(Neu)　】(PARENTHESISCATEGORY)　所(D)　說(VE)　，(COMMACATEGORY)
+***********************************************
+587.　，(COMMACATEGORY)　只要(Cbb)　一(Neu)　個(Nf)　詞(Na)　或(Caa)　詞組(Na)　在(P)　交際(VA)　中(Ng)　能夠(D)　完成(VC)　一定(A)　的(DE)　交際(VA)[+nom]　任務(Na)　，(COMMACATEGORY)
+***********************************************
+588.　，(COMMACATEGORY)　就(D)　有(V_2)　資格(Na)　成為(VG)　句子(Na)　。(PERIODCATEGORY)
+***********************************************
+589.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+590.　：(COLONCATEGORY)　謝謝(VJ)　！(EXCLANATIONCATEGORY)
+***********************************************
+591.　！(EXCLANATIONCATEGORY)　怎麼(VH)　了(T)　？(QUESTIONCATEGORY)
+***********************************************
+592.　？(QUESTIONCATEGORY)　２(Neu)　．(PERIODCATEGORY)　假設(VE)[+nom]　關係(Na)　表現(Na)　「(PARENTHESISCATEGORY)　若(Cbb)　ｐ(FW)　則(D)　ｑ(FW)　」(PARENTHESISCATEGORY)　的(DE)　邏輯(Na)　意義(Na)　，(COMMACATEGORY)
+***********************************************
+593.　，(COMMACATEGORY)　條件(Na)　關係(Na)　表現出(VC)　「(PARENTHESISCATEGORY)　唯(Da)　若(Cbb)　ｐ(FW)　則(D)　ｑ(FW)　」(PARENTHESISCATEGORY)　的(DE)　意義(Na)　，(COMMACATEGORY)
+***********************************************
+594.　，(COMMACATEGORY)　參見(VC)　【(PARENTHESISCATEGORY)　９(Neu)　】(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+595.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)　本(Nes)　文(Na)　主要(D)　是(SHI)　討論(VE)　關聯(Na)　組合(VC)　的(DE)　情況(Na)　，(COMMACATEGORY)
+***********************************************
+596.　，(COMMACATEGORY)　沒有(VJ)　連接詞(Na)　的(DE)　複句(Na)　類型(Na)　不(D)　在(VCL)　討論(VE)　之(DE)　列(Na)　，(COMMACATEGORY)
+***********************************************
+597.　，(COMMACATEGORY)　所以(Cbb)　文(Na)　中(Ng)　將(P)　聯合(VC)[+nom]　複句(Na)　分為(VG)　選擇(VC)　、(PAUSECATEGORY)　遞進(VA)　、(PAUSECATEGORY)　並列(VG)　三(Neu)　種(Nf)　，(COMMACATEGORY)
+***********************************************
+598.　，(COMMACATEGORY)　偏正(A)　複句(Na)　分(VC)　轉折(Na)　、(PAUSECATEGORY)　因果(Na)　、(PAUSECATEGORY)　假設(VE)　、(PAUSECATEGORY)　條件(Na)　、(PAUSECATEGORY)　取捨(Na)　、(PAUSECATEGORY)　目的(Na)　（(PARENTHESISCATEGORY)　詳見(VC)　第四(Neu)　章(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+599.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)　大部分(Neqa)　情況(Na)　並列(VG)　連接詞(Na)　所(D)　連接(VJ)　的(DE)　成分(Na)　形式(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+600.　，(COMMACATEGORY)　但(Cbb)　有時(D)　可(D)　連接(VJ)　不同(VH)　形式(Na)　的(DE)　成分(Na)　，(COMMACATEGORY)
+***********************************************
+601.　，(COMMACATEGORY)　例(Na)　：(COLONCATEGORY)
+***********************************************
+602.　：(COLONCATEGORY)　傳染(VD)[+nom]　方式(Na)　為(VG)　空氣(Na)　或(Caa)　直接(VH)　接觸(VC)　傳染(VD)　。(PERIODCATEGORY)
+***********************************************
+603.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　ＮＰ(FW)　或(Caa)　ＶＰ(FW)　）(PARENTHESISCATEGORY)　衛生所(Nc)　派員(VF)　到(VCL)　家(Nc)　中(Ncd)　或(Caa)　工廠(Nc)　為(P)　民眾(Na)　量(VC)　血壓(Na)　。(PERIODCATEGORY)
+***********************************************
+604.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　ＧＰ(FW)　或(Caa)　ＮＰ(FW)　）(PARENTHESISCATEGORY)　故(Cbb)　這裡(Ncd)　要求(Na)　的(DE)　一致性(Na)　並(D)　非(D)　絕對(VH)　。(PERIODCATEGORY)
+***********************************************
+605.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)　此(Nep)　線性律(Na)　表示(VE)　「(PARENTHESISCATEGORY)　所以(Cbb)　」(PARENTHESISCATEGORY)　必須(D)　出現(VH)　在(P)　句首(Na)　。(PERIODCATEGORY)
+***********************************************
+606.　。(PERIODCATEGORY)　本(Nes)　論文(Na)　的(DE)　研究(Na)　得(VJ)　國科會(Nc)　中文(Na)　語句(Na)　剖析(VC)　的(DE)　語法(Na)　模式(Na)　研究(Na)　計畫(Na)　（(PARENTHESISCATEGORY)　ＮＳＣ(FW)　７９—０４０８(Neu)　—(DASHCATEGORY)　Ｅ(FW)　００１—０２(Neu)　）(PARENTHESISCATEGORY)　及(Caa)　中央(Nc)　研究院(Nc)　與(Caa)　工研院(Nc)　電通所(Nc)　合作(VH)　「(PARENTHESISCATEGORY)　中文(Na)　語句(Na)　剖析(Na)　系統(Na)　第三(Neu)　期(Nf)　合作(VH)　研究(Na)　與(Caa)　開發(VC)[+nom]　計畫(Na)　」(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　Ｘ(FW)　２—７９００７(Neu)　）(PARENTHESISCATEGORY)　之(DE)　部分(Neqa)　經費(Na)　贊助(VD)　，(COMMACATEGORY)
+***********************************************
+607.　，(COMMACATEGORY)　特此(D)　申謝(VB)　。(PERIODCATEGORY)
+***********************************************
+608.　。(PERIODCATEGORY)　論文(Na)　的(DE)　寫作(VC)[+nom]　感謝(VK)　詞庫(Na)　小組(Na)　其它(Neqa)　成員(Na)　的(DE)　協助(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+609.　，(COMMACATEGORY)　尤其(D)　是(SHI)　美玲(Nb)　熱心(VJ)　的(DE)　幫忙(VC)　完成(VC)　繁瑣(VH)　的(DE)　打字(VA)[+nom]　工作(Na)　，(COMMACATEGORY)
+***********************************************
+610.　，(COMMACATEGORY)　更(D)　要(D)　謝謝(VJ)　黃居仁(Nb)　教授(Na)　不厭其煩(VH)　的(DE)　閱讀(VC)　本(Nes)　文(Na)　並(D)　提供(VD)　寶貴(VH)　意見(Na)　。(PERIODCATEGORY)
+***********************************************

@@ -1,0 +1,1051 @@
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=陳友芳
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+1.　。(PERIODCATEGORY)　小啟(Na)　《(PARENTHESISCATEGORY)　計算(VC)[+prop]　中心(Nc)　通訊(Na)　》(PARENTHESISCATEGORY)　已(D)　邁入(VCL)　第十(Neu)　年(Nf)　了(T)　，(COMMACATEGORY)
+***********************************************
+2.　，(COMMACATEGORY)　在(P)　我們(Nh)　不斷(D)　求新(VH)　求變(VH)　、(PAUSECATEGORY)　努力(VH)　充實(VHC)　通訊(Na)　內容(Na)　的(DE)　同時(Nd)　，(COMMACATEGORY)
+***********************************************
+3.　，(COMMACATEGORY)　希望(VK)　讀者(Na)　能(D)　繼續(VF)　給予(VD)　支持(VC)　、(PAUSECATEGORY)　鼓勵(VF)　。(PERIODCATEGORY)
+***********************************************
+4.　。(PERIODCATEGORY)　此外(Cbb)　為(P)　了(Di)　建立(VC)　一(Neu)　良好(VH)　的(DE)　雙向(A)　溝通(VC)[+nom]　管道(Na)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　對於(P)　通訊(Na)　新(VH)　專欄(Na)　的(DE)　開闢(VC)[+nom]　、(PAUSECATEGORY)　專文(Na)　內容(Na)　的(DE)　充實(VHC)[+nom]　、(PAUSECATEGORY)　版面(Na)　的(DE)　改進(VC)[+nom]　等等(Cab)　寶貴(VH)　意見(Na)　，(COMMACATEGORY)
+***********************************************
+6.　，(COMMACATEGORY)　亦(D)　請(VF)　讀者(Na)　不吝(D)　指教(VA)　，(COMMACATEGORY)
+***********************************************
+7.　，(COMMACATEGORY)　來函(Na)　請(VF)　寄(VD)　中央(Nc)　研究院(Nc)　計算(VC)[+prop]　中心(Nc)　出版(VC)[+nom]　小組(Na)　或(Caa)　電(VC)　７８９－９４９７(Nb)　。(PERIODCATEGORY)
+***********************************************
+8.　。(PERIODCATEGORY)　((PARENTHESISCATEGORY)　陳友芳(Nb)　(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=陳亞寧
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+9.　。(PERIODCATEGORY)　簡訊(Na)　ＩＮＮＯＰＡＣ(FW)　更新為(VG)　８‧１版(Na)　，(COMMACATEGORY)
+***********************************************
+10.　，(COMMACATEGORY)　本(Nes)　院(Nc)　圖書館(Nc)　自動化(VHC)　系統(Na)　ＩＮＮＯＰＡＣ(FW)　自(P)　本(Nes)　（(PARENTHESISCATEGORY)　一(Neu)　）(PARENTHESISCATEGORY)　月(Na)　六日(Nd)　起(Ng)　，(COMMACATEGORY)
+***********************************************
+11.　，(COMMACATEGORY)　更新為(VG)　８‧１版(Na)　，(COMMACATEGORY)
+***********************************************
+12.　。(PERIODCATEGORY)
+***********************************************
+13.　。(PERIODCATEGORY)　新版(Na)　的(DE)　操作(VC)[+nom]　方式(Na)　和(Caa)　舊版(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+14.　，(COMMACATEGORY)　但(Cbb)　增加(VHC)　了(Di)　五(Neu)　項(Nf)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+15.　，(COMMACATEGORY)　包括(VK)　：(COLONCATEGORY)
+***********************************************
+16.　：(COLONCATEGORY)　電子(Na)　郵件(Na)　（(PARENTHESISCATEGORY)　Ｅ－ｍａｉｌ(FW)　）(PARENTHESISCATEGORY)　的(DE)　編輯(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+17.　，(COMMACATEGORY)　可(D)　仿(VC)　全(Neqa)　螢幕(Na)　編輯(VC)　的(DE)　方式(Na)　執行(VC)　；(SEMICOLONCATEGORY)
+***********************************************
+18.　；(SEMICOLONCATEGORY)　改善(VC)　採購(VC)[+nom]　模組(Na)　的(DE)　匯率(Na)　換算(VC)[+nom]　功能(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+19.　；(SEMICOLONCATEGORY)　解決(VC)　使用(VC)　者(Na)　以(P)　「(PARENTHESISCATEGORY)　中國(Nc)　機讀(A)　編目(VB)[+nom]　格式(Na)　」(PARENTHESISCATEGORY)　的(DE)　作者(Na)　欄位(Na)　列入(VJ)　索引(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+20.　，(COMMACATEGORY)　姓名(Na)　間(Ng)　空白(VH)　的(DE)　問題(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+21.　；(SEMICOLONCATEGORY)　流通(VA)[+nom]　通知單(Na)　可(D)　按(P)　地址(Na)　排序(VA)　；(SEMICOLONCATEGORY)
+***********************************************
+22.　；(SEMICOLONCATEGORY)　當(P)　輸入(VC)　資料(Na)　超過(VJ)　欄長(Na)　限制(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　系統(Na)　會(D)　自動(VH)　警示(VC)　。(PERIODCATEGORY)
+***********************************************
+24.　。(PERIODCATEGORY)　以上(Ncd)　新增(VJ)[+nom]　功能(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+25.　，(COMMACATEGORY)　ＩＩＩ(FW)　公司(Nc)　近期(Nd)　內(Ng)　會(D)　提供(VD)　相關(VH)　使用(VC)[+nom]　文件(Na)　，(COMMACATEGORY)
+***********************************************
+26.　，(COMMACATEGORY)　各(Nes)　圖書館(Nc)　在(P)　使用(VC)　上(Ng)　若(Cbb)　遭遇(VJ)　任何(Neqa)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+27.　，(COMMACATEGORY)　請(VF)　隨時(D)　洽詢(VE)　第四(Neu)　科(Nc)　圖書組(Nc)　。(PERIODCATEGORY)
+***********************************************
+28.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　陳亞寧(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=林翠娟
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+29.　。(PERIODCATEGORY)　中心(Nc)　續租(VD)　ＳＡＳ(FW)　統計用(A)　軟體(Na)　，(COMMACATEGORY)　鑑於(Cbb)　院(Nc)　內(Ncd)　同仁(Na)　對(P)　統計(Na)　軟體(Na)　的(DE)　使用(VC)[+nom]　需求(Na)　，(COMMACATEGORY)
+***********************************************
+30.　，(COMMACATEGORY)　租期(Na)　至(P)　去(Nd)[+p1]　（(PARENTHESISCATEGORY)　八十二(Neu)　）(PARENTHESISCATEGORY)　年(Nd)[+p2]　底(Ng)　屆滿(VH)　的(DE)　ＳＡＳ(FW)　統計用(A)　軟體(Na)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　中心(Nc)　自(P)　本(Nes)　((PARENTHESISCATEGORY)　一(Neu)　(PARENTHESISCATEGORY)　月(Na)　起(Ng)　，(COMMACATEGORY)
+***********************************************
+32.　，(COMMACATEGORY)　再(D)　續租(VD)　ＶＡＸ３５４０(FW)　、(PAUSECATEGORY)　ＧＡＴＥ１(FW)　主機版(Na)　各(Nes)　一(Neu)　套(Nf)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　及(Caa)　ＰＣ版(Na)　八十(Neu)　套(Nf)　，(COMMACATEGORY)
+***********************************************
+34.　，(COMMACATEGORY)　繼續(VF)　為(P)　同仁(Na)　服務(VC)　。(PERIODCATEGORY)
+***********************************************
+35.　。(PERIODCATEGORY)　此(Nep)　次(Nf)　續租(VD)　的(DE)　ＰＣ版(Na)　ＳＡＳ(FW)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+36.　，(COMMACATEGORY)　除(P)　四十(Neu)　套(Nf)　ＤＯＳ(Na)[+fw]　版本(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+37.　，(COMMACATEGORY)　另(Nes)　加租(VC)　四十(Neu)　套(Nf)　ＷＩＮＤＯＷＳ(FW)　版本(Na)　，(COMMACATEGORY)
+***********************************************
+38.　，(COMMACATEGORY)　同時(Nd)　新增(VJ)　ＡＳＳＩＳＴ(FW)　與(Caa)　ＣＯＮＮＥＣＴ(FW)　兩(Neu)　個(Nf)　模組(Na)　，(COMMACATEGORY)
+***********************************************
+39.　，(COMMACATEGORY)　以(P)　滿足(VHC)　不同(VH)　的(DE)　使用(VC)[+nom]　需求(Na)　。(PERIODCATEGORY)
+***********************************************
+40.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+41.　，(COMMACATEGORY)　中心(Nc)　並(Cbb)　已(D)　製妥(VC)　ＰＣ(Na)[+fw]　版本(Na)　磁片(Na)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　有(V_2)　需求(Na)　者(Na)　請(VF)　逕(D)　與(P)　服務組(Nc)　洽詢(VE)　。(PERIODCATEGORY)
+***********************************************
+43.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　林翠娟(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=林翠娟
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+44.　。(PERIODCATEGORY)　舉辦(VC)　研究(Na)　人才(Na)　資訊(Na)　管理(VC)[+nom]　系統(Na)　操作(VC)[+nom]　說明(Na)　會(Na)　，(COMMACATEGORY)　中心(Nc)　於(P)　去(Nd)[+p1]　（(PARENTHESISCATEGORY)　８２(Neu)　）(PARENTHESISCATEGORY)　年(Nd)[+p2]　年底(Nd)　協助(VC)　總務組(Nc)　辦理(VC)　「(PARENTHESISCATEGORY)　國科會(Nc)　研究(Na)　人才(Na)　資訊(Na)　管理(VC)[+nom]　系統(Na)　」(PARENTHESISCATEGORY)　操作(VC)[+nom]　說明(Na)　會(Na)　，(COMMACATEGORY)
+***********************************************
+45.　，(COMMACATEGORY)　以(P)　便利(VL)　院(Nc)　內(Ncd)　研究(Na)　人員(Na)　研究(Na)　計畫(Na)　補助(VD)　之(DE)　申請(VF)[+nom]　。(PERIODCATEGORY)
+***********************************************
+46.　。(PERIODCATEGORY)　此(Nep)　一(Neu)　研究(Na)　人才(Na)　資料庫(Na)　管理(VC)[+nom]　系統(Na)　，(COMMACATEGORY)
+***********************************************
+47.　，(COMMACATEGORY)　係(VG)　配合(VC)　國科會(Nc)　於(P)　今年(Nd)　起(Ng)　利用(VC)　電腦(Na)　輔助(VC)　各(Nes)　研究(Na)　計畫(Na)　申請(VF)[+nom]　作業(Na)　的(DE)　進行(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+48.　。(PERIODCATEGORY)　透過(P)　此(Nep)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+49.　，(COMMACATEGORY)　各(Nes)　所(Nc)　除(P)　可(D)　據以(D)　建立(VC)　該(Nes)　所(Nc)　之(DE)　研究(Na)　人才(Na)　資料庫(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+50.　，(COMMACATEGORY)　院(Nc)　內(Ncd)　各(Nes)　研究(Na)　人員(Na)　亦(D)　可(D)　自行(D)　轉出(VC)　個人(Na)　研究(Na)　資料(Na)　檔案(Na)　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　以利(VJ)　其(Nep)　日後(Nd)　申請(VF)　研究(Na)　計畫(Na)　補助(VD)　之(DE)　用(Na)　。(PERIODCATEGORY)
+***********************************************
+52.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　林翠娟(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=公告啟示
+%%  文體=說明
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=林翠娟
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+53.　。(PERIODCATEGORY)　８３年度(Nd)　資訊(Na)　研討(VE)[+nom]　課程(Na)　同仁(Na)　參與(VC)　熱烈(VH)　，(COMMACATEGORY)　中心(Nc)　八十三年度(Nd)　資訊(Na)　研討(VE)[+nom]　課程(Na)　，(COMMACATEGORY)
+***********************************************
+54.　，(COMMACATEGORY)　自(P)　去(Nd)[+p1]　（(PARENTHESISCATEGORY)　八十二(Neu)　）(PARENTHESISCATEGORY)　年(Nd)　底(Ng)　推出(VC)　以來(Ng)　，(COMMACATEGORY)
+***********************************************
+55.　，(COMMACATEGORY)　廣獲(VJ)　同仁(Na)　的(DE)　熱烈(VH)　參與(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+56.　。(PERIODCATEGORY)　此(Nep)　一(Neu)　系列(Na)　之(DE)　講題(Na)　及(Caa)　課程(Na)　內容(Na)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　主要(A)　針對(P)　同仁(Na)　之(DE)　需求(Na)　作(VC)　整體(Na)　規劃(Na)　。(PERIODCATEGORY)
+***********************************************
+58.　。(PERIODCATEGORY)　就(P)　已(D)　推出(VC)　的(DE)　多(Neqa)　項(Nf)　文書(Na)　處理(VC)[+nom]　及(Caa)　排版(VA)[+nom]　軟體(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+59.　，(COMMACATEGORY)　包括(VK)　：(COLONCATEGORY)
+***********************************************
+60.　：(COLONCATEGORY)　ＷｏｒｄＰｅｒｆｅｃｔ(FW)　、(PAUSECATEGORY)　ＭＳ－Ｗｏｒｄ(FW)　、(PAUSECATEGORY)　天蠍星(Nb)　及(Caa)　ＬａＴｅＸ(FW)　等(Cab)　課程(Na)　，(COMMACATEGORY)
+***********************************************
+61.　，(COMMACATEGORY)　從(P)　參與(VC)　的(DE)　熱烈(VH)　程度(Na)　看(VE)　來(T)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　反應出(VE)　同仁(Na)　高度(A)　的(DE)　學習(VC)[+nom]　意願(Na)　。(PERIODCATEGORY)
+***********************************************
+63.　。(PERIODCATEGORY)　在(P)　後續(A)　規劃(VC)　的(DE)　課程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+64.　，(COMMACATEGORY)　計有(VJ)　Ｘ－Ｗｉｎｄｏｗ(FW)　、(PAUSECATEGORY)　資料庫(Na)　管理(VC)[+nom]　概念(Na)　、(PAUSECATEGORY)　ＵＮＩＸ(Nb)[+fw]　及(Caa)　ｄＢａｓｅＩＩＩｐｌｕｓ(FW)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+65.　，(COMMACATEGORY)　有(V_2)　興趣(Na)　者(Na)　請(VF)　填妥(VC)　報名表(Na)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　儘速(D)　擲回(VCL)　計算(VC)[+prop]　中心(Nc)　服務組(Nc)　，(COMMACATEGORY)
+***********************************************
+67.　，(COMMACATEGORY)　以免(Cbb)　向隅(VH)　。(PERIODCATEGORY)
+***********************************************
+68.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　林翠娟(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=會議紀錄
+%%  文體=記敘
+%%  語式=spoken-to-be-written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=陳淑君
+%%  性別=女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+69.　。(PERIODCATEGORY)　ＩＮＮＯＰＡＣ(FW)　三(Neu)　小組(Na)　會議(Na)　圓滿(VH)　召開(VC)　，(COMMACATEGORY)　本(Nes)　院(Nc)　圖書館(Nc)　自動化(VHC)　編目(VB)[+nom]　、(PAUSECATEGORY)　協調(VC)[+nom]　及(Caa)　系統(Na)　三(Neu)　小組(Na)　會議(Na)　於(P)　去(Nd)[+p1]　（(PARENTHESISCATEGORY)　８２(Neu)　）(PARENTHESISCATEGORY)　年(Nd)[+p2]　年底(Nd)　及(Caa)　本(Nes)　（(PARENTHESISCATEGORY)　一(Neu)　）(PARENTHESISCATEGORY)　月(Na)　初(Ng)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　分別(D)　假(P)　植物所(Nc)　和(Caa)　活動(Na)　中心(Nc)　會議室(Nc)　圓滿(VH)　召開(VC)　。(PERIODCATEGORY)
+***********************************************
+71.　。(PERIODCATEGORY)　編目(VB)[+nom]　小組(Na)　會議(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+72.　，(COMMACATEGORY)　除(P)　檢視(VC)　上(Nes)　半(Neqa)　年度(Na)　討論(VE)[+nom]　事項(Na)　的(DE)　進行(VC)[+nom]　情況(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+73.　，(COMMACATEGORY)　並(Cbb)　針對(P)　「(PARENTHESISCATEGORY)　ＩＮＮＯＰＡＣＱ(FW)　編目(VB)[+nom]　模組(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　ＩＮＮＯＰＡＣ(FW)　第九(Neu)　版(Na)　新增(VJ)[+nom]　功能(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　編目(VB)[+nom]　著錄(VC)[+nom]　標準(Na)　」(PARENTHESISCATEGORY)　及(Caa)　「(PARENTHESISCATEGORY)　複本(Na)　控制(VC)[+nom]　前置(A)　作業(Na)　：(COLONCATEGORY)
+***********************************************
+74.　：(COLONCATEGORY)　首(Nes)　冠詞(Na)　處理(VC)[+nom]　」(PARENTHESISCATEGORY)　等(Cab)　四(Neu)　項(Nf)　議題(Na)　熱烈(VH)　討論(VE)　。(PERIODCATEGORY)
+***********************************************
+75.　。(PERIODCATEGORY)　協調(VC)　小組(Na)　會議(Na)　首先(D)　查核(VE)　上(Nes)　次(Nf)　會議(Na)　議決(VC)[+nom]　事項(Na)　之(DE)　處理(VC)[+nom]　情形(Na)　，(COMMACATEGORY)
+***********************************************
+76.　，(COMMACATEGORY)　並(Cbb)　由(P)　系統(Na)　、(PAUSECATEGORY)　編目(VB)[+nom]　、(PAUSECATEGORY)　採購(VC)[+nom]　及(Caa)　流通(VA)[+nom]　等(Cab)　小組(Na)　召集人(Na)　報告(VE)　工作(Na)　執行(VC)[+nom]　進度(Na)　。(PERIODCATEGORY)
+***********************************************
+77.　。(PERIODCATEGORY)　會議(Na)　中(Ncd)　同時(Nd)　對(P)　「(PARENTHESISCATEGORY)　研究(Na)　人員(Na)　著作(Na)　目錄(Na)　資料庫(Na)　」(PARENTHESISCATEGORY)　之(DE)　主題(Na)　廣泛(VH)　交換(VC)　意見(Na)　，(COMMACATEGORY)
+***********************************************
+78.　，(COMMACATEGORY)　並(Cbb)　議決(VC)　交付(VD)　系統(Na)　小組(Na)　調查(VE)　並(Cbb)　整合(VC)　各(Nes)　所(Nc)　需求(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+79.　，(COMMACATEGORY)　擬具(VC)　可行(VH)　之(DE)　建議(Na)　方案(Na)　。(PERIODCATEGORY)
+***********************************************
+80.　。(PERIODCATEGORY)　系統(Na)　小組(Na)　會議(Na)　則(D)　進行(VC)　「(PARENTHESISCATEGORY)　ＩＮＮＯＰＡＣ(FW)　升級(VH)　８‧１版(Na)　，(COMMACATEGORY)
+***********************************************
+81.　，(COMMACATEGORY)　說明(Na)　事項(Na)　」(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　「(PARENTHESISCATEGORY)　館藏(Na)　欄位(Na)　是否(D)　全部(Neqa)　顯示(VK)　」(PARENTHESISCATEGORY)　及(Caa)　「(PARENTHESISCATEGORY)　Ｃｏｍｍｕｎｉｔｙ／ＣａｍｐｕｓＩｎｆｏｒｍａｔｉｏｎＤａｔａｂａｓｅｏｎＯＰＡＣ(FW)　」(PARENTHESISCATEGORY)　等(Cab)　議題(Na)　充份(VH)　交流(VH)　意見(Na)　。(PERIODCATEGORY)
+***********************************************
+82.　。(PERIODCATEGORY)　會議(Na)　中(Ncd)　並(Cbb)　通過(VC)　請(VF)　ＩＩＩ(FW)　公司(Nc)　提供(VD)　館藏(Na)　欄位(Na)　全部(Neqa)　顯示(VK)　之(DE)　功能(Na)　設定(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+83.　，(COMMACATEGORY)　屆時(D)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　使用(VC)　者(Na)　透過(VJ)　ＩＮＮＯＰＡＣ(FW)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+85.　，(COMMACATEGORY)　即可(D)　全然(D)　掌握(VC)　各(Nes)　期刊(Na)　之(DE)　缺漏(VJ)[+nom]　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+86.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　陳淑君(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=報紙
+%%  姓名=蔣大偉
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+87.　。(PERIODCATEGORY)　網路(Na)　與(Caa)　通訊(Na)　網際(Nc)　，(COMMACATEGORY)　網路(Na)　之(DE)　子網路(Na)　定址(VC)　蔣大偉(Nb)　在(P)　網路(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　每(Nes)　個(Nf)　網路(Na)　與(P)　每(Nes)　部(Nf)　電腦(Na)　都(D)　應(D)　有(V_2)　一(Neu)　獨一無二(VH)　的(DE)　地址(Na)　，(COMMACATEGORY)
+***********************************************
+89.　，(COMMACATEGORY)　做為(VG)　管理(VC)　及(Caa)　辨識(VC)　之(DE)　用(Na)　，(COMMACATEGORY)
+***********************************************
+90.　，(COMMACATEGORY)　就(D)　像(P)　我們(Nh)　家(Nc)　裡(Ncd)　的(DE)　電話(Na)　和(Caa)　住址(Na)　的(DE)　原理(Na)　一樣(VH)　，(COMMACATEGORY)
+***********************************************
+91.　，(COMMACATEGORY)　故(Cbb)　網路(Na)　上(Ncd)　的(DE)　各(Nes)　種(Nf)　通訊(Na)　協定(Na)　都(D)　有(V_2)　其(Nep)　地址(Na)　的(DE)　定義(Na)　方法(Na)　和(Caa)　型態(Na)　。(PERIODCATEGORY)
+***********************************************
+92.　。(PERIODCATEGORY)　在(P)　ＩＰ(FW)　通訊(Na)　協定(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+93.　，(COMMACATEGORY)　是(SHI)　以(P)　３２(Neu)　位元(Nf)　來(D)　表示(VE)　網路(Na)　和(Caa)　電腦(Na)　地址(Na)　，(COMMACATEGORY)
+***********************************************
+94.　，(COMMACATEGORY)　其(Nep)　地址(Na)　是(SHI)　統一(VHC)　由(P)　ＮＩＣ(FW)　((PARENTHESISCATEGORY)　ＮｅｔｗｏｒｋＩｎｆｏｒｍａｔｉｏｎＣｅｎｔｅｒ(FW)　(PARENTHESISCATEGORY)　來(D)　分配(VD)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　以免(Cbb)　造成(VG)　重覆(VC)　。(PERIODCATEGORY)
+***********************************************
+96.　。(PERIODCATEGORY)　您(Nh)　想(VE)　了解(VK)　如何(D)　向(P)　ＮＩＣ(FW)　申請(VF)　一(Neu)　個(Nf)　可(D)　用(VC)　的(DE)　ＮＥＴＩＤ(FW)　嗎(T)　？(QUESTIONCATEGORY)
+***********************************************
+97.　？(QUESTIONCATEGORY)　自己(Nh)　如何(D)　設定(VC)　並(Cbb)　有效(VH)　管理(VC)　分配(VD)　得來(VI)　的(DE)　ＩＰ(FW)　呢(T)　？(QUESTIONCATEGORY)
+***********************************************
+98.　？(QUESTIONCATEGORY)　答案(Na)　就(D)　在(VCL)　下文(Na)　中(Ng)　。(PERIODCATEGORY)
+***********************************************
+99.　。(PERIODCATEGORY)　一(Neu)　、(PAUSECATEGORY)　概說(Na)　，(COMMACATEGORY)　在(P)　Ｉｎｔｅｒｎｅｔ(FW)　（(PARENTHESISCATEGORY)　網際(Nc)　網路(Na)　）(PARENTHESISCATEGORY)　上(Ng)　有(V_2)　二(Neu)　個(Nf)　非常(Dfa)　重要(VH)　的(DE)　觀念(Na)　：(COLONCATEGORY)
+***********************************************
+100.　：(COLONCATEGORY)　一(Neu)　是(SHI)　每(Nes)　個(Nf)　節點(Na)　（(PARENTHESISCATEGORY)　Ｎｏｄｅ(FW)　）(PARENTHESISCATEGORY)　必須(D)　定址(VC)　；(SEMICOLONCATEGORY)
+***********************************************
+101.　；(SEMICOLONCATEGORY)　二(Neu)　是(SHI)　每(Nes)　個(Nf)　節點(Na)　必須(D)　是(SHI)　使用(VC)　統一(VHC)　的(DE)　通信(VA)[+nom]　協定(Na)　（(PARENTHESISCATEGORY)　即(VG)　ＴＣＰ／ＩＰ(FW)　協定群(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+102.　。(PERIODCATEGORY)　我們(Nh)　知道(VK)　在(P)　使用(VC)　ＴＣＰ／ＩＰ(FW)　協定群(Na)　的(DE)　網路(Na)　內(Ng)　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　每(Nes)　一(Neu)　個(Nf)　節點(Na)　都(D)　應(D)　具有(VJ)　獨一無二(VH)　的(DE)　ＩＰ(FW)　((PARENTHESISCATEGORY)　ＩｎｔｅｒｎｅｔＰｒｏｔｏｃｏｌ(FW)　(PARENTHESISCATEGORY)　位址(Na)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　以(Cbb)　便於(VK)　任何(Neqa)　二(Neu)　個(Nf)　節點(Na)　互通(VC)　信息(Na)　，(COMMACATEGORY)
+***********************************************
+105.　，(COMMACATEGORY)　只要(Cbb)　送方(Na)　指定好(VC)　收方(Na)　的(DE)　ＩＰ(FW)　位址(Na)　，(COMMACATEGORY)
+***********************************************
+106.　，(COMMACATEGORY)　網路(Na)　系統(Na)　就(D)　可以(D)　將(P)　信息(Na)　送到(VC)　目的地(Nc)　，(COMMACATEGORY)
+***********************************************
+107.　，(COMMACATEGORY)　就(D)　如同(P)　在(P)　電話(Na)　網路(Na)　上(Ncd)　使用(VC)　電話(Na)　號碼(Na)　一樣(VH)　方便(VH)　。(PERIODCATEGORY)
+***********************************************
+108.　。(PERIODCATEGORY)　基本(Na)　上(Ng)　ＩＰ(FW)　位址(Na)　是(SHI)　採用(VC)　３２(Neu)　個(Nf)　位元(Na)　來(D)　表示(VE)　，(COMMACATEGORY)
+***********************************************
+109.　，(COMMACATEGORY)　共(Da)　分成(VG)　兩(Neu)　部份(Neqa)　：(COLONCATEGORY)
+***********************************************
+110.　：(COLONCATEGORY)　一(Neu)　是(SHI)　「(PARENTHESISCATEGORY)　網路(Na)　位址(Na)　（(PARENTHESISCATEGORY)　ＮＥＴＩＤ(FW)　）(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+111.　，(COMMACATEGORY)　用來(VL)　指明(VE)　所屬(A)　的(DE)　網路(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+112.　；(SEMICOLONCATEGORY)　另(Nes)　一(Neu)　部份(Neqa)　是(SHI)　「(PARENTHESISCATEGORY)　本(Nes)　地(Nc)　位址(Na)　((PARENTHESISCATEGORY)　ＨＯＳＴＩＤ(FW)　(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+113.　，(COMMACATEGORY)　是(SHI)　用來(VL)　表示(VE)　網路(Na)　內(Ng)　所(D)　代表(VK)　的(DE)　節點(Na)　。(PERIODCATEGORY)
+***********************************************
+114.　。(PERIODCATEGORY)　若(Cbb)　按(P)　結構(Na)　來(D)　分(VC)　，(COMMACATEGORY)
+***********************************************
+115.　，(COMMACATEGORY)　ＩＰ(FW)　位址(Na)　約(Da)　可(D)　分成(VG)　三(Neu)　類(Nf)　（(PARENTHESISCATEGORY)　圖(Na)　一(Neu)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+116.　，(COMMACATEGORY)　以(Cbb)　適應(VJ)　各(Nes)　種(Nf)　不同(VH)　網路(Na)　型態(Na)　的(DE)　需求(Na)　。(PERIODCATEGORY)
+***********************************************
+117.　。(PERIODCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+118.　．(PERIODCATEGORY)　ＣｌａｓｓＡ(FW)　結構(Na)　：(COLONCATEGORY)
+***********************************************
+119.　：(COLONCATEGORY)　網路(Na)　位址(Na)　的(DE)　ＮＥＴＩＤ(FW)　佔用(VC)　７(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+120.　，(COMMACATEGORY)　它(Nh)　的(DE)　最(Dfa)　高(VH)　位元(Na)　為(VG)　０(Neu)　，(COMMACATEGORY)
+***********************************************
+121.　，(COMMACATEGORY)　本(Nes)　地(Nc)　位址(Na)　ＨＯＳＴＩＤ(FW)　佔用(VC)　２４(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+122.　，(COMMACATEGORY)　這(Nep)　是(SHI)　為(P)　超大型(Na)　網路(Na)　而(Cbb)　設計(VC)　的(DE)　結構(Na)　，(COMMACATEGORY)
+***********************************************
+123.　，(COMMACATEGORY)　因為(Cbb)　每(Nes)　個(Nf)　ＣｌａｓｓＡ(FW)　網路(Na)　最多(VH)　可(D)　擁有(VJ)　２(Neu)　的(DE)　２４(Neu)　次方(Na)　個(Nf)　節點(Na)　。(PERIODCATEGORY)
+***********************************************
+124.　。(PERIODCATEGORY)　屬於(VG)　ＣｌａｓｓＡ(FW)　的(DE)　網路(Na)　一共(Da)　有(V_2)　１２５(Neu)　個(Nf)　（(PARENTHESISCATEGORY)　ＮＥＴＩＤ(FW)　編號(Na)　１(Neu)　至(Caa)　１２５(Neu)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+125.　，(COMMACATEGORY)　ＮＥＴＩＤ(FW)　編號(Na)　０(Neu)　表示(VE)　傳(VD)　向(P)　這(Nep)　個(Nf)　網路(Na)　，(COMMACATEGORY)
+***********************************************
+126.　，(COMMACATEGORY)　ＮＥＴＩＤ(FW)　編號(Na)　１２６(Neu)　表示(VE)　傳(VD)　向(P)　所有(Neqa)　網路(Na)　（(PARENTHESISCATEGORY)　ＮＥＴＩＤ(FW)　或(Caa)　ＨＯＳＴＩＤ(FW)　的(DE)　所屬(A)　位元(Na)　若(Cbb)　全(Neqa)　為(VG)　０(Neu)　則(D)　表示(VE)　這(Nep)　個(Nf)　（(PARENTHESISCATEGORY)　ｔｈｉｓ(FW)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+127.　；(SEMICOLONCATEGORY)　若(Cbb)　全(Neqa)　為(VG)　１(Neu)　則(D)　表示(VE)　所有(Neqa)　（(PARENTHESISCATEGORY)　ａｌｌ(FW)　）(PARENTHESISCATEGORY)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+128.　，(COMMACATEGORY)　ＮＥＴＩＤ(FW)　編號(Na)　１２７(Neu)　用(VC)　於(P)　迴路(Na)　（(PARENTHESISCATEGORY)　ＬｏｏｐＢａｃｋ(FW)　）(PARENTHESISCATEGORY)　測試(Na)　（(PARENTHESISCATEGORY)　在(P)　ＣｌａｓｓＡ(FW)　中(Ng)　的(DE)　位址(Na)　１２７(Neu)　．(PERIODCATEGORY)
+***********************************************
+129.　．(PERIODCATEGORY)　０(Neu)　．(PERIODCATEGORY)
+***********************************************
+130.　．(PERIODCATEGORY)　０(Neu)　．(PERIODCATEGORY)
+***********************************************
+131.　．(PERIODCATEGORY)　１(Neu)　是(SHI)　專門(VL)　保留給(VD)　ＬｏｏｐＢａｃｋ(FW)　功能(Na)　使用(VC)　的(T)　，(COMMACATEGORY)
+***********************************************
+132.　，(COMMACATEGORY)　通常(D)　用來(VL)　確定(VK)　ＩＰ(FW)　協定層(Na)　是否(D)　正常(VH)　，(COMMACATEGORY)
+***********************************************
+133.　，(COMMACATEGORY)　因為(Cbb)　ＩＰ層(Na)　一旦(Cbb)　收到(VC)　這(Nep)　個(Nf)　位址(Na)　，(COMMACATEGORY)
+***********************************************
+134.　，(COMMACATEGORY)　必須(D)　回傳(VC)　訊號(Na)　給(VD)　ＴＣＰ(FW)　協定層(Na)　而(Cbb)　不(D)　是(SHI)　向(P)　下(Nes)　層(Nf)　傳遞(VD)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+135.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+136.　．(PERIODCATEGORY)　ＣｌａｓｓＢ(FW)　結構(Na)　：(COLONCATEGORY)
+***********************************************
+137.　：(COLONCATEGORY)　它(Nh)　的(DE)　最(Dfa)　高(VH)　及(Caa)　次(Nes)　高(VH)　位元(Na)　必須(D)　分別(D)　為(VG)　１(Neu)　與(Caa)　０(Neu)　，(COMMACATEGORY)
+***********************************************
+138.　，(COMMACATEGORY)　ＮＥＴＩＤ(FW)　佔用(VC)　１４(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+139.　，(COMMACATEGORY)　ＨＯＳＴＩＤ(FW)　佔用(VC)　１６(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+140.　，(COMMACATEGORY)　一般(D)　在(P)　中型(Na)　網路(Na)　可(D)　使用(VC)　的(DE)　節點(Na)　數目(Na)　在(VG)　２５６(Neu)　至(Caa)　６５(Neu)　(COMMACATEGORY)
+***********************************************
+141.　(COMMACATEGORY)　５３６(Neu)　之間(Ng)　。(PERIODCATEGORY)
+***********************************************
+142.　。(PERIODCATEGORY)　屬於(VG)　ＣｌａｓｓＢ(FW)　的(DE)　網路(Na)　最多(VH)　可(D)　達(VJ)　１６(Neu)　(COMMACATEGORY)
+***********************************************
+143.　(COMMACATEGORY)　３８４(Neu)　個(Nf)　節點(Na)　。(PERIODCATEGORY)
+***********************************************
+144.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+145.　．(PERIODCATEGORY)　ＣｌａｓｓＣ(FW)　結構(Na)　：(COLONCATEGORY)
+***********************************************
+146.　：(COLONCATEGORY)　它(Nh)　最(Dfa)　高(VH)　的(DE)　三(Neu)　個(Nf)　位元(Na)　必須(D)　分別(D)　為(VG)　１(Neu)　(COMMACATEGORY)
+***********************************************
+147.　(COMMACATEGORY)　１(Neu)　(COMMACATEGORY)
+***********************************************
+148.　(COMMACATEGORY)　０(Neu)　，(COMMACATEGORY)
+***********************************************
+149.　，(COMMACATEGORY)　其中(Nep)　ＮＥＴＩＤ(FW)　佔用(VC)　２１(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+150.　，(COMMACATEGORY)　ＨＯＳＴＩＤ(FW)　佔用(VC)　８(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+151.　，(COMMACATEGORY)　這(Nep)　是(SHI)　針對(P)　小型(Na)　網路(Na)　而(Cbb)　設計(VC)　的(T)　，(COMMACATEGORY)
+***********************************************
+152.　，(COMMACATEGORY)　雖然(Cbb)　節點(Na)　的(DE)　數目(Na)　最多(VH)　只(Da)　２５４(Neu)　個(Nf)　（(PARENTHESISCATEGORY)　扣除(VC)　二(Neu)　個(Nf)　特殊(VH)　用途(Na)　的(DE)　編號(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+153.　，(COMMACATEGORY)　但是(Cbb)　這(Nep)　種(Nf)　網路(Na)　卻(D)　可(D)　高達(VJ)　２(Neu)　(COMMACATEGORY)
+***********************************************
+154.　(COMMACATEGORY)　０９７(Neu)　(COMMACATEGORY)
+***********************************************
+155.　(COMMACATEGORY)　１５２(Neu)　個(Nf)　。(PERIODCATEGORY)
+***********************************************
+156.　。(PERIODCATEGORY)　ＩＰ(FW)　位址(Na)　的(DE)　結構(Na)　很(Dfa)　合適(VH)　路徑(Na)　選擇(Na)　（(PARENTHESISCATEGORY)　ｒｏｕｔｉｎｇ(FW)　）(PARENTHESISCATEGORY)　的(DE)　作業(Na)　。(PERIODCATEGORY)
+***********************************************
+157.　。(PERIODCATEGORY)　原因(Na)　之(DE)　一(Neu)　是(SHI)　ＩＰ(FW)　位址(Na)　採用(VC)　３２(Neu)　位元(Nf)　，(COMMACATEGORY)
+***********************************************
+158.　，(COMMACATEGORY)　是(SHI)　８(Neu)　位元(Nf)　的(DE)　整數(Na)　倍(Na)　，(COMMACATEGORY)
+***********************************************
+159.　，(COMMACATEGORY)　適合(VH)　迷你(VH)　電腦(Na)　及(Caa)　大多數(Neqa)　微處理器(Na)　的(DE)　運作(VA)[+nom]　；(SEMICOLONCATEGORY)
+***********************************************
+160.　；(SEMICOLONCATEGORY)　原因(Na)　之(DE)　二(Neu)　是(SHI)　它(Nh)　把(P)　ＮＥＴＩＤ(FW)　與(Caa)　ＨＯＳＴＩＤ(FW)　的(DE)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+161.　，(COMMACATEGORY)　分割(VC)　在(P)　剛好(VH)　以(P)　位元組(Na)　((PARENTHESISCATEGORY)　ｂｙｔｅ(FW)　(PARENTHESISCATEGORY)　為(VG)　單位(Na)　的(DE)　邊界(Nc)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+162.　，(COMMACATEGORY)　所以(Cbb)　路徑(Na)　選擇(Na)　的(DE)　作業(Na)　只(Da)　須(D)　作(VC)　簡單(VH)　的(DE)　轉換(VC)[+nom]　即可(D)　達成(VC)　。(PERIODCATEGORY)
+***********************************************
+163.　。(PERIODCATEGORY)　一般而言(Dk)　ｒｏｕｔｉｎｇ(FW)　的(DE)　作業(Na)　情形(Na)　大致(D)　如(VG)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+164.　：(COLONCATEGORY)　在(P)　網路(Na)　上(Ncd)　的(DE)　信息(Na)　都(D)　含有(VJ)　送方(Na)　的(DE)　ＩＰ(FW)　位址(Na)　和(Caa)　收方(Na)　的(DE)　ＩＰ(FW)　位址(Na)　，(COMMACATEGORY)
+***********************************************
+165.　，(COMMACATEGORY)　當(P)　送方(Na)　要(D)　送出(VD)　一(Neu)　個(Nf)　信息(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+166.　，(COMMACATEGORY)　它(Nh)　會(D)　去(D)　看(VC)　收方(Na)　是否(D)　和(P)　自己(Nh)　在(P)　同(Nes)　一(Neu)　個(Nf)　網路(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+167.　，(COMMACATEGORY)　若(Cbb)　不(D)　是(SHI)　，(COMMACATEGORY)
+***********************************************
+168.　，(COMMACATEGORY)　它(Nh)　會(D)　將(P)　信息(Na)　往(P)　閘道器(Na)　((PARENTHESISCATEGORY)　Ｇａｔｅｗａｙ(FW)　）(PARENTHESISCATEGORY)　這(Nep)　個(Nf)　節點(Na)　送(VD)　，(COMMACATEGORY)
+***********************************************
+169.　，(COMMACATEGORY)　閘道器(Na)　再(D)　根據(P)　收方(Na)　ＩＰ(FW)　位址(Na)　內(Ng)　的(DE)　ＮＥＴＩＤ(FW)　和(Caa)　本身(Nh)　的(DE)　路徑表(Na)　（(PARENTHESISCATEGORY)　ＲｏｕｔｉｎｇＴａｂｌｅ(FW)　）(PARENTHESISCATEGORY)　比對(VC)　，(COMMACATEGORY)
+***********************************************
+170.　，(COMMACATEGORY)　以(Cbb)　決定(VE)　繼續(VF)　往(P)　那(Nep)　個(Nf)　網路(Na)　送(VD)　，(COMMACATEGORY)
+***********************************************
+171.　，(COMMACATEGORY)　如此(VH)　重覆(VC)　一直(D)　到(P)　收方(Na)　收到(VC)　為止(Ng)　。(PERIODCATEGORY)
+***********************************************
+172.　。(PERIODCATEGORY)　由(P)　以上(Ncd)　的(DE)　敘述(Na)　我們(Nh)　知道(VK)　，(COMMACATEGORY)
+***********************************************
+173.　，(COMMACATEGORY)　在(P)　Ｉｎｔｅｒｎｅｔ(FW)　上(Ng)　ＩＰ(FW)　協定層(Na)　以(P)　ＮＥＴＩＤ(FW)　來(D)　區分(VC)　不同(VH)　的(DE)　網路(Na)　，(COMMACATEGORY)
+***********************************************
+174.　，(COMMACATEGORY)　那麼(Dk)　我們(Nh)　如何(D)　才(Da)　能(D)　取得(VC)　一(Neu)　個(Nf)　可(D)　用(VC)　的(DE)　ＮＥＴＩＤ(FW)　？(QUESTIONCATEGORY)
+***********************************************
+175.　？(QUESTIONCATEGORY)　是否(D)　自己(Nh)　隨意(VH)　設定(VC)　就(D)　可以(VH)　呢(T)　？(QUESTIONCATEGORY)
+***********************************************
+176.　？(QUESTIONCATEGORY)　正(D)　如(P)　前面(Ncd)　提及(VE)　的(T)　，(COMMACATEGORY)
+***********************************************
+177.　，(COMMACATEGORY)　在(P)　Ｉｎｔｅｒｎｅｔ(FW)　上(Ng)　ＩＰ(FW)　位址(Na)　具有(VJ)　唯一性(Na)　，(COMMACATEGORY)
+***********************************************
+178.　，(COMMACATEGORY)　為(P)　了(Di)　維持(VJ)　ＩＰ(FW)　位址(Na)　的(DE)　唯一性(Na)　，(COMMACATEGORY)
+***********************************************
+179.　，(COMMACATEGORY)　須(D)　有(V_2)　個(Nf)　單位(Na)　作(VC)　集中(VC)　管制(VC)　，(COMMACATEGORY)
+***********************************************
+180.　，(COMMACATEGORY)　而(Cbb)　這(Nep)　個(Nf)　單位(Na)　就(D)　是(SHI)　網路(Na)　資訊(Na)　中心(Nc)　（(PARENTHESISCATEGORY)　ＮｅｔｗｏｒｋＩｎｆｏｒｍａｔｉｏｎＣｅｎｔｅｒ(FW)　(COMMACATEGORY)
+***********************************************
+181.　(COMMACATEGORY)　ＮＩＣ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+182.　。(PERIODCATEGORY)　如何(D)　從(P)　ＮＩＣ(FW)　取得(VC)　一(Neu)　個(Nf)　合法(VH)　授權(VE)　的(DE)　ＮＥＴＩＤ(FW)　？(QUESTIONCATEGORY)
+***********************************************
+183.　？(QUESTIONCATEGORY)　通常(D)　網路(Na)　管理(VC)　者(Na)　可以(D)　利用(VC)　ｅ－ｍａｉｌ(FW)　的(DE)　方式(Na)　，(COMMACATEGORY)
+***********************************************
+184.　，(COMMACATEGORY)　填寫(VC)　適當(VH)　的(DE)　表格(Na)　，(COMMACATEGORY)
+***********************************************
+185.　，(COMMACATEGORY)　ＮＩＣ(FW)　會(D)　按(P)　一定(A)　的(DE)　程序(Na)　審核(VC)　，(COMMACATEGORY)
+***********************************************
+186.　，(COMMACATEGORY)　再(D)　發給(VD)　ＮＥＴＩＤ(FW)　。(PERIODCATEGORY)
+***********************************************
+187.　。(PERIODCATEGORY)　當(P)　使用(VC)　者(Na)　架設(VC)　私人(Nh)　的(DE)　網路(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+188.　，(COMMACATEGORY)　自行(D)　安排(VE)　ＩＰ(FW)　位址(Na)　是(SHI)　非常(Dfa)　不(D)　恰當(VH)　的(T)　，(COMMACATEGORY)
+***********************************************
+189.　，(COMMACATEGORY)　因為(Cbb)　當(P)　要(D)　連接上(VC)　Ｉｎｔｅｒｎｅｔ(FW)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+190.　，(COMMACATEGORY)　仍(D)　須(D)　修改成(VG)　ＮＩＣ(FW)　核定(VE)　的(DE)　ＮＥＴＩＤ(FW)　，(COMMACATEGORY)
+***********************************************
+191.　，(COMMACATEGORY)　將(D)　造成(VG)　困擾(VHC)　與(Caa)　浪費(VH)　。(PERIODCATEGORY)
+***********************************************
+192.　。(PERIODCATEGORY)　在(P)　申請到(VC)　ＮＥＴＩＤ(FW)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+193.　，(COMMACATEGORY)　使用(VC)　者(Na)　與(Caa)　管理(VC)　者(Na)　關心(VK)　的(DE)　應(D)　是(SHI)　如何(D)　將(P)　分配好(VD)　的(DE)　ＩＰ(FW)　位址(Na)　設定到(VC)　網路(Na)　的(DE)　節點(Na)　上(Ncd)　。(PERIODCATEGORY)
+***********************************************
+194.　。(PERIODCATEGORY)　二(Neu)　、(PAUSECATEGORY)　為何(D)　需要(VK)　子網路(Na)　，(COMMACATEGORY)　由於(Cbb)　Ｉｎｔｅｒｎｅｔ(FW)　是(SHI)　個(Nf)　成長(VH)　迅速(VH)　的(DE)　網路(Na)　，(COMMACATEGORY)
+***********************************************
+195.　，(COMMACATEGORY)　ＩＰ(FW)　位址(Na)　這(Nep)　套(Nf)　定址法(Na)　似乎(D)　不(D)　具有(VJ)　彈性(Na)　而(Cbb)　無法(D)　輕易(D)　變更(VC)　本(Nes)　地(Nc)　網路(Na)　的(DE)　結構(Na)　。(PERIODCATEGORY)
+***********************************************
+196.　。(PERIODCATEGORY)　通常(D)　造成(VG)　網路(Na)　須(D)　做(VC)　變更(Na)　的(DE)　原因(Na)　有(V_2)　下列(A)　幾(Neu)　種(Nf)　狀況(Na)　：(COLONCATEGORY)
+***********************************************
+197.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+198.　．(PERIODCATEGORY)　本(Nes)　地(Nc)　（(PARENTHESISCATEGORY)　Ｌｏｃａｌ(FW)　）(PARENTHESISCATEGORY)　某(Nes)　處(Nc)　新(VH)　裝設(VC)　一(Neu)　條(Nf)　不同於(VJ)　目前(Nd)　網路(Na)　型態(Na)　的(DE)　實體(Na)　網路(Na)　（(PARENTHESISCATEGORY)　例如(P)　ＴｏｋｅｎＲｉｎｇ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+199.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+200.　．(PERIODCATEGORY)　當(P)　網路(Na)　上(Ncd)　節點(Na)　（(PARENTHESISCATEGORY)　Ｎｏｄｅ(FW)　）(PARENTHESISCATEGORY)　數目(Na)　過度(Dfa)　成長(VH)　，(COMMACATEGORY)
+***********************************************
+201.　，(COMMACATEGORY)　造成(VG)　通信(VA)　擁擠(VH)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+202.　，(COMMACATEGORY)　使得(VL)　通信(VA)[+nom]　效果(Na)　不彰(VH)　，(COMMACATEGORY)
+***********************************************
+203.　，(COMMACATEGORY)　必須(D)　將(P)　本(Nes)　地(Nc)　網路(Na)　切割成(VG)　數(Neu)　條(Nf)　隔開(VC)　的(DE)　實體(Na)　網路(Na)　。(PERIODCATEGORY)
+***********************************************
+204.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+205.　．(PERIODCATEGORY)　當(P)　網路(Na)　距離(Na)　過度(Dfa)　增長(VHC)　，(COMMACATEGORY)
+***********************************************
+206.　，(COMMACATEGORY)　基於(P)　技術(Na)　上(Ng)　的(DE)　限制(Na)　，(COMMACATEGORY)
+***********************************************
+207.　，(COMMACATEGORY)　必須(D)　將(P)　本(Nes)　地(Nc)　網路(Na)　切割成(VG)　較(Dfa)　小(VH)　的(DE)　實體(Na)　網路(Na)　並(Cbb)　以(P)　Ｇａｔｅｗａｙ(FW)　相(D)　連接(VJ)　。(PERIODCATEGORY)
+***********************************************
+208.　。(PERIODCATEGORY)　為(P)　解決(VC)　上述(Na)　各(Nes)　種(Nf)　狀況(Na)　，(COMMACATEGORY)
+***********************************************
+209.　，(COMMACATEGORY)　如果(Cbb)　管理(VC)　者(Na)　只(Da)　是(SHI)　一昧(D)　指定(VE)　ＮＥＴＩＤ(FW)　給(VD)　每(Nes)　個(Nf)　實體(Na)　網路(Na)　，(COMMACATEGORY)
+***********************************************
+210.　，(COMMACATEGORY)　則(D)　只(Da)　能(D)　治標(VA)　而(Cbb)　不能(D)　治本(VA)　，(COMMACATEGORY)
+***********************************************
+211.　，(COMMACATEGORY)　因為(Cbb)　這(Nep)　會(D)　耗費(VC)　大部份(Neqa)　的(DE)　管理(VC)[+nom]　時間(Na)　只(Da)　用來(VL)　處理(VC)　網路(Na)　定址(VC)　的(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+212.　，(COMMACATEGORY)　也(D)　會(D)　造成(VG)　閘道器(Na)　（(PARENTHESISCATEGORY)　Ｇａｔｅｗａｙ(FW)　）(PARENTHESISCATEGORY)　路徑表(Na)　的(DE)　暴增(VH)[+nom]　，(COMMACATEGORY)
+***********************************************
+213.　，(COMMACATEGORY)　使得(VL)　ｒｏｕｔｉｎｇ(FW)　操作(VC)[+nom]　佔用(VC)　太多(Neqa)　網路(Na)　頻寬(Na)　。(PERIODCATEGORY)
+***********************************************
+214.　。(PERIODCATEGORY)　為(P)　避免(VE)　這些(Neqa)　缺點(Na)　的(DE)　產生(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+215.　，(COMMACATEGORY)　於是(Cbb)　誕生(VA)　了(Di)　子網路(Na)　（(PARENTHESISCATEGORY)　Ｓｕｂｎｅｔ(FW)　）(PARENTHESISCATEGORY)　的(DE)　觀念(Na)　。(PERIODCATEGORY)
+***********************************************
+216.　。(PERIODCATEGORY)　三(Neu)　、(PAUSECATEGORY)　子網路(Na)　的(DE)　觀念(Na)　，(COMMACATEGORY)　子網路(Na)　（(PARENTHESISCATEGORY)　Ｓｕｂｎｅｔ(FW)　）(PARENTHESISCATEGORY)　直接(VH)　由(P)　本(Nes)　地(Nc)　的(DE)　管理(VC)　者(Na)　設定(VC)　即(D)　可(VH)　，(COMMACATEGORY)
+***********************************************
+217.　，(COMMACATEGORY)　因為(Cbb)　它(Nh)　是(SHI)　不(D)　對(P)　外(Ncd)　公開(VHC)　的(T)　，(COMMACATEGORY)
+***********************************************
+218.　，(COMMACATEGORY)　於是(Cbb)　整(Neqa)　個(Nf)　實體(Na)　網路(Na)　形(Na)　於(P)　外(Ncd)　的(DE)　表相(Na)　仍(D)　是(SHI)　個(Nf)　有(V_2)　唯一(A)　ＮｅｔＩＤ(FW)　編號(Na)　的(DE)　邏輯(Na)　網路(Na)　。(PERIODCATEGORY)
+***********************************************
+219.　。(PERIODCATEGORY)　我們(Nh)　知道(VK)　基本(A)　的(DE)　ＩＰ(FW)　位址(Na)　應(D)　由(P)　兩(Neu)　部份(Neqa)　組成(VG)　：(COLONCATEGORY)
+***********************************************
+220.　：(COLONCATEGORY)　(FW)　其實(D)　就(D)　是(SHI)　這(Nep)　個(Nf)　結構(Na)　的(DE)　擴充(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+221.　，(COMMACATEGORY)　它(Nh)　考慮到(VE)　將(P)　原先(Nd)　的(DE)　(FW)　分配(VD)　一(Neu)　部份(Neqa)　位元(Na)　給(VD)　子網路(Na)　的(DE)　位址(Na)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+222.　，(COMMACATEGORY)　ＩＰ(FW)　位址(Na)　應(D)　由(P)　三(Neu)　部份(Neqa)　組成(VG)　：(COLONCATEGORY)
+***********************************************
+223.　：(COLONCATEGORY)　(FW)　其中(Nep)　我們(Nh)　把(P)　原先(Nd)　的(DE)　(FW)　分割成(VG)　(FW)　和(Caa)　(FW)　兩(Neu)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+224.　，(COMMACATEGORY)　而(Cbb)　(FW)　究竟(D)　要(D)　佔用(VC)　幾(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+225.　，(COMMACATEGORY)　則(D)　全(Neqa)　憑(P)　本(Nes)　地(Nc)　的(DE)　網路(Na)　管理(VC)　者(Na)　依(P)　當時(Nd)　的(DE)　狀況(Na)　自行(D)　判斷(VE)　與(Caa)　決定(VE)　了(Di)　。(PERIODCATEGORY)
+***********************************************
+226.　。(PERIODCATEGORY)　但(Cbb)　只要(Cbb)　一經(P)　確定(VK)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+227.　，(COMMACATEGORY)　就(D)　必須(D)　維持(VJ)　其(Nep)　在(P)　本(Nes)　地(Nc)　網路(Na)　上(Ncd)　的(DE)　一致性(Na)　。(PERIODCATEGORY)
+***********************************************
+228.　。(PERIODCATEGORY)　假設(VE)　我們(Nh)　ＩＰ(FW)　網路(Na)　的(DE)　ＮＥＴＩＤ(FW)　編號(Na)　是(SHI)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+229.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+230.　．(PERIODCATEGORY)　，(COMMACATEGORY)
+***********************************************
+231.　，(COMMACATEGORY)　而(Cbb)　目前(Nd)　我們(Nh)　這(Nep)　個(Nf)　站台(Na)　有(V_2)　很多(Neqa)　實體(Na)　網路(Na)　要(D)　連線(VB)　，(COMMACATEGORY)
+***********************************************
+232.　，(COMMACATEGORY)　為(P)　維持(VJ)　本(Nes)　地(Nc)　網路(Na)　的(DE)　一致性(Na)　，(COMMACATEGORY)
+***********************************************
+233.　，(COMMACATEGORY)　於是(Cbb)　我們(Nh)　便(D)　得(D)　製訂(VC)　一(Neu)　個(Nf)　可以(D)　共同(A)　遵守(VJ)　的(DE)　規則(Na)　來(D)　設定(VC)　ＳＵＢＮＥＴＩＤ(FW)　。(PERIODCATEGORY)
+***********************************************
+234.　。(PERIODCATEGORY)　因為(Cbb)　我們(Nh)　所(D)　獲得(VJ)　的(DE)　是(SHI)　一(Neu)　個(Nf)　ＣｌａｓｓＢ(FW)　的(DE)　ＩＰ(FW)　網路(Na)　，(COMMACATEGORY)
+***********************************************
+235.　，(COMMACATEGORY)　所以(Cbb)　我們(Nh)　的(DE)　ｈｏｓｔｉｄ(FW)　應(D)　有(V_2)　１６(Neu)　個(Nf)　位元(Na)　（(PARENTHESISCATEGORY)　由(P)　ｂｉｔ０(FW)　到(P)　ｂｉｔ１５(FW)　(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+236.　，(COMMACATEGORY)　我們(Nh)　可以(D)　任意(D)　選擇(VC)　下列(A)　各(Nes)　種(Nf)　設定(VC)　Ｓｕｂｎｅｔ(FW)　的(DE)　規則(Na)　。(PERIODCATEGORY)
+***********************************************
+237.　。(PERIODCATEGORY)　‧(PERIODCATEGORY)
+***********************************************
+238.　‧(PERIODCATEGORY)　選定(VC)　位元(Na)　０(Neu)　(COMMACATEGORY)
+***********************************************
+239.　(COMMACATEGORY)　１(Neu)　(COMMACATEGORY)
+***********************************************
+240.　(COMMACATEGORY)　８(Neu)　和(Caa)　９(Neu)　（(PARENTHESISCATEGORY)　即(VG)　ｂｉｔ０(FW)　(COMMACATEGORY)
+***********************************************
+241.　(COMMACATEGORY)　１(Neu)　(COMMACATEGORY)
+***********************************************
+242.　(COMMACATEGORY)　８(Neu)　(COMMACATEGORY)
+***********************************************
+243.　(COMMACATEGORY)　９(Neu)　）(PARENTHESISCATEGORY)　給(VD)　ＳＵＢＮＥＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+244.　，(COMMACATEGORY)　也(D)　就(D)　是(SHI)　這(Nep)　兩(Neu)　個(Nf)　位元組(Na)　的(DE)　最(Dfa)　高(VH)　二(Neu)　位元(Nf)　。(PERIODCATEGORY)
+***********************************************
+245.　。(PERIODCATEGORY)　於是(Cbb)　我們(Nh)　最多(Da)　有(V_2)　１４(Neu)　個(Nf)　子網路(Na)　可(D)　用(VC)　（(PARENTHESISCATEGORY)　２４(Nd)　種(Nf)　組合(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　１６(Neu)　減去(VC)　２(Neu)　，(COMMACATEGORY)
+***********************************************
+247.　，(COMMACATEGORY)　因為(Cbb)　０(Neu)　值(Na)　和(Caa)　全部(Neqa)　位元(Na)　為(VG)　１(Neu)　已(D)　有(V_2)　特殊(VH)　用途(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+248.　。(PERIODCATEGORY)　‧(PERIODCATEGORY)
+***********************************************
+249.　‧(PERIODCATEGORY)　選定(VC)　偶數(Na)　位元(Na)　給(VD)　ＳＵＢＮＥＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+250.　，(COMMACATEGORY)　則(D)　奇數(Na)　位元(Na)　給(VD)　ＨＯＳＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+251.　，(COMMACATEGORY)　於是(Cbb)　我們(Nh)　最多(Da)　有(V_2)　２５４(Neu)　個(Nf)　子網路(Na)　可(D)　用(VC)　（(PARENTHESISCATEGORY)　２５６(Neu)　減去(VC)　２(Neu)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+252.　。(PERIODCATEGORY)　‧(PERIODCATEGORY)
+***********************************************
+253.　‧(PERIODCATEGORY)　選定(VC)　最(Dfa)　前面(Ncd)　１２(Neu)　個(Nf)　位元(Na)　給(VD)　ＳＵＢＮＥＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+254.　，(COMMACATEGORY)　則(D)　最後(Nd)　４(Neu)　個(Nf)　位元(Na)　給(VD)　ＨＯＳＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+255.　，(COMMACATEGORY)　雖然(Cbb)　我們(Nh)　有(V_2)　４(Neu)　(COMMACATEGORY)
+***********************************************
+256.　(COMMACATEGORY)　０９４(Neu)　個(Nf)　子網路(Na)　可(D)　用(VC)　，(COMMACATEGORY)
+***********************************************
+257.　，(COMMACATEGORY)　但是(Cbb)　每(Nes)　個(Nf)　子網路(Na)　最多(VH)　只(Da)　能(D)　有(V_2)　１４(Neu)　個(Nf)　節點(Na)　（(PARENTHESISCATEGORY)　Ｎｏｄｅｓ(FW)　）(PARENTHESISCATEGORY)　可(D)　用(VC)　。(PERIODCATEGORY)
+***********************************************
+258.　。(PERIODCATEGORY)　‧(PERIODCATEGORY)
+***********************************************
+259.　‧(PERIODCATEGORY)　選定(VC)　第一(Neu)　個(Nf)　位元組(Na)　((PARENTHESISCATEGORY)　ｂｙｔｅ(FW)　(PARENTHESISCATEGORY)　給(VD)　ＳＵＢＮＥＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+260.　，(COMMACATEGORY)　則(D)　第二(Neu)　個(Nf)　位元組(Na)　給(VD)　ＨＯＳＴＩＤ(FW)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+261.　，(COMMACATEGORY)　於是(Cbb)　我們(Nh)　最多(Da)　有(V_2)　２５４(Neu)　個(Nf)　子網路(Na)　可(D)　用(VC)　，(COMMACATEGORY)
+***********************************************
+262.　，(COMMACATEGORY)　每(Nes)　個(Nf)　子網路(Na)　最多(Da)　有(V_2)　２５４(Neu)　個(Nf)　節點(Na)　可(D)　用(VC)　。(PERIODCATEGORY)
+***********************************************
+263.　。(PERIODCATEGORY)　‧(PERIODCATEGORY)
+***********************************************
+264.　‧(PERIODCATEGORY)　還(D)　有(V_2)　更多(Neqa)　其它(Neqa)　的(DE)　設定(VC)[+nom]　規則(Na)　。(PERIODCATEGORY)
+***********************************************
+265.　。(PERIODCATEGORY)　雖然(Cbb)　我們(Nh)　可以(D)　任意(D)　選擇(VC)　子網路(Na)　的(DE)　設定(VC)[+nom]　規則(Na)　，(COMMACATEGORY)
+***********************************************
+266.　，(COMMACATEGORY)　但是(Cbb)　為(P)　了(Di)　位址(Na)　的(DE)　可讀性(Na)　，(COMMACATEGORY)
+***********************************************
+267.　，(COMMACATEGORY)　最好(D)　還(D)　是(SHI)　將(P)　ＳＵＢＮＥＴＩＤ(FW)　的(DE)　位置(Na)　設定(VC)　在(P)　(FW)　最(Dfa)　前面(Ncd)　而且(Cbb)　是(SHI)　連續(A)　的(DE)　位元(Na)　上(Ng)　。(PERIODCATEGORY)
+***********************************************
+268.　。(PERIODCATEGORY)　以下(Ncd)　我們(Nh)　舉(VC)　個(Nf)　實例(Na)　來(D)　說明(VE)　。(PERIODCATEGORY)
+***********************************************
+269.　。(PERIODCATEGORY)　圖(Na)　二(Neu)　有(V_2)　三(Neu)　個(Nf)　子網路(Na)　，(COMMACATEGORY)
+***********************************************
+270.　，(COMMACATEGORY)　至於(P)　ＳＵＢＮＥＴＩＤ(FW)　的(DE)　設定(VC)[+nom]　規則(Na)　我們(Nh)　就(D)　以(P)　上述(Na)　最後(Nd)　一(Neu)　個(Nf)　可行(VH)　方案(Na)　為(VG)　例子(Na)　：(COLONCATEGORY)
+***********************************************
+271.　：(COLONCATEGORY)　第一(Neu)　個(Nf)　位元組(Na)　是(SHI)　ＳＵＢＮＥＴＩＤ(FW)　，(COMMACATEGORY)
+***********************************************
+272.　，(COMMACATEGORY)　第二(Neu)　個(Nf)　位元組(Na)　是(SHI)　ＨＯＳＴＩＤ(FW)　。(PERIODCATEGORY)
+***********************************************
+273.　。(PERIODCATEGORY)　我們(Nh)　將(P)　這(Nep)　個(Nf)　設定(VC)[+nom]　規則(Na)　公式(Na)　化為(VG)　子網路(Na)　遮罩(Na)　（(PARENTHESISCATEGORY)　ｓｕｂｎｅｔｍａｓｋ(FW)　(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+274.　，(COMMACATEGORY)　這(Nep)　個(Nf)　子網路(Na)　遮罩(Na)　是(SHI)　個(Nf)　３２(Neu)　個(Nf)　位元(Na)　的(DE)　數字(Na)　，(COMMACATEGORY)
+***********************************************
+275.　，(COMMACATEGORY)　通常(D)　以(P)　ＩＰ(FW)　位址(Na)　的(DE)　格式(Na)　表示(VE)　，(COMMACATEGORY)
+***********************************************
+276.　，(COMMACATEGORY)　除了(P)　相對(VH)　於(P)　ＮＥＴＩＤ(FW)　位置(Na)　的(DE)　位元值(Na)　全(Neqa)　設為(VG)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+277.　，(COMMACATEGORY)　而且(Cbb)　相對(VH)　於(P)　ＳＵＢＮＥＴＩＤ(FW)　位置(Na)　的(DE)　位元值(Na)　也(D)　要(D)　全(Neqa)　設為(VG)　１(Neu)　，(COMMACATEGORY)
+***********************************************
+278.　，(COMMACATEGORY)　其餘(Neqa)　位置(Na)　（(PARENTHESISCATEGORY)　即(VG)　ＨＯＳＴＩＤ(FW)　）(PARENTHESISCATEGORY)　的(DE)　位元值(Na)　全(Neqa)　設為(VG)　０(Neu)　（(PARENTHESISCATEGORY)　設為(VG)　０(Neu)　的(DE)　用意(Na)　表示(VE)　忽略(VJ)　這(Nep)　個(Nf)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+279.　，(COMMACATEGORY)　設為(VG)　１(Neu)　的(DE)　用意(Na)　表示(VE)　必須(D)　比較(VC)　這(Nep)　個(Nf)　部份(Neqa)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+280.　，(COMMACATEGORY)　當(P)　閘道器(Na)　((PARENTHESISCATEGORY)　Ｇａｔｅｗａｙ(FW)　(PARENTHESISCATEGORY)　收到(VC)　封包(Na)　（(PARENTHESISCATEGORY)　ｐａｃｋｅｔ(FW)　）(PARENTHESISCATEGORY)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+281.　，(COMMACATEGORY)　會(D)　以(P)　ｓｕｂｎｅｔｍａｓｋ(FW)　選取(VC)　目的(Na)　ＩＰ(FW)　位址(Na)　的(DE)　子網路(Na)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+282.　，(COMMACATEGORY)　並(Cbb)　判斷(VE)　是(SHI)　那(Nep)　個(Nf)　子網路(Na)　，(COMMACATEGORY)
+***********************************************
+283.　，(COMMACATEGORY)　最後(Nd)　把(P)　封包(Na)　往(P)　該(Nes)　子網路(Na)　送(VD)　。(PERIODCATEGORY)
+***********************************************
+284.　。(PERIODCATEGORY)　這(Nep)　個(Nf)　例子(Na)　ｓｕｂｎｅｔｍａｓｋ(FW)　的(DE)　值(Na)　應(D)　設成(VG)　２５５(Neu)　．(PERIODCATEGORY)
+***********************************************
+285.　．(PERIODCATEGORY)　２５５(Neu)　．(PERIODCATEGORY)
+***********************************************
+286.　．(PERIODCATEGORY)　２５５(Neu)　．(PERIODCATEGORY)
+***********************************************
+287.　．(PERIODCATEGORY)　０(Neu)　。(PERIODCATEGORY)
+***********************************************
+288.　。(PERIODCATEGORY)　如果(Cbb)　需要(VK)　的話(Cba)　，(COMMACATEGORY)
+***********************************************
+289.　，(COMMACATEGORY)　子網路(Na)　之(DE)　下(Ncd)　仍(D)　可(D)　再(D)　分割(VC)　子網路(Na)　。(PERIODCATEGORY)
+***********************************************
+290.　。(PERIODCATEGORY)　現(Nd)　我們(Nh)　考慮(VE)　另(Nes)　一(Neu)　個(Nf)　不同(VH)　的(DE)　ｓｕｂｎｅｔｍａｓｋ(FW)　值(Na)　：(COLONCATEGORY)
+***********************************************
+291.　：(COLONCATEGORY)　２５５(Neu)　．(PERIODCATEGORY)
+***********************************************
+292.　．(PERIODCATEGORY)　２５５(Neu)　．(PERIODCATEGORY)
+***********************************************
+293.　．(PERIODCATEGORY)　２５５(Neu)　．(PERIODCATEGORY)
+***********************************************
+294.　．(PERIODCATEGORY)　２４０(Neu)　，(COMMACATEGORY)
+***********************************************
+295.　，(COMMACATEGORY)　其(Nep)　設定(VC)[+nom]　規則(Na)　就(D)　是(SHI)　將(P)　最後(Nd)　一(Neu)　個(Nf)　位元組(Na)　分成(VG)　兩(Neu)　個(Nf)　部份(Neqa)　（(PARENTHESISCATEGORY)　請(VF)　參見(VC)　圖(Na)　三(Neu)　、(PAUSECATEGORY)　圖(Na)　四(Neu)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+296.　。(PERIODCATEGORY)　因(Cbb)　ＨＯＳＴＩＤ(FW)　只(Da)　用到(VC)　右邊(Ncd)　的(DE)　四(Neu)　個(Nf)　位元(Na)　，(COMMACATEGORY)
+***********************************************
+297.　，(COMMACATEGORY)　故(Cbb)　每(Nes)　個(Nf)　子網路(Na)　只(Da)　有(V_2)　１４(Neu)　個(Nf)　節點(Na)　可(D)　用(VC)　，(COMMACATEGORY)
+***********************************************
+298.　，(COMMACATEGORY)　因此(Cbb)　子網路(Na)　編號(Na)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+299.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+300.　．(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+301.　．(PERIODCATEGORY)　１６(Neu)　將(D)　包含(VJ)　ＩＰ(FW)　位址(Na)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+302.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+303.　．(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+304.　．(PERIODCATEGORY)　１７(Neu)　到(Caa)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+305.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+306.　．(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+307.　．(PERIODCATEGORY)　３０(Neu)　的(DE)　節點(Na)　，(COMMACATEGORY)
+***********************************************
+308.　，(COMMACATEGORY)　而(Cbb)　子網路(Na)　編號(Na)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+309.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+310.　．(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+311.　．(PERIODCATEGORY)　３２(Neu)　將(D)　包含(VJ)　ＩＰ(FW)　位址(Na)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+312.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+313.　．(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+314.　．(PERIODCATEGORY)　３３(Neu)　到(Caa)　１４０(Neu)　．(PERIODCATEGORY)
+***********************************************
+315.　．(PERIODCATEGORY)　１０９(Neu)　．(PERIODCATEGORY)
+***********************************************
+316.　．(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+317.　．(PERIODCATEGORY)　４６(Neu)　的(DE)　節點(Na)　。(PERIODCATEGORY)
+***********************************************
+318.　。(PERIODCATEGORY)　四(Neu)　、(PAUSECATEGORY)　結論(Na)　，(COMMACATEGORY)　由於(Cbb)　ＴＣＰ／ＩＰ(FW)　並(D)　不(D)　包含(VJ)　交談層(Na)　（(PARENTHESISCATEGORY)　ｓｅｓｓｉｏｎｌａｙｅｒ(FW)　）(PARENTHESISCATEGORY)　的(DE)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+319.　，(COMMACATEGORY)　在(P)　資料(Na)　運送(VC)[+nom]　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+320.　，(COMMACATEGORY)　它(Nh)　只(Da)　提供(VD)　使用(VC)[+nom]　序號(Na)　、(PAUSECATEGORY)　回覆(VD)[+nom]　及(Caa)　流量(Na)　控制(VC)[+nom]　的(DE)　資料(Na)　流傳送(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+321.　，(COMMACATEGORY)　以及(Caa)　不須(D)　使用(VC)　回覆(VD)　的(DE)　單一(A)　封包(Na)　（(PARENTHESISCATEGORY)　ｐａｃｋｅｔ(FW)　）(PARENTHESISCATEGORY)　服務(VC)　，(COMMACATEGORY)
+***********************************************
+322.　，(COMMACATEGORY)　其(Nep)　ＩＰ(FW)　位址(Na)　結構(Na)　包括(VK)　了(Di)　網路(Na)　位址(Na)　及(Caa)　本(Nes)　地(Nc)　位址(Na)　兩(Neu)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+323.　，(COMMACATEGORY)　且(Cbb)　可(D)　分為(VG)　三(Neu)　類(Nf)　位址(Na)　結構(Na)　。(PERIODCATEGORY)
+***********************************************
+324.　。(PERIODCATEGORY)　而(Cbb)　在(P)　我們(Nh)　自設(VC)　子網路(Na)　的(DE)　地址(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+325.　，(COMMACATEGORY)　前面(Ncd)　已(D)　談及(VE)　，(COMMACATEGORY)
+***********************************************
+326.　，(COMMACATEGORY)　只要(Cbb)　網路(Na)　的(DE)　閘道器(Na)　（(PARENTHESISCATEGORY)　Ｇａｔｅｗａｙ(FW)　）(PARENTHESISCATEGORY)　知道(VK)　其(Nep)　地址(Na)　即(D)　可(VH)　，(COMMACATEGORY)
+***********************************************
+327.　，(COMMACATEGORY)　並(D)　不(D)　須(D)　讓(VL)　外界(Ncd)　了解(VK)　，(COMMACATEGORY)
+***********************************************
+328.　，(COMMACATEGORY)　所以(Cbb)　子網路(Na)　的(DE)　設置(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+329.　，(COMMACATEGORY)　不但(Cbb)　可(D)　產生(VHC)　許多(Neqa)　次(Nf)　網路(Na)　，(COMMACATEGORY)
+***********************************************
+330.　，(COMMACATEGORY)　並且(Cbb)　各(Nes)　機構(Na)　可(D)　依據(P)　自己(Nh)　內部(Ncd)　的(DE)　需求(Na)　，(COMMACATEGORY)
+***********************************************
+331.　，(COMMACATEGORY)　依(P)　一(Neu)　套(Nf)　規則(Na)　，(COMMACATEGORY)
+***********************************************
+332.　，(COMMACATEGORY)　自己(Nh)　設定(VC)　子網路(Na)　，(COMMACATEGORY)
+***********************************************
+333.　，(COMMACATEGORY)　不必(D)　再(D)　侷限(VC)　於(P)　那(Nep)　三(Neu)　類(Nf)　網路(Na)　位址(Na)　結構(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+334.　，(COMMACATEGORY)　使(VL)　網路(Na)　管理(VC)　者(Na)　方便(VH)　管理(VC)　，(COMMACATEGORY)
+***********************************************
+335.　，(COMMACATEGORY)　而(Cbb)　使用(VC)　者(Na)　更(D)　能夠(D)　盡情(D)　利用(VC)　、(PAUSECATEGORY)　發揮(VJ)　網路(Na)　的(DE)　功效(Na)　，(COMMACATEGORY)
+***********************************************
+336.　，(COMMACATEGORY)　達到(VJ)　資訊(Na)　共享(VJ)　的(DE)　目的(Na)　。(PERIODCATEGORY)
+***********************************************
+337.　。(PERIODCATEGORY)
+***********************************************
+338.　。(PERIODCATEGORY)　小(VH)　問題(Na)　大(VH)　煩惱(Na)　，(COMMACATEGORY)　鍵盤(Na)　故障(VH)　時(Ng)　的(DE)　處理(VC)[+nom]　何鴻毅(Nb)　問(VE)　：(COLONCATEGORY)
+***********************************************
+339.　：(COLONCATEGORY)　遇到(VC)　鍵盤(Na)　無法(D)　正常(VH)　操作(VC)　時(Ng)　應(D)　如何(D)　處理(VC)　？(QUESTIONCATEGORY)
+***********************************************
+340.　？(QUESTIONCATEGORY)　答(VE)　：(COLONCATEGORY)
+***********************************************
+341.　：(COLONCATEGORY)　對(P)　電腦(Na)　使用(VC)　者(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+342.　，(COMMACATEGORY)　一(Neu)　個(Nf)　看似(VG)　結構(Na)　簡單(VH)　的(DE)　鍵盤(Na)　，(COMMACATEGORY)
+***********************************************
+343.　，(COMMACATEGORY)　確(D)　是(SHI)　主掌(VC)　整(Neqa)　台(Nf)　ＰＣ(Na)[+fw]　的(DE)　輸入(VC)[+nom]　靈魂(Na)　，(COMMACATEGORY)
+***********************************************
+344.　，(COMMACATEGORY)　所以(Cbb)　，(COMMACATEGORY)
+***********************************************
+345.　，(COMMACATEGORY)　若(Cbb)　此(Nep)　一(Neu)　重要(VH)　的(DE)　輸入(VC)[+nom]　工具(Na)　故障(VH)　，(COMMACATEGORY)
+***********************************************
+346.　，(COMMACATEGORY)　而(Cbb)　導致(VL)　無法(D)　正常(VH)　使用(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+347.　，(COMMACATEGORY)　也(D)　將(D)　是(SHI)　操作(VC)　者(Na)　一(Neu)　大(VH)　致命(VH)　的(DE)　困擾(Na)　。(PERIODCATEGORY)
+***********************************************
+348.　。(PERIODCATEGORY)　以下(Ncd)　我們(Nh)　針對(P)　鍵盤(Na)　最(Dfa)　常(D)　發生(VJ)　的(DE)　故障(VH)　狀況(Na)　及(Caa)　排除(VC)[+nom]　方法(Na)　與(P)　讀者(Na)　分享(VJ)　。(PERIODCATEGORY)
+***********************************************
+349.　。(PERIODCATEGORY)　設定(VC)　錯誤(VH)　時(Ng)　的(DE)　排除(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+350.　：(COLONCATEGORY)　通常(D)　鍵盤(Na)　有(V_2)　分供(VF)　ＸＴ級(Na)　與(Caa)　ＡＴ級(Na)　之(DE)　ＰＣ(Na)[+fw]　使用(VC)　的(DE)　差別(Na)　，(COMMACATEGORY)
+***********************************************
+351.　，(COMMACATEGORY)　且(Cbb)　在(P)　其(Nep)　底部(Ncd)　具備(VJ)　切換(VC)[+nom]　開關(Na)　以(Cbb)　作(VG)　設定(VC)　，(COMMACATEGORY)
+***********************************************
+352.　，(COMMACATEGORY)　如果(Cbb)　設定(VC)　錯誤(VH)　，(COMMACATEGORY)
+***********************************************
+353.　，(COMMACATEGORY)　開機(VA)　時(Ng)　將(D)　會(D)　發出(VC)　連續(A)　ＢｉＢｉ聲(Na)　，(COMMACATEGORY)
+***********************************************
+354.　，(COMMACATEGORY)　並(Cbb)　在(P)　其(Nep)　右上角(Ncd)　指示燈(Na)　處(Nc)　持續(VL)　閃爍(VA)　。(PERIODCATEGORY)
+***********************************************
+355.　。(PERIODCATEGORY)　此時(Nd)　，(COMMACATEGORY)
+***********************************************
+356.　，(COMMACATEGORY)　只(Da)　需(D)　將(P)　其(Nep)　切換(VC)　至(P)　另(Nes)　一(Neu)　邊(Ncd)　即(D)　可(VH)　。(PERIODCATEGORY)
+***********************************************
+357.　。(PERIODCATEGORY)　主機端(Nc)　之(DE)　故障(VH)[+nom]　與(Caa)　排除(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+358.　：(COLONCATEGORY)　此(Nep)　部份(Neqa)　之(DE)　故障(VH)[+nom]　發生(VJ)　乃(VG)　緣於(VJ)　主機板(Na)　上(Ncd)　控制(VC)　鍵盤(Na)　的(DE)　重要(VH)　零件(Na)　８０４２ＣＨＩＰ(FW)　，(COMMACATEGORY)
+***********************************************
+359.　，(COMMACATEGORY)　因(Cbb)　其(Nep)　位置(Na)　靠近(VC)　機板(Na)　內部(Ncd)　電池(Na)　旁(Ncd)　，(COMMACATEGORY)
+***********************************************
+360.　，(COMMACATEGORY)　一旦(Cbb)　電池(Na)　漏液(VH)　，(COMMACATEGORY)
+***********************************************
+361.　，(COMMACATEGORY)　常(D)　造成(VG)　鍵盤(Na)　資料(Na)　訊號(Na)　斷線(VH)　或(Caa)　短路(VH)　，(COMMACATEGORY)
+***********************************************
+362.　，(COMMACATEGORY)　而(Cbb)　將(P)　保護(VC)　鍵盤(Na)　電源(Na)　之(DE)　保險絲(Na)　燒毀(VC)　。(PERIODCATEGORY)
+***********************************************
+363.　。(PERIODCATEGORY)　此(Nep)　一(Neu)　故障(VH)[+nom]　會(D)　在(P)　開機(VA)　時(Ng)　顯示出(VK)　ＫｅｙｂｏａｒｄＥｒｒｏｒ(FW)　之(DE)　訊息(Na)　告知(VE)　使用(VC)　者(Na)　，(COMMACATEGORY)
+***********************************************
+364.　，(COMMACATEGORY)　此時(Nd)　，(COMMACATEGORY)
+***********************************************
+365.　，(COMMACATEGORY)　使用(VC)　者(Na)　唯有(D)　迅速(VH)　將(P)　其(Nep)　送修(VC)　。(PERIODCATEGORY)
+***********************************************
+366.　。(PERIODCATEGORY)　接點(Na)　接觸(VC)　不良(VH)　之(DE)　故障(VH)[+nom]　與(Caa)　排除(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+367.　：(COLONCATEGORY)　一般(A)　使用(VC)[+nom]　期限(Na)　較(Dfa)　久(VH)　或(Caa)　灰塵(Na)　較多(VH)　的(DE)　工作(Na)　環境(Na)　，(COMMACATEGORY)
+***********************************************
+368.　，(COMMACATEGORY)　常(D)　會(D)　發生(VJ)　某(Nes)　按鍵(Na)　無法(D)　正常(VH)　使用(VC)　，(COMMACATEGORY)
+***********************************************
+369.　，(COMMACATEGORY)　此(Nep)　乃(D)　因(Cbb)　鍵盤(Na)　內部(Ncd)　接點(Na)　接觸(VC)　不良(VH)　造成(VG)　的(DE)　故障(VH)　狀況(Na)　，(COMMACATEGORY)
+***********************************************
+370.　，(COMMACATEGORY)　對(P)　此(Nep)　，(COMMACATEGORY)
+***********************************************
+371.　，(COMMACATEGORY)　使用(VC)　者(Na)　除(P)　徹底(VH)　將(P)　單鍵(Na)　換新(VC)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+372.　，(COMMACATEGORY)　另(Nes)　可(D)　使用(VC)　酒精(Na)　或(Caa)　接點(Na)　清潔劑(Na)　作(VC)　清潔(VH)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+373.　，(COMMACATEGORY)　通常(D)　可(D)　再(D)　延續(VJ)　使用(VC)　一(Neu)　段(Nf)　時間(Na)　。(PERIODCATEGORY)
+***********************************************
+374.　。(PERIODCATEGORY)
+***********************************************
+375.　。(PERIODCATEGORY)　法令(Na)　透視(VC)　訴訟(VA)　上(Ng)　可資(VL)　運用(VC)　之(DE)　抗辯(VA)[+nom]　事由(Na)　（(PARENTHESISCATEGORY)　上(Ncd)　）(PARENTHESISCATEGORY)　鄭哲民(Nb)　在(P)　電腦(Na)　軟體(Na)　訴訟(VA)[+nom]　發生(VJ)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+376.　，(COMMACATEGORY)　由於(Cbb)　原告(Na)　證明(VE)　其(Nep)　合法(VH)　享有(VJ)　著作權(Na)　及(Caa)　被告(Na)　之(DE)　拷貝(VC)[+nom]　行為(Na)　，(COMMACATEGORY)
+***********************************************
+377.　，(COMMACATEGORY)　而(Cbb)　成立(VC)　了(Di)　所謂(VK)　的(DE)　表面(Na)　證據(Na)　案件(Na)　((PARENTHESISCATEGORY)　ｐｒｉｍａｆａｃｅｃａｓｅ(FW)　(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+378.　，(COMMACATEGORY)　因此(Cbb)　舉證(VE)[+nom]　責任(Na)　便(D)　轉換(VC)　至(P)　被告(Na)　，(COMMACATEGORY)
+***********************************************
+379.　，(COMMACATEGORY)　亦即(VG)　被告(Na)　須(D)　舉證(VE)　證明(VE)　其(Nep)　行為(Na)　之(DE)　適法性(Na)　以(Cbb)　做為(VG)　對(P)　原告(Na)　控訴(VC)　之(DE)　抗辯(VA)[+nom]　，(COMMACATEGORY)
+***********************************************
+380.　，(COMMACATEGORY)　以下(Ncd)　即(D)　就(P)　美國(Nc)　實務(Na)　上(Ng)　可資(VL)　運用(VC)　的(DE)　數(Neu)　種(Nf)　抗辯(VA)[+nom]　事由(Na)　加以(D)　論述(VE)　之(Nh)　。(PERIODCATEGORY)
+***********************************************
+381.　。(PERIODCATEGORY)　獨立(VH)　創作(VC)　((PARENTHESISCATEGORY)　ＩｎｄｅｐｅｎｄｅｎｔＣｒｅａｔｉｏｎ(FW)　(PARENTHESISCATEGORY)　此(Nep)　一(Neu)　抗辯(VA)[+nom]　理由(Na)　通常(D)　可(D)　適用(VJ)　於(P)　原被告(Na)　二(Neu)　者(Na)　之(DE)　程式(Na)　係(VG)　相當(Dfa)　近似(VJ)　或(Caa)　完全(D)　相同(VH)　之(DE)　情形(Na)　。(PERIODCATEGORY)
+***********************************************
+382.　。(PERIODCATEGORY)　由於(Cbb)　著作權(Na)　之(DE)　本質(Na)　係(VG)　在於(VK)　智慧(Na)　創造(VC)[+nom]　結晶(Na)　之(DE)　保護(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+383.　，(COMMACATEGORY)　因此(Cbb)　此(Nep)　類(Nf)　案件(Na)　中(Ng)　之(DE)　被告(Na)　若(Cbb)　能(D)　舉證(VE)　證明(VE)　其(Nep)　所有(Neqa)　之(DE)　程式(Na)　係(VG)　其(Nep)　獨立(VH)　研究(VE)　而(Cbb)　出(VC)　之(DE)　產物(Na)　，(COMMACATEGORY)
+***********************************************
+384.　，(COMMACATEGORY)　並(D)　未(D)　參考(VC)　他人(Nh)　之(DE)　程式(Na)　，(COMMACATEGORY)
+***********************************************
+385.　，(COMMACATEGORY)　則(D)　侵害(VC)[+nom]　責任(Na)　於(P)　此(Nep)　便(D)　無由(D)　發生(VJ)　。(PERIODCATEGORY)
+***********************************************
+386.　。(PERIODCATEGORY)　然而(Cbb)　，(COMMACATEGORY)
+***********************************************
+387.　，(COMMACATEGORY)　要(D)　證明(VE)　獨立(VH)　創作(VC)　之(DE)　事實(Na)　並(D)　非(VG)　易(VH)　事(Na)　，(COMMACATEGORY)
+***********************************************
+388.　，(COMMACATEGORY)　舉證(VE)　的(DE)　方式(Na)　及(Caa)　內容(Na)　亦(D)　可能(D)　因(Cbb)　案件(Na)　之(DE)　不同(VH)[+nom]　而(Cbb)　有所(VJ)　差異(Na)　。(PERIODCATEGORY)
+***********************************************
+389.　。(PERIODCATEGORY)　基本(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+390.　，(COMMACATEGORY)　獨立(VH)　創作(VC)　必須(D)　係(VG)　未(D)　經(P)　參考(VC)　他人(Nh)　著作(Na)　之(DE)　行為(Na)　始(D)　得以(D)　稱(VG)　之(Nh)　，(COMMACATEGORY)
+***********************************************
+391.　，(COMMACATEGORY)　如(P)　法院(Nc)　對(P)　被告(Na)　所(D)　提(VE)　之(DE)　證據(Na)　認為(VE)　無法(D)　證明(VE)　創作(Na)　行為(Na)　之(DE)　獨立性(Na)　，(COMMACATEGORY)
+***********************************************
+392.　，(COMMACATEGORY)　則(D)　被告(Na)　之(DE)　抗辯(VA)[+nom]　即(D)　有(V_2)　被(P)　駁回(VC)　之(DE)　可能(Na)　。(PERIODCATEGORY)
+***********************************************
+393.　。(PERIODCATEGORY)　例如(P)　一九八二年(Nd)　的(DE)　ＭｉｄｗａｙＭａｎｕｆａｃｔｕｒｉｎｇＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+394.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+395.　．(PERIODCATEGORY)　ＢａｎｄａｃＡｍｅｒｉｃａ(FW)　(COMMACATEGORY)
+***********************************************
+396.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+397.　．(PERIODCATEGORY)　案(Na)　，(COMMACATEGORY)
+***********************************************
+398.　，(COMMACATEGORY)　被告(Na)　雖(Cbb)　於(P)　訴訟(VA)　進行(VC)　中(Ng)　提出(VC)　如(P)　筆記(Na)　、(PAUSECATEGORY)　圖表(Na)　或(Caa)　其他(Neqa)　似(D)　可(D)　證明(VE)　其(Nep)　獨立(VH)　設計(VC)　被(P)　控訴(VC)　之(DE)　軟體(Na)　，(COMMACATEGORY)
+***********************************************
+399.　，(COMMACATEGORY)　惟(Da)　法院(Nc)　卻(D)　認為(VE)　被告(Na)　所(D)　提(VE)　之(DE)　證據(Na)　僅(Da)　能(D)　證明(VE)　該(Nes)　軟體(Na)　係(VG)　一(Neu)　創作(Na)　，(COMMACATEGORY)
+***********************************************
+400.　，(COMMACATEGORY)　但(Cbb)　非(VG)　獨立(VH)　之(DE)　創作(Na)　，(COMMACATEGORY)
+***********************************************
+401.　，(COMMACATEGORY)　因為(Cbb)　該(Nes)　數(Neu)　個(Nf)　證據(Na)　無法(D)　證明(VE)　被告(Na)　創作(Na)　行為(Na)　之(DE)　獨立性(Na)　，(COMMACATEGORY)
+***********************************************
+402.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+403.　，(COMMACATEGORY)　被告(Na)　使用(VC)　原告(Na)　程式(Na)　來(D)　創作(VC)　新(VH)　程式(Na)　之(DE)　行為(Na)　即(D)　被(P)　視為(VG)　侵害(VC)　了(Di)　原告(Na)　著作權(Na)　權能(Na)　中(Ng)　之(DE)　改作權(Na)　。(PERIODCATEGORY)
+***********************************************
+404.　。(PERIODCATEGORY)　然而(Cbb)　此(Nep)　非(D)　謂(VE)　在(P)　所有(Neqa)　的(DE)　著作權(Na)　侵害(VC)[+nom]　案件(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+405.　，(COMMACATEGORY)　參考(VC)　他(Nh)　著作(Na)　之(DE)　行為(Na)　皆(D)　係(VG)　對(P)　被告(Na)　不利(VK)　之(DE)　因素(Na)　，(COMMACATEGORY)
+***********************************************
+406.　，(COMMACATEGORY)　蓋(Cbb)　若(Cbb)　被告(Na)　新創(VC)　之(DE)　著作(Na)　與(Caa)　原告(Na)　程式(Na)　並(D)　無(VJ)　實質(Na)　上(Ng)　雷同(VI)　之(DE)　處(Na)　，(COMMACATEGORY)
+***********************************************
+407.　，(COMMACATEGORY)　或(Caa)　被告(Na)　確(D)　係(VG)　為(P)　了(Di)　驗證(VE)　事實(Na)　而(Cbb)　引用(VC)　原告(Na)　之(DE)　程式(Na)　，(COMMACATEGORY)
+***********************************************
+408.　，(COMMACATEGORY)　則(D)　被告(Na)　即(D)　無(VJ)　侵害(VC)　原告(Na)　著作權(Na)　權能(Na)　之(DE)　情形(Na)　發生(VJ)　。(PERIODCATEGORY)
+***********************************************
+409.　。(PERIODCATEGORY)　實務(Na)　上(Ng)　可(D)　做為(VG)　證明(VE)　之(DE)　情形(Na)　例如(P)　：(COLONCATEGORY)
+***********************************************
+410.　：(COLONCATEGORY)　被告(Na)　於(P)　原告(Na)　指控(VE)　侵害(VC)　其(Nep)　程式(Na)　著作權(Na)　之前(Ng)　已(D)　完成(VC)　其(Nep)　程式(Na)　之(DE)　設計(Na)　，(COMMACATEGORY)
+***********************************************
+411.　，(COMMACATEGORY)　被告(Na)　參考(VC)　其他(Neqa)　資料(Na)　之(DE)　行為(Na)　，(COMMACATEGORY)
+***********************************************
+412.　，(COMMACATEGORY)　或(Caa)　被告(Na)　設計(VC)　程式(Na)　之(DE)　過程(Na)　及(Caa)　資料(Na)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+413.　。(PERIODCATEGORY)　相容性(Na)　((PARENTHESISCATEGORY)　Ｃｏｍｐａｔａｂｉｌｉｌｔｙ(FW)　(PARENTHESISCATEGORY)　軟體(Na)　的(DE)　相容性(Na)　在(P)　電腦業(Na)　的(DE)　發展(VC)[+nom]　上(Ng)　一直(D)　是(SHI)　一(Neu)　個(Nf)　相當(Dfa)　重要(VH)　的(DE)　課題(Na)　，(COMMACATEGORY)
+***********************************************
+414.　，(COMMACATEGORY)　因為(Cbb)　相容性(Na)　的(DE)　電腦(Na)　軟體(Na)　可以(D)　增加(VHC)　軟體(Na)　製造(VC)　者(Na)　之(DE)　競爭(Na)　能力(Na)　，(COMMACATEGORY)
+***********************************************
+415.　，(COMMACATEGORY)　但(Cbb)　也(D)　由於(Cbb)　其(Nep)　本身(Nh)　的(DE)　特性(Na)　使然(VH)　，(COMMACATEGORY)
+***********************************************
+416.　，(COMMACATEGORY)　可(D)　相容(VH)　軟體(Na)　的(DE)　發展(VC)[+nom]　也(D)　就(D)　無法(D)　避免(VE)　地(DE)　涉及到(VK)　一些(Neqa)　著作權(Na)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+417.　。(PERIODCATEGORY)　在(P)　美國(Nc)　著作權法(Na)　的(DE)　條文(Na)　中(Ng)　並(D)　未(D)　明文規定(VE)　為(VG)　相容(VH)　目的(Na)　而(Cbb)　拷貝(VC)　他人(Nh)　程式(Na)　之(DE)　行為(Na)　可(D)　做為(VG)　對(P)　侵害(VC)　著作權(Na)　之(DE)　一(Neu)　種(Nf)　阻卻(VC)[+nom]　違法(VA)[+nom]　事由(Na)　，(COMMACATEGORY)
+***********************************************
+418.　，(COMMACATEGORY)　學者(Na)　間(Ng)　或(Caa)　有(V_2)　以(P)　其(Nep)　為(VG)　「(PARENTHESISCATEGORY)　概念(Na)　與(Caa)　表達(VC)　同(Nes)　一(Neu)　原則(Na)　((PARENTHESISCATEGORY)　Ｉｄｅａ／ＥｘｐｒｅｓｓｉｏｎＩｄｅｎｔｉｔｙＥｘｃｅｐｔｉｏｎ(FW)　(PARENTHESISCATEGORY)　」(PARENTHESISCATEGORY)　適用(VJ)[+nom]　對象(Na)　之(DE)　一(Neu)　；(SEMICOLONCATEGORY)
+***********************************************
+419.　；(SEMICOLONCATEGORY)　亦即(VG)　以(P)　「(PARENTHESISCATEGORY)　概念(Na)　與(Caa)　表達(VC)[+nom]　同(Nes)　一(Neu)　原則(Na)　」(PARENTHESISCATEGORY)　為(VG)　抗辯(VA)[+nom]　理由(Na)　之(DE)　被告(Na)　，(COMMACATEGORY)
+***********************************************
+420.　，(COMMACATEGORY)　其(Nep)　為(VG)　設計(VC)　可(D)　相容(VH)　軟體(Na)　之(DE)　拷貝(VC)[+nom]　行為(Na)　，(COMMACATEGORY)
+***********************************************
+421.　，(COMMACATEGORY)　得(D)　因(Cbb)　上述(Na)　原則(Na)　而(Cbb)　阻卻(VC)　其(Nep)　違法性(Na)　。(PERIODCATEGORY)
+***********************************************
+422.　。(PERIODCATEGORY)　間或(D)　另(Nes)　有(V_2)　人(Na)　主張(VE)　以(P)　「(PARENTHESISCATEGORY)　合理(VH)　使用(VC)[+nom]　原則(Na)　」(PARENTHESISCATEGORY)　（(PARENTHESISCATEGORY)　美國(Nc)　著作權法(Na)　第一七(Neu)　條(Nf)　）(PARENTHESISCATEGORY)　做為(VG)　此(Nep)　種(Nf)　行為(Na)　之(DE)　阻卻(VC)[+nom]　違法(VA)[+nom]　事由(Na)　，(COMMACATEGORY)
+***********************************************
+423.　，(COMMACATEGORY)　在(P)　現有(A)　相關(VH)　的(DE)　案作(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+424.　，(COMMACATEGORY)　法院(Nc)　駁回(VC)　了(Di)　該(Nes)　項(Nf)　抗辯(VA)[+nom]　，(COMMACATEGORY)
+***********************************************
+425.　，(COMMACATEGORY)　惟(Da)　此(Nep)　並(D)　不(D)　表示(VE)　絕對(D)　採(VC)　否定(VC)[+nom]　見解(Na)　，(COMMACATEGORY)
+***********************************************
+426.　，(COMMACATEGORY)　最(Dfa)　重要(VH)　的(DE)　仍(D)　應(D)　依(P)　第一七(Neu)　條(Nf)　各(Nes)　款(Nf)　規定(Na)　及(Caa)　案情(Na)　之(DE)　事實(Na)　加以(D)　綜合(VC)　判斷(VE)　為(VG)　是(SHI)　。(PERIODCATEGORY)
+***********************************************
+427.　。(PERIODCATEGORY)
+***********************************************
+428.　。(PERIODCATEGORY)　小(VH)　問題(Na)　大(VH)　煩惱(Na)　，(COMMACATEGORY)　中文(Na)　文件(Na)　變(VH)　亂碼(Na)　的(DE)　解決(VC)[+nom]　方法(Na)　劉言煒(Nb)　問(VE)　：(COLONCATEGORY)
+***********************************************
+429.　：(COLONCATEGORY)　當(P)　所(D)　輸入(VC)　的(DE)　中文(Na)　文件(Na)　檔案(Na)　變成(VG)　一些(Neqa)　看(VJ)[+vrv]　不(D)　懂(VJ)[+vrr]　的(DE)　奇怪(VK)[+nom]　符號(Na)　時(Ng)　該(D)　如何(D)　處理(VC)　？(QUESTIONCATEGORY)
+***********************************************
+430.　？(QUESTIONCATEGORY)　答(VE)　：(COLONCATEGORY)
+***********************************************
+431.　：(COLONCATEGORY)　在(P)　ＰＣ(Na)[+fw]　中(Ng)　我們(Nh)　所(D)　用(VC)　的(DE)　英文字(Na)　、(PAUSECATEGORY)　數字(Na)　及(Caa)　符號(Na)　((PARENTHESISCATEGORY)　如(P)　(FW)　(EXCLANATIONCATEGORY)
+***********************************************
+432.　(EXCLANATIONCATEGORY)　＋(FW)　等(Cab)　(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+433.　，(COMMACATEGORY)　是(SHI)　在(P)　ＡＳＣＩＩ碼(Na)　０(Neu)　到(Caa)　１２７(Neu)　之間(Ng)　。(PERIODCATEGORY)
+***********************************************
+434.　。(PERIODCATEGORY)　而(Cbb)　一(Neu)　個(Nf)　中文字(Na)　是(SHI)　由(P)　兩(Neu)　個(Nf)　字元(Na)　所(D)　組成(VG)　，(COMMACATEGORY)
+***********************************************
+435.　，(COMMACATEGORY)　其中(Nep)　包含(VJ)　了(Di)　１２８(Neu)　到(Caa)　２５５(Neu)　之間(Ng)　的(DE)　ＡＳＣＩＩ碼(Na)　，(COMMACATEGORY)
+***********************************************
+436.　，(COMMACATEGORY)　這(Nep)　之間(Ncd)　的(DE)　碼(Na)　包括(VK)　了(Di)　希臘(Nc)　字母(Na)　、(PAUSECATEGORY)　數學(Na)　符號(Na)　及(Caa)　一些(Neqa)　歐洲(Nc)　語言(Na)　字母(Na)　，(COMMACATEGORY)
+***********************************************
+437.　，(COMMACATEGORY)　因此(Cbb)　當(P)　中文(Na)　系統(Na)　無法(D)　正常(VH)　運作(VA)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+438.　，(COMMACATEGORY)　您(Nh)　就(D)　可能(D)　看見(VE)　一些(Neqa)　奇怪(VK)　的(DE)　字母(Na)　了(T)　。(PERIODCATEGORY)
+***********************************************
+439.　。(PERIODCATEGORY)　當(P)　碰到(VC)　這些(Neqa)　情形(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+440.　，(COMMACATEGORY)　只要(Cbb)　磁片(Na)　沒(D)　壞(VHC)　，(COMMACATEGORY)
+***********************************************
+441.　，(COMMACATEGORY)　資料(Na)　都(D)　還(D)　是(SHI)　安全(VH)　的(T)　。(PERIODCATEGORY)
+***********************************************
+442.　。(PERIODCATEGORY)　您(Nh)　可(D)　依(P)　下列(A)　的(DE)　方式(Na)　來(D)　解決(VC)　問題(Na)　：(COLONCATEGORY)
+***********************************************
+443.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+444.　．(PERIODCATEGORY)　先(D)　確定(VK)　您(Nh)　已經(D)　執行(VC)　中文(Na)　系統(Na)　程式(Na)　，(COMMACATEGORY)
+***********************************************
+445.　，(COMMACATEGORY)　如(P)　震漢(Na)　、(PAUSECATEGORY)　倚天(Nb)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+446.　。(PERIODCATEGORY)　若(Cbb)　未(D)　先(D)　進入(VCL)　中文(Na)　系統(Na)　而(Cbb)　欲(VK)　編輯(VC)　中文(Na)　文件(Na)　檔(Na)　，(COMMACATEGORY)
+***********************************************
+447.　，(COMMACATEGORY)　那麼(Dk)　將(D)　只(Da)　看見(VE)　一些(Neqa)　沒有(VJ)　意義(Na)　的(DE)　符號(Na)　。(PERIODCATEGORY)
+***********************************************
+448.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+449.　．(PERIODCATEGORY)　如果(Cbb)　確定(VK)　已(D)　進入(VCL)　中文(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+450.　，(COMMACATEGORY)　而(Cbb)　螢幕(Na)　上(Ncd)　所(D)　顯現(VH)　的(DE)　中文字(Na)　都(D)　不(D)　正確(VH)　，(COMMACATEGORY)
+***********************************************
+451.　，(COMMACATEGORY)　這時(Nd)　，(COMMACATEGORY)
+***********************************************
+452.　，(COMMACATEGORY)　您(Nh)　可能(D)　要(D)　再(D)　一(Neu)　次(Nf)　確認(VE)　編輯(VC)[+nom]　文件(Na)　前後(D)　所(D)　用(VC)　的(DE)　中文(Na)　內碼(Na)　是否(D)　一致(VH)　。(PERIODCATEGORY)
+***********************************************
+453.　。(PERIODCATEGORY)　通常(D)　，(COMMACATEGORY)
+***********************************************
+454.　，(COMMACATEGORY)　大部分(Neqa)　的(DE)　中文字(Na)　都(D)　是(SHI)　採用(VC)　ＢＩＧ－５碼(Na)　，(COMMACATEGORY)
+***********************************************
+455.　，(COMMACATEGORY)　但(Cbb)　如果(Cbb)　您(Nh)　的(DE)　文件檔(Na)　是(SHI)　在(P)　ＩＢＭ５５５０(FW)　上(Ng)　輸入(VC)　的(T)　，(COMMACATEGORY)
+***********************************************
+456.　，(COMMACATEGORY)　所(D)　用(VC)　的(DE)　內碼(Na)　就(D)　是(SHI)　ＩＢＭ５５５０碼(Na)　，(COMMACATEGORY)
+***********************************************
+457.　，(COMMACATEGORY)　那麼(Dk)　您(Nh)　所(D)　鍵入(VC)　的(DE)　中文字(Na)　自然(D)　無法(D)　正確(VH)　地(DE)　顯現(VH)　。(PERIODCATEGORY)
+***********************************************
+458.　。(PERIODCATEGORY)　解決之道(Na)　是(SHI)　利用(VC)　系統(Na)　內(Ng)　的(DE)　轉換(VC)[+nom]　程式(Na)　（(PARENTHESISCATEGORY)　一般(A)　中文(Na)　系統(Na)　皆(D)　提供(VD)　此(Nep)　一(Neu)　功能(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+459.　，(COMMACATEGORY)　將(P)　文件檔(Na)　轉成(VG)　相同(VH)　的(DE)　內碼(Na)　後(Ng)　再(D)　編輯(VC)　。(PERIODCATEGORY)
+***********************************************
+460.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+461.　，(COMMACATEGORY)　在(P)　麥金塔(Nb)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+462.　，(COMMACATEGORY)　您(Nh)　也(D)　可能(D)　碰到(VC)　類似(VG)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+463.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+464.　：(COLONCATEGORY)　您(Nh)　所(D)　畫(VC)　的(DE)　圖(Na)　，(COMMACATEGORY)
+***********************************************
+465.　，(COMMACATEGORY)　中間(Ncd)　包含(VJ)　中文(Na)　說明(Na)　，(COMMACATEGORY)
+***********************************************
+466.　，(COMMACATEGORY)　當(P)　您(Nh)　換(VC)　一(Neu)　台(Nf)　機器(Na)　或(Caa)　在(P)　不同(VH)　版本(Na)　的(DE)　中文(Na)　系統(Na)　上(Ng)　使用(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+467.　，(COMMACATEGORY)　所有(Neqa)　的(DE)　中文字(Na)　也(D)　都(D)　會(D)　變成(VG)　奇怪(VK)　的(DE)　符號(Na)　或(Caa)　根本(D)　無法(D)　顯示(VK)　。(PERIODCATEGORY)
+***********************************************
+468.　。(PERIODCATEGORY)　這(Nep)　種(Nf)　問題(Na)　發生(VJ)　的(DE)　最(Dfa)　可能(VH)　原因(Na)　是(SHI)　：(COLONCATEGORY)
+***********************************************
+469.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+470.　．(PERIODCATEGORY)　你(Nh)　所(D)　使用(VC)　的(DE)　麥金塔(Nb)　系統(Na)　未(D)　支援(VC)　中文(Na)　功能(Na)　。(PERIODCATEGORY)
+***********************************************
+471.　。(PERIODCATEGORY)　如果(Cbb)　是(SHI)　，(COMMACATEGORY)
+***********************************************
+472.　，(COMMACATEGORY)　請(VF)　更換(VC)　至(P)　具(VJ)　中文(Na)　操作(VC)[+nom]　環境(Na)　的(DE)　機器(Na)　上(Ncd)　使用(VC)　。(PERIODCATEGORY)
+***********************************************
+473.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+474.　．(PERIODCATEGORY)　原有(VJ)[+nom]　資料檔(Na)　的(DE)　中文(Na)　字型(Na)　，(COMMACATEGORY)
+***********************************************
+475.　，(COMMACATEGORY)　在(P)　別(Nes)　台(Nf)　機器(Na)　或(Caa)　不同(VH)　版本(Na)　的(DE)　中文(Na)　系統(Na)　上(Ng)　並(D)　未(D)　提供(VD)　。(PERIODCATEGORY)
+***********************************************
+476.　。(PERIODCATEGORY)　此時(Nd)　，(COMMACATEGORY)
+***********************************************
+477.　，(COMMACATEGORY)　您(Nh)　只(Da)　需(D)　將(P)　您(Nh)　的(DE)　中文字(Na)　換成(VG)　其他(Neqa)　中文(Na)　字型(Na)　，(COMMACATEGORY)
+***********************************************
+478.　，(COMMACATEGORY)　亦即(VG)　：(COLONCATEGORY)
+***********************************************
+479.　：(COLONCATEGORY)　將(P)　您(Nh)　的(DE)　中文字(Na)　標記(Na)　((PARENTHESISCATEGORY)　ＭＡＲＫ(FW)　(PARENTHESISCATEGORY)　起來(Di)　，(COMMACATEGORY)
+***********************************************
+480.　，(COMMACATEGORY)　然後(D)　再(D)　到(P)　選單(Na)　中(Ng)　的(DE)　字型(Na)　((PARENTHESISCATEGORY)　ＦＯＮＴ(FW)　(PARENTHESISCATEGORY)　項(Nf)　下(Ng)　選擇(VC)　其他(Neqa)　的(DE)　中文(Na)　字型(Na)　即(D)　可(VH)　。(PERIODCATEGORY)
+***********************************************

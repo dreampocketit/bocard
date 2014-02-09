@@ -1,0 +1,1781 @@
+%%  文類=公告啟示
+%%  文體=說明
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=曹仲明
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+1.　。(PERIODCATEGORY)　簡訊(Na)　ＧＡＴＥ(FW)　上(Ncd)　加裝(VC)　ＴｅＸ(FW)　排版(VA)　系統(Na)　開放(VC)　使用(VC)　基於(P)　網路(Na)　資源(Na)　共享(VJ)　的(DE)　理念(Na)　，(COMMACATEGORY)
+***********************************************
+2.　，(COMMACATEGORY)　並(Cbb)　滿足(VHC)　同仁(Na)　對於(P)　文字性(Na)　資料(Na)　輸出(VC)[+nom]　效果(Na)　之(DE)　要求(Na)　，(COMMACATEGORY)
+***********************************************
+3.　，(COMMACATEGORY)　日前(Nd)　中心(Nc)　已(D)　將(D)　ＴｅＸ３(FW)　．(PERIODCATEGORY)
+***********************************************
+4.　．(PERIODCATEGORY)　１４１版(Na)　安裝(VC)　於(P)　ＧＡＴＥ(FW)　（(PARENTHESISCATEGORY)　ＳＵＮ６９０(FW)　機器(Na)　）(PARENTHESISCATEGORY)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+5.　，(COMMACATEGORY)　有(V_2)　需要(Na)　的(DE)　同仁(Na)　，(COMMACATEGORY)
+***********************************************
+6.　，(COMMACATEGORY)　可(D)　連線至(VCL)　ＧＡＴＥ(FW)　主機(Na)　中(Ng)　使用(VC)　。(PERIODCATEGORY)
+***********************************************
+7.　。(PERIODCATEGORY)　　　ＴｅＸ(FW)　係(VG)　自(P)　網路(Na)　上(Ncd)　截取下來(VC)　的(DE)　一(Neu)　套(Nf)　幕(Na)　後(Ncd)　排版(VA)　工具(Na)　，(COMMACATEGORY)
+***********************************************
+8.　，(COMMACATEGORY)　在(P)　功能(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+9.　，(COMMACATEGORY)　它(Nh)　不但(Cbb)　提供(VD)　使用(VC)　者(Na)　包括(VK)　編譯(VC)　、(PAUSECATEGORY)　預視(VC)　、(PAUSECATEGORY)　列印(VC)　等(Cab)　一般性(Na)　排版(VA)[+nom]　功能(Na)　及(Caa)　一(Neu)　套(Nf)　公用(A)　程式(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+10.　，(COMMACATEGORY)　並(Cbb)　具備(VJ)　一(Neu)　項(Nf)　可(D)　自動(VH)　幫助(VC)　使用(VC)　者(Na)　造字(VA)　的(DE)　特殊(VH)　功能(Na)　，(COMMACATEGORY)
+***********************************************
+11.　，(COMMACATEGORY)　方便(VH)　使用(VC)　者(Na)　因應(VJ)　特殊(VH)　的(DE)　需求(Na)　。(PERIODCATEGORY)
+***********************************************
+12.　。(PERIODCATEGORY)　目前(Nd)　，(COMMACATEGORY)
+***********************************************
+13.　，(COMMACATEGORY)　ＴｅＸ(FW)　系統(Na)　置於(VC)　目錄(Na)　／ｕｓｒ／ｌｏｃａｌ／ＴｅＸ(FW)　下(Ncd)　，(COMMACATEGORY)
+***********************************************
+14.　，(COMMACATEGORY)　其(Nep)　主要(A)　執行檔(Na)　位於(VCL)　／ｕｓｒ／ｌｏｃａｌ／ＴｅＸ／ｂｉｎ(FW)　，(COMMACATEGORY)
+***********************************************
+15.　，(COMMACATEGORY)　使用(VC)　者(Na)　只(Da)　需(VK)　將(P)　其(Nep)　加(VC)　於(P)　檔案(Na)　．(PERIODCATEGORY)
+***********************************************
+16.　．(PERIODCATEGORY)　ｃｓｈｒｃ(FW)　的(DE)　ｐａｔｈ(FW)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+17.　，(COMMACATEGORY)　就(D)　可以(D)　完整(VH)　地(DE)　使用(VC)　ＴｅＸ(FW)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+18.　。(PERIODCATEGORY)　若(Cbb)　需(D)　進一步(D)　查看(VE)　使用(VC)　之(DE)　詳細(VH)　說明(Na)　，(COMMACATEGORY)
+***********************************************
+19.　，(COMMACATEGORY)　只(Da)　需(D)　在(P)　．(PERIODCATEGORY)
+***********************************************
+20.　．(PERIODCATEGORY)　ｃｓｈｒｃ(FW)　中(Ncd)　加入(VC)　環境(Na)　設定(VC)[+nom]　（(PARENTHESISCATEGORY)　即(VG)　ｓｅｔｅｎｖＭＡＮＰＡＴＨ／ｕｓｒ／ｌｏｃａｌ／ＴｅＸ／ｍａｎ(FW)　：(COLONCATEGORY)
+***********************************************
+21.　：(COLONCATEGORY)　／ｕｓｒ／ｍａｎ(FW)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+22.　，(COMMACATEGORY)　即可(D)　瀏覽(VC)　各(Nes)　檔案(Na)　的(DE)　ｍａｎｕａｌｐａｇｅ(FW)　，(COMMACATEGORY)
+***********************************************
+23.　，(COMMACATEGORY)　以(P)　獲取(VC)　更多(Neqa)　訊息(Na)　。(PERIODCATEGORY)
+***********************************************
+24.　（(PARENTHESISCATEGORY)　曹仲明(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=陳亞寧許麗煌
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+25.　。(PERIODCATEGORY)　ＩＮＮＯＰＡＣ(FW)　、(PAUSECATEGORY)　離線(VA)[+nom]　書目(Na)　資料(Na)　建檔(VB)[+nom]　系統(Na)　完成(VC)　驗收(VC)　　　ＩＮＮＯＰＡＣ(FW)　系統(Na)　擴充案(Na)　，(COMMACATEGORY)
+***********************************************
+26.　，(COMMACATEGORY)　以及(Caa)　離線(VA)[+nom]　書目(Na)　資料(Na)　建檔(VB)[+nom]　系統(Na)　皆(D)　於(P)　本(Nes)　（(PARENTHESISCATEGORY)　十月(Nd)　一日(Nd)　辦理(VC)　驗收(VC)[+nom]　作業(Na)　。(PERIODCATEGORY)
+***********************************************
+27.　。(PERIODCATEGORY)　此(Nep)　次(Nf)　ＩＮＮＯＰＡＣ(FW)　擴充(VC)　的(DE)　項目(Na)　計有(VJ)　四十(Neu)　個(Nf)　使用(VC)[+nom]　權限(Na)　（(PARENTHESISCATEGORY)　ＵｓｅｒＬｉｃｅｎｃｅ(FW)　）(PARENTHESISCATEGORY)　、(PAUSECATEGORY)　五千(Neu)　筆(Nf)　期刊(Na)　記錄(Na)　，(COMMACATEGORY)
+***********************************************
+28.　，(COMMACATEGORY)　以及(Caa)　一(Neu)　個(Nf)　採購(VC)[+nom]　單位(Na)　（(PARENTHESISCATEGORY)　ＯｒｄｅｒＵｎｉｔ(FW)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+29.　。(PERIODCATEGORY)　同時(Nd)　，(COMMACATEGORY)
+***********************************************
+30.　，(COMMACATEGORY)　在(P)　ＤＥＣ５５００(FW)　完成(VC)　無(VJ)　限制(Na)　的(DE)　使用(VC)[+nom]　權限(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+31.　，(COMMACATEGORY)　才(Da)　使得(VL)　驗收(VC)[+nom]　作業(Na)　順利(VH)　進行(VC)　。(PERIODCATEGORY)
+***********************************************
+32.　。(PERIODCATEGORY)　而(Cbb)　離線(VA)[+nom]　書目(Na)　資料(Na)　建檔(VB)[+nom]　系統(Na)　的(DE)　驗收(VC)[+nom]　作業(Na)　，(COMMACATEGORY)
+***********************************************
+33.　，(COMMACATEGORY)　也(D)　已(D)　於(P)　日前(Nd)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+34.　，(COMMACATEGORY)　但(Cbb)　與(P)　永麒(Nb)　公司(Nc)　作(VC)　事(Na)　後(Ng)　協議(Na)　，(COMMACATEGORY)
+***********************************************
+35.　，(COMMACATEGORY)　將(D)　增加(VHC)　以下(Ncd)　四(Neu)　項(Nf)　功能(Na)　及(Caa)　服務(VC)[+nom]　：(COLONCATEGORY)
+***********************************************
+36.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+37.　．(PERIODCATEGORY)　欲(VK)　結束(VHC)　新增(VJ)[+nom]　功能(Na)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+38.　，(COMMACATEGORY)　請(VF)　系統(Na)　提供(VD)　確認(VE)[+nom]　功能(Na)　即(VG)　存入(VC)　（(PARENTHESISCATEGORY)　Ｓａｖｅ(FW)　）(PARENTHESISCATEGORY)　或(Caa)　放棄(VC)　（(PARENTHESISCATEGORY)　Ｑｕｉｔ(FW)　）(PARENTHESISCATEGORY)　此(Nep)　筆(Nf)　資料(Na)　。(PERIODCATEGORY)
+***********************************************
+39.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+40.　．(PERIODCATEGORY)　將(P)　系統(Na)　所有(Neqa)　ＭＡＲＣ(FW)　欄位(Na)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+41.　，(COMMACATEGORY)　有(V_2)　錯誤(Na)　、(PAUSECATEGORY)　翻譯(VC)　不當(VH)　或(Caa)　缺漏(VJ)　等(Cab)　情形(Na)　，(COMMACATEGORY)
+***********************************************
+42.　，(COMMACATEGORY)　皆(D)　需(D)　加以(D)　修正(VC)　。(PERIODCATEGORY)
+***********************************************
+43.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+44.　．(PERIODCATEGORY)　輸出(VC)[+nom]　功能(Na)　的(DE)　穩定性(Na)　尚(D)　待(P)　觀察(VE)　，(COMMACATEGORY)
+***********************************************
+45.　，(COMMACATEGORY)　所以(Cbb)　特別(VH)　請(VF)　該(Nes)　公司(Nc)　注意(VK)　。(PERIODCATEGORY)
+***********************************************
+46.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)
+***********************************************
+47.　．(PERIODCATEGORY)　將(D)　分(VC)　欄(Nf)　導引(VC)[+nom]　符號(Na)　(FW)　，(COMMACATEGORY)
+***********************************************
+48.　，(COMMACATEGORY)　修改成(VG)　(FW)　。(PERIODCATEGORY)
+***********************************************
+49.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　陳亞寧(Nb)　、(PAUSECATEGORY)　許麗煌(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=林翠娟
+%%  性別=女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+50.　。(PERIODCATEGORY)　中心(Nc)　派員(VF)　赴(VCL)　德(Nc)　裝設(VC)　二十五史(Na)　全(Neqa)　文(Na)　資料庫(Na)　由(P)　史語所(Nc)　與(Caa)　中心(Nc)　共同(A)　開發(VC)　的(DE)　二十五史(Na)　全(Neqa)　文(Na)　資料庫(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+51.　，(COMMACATEGORY)　因(Cbb)　其(Nep)　資料(Na)　的(DE)　完備性(Na)　而(Cbb)　受到(VJ)　德國(Nc)　海德堡(Nc)　大學(Nc)　的(DE)　青睞(Na)　，(COMMACATEGORY)
+***********************************************
+52.　，(COMMACATEGORY)　暨(P)　美(Nc)　華盛頓(Nc)　大學(Nc)　、(PAUSECATEGORY)　哈佛(Nb)　大學(Nc)　之後(Ng)　申請(VF)　購置(VC)　，(COMMACATEGORY)
+***********************************************
+53.　，(COMMACATEGORY)　中心(Nc)　於(P)　本(Nes)　（(PARENTHESISCATEGORY)　十月(Nd)　中旬(Nd)　委派(VF)　林晰(Nb)　及(Caa)　袁天竑(Nb)　二(Neu)　員(Nf)　前往(VCL)　安裝(VC)　、(PAUSECATEGORY)　測試(VC)　與(Caa)　講解(VE)　。(PERIODCATEGORY)
+***********************************************
+54.　。(PERIODCATEGORY)　預計(VE)　可(D)　於(P)　十(Neu)　日(Nf)　內(Ng)　順利(VH)　完成(VC)　。(PERIODCATEGORY)
+***********************************************
+55.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　林翠娟(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=陳亞寧
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+56.　。(PERIODCATEGORY)　本(Nes)　院(Nc)　ＩＮＮＯＰＡＣ(FW)　已(D)　建立(VC)　廿六萬餘(Neu)　筆(Nf)　書目(Na)　記錄(Na)　四十五萬(Neu)　筆(Nf)　館藏(Na)　資料(Na)　本(Nes)　院(Nc)　正式(VH)　使用(VC)　ＩＮＮＯＰＡＣ(FW)　系統(Na)　迄(P)　今(Nd)　已(D)　十(Neu)　個(Nf)　月(Na)　，(COMMACATEGORY)
+***********************************************
+57.　，(COMMACATEGORY)　在(P)　各(Nes)　所(Nc)　圖書館(Nc)　工作(VA)[+nom]　人員(Na)　的(DE)　辛勤(VH)　努力(VH)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+58.　，(COMMACATEGORY)　現已(D)　建立(VC)　逾(VJ)　廿六萬(Neu)　筆(Nf)　的(DE)　書目(Na)　記錄(Na)　，(COMMACATEGORY)
+***********************************************
+59.　，(COMMACATEGORY)　以及(Caa)　四十五萬(Neu)　筆(Nf)　館藏(Na)　資料(Na)　。(PERIODCATEGORY)
+***********************************************
+60.　。(PERIODCATEGORY)　目前(Nd)　，(COMMACATEGORY)
+***********************************************
+61.　，(COMMACATEGORY)　編目(VB)[+nom]　小組(Na)　正(D)　著手(VF)　制定(VC)　各(Nes)　項(Nf)　規範(Na)　，(COMMACATEGORY)
+***********************************************
+62.　，(COMMACATEGORY)　同時(Nd)　中心(Nc)　亦(D)　在(P)　規劃(VC)　全(Neqa)　院(Nc)　的(DE)　複本(Na)　控制(VC)[+nom]　作業(Na)　，(COMMACATEGORY)
+***********************************************
+63.　，(COMMACATEGORY)　以及(Caa)　未來(Nd)　將(D)　進行(VC)　的(DE)　權威(Na)　控制(VC)[+nom]　與(Caa)　中文(Na)　書目(Na)　回溯(VE)　建檔(VB)　等(Cab)　工作(Na)　項目(Na)　。(PERIODCATEGORY)
+***********************************************
+64.　。(PERIODCATEGORY)　待(P)　上述(Na)　作業(Na)　陸續(D)　執行(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+65.　，(COMMACATEGORY)　相信(VK)　不久(Nd)　的(DE)　未來(Nd)　，(COMMACATEGORY)
+***********************************************
+66.　，(COMMACATEGORY)　定能(D)　達到(VJ)　質量(Na)　均(D)　佳(VH)　的(DE)　水準(Na)　，(COMMACATEGORY)
+***********************************************
+67.　，(COMMACATEGORY)　再(D)　向(P)　圖書館(Nc)　自動化(VHC)　作業(Na)　邁進(VCL)　一(Neu)　大(VH)　步(Nf)　。(PERIODCATEGORY)
+***********************************************
+68.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　陳亞寧(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=戴小琦
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+69.　。(PERIODCATEGORY)　中心(Nc)　將(D)　協助(VC)　近史所(Nc)　建立(VC)　近代(Nd)　史事(Na)　資料庫(Na)　為(P)　便於(VK)　史學(Na)　研究(VE)　者(Na)　於(P)　專業(VH)　領域(Na)　研究(Na)　上(Ng)　能(D)　更(D)　快速(VH)　地(DE)　查詢(VE)　完整(VH)　的(DE)　近代(Nd)　史事(Na)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+70.　，(COMMACATEGORY)　中心(Nc)　將(D)　協助(VC)　近史所(Nc)　進行(VC)　資料庫(Na)　的(DE)　建置(VC)[+nom]　作業(Na)　。(PERIODCATEGORY)
+***********************************************
+71.　。(PERIODCATEGORY)　近史所(Nc)　此(Nep)　次(Nf)　委託(VF)　中心(Nc)　代為(VF)　建立(VC)　的(DE)　資料(Na)　內容(Na)　，(COMMACATEGORY)
+***********************************************
+72.　，(COMMACATEGORY)　包括(VK)　中華民國(Nc)　史事(Na)　日誌(Na)　和(Caa)　近代(Nd)　中國(Nc)　史事(Na)　日誌(Na)　資料(Na)　之(DE)　輸入(VC)[+nom]　及(Caa)　檔案(Na)　的(DE)　建立(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+73.　。(PERIODCATEGORY)　其中(Nep)　，(COMMACATEGORY)
+***********************************************
+74.　，(COMMACATEGORY)　中華民國(Nc)　史事(Na)　日誌(Na)　將(D)　涵蓋(VJ)　自(P)　民國(Nd)　元年(Nd)　至(P)　三十八年(Nd)　之間(Ng)　所(D)　發生(VJ)　的(DE)　各(Nes)　項(Nf)　重要(VH)　歷史(Na)　事件(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+75.　；(SEMICOLONCATEGORY)　而(Cbb)　近代(Nd)　中國(Nc)　史事(Na)　日誌(Na)　則(D)　遠溯(VC)　自(P)　道光(Nd)　九年(Nd)　至(P)　宣統(Nd)　三年(Nd)　內(Ng)　的(DE)　歷史(Na)　記錄(Na)　。(PERIODCATEGORY)
+***********************************************
+76.　。(PERIODCATEGORY)　俟(P)　此(Nep)　資料庫(Na)　系統(Na)　建立(VC)　完成(VC)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+77.　，(COMMACATEGORY)　中心(Nc)　將(D)　留置(VC)　一(Neu)　套(Nf)　供(VF)　有(V_2)　興趣(Na)　同仁(Na)　使用(VC)　。(PERIODCATEGORY)
+***********************************************
+78.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　戴小琦(Nb)　）(PARENTHESISCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=許麗煌
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+79.　。(PERIODCATEGORY)　圖書館(Nc)　自動化(VHC)　ＩＮＮＯＰＡＣ(FW)　中心(Nc)　回溯(VE)　支援(VC)[+nom]　工作(Na)　進度(Na)　報告(Na)　許麗煌(Nb)　根據(P)　中心(Nc)　今(Nd)　((PARENTHESISCATEGORY)　８２(Nd)　二月份(Nd)　所(D)　排定(VC)　的(DE)　院(Nc)　內(Ncd)　各(D)　所(Nc)　回溯(VE)[+nom]　資料(Na)　支援(VC)[+nom]　程序(Na)　，(COMMACATEGORY)
+***********************************************
+80.　，(COMMACATEGORY)　迄(P)　今(Nd)　陸續(D)　完成(VC)　的(DE)　工作(Na)　項目(Na)　如(VG)　下(Ncd)　：(COLONCATEGORY)
+***********************************************
+81.　：(COLONCATEGORY)　目前(Nd)　中心(Nc)　仍(D)　在(D)　進行(VC)　的(DE)　回溯(VE)[+nom]　工作(Na)　分別(D)　為(VG)　：(COLONCATEGORY)
+***********************************************
+82.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+83.　．(PERIODCATEGORY)　近史所(Nc)　查詢(VE)　ＯＣＬＣ(FW)　及(Caa)　ＷＬＮ(FW)　二(Neu)　種(Nf)　光碟(Na)　書目(Na)　資料庫(Na)　，(COMMACATEGORY)
+***********************************************
+84.　，(COMMACATEGORY)　近(Nes)　(COMMACATEGORY)
+***********************************************
+85.　(COMMACATEGORY)　５０００(Neu)　筆(Na)　書目(Na)　記錄(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+86.　；(SEMICOLONCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+87.　．(PERIODCATEGORY)　史語所(Nc)　（(PARENTHESISCATEGORY)　第(Neu)　階段(Na)　）(PARENTHESISCATEGORY)　修改(VC)　西文(Na)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+88.　，(COMMACATEGORY)　共(Da)　約(Da)　(COMMACATEGORY)
+***********************************************
+89.　(COMMACATEGORY)　２３０００(Neu)　筆(Nf)　書目(Na)　記錄(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+90.　；(SEMICOLONCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+91.　．(PERIODCATEGORY)　動物所(Nc)　使用(VC)[+nom]　中心(Nc)　與(Caa)　永麒(Nb)　公司(Nc)　共同(A)　開發(VC)　設計(VC)　的(DE)　「(PARENTHESISCATEGORY)　離線(VA)　書目(Na)　資料(Na)　建檔(VB)[+nom]　系統(Na)　」(PARENTHESISCATEGORY)　程式(Na)　，(COMMACATEGORY)
+***********************************************
+92.　，(COMMACATEGORY)　共(Da)　輸入(VC)　近(Da)　３００(Neu)　筆(Na)　的(DE)　中(Nc)[+p1]　、(PAUSECATEGORY)　日文(Na)　書目(Na)　記錄(Na)　。(PERIODCATEGORY)
+***********************************************
+93.　。(PERIODCATEGORY)　本(Nes)　年度(Na)　尚(D)　須(D)　支援(VC)　的(DE)　工作(Na)　有(V_2)　：(COLONCATEGORY)
+***********************************************
+94.　：(COLONCATEGORY)　植物所(Nc)　近(VJ)　３６２(Neu)　筆(Na)　的(DE)　ＷＬＮ(FW)　查詢(VE)　及(Caa)　１７１(Neu)　本(Nf)　中心(Nc)　圖書室(Nc)　軟硬體(Na)　手冊(Na)　，(COMMACATEGORY)
+***********************************************
+95.　，(COMMACATEGORY)　待(P)　完成(VC)　上述(Na)　所有(Neqa)　工作(Na)　項目(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+96.　，(COMMACATEGORY)　中心(Nc)　將(D)　負責(VL)　執行(VC)　ＩＮＮＯＰＡＣ(FW)　西文(Na)　書目(Na)　資料(Na)　複本(Na)　控制(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+97.　，(COMMACATEGORY)　此(Nep)　案(Na)　已(D)　於(P)　上(Nes)　（(PARENTHESISCATEGORY)　九月(Nd)　十日(Nd)　舉行(VC)　的(DE)　第十四(Neu)　次(Nf)　編目(VB)[+nom]　小組(Na)　會議(Na)　中(Ncd)　通過(VC)　，(COMMACATEGORY)
+***********************************************
+98.　，(COMMACATEGORY)　預計(VE)　於(P)　明(Nd)　((PARENTHESISCATEGORY)　８３年(Nd)　起(Ng)　開始(VL)　進行(VC)　。(PERIODCATEGORY)
+***********************************************
+99.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=司法
+%%  媒體=報紙
+%%  姓名=鄭哲民
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+100.　。(PERIODCATEGORY)　法令(Na)　透視(VC)　電腦(Na)　軟體(Na)　之(DE)　侵害(VC)[+nom]　（(PARENTHESISCATEGORY)　一(Neu)　）(PARENTHESISCATEGORY)　鄭哲民(Nb)　編者(Na)　按(VC)　：(COLONCATEGORY)
+***********************************************
+101.　：(COLONCATEGORY)　鄭哲民(Nb)　律師(Na)　為(VG)　中心(Nc)　聘請(VF)　之(DE)　法律(Na)　顧問(Na)　，(COMMACATEGORY)
+***********************************************
+102.　，(COMMACATEGORY)　專門(VL)　負責(VL)　中心(Nc)　對(P)　外(Ncd)　之(DE)　法律(Na)　相關(VH)　事務(Na)　的(DE)　諮詢(VE)[+nom]　服務(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+103.　，(COMMACATEGORY)　日前(Nd)　經(P)　鄭(Nb)　律師(Na)　同意(VK)　在(P)　《(PARENTHESISCATEGORY)　中心(Nc)　通訊(Na)　》(PARENTHESISCATEGORY)　上(Ncd)　刊載(VC)　其(Nep)　有關(VJ)　資訊(Na)　法律(Na)　之(DE)　文章(Na)　，(COMMACATEGORY)
+***********************************************
+104.　，(COMMACATEGORY)　以(P)　供(VF)　院內外(Nc)　人士(Na)　參考(VC)　。(PERIODCATEGORY)
+***********************************************
+105.　。(PERIODCATEGORY)　《(PARENTHESISCATEGORY)　中心(Nc)　通訊(Na)　》(PARENTHESISCATEGORY)　自(P)　本(Nes)　期(Nf)　起(Ng)　將(D)　陸續(D)　刊登(VC)　有關(VJ)　「(PARENTHESISCATEGORY)　電腦(Na)　軟體(Na)　之(DE)　侵害(VC)[+nom]　」(PARENTHESISCATEGORY)　一(Neu)　系列(Na)　的(DE)　文章(Na)　，(COMMACATEGORY)
+***********************************************
+106.　，(COMMACATEGORY)　敬請(VF)　讀者(Na)　拭目以待(VA)　。(PERIODCATEGORY)
+***********************************************
+107.　。(PERIODCATEGORY)　根據(P)　美國(Nc)　著作權法(Na)　第五一(Neu)　條(Nf)　第一(Neu)　項(Nf)　之(DE)　規定(Na)　，(COMMACATEGORY)
+***********************************************
+108.　，(COMMACATEGORY)　侵害(VC)　第一六(Neu)　條(Nf)　至(P)　一一八(Neu)　條(Nf)　所(D)　規定(VE)　之(DE)　排他性(Na)　權利(Na)　之(DE)　人(Na)　，(COMMACATEGORY)
+***********************************************
+109.　，(COMMACATEGORY)　或(Caa)　違反(VJ)　第六二(Neu)　條(Nf)　之(DE)　規定(Na)　將(P)　著作(Na)　重製物(Na)　輸入(VC)　美國(Nc)　境(Na)　內(Ncd)　之(DE)　人(Na)　，(COMMACATEGORY)
+***********************************************
+110.　，(COMMACATEGORY)　即(D)　係(VG)　侵害(VC)　著作權(Na)　之(DE)　行為人(Na)　，(COMMACATEGORY)
+***********************************************
+111.　，(COMMACATEGORY)　惟(Da)　此(Nep)　一(Neu)　法條(Na)　並(D)　未(D)　具體(VH)　指出(VE)　侵害(VC)[+nom]　行為(Na)　之(DE)　評斷(VE)[+nom]　標準(Na)　，(COMMACATEGORY)
+***********************************************
+112.　，(COMMACATEGORY)　因此(Cbb)　便(D)　有賴(VK)　於(P)　法院(Nc)　於(P)　審理(VC)　案件(Na)　時(Ng)　之(DE)　看法(Na)　。(PERIODCATEGORY)
+***********************************************
+113.　。(PERIODCATEGORY)　實務(Na)　上(Ng)　有關(VJ)　的(DE)　案例(Na)　，(COMMACATEGORY)
+***********************************************
+114.　，(COMMACATEGORY)　如(P)　ＤａｔａＥａｓｅ(FW)　(COMMACATEGORY)
+***********************************************
+115.　(COMMACATEGORY)　ＵＳＡ(FW)　(COMMACATEGORY)
+***********************************************
+116.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+117.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+118.　．(PERIODCATEGORY)　Ｅｐｙｘ(FW)　(COMMACATEGORY)
+***********************************************
+119.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+120.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+121.　(SEMICOLONCATEGORY)　Ｆｒｙｂａｒｇｅｒｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+122.　．(PERIODCATEGORY)　ＩＢＭＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+123.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+124.　(SEMICOLONCATEGORY)　ＰｌａｉｎｓＣｏｔｔｏｎＣｏｏｐｅｒａｔｉｖｅＡｓｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+125.　．(PERIODCATEGORY)　ＧｏｏｄｐａｓｔｕｒｅＣｏｍｐｕｔｅｒＳｅｒｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+126.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+127.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+128.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+129.　(SEMICOLONCATEGORY)　ＷｈｅｌａｎＡｓｓｏｃｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+130.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+131.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+132.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+133.　．(PERIODCATEGORY)　ＪａｓｌｏｗＤｅｎｔａｌＬａｂｏｒａｔｏｒｙＩｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+134.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+135.　(SEMICOLONCATEGORY)　Ａｔａｒｉ(FW)　(COMMACATEGORY)
+***********************************************
+136.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+137.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+138.　．(PERIODCATEGORY)　ＮｏｒｔｈＡｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+139.　．(PERIODCATEGORY)　ＰｈｉｌｉｐｓＣｏｎｓｕｍｅｒＥｌｅｃｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+140.　．(PERIODCATEGORY)　Ｃｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+141.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+142.　(SEMICOLONCATEGORY)　ＦｒａｎｋｌｉｎＭｉｎｔＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+143.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+144.　．(PERIODCATEGORY)　ＮａｔｉｏｎａｌＷｉｌｄｌｉｆｅＡｒｔＥｘｃｈ(FW)　．(PERIODCATEGORY)
+***********************************************
+145.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+146.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+147.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+148.　(SEMICOLONCATEGORY)　ＴｅｌｅｒａｔｅＳｙｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+149.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+150.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+151.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+152.　．(PERIODCATEGORY)　Ｃａｒｏ(FW)　(SEMICOLONCATEGORY)
+***********************************************
+153.　(SEMICOLONCATEGORY)　ＰｅａｒｌＳｙｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+154.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+155.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+156.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+157.　．(PERIODCATEGORY)　ＣｏｍｐｅｔｉｔｉｏｎＥｌｅｃｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+158.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+159.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+160.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+161.　(SEMICOLONCATEGORY)　ＬａｓｅｒｃｏｍｂＡｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+162.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+163.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+164.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+165.　．(PERIODCATEGORY)　ＨｏｌｉｄａｙＳｔｅｅｌＲｕｌｅＤｉｅＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+166.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+167.　(SEMICOLONCATEGORY)　ＤｙｎａｍｉｃＳｏｌｕｔｉｏｎｓ(FW)　(COMMACATEGORY)
+***********************************************
+168.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+169.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+170.　．(PERIODCATEGORY)　Ｐｌａｎｎｉｎｇ(FW)　(COMMACATEGORY)
+***********************************************
+171.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+172.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+173.　(COMMACATEGORY)　ＳｏｕｔｈｅｒｎＭｉｓｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+174.　．(PERIODCATEGORY)　Ｐｌａｎｎｉｎｇ(FW)　．(PERIODCATEGORY)
+***********************************************
+175.　．(PERIODCATEGORY)　Ｄｉｓｔｒｉｂ(FW)　．(PERIODCATEGORY)
+***********************************************
+176.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+177.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+178.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+179.　．(PERIODCATEGORY)　Ｒｏｂｅｒｔｓｏｎ(FW)　(COMMACATEGORY)
+***********************************************
+180.　(COMMACATEGORY)　Ｅ(FW)　．(PERIODCATEGORY)
+***********************************************
+181.　．(PERIODCATEGORY)　ＦＪｏｈｎｓｏｎＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+182.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+183.　．(PERIODCATEGORY)　ＵｎｉｄｅｎＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+184.　．(PERIODCATEGORY)　ｏｆＡｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+185.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+186.　(COMMACATEGORY)　ＨｕｂｃｏＤａｔａＰｒｏｄｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+187.　．(PERIODCATEGORY)　Ｃｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+188.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+189.　(COMMACATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+190.　．(PERIODCATEGORY)　ＭａｎａｇｅｍｅｎｔＡｓｓｉｓｔａｎｃｅ(FW)　(COMMACATEGORY)
+***********************************************
+191.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+192.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+193.　(SEMICOLONCATEGORY)　ＯｒａｎｇｅＭｉｃｒｏ(FW)　(COMMACATEGORY)
+***********************************************
+194.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+195.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+196.　．(PERIODCATEGORY)　ＰａｃｉｆｉｃＢｕｌｅＭｉｃｒｏ(FW)　(SEMICOLONCATEGORY)
+***********************************************
+197.　(SEMICOLONCATEGORY)　ＭｉｄｗａｙＭｆｇ(FW)　．(PERIODCATEGORY)
+***********************************************
+198.　．(PERIODCATEGORY)　Ｃｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+199.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+200.　．(PERIODCATEGORY)　Ｂａｎｄａｉ－Ａｍｅｒｉｃａ(FW)　(COMMACATEGORY)
+***********************************************
+201.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+202.　．(PERIODCATEGORY)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=司法
+%%  媒體=報紙
+%%  姓名=鄭哲民
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+203.　。(PERIODCATEGORY)　由(P)　以上(Ng)　案例(Na)　綜合(VC)　觀(VC)　之(Nh)　，(COMMACATEGORY)
+***********************************************
+204.　，(COMMACATEGORY)　學者(Na)　將(P)　所謂(VK)　侵害(VC)　著作權(Na)　之(DE)　行為(Na)　之(DE)　構成(VG)[+nom]　要件(Na)　區分為(VG)　二(Neu)　：(COLONCATEGORY)
+***********************************************
+205.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+206.　．(PERIODCATEGORY)　訴訟(VA)　中(Ng)　原告(Na)　須(D)　係(VG)　合法(VH)　有效(VH)　著作權(Na)　之(DE)　所有人(Na)　。(PERIODCATEGORY)
+***********************************************
+207.　。(PERIODCATEGORY)　可能(D)　影響到(VJ)　此(Nep)　一(Neu)　要件(Na)　的(DE)　因素(Na)　有(V_2)　原創性(Na)　，(COMMACATEGORY)
+***********************************************
+208.　，(COMMACATEGORY)　所(D)　著作權(Na)　之(DE)　著作性(Na)　、(PAUSECATEGORY)　原告(Na)　在(P)　訴訟(VA)　上(Ng)　之(DE)　適格(VH)　、(PAUSECATEGORY)　法定(A)　程序(Na)　之(DE)　完成(VC)[+nom]　與否(T)　．(PERIODCATEGORY)
+***********************************************
+209.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+210.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+211.　．(PERIODCATEGORY)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+212.　，(COMMACATEGORY)　此(Nep)　等(Cab)　事實(Na)　可(D)　藉由(P)　著作權(Na)　證實(VE)　而(Cbb)　得(VJ)　一(Neu)　初步(A)　的(DE)　證明(Na)　。(PERIODCATEGORY)
+***********************************************
+213.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+214.　．(PERIODCATEGORY)　侵害(VC)[+nom]　行為人(Na)　之(DE)　拷貝(VC)[+nom]　行為(Na)　。(PERIODCATEGORY)
+***********************************************
+215.　。(PERIODCATEGORY)　欲(VK)　證明(VE)　此(Nep)　部份(Neqa)　行為(Na)　通常(D)　係(VG)　經由(P)　間接性(Na)　證據(Na)　較為(Dfa)　可行(VH)　，(COMMACATEGORY)
+***********************************************
+216.　，(COMMACATEGORY)　最(Dfa)　明顯(VH)　者(Na)　如(P)　被告(Na)　有(V_2)　使用(VC)　原告(Na)　著作(Na)　之(DE)　權利(Na)　，(COMMACATEGORY)
+***********************************************
+217.　，(COMMACATEGORY)　或(Caa)　二(Neu)　著作(Na)　間(Ng)　存有(VJ)　實質(Na)　相同性(Na)　。(PERIODCATEGORY)
+***********************************************
+218.　。(PERIODCATEGORY)　相關(VH)　案例(Na)　如(P)　：(COLONCATEGORY)
+***********************************************
+219.　：(COLONCATEGORY)　ＪｏｈｎｓｏｎＣｏｎｔｒｏｌｓ(FW)　(COMMACATEGORY)
+***********************************************
+220.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+221.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+222.　．(PERIODCATEGORY)　ＰｈｏｅｎｉｘＣｏｎｔｒｏｌＳｙｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+223.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+224.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+225.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+226.　(SEMICOLONCATEGORY)　Ｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+227.　．(PERIODCATEGORY)　ＫｒａｍｅｒＭｆｇ(FW)　．(PERIODCATEGORY)
+***********************************************
+228.　．(PERIODCATEGORY)　Ｃｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+229.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+230.　．(PERIODCATEGORY)　Ａｎｄｒｅｗｓ(FW)　(SEMICOLONCATEGORY)
+***********************************************
+231.　(SEMICOLONCATEGORY)　Ｆｅｒｇｕｓｏｎｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+232.　．(PERIODCATEGORY)　ＮａｔｉｏｎａｌＢｒｏａｄｃａｓｔｉｎｇＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+233.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+234.　(SEMICOLONCATEGORY)　ＳｏｆｔＣｏｍｐｕｔｅｒＣｏｎｓｕｌｔａｎｔｓ(FW)　(COMMACATEGORY)
+***********************************************
+235.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+236.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+237.　．(PERIODCATEGORY)　Ｌａｌｅｈｚａｒｚａｄｅｈ(FW)　(SEMICOLONCATEGORY)
+***********************************************
+238.　(SEMICOLONCATEGORY)　ＢｒａｄｅｒｂｕｎｄＳｏｆｔｗａｒｅ(FW)　(COMMACATEGORY)
+***********************************************
+239.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+240.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+241.　．(PERIODCATEGORY)　ＶｉｓｉｏｎＷｏｒｌｄ(FW)　(COMMACATEGORY)
+***********************************************
+242.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+243.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+244.　(COMMACATEGORY)　Ｗｉｌｌｉａｍｓｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+245.　．(PERIODCATEGORY)　Ａｒｎｄｔ(FW)　等(Cab)　又(D)　若(Cbb)　一(Neu)　著作(Na)　出現(VH)　與(P)　他(Nh)　著作(Na)　完全(D)　相同(VH)　之(DE)　錯誤(Na)　，(COMMACATEGORY)
+***********************************************
+246.　，(COMMACATEGORY)　則(D)　此(Nep)　現象(Na)　亦(D)　可(D)　做為(VG)　證明(VE)　拷貝(VC)[+nom]　行為(Na)　之(DE)　證據(Na)　之(DE)　一(Neu)　。(PERIODCATEGORY)
+***********************************************
+247.　。(PERIODCATEGORY)　行為人(Na)　的(DE)　侵害(VC)[+nom]　行為(Na)　若(Cbb)　係(VG)　未(D)　經(P)　授權(VE)　而(Cbb)　為(P)　程式(Na)　或(Caa)　資訊庫(Na)　之(DE)　拷貝(VC)[+nom]　其(Nep)　方法(Na)　係(VG)　將(P)　原(A)　程式(Na)　輸入(VC)　電腦(Na)　記憶體(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+248.　，(COMMACATEGORY)　則(D)　原告(Na)　於(P)　提起(VC)　訴訟(VA)　時(Ng)　須(D)　舉證(VE)　證明(VE)　被告(Na)　之(DE)　儲存(VC)　程式(Na)　行為(Na)　，(COMMACATEGORY)
+***********************************************
+249.　，(COMMACATEGORY)　其(Nep)　持續性(Na)　係(VG)　足以(VL)　構成(VG)　法條(Na)　上(Ng)　所謂(VK)　之(DE)　固著(VC)　，(COMMACATEGORY)
+***********************************************
+250.　，(COMMACATEGORY)　始(D)　足(VL)　當(VG)　之(Nh)　。(PERIODCATEGORY)
+***********************************************
+251.　。(PERIODCATEGORY)　又(Caa)　行為人(Na)　若(Cbb)　係(VG)　侵害(VC)　其他(Neqa)　排他性(Na)　權利(Na)　，(COMMACATEGORY)
+***********************************************
+252.　，(COMMACATEGORY)　如(P)　公開(VHC)　散佈(VH)　、(PAUSECATEGORY)　表演(VC)　或(Caa)　展示(VC)　，(COMMACATEGORY)
+***********************************************
+253.　，(COMMACATEGORY)　則(D)　原告(Na)　毋(D)　需(VK)　就(P)　被告(Na)　之(DE)　拷貝(VC)[+nom]　行為(Na)　負(VJ)　舉(VC)　證(Na)　責任(Na)　，(COMMACATEGORY)
+***********************************************
+254.　，(COMMACATEGORY)　蓋(VC)　因(Cbb)　此(Nep)　類(Nf)　行為(Na)　並(D)　未(D)　涉及(VK)　著作(Na)　之(DE)　拷貝(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+255.　。(PERIODCATEGORY)
+***********************************************
+256.　。(PERIODCATEGORY)　電腦(Na)　軟體(Na)　之(DE)　侵害(VC)[+nom]　（(PARENTHESISCATEGORY)　二(Neu)　）(PARENTHESISCATEGORY)　鄭哲民(Nb)　所謂(VK)　Ａｃｃｅｓｓ(FW)　，(COMMACATEGORY)
+***********************************************
+257.　，(COMMACATEGORY)　係指(VG)　得(VJ)　閱覽(VC)　著作(Na)　之(DE)　合理(VH)　可能性(Na)　，(COMMACATEGORY)
+***********************************************
+258.　，(COMMACATEGORY)　而(Cbb)　非(D)　指(VC)　實際(VH)　上(Ng)　之(DE)　閱覽(VC)[+nom]　或(Caa)　知悉(VK)[+nom]　，(COMMACATEGORY)
+***********************************************
+259.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+260.　，(COMMACATEGORY)　欲(VK)　判斷(VE)　訴訟(VA)　上(Ng)　被告(Na)　是否(D)　有(V_2)　閱覽(VC)　系爭(A)　著作(Na)　之(DE)　可能(Na)　，(COMMACATEGORY)
+***********************************************
+261.　，(COMMACATEGORY)　即(D)　須(D)　輔以(VC)　其他(Neqa)　直接(VH)　或(Caa)　間接(A)　之(DE)　證據(Na)　始(D)　得(D)　為(VJ)　之(Nh)　。(PERIODCATEGORY)
+***********************************************
+262.　。(PERIODCATEGORY)　直接(VH)　證據(Na)　者(Na)　，(COMMACATEGORY)
+***********************************************
+263.　，(COMMACATEGORY)　例如(P)　被告(Na)　公司(Nc)　之(DE)　員工(Na)　基於(P)　公司(Nc)　之(DE)　立場(Na)　購買(VC)　系爭(A)　著作(Na)　之(DE)　重製物(Na)　，(COMMACATEGORY)
+***********************************************
+264.　，(COMMACATEGORY)　則(D)　可(D)　直接(VH)　推知(VE)　該(Nes)　公司(Nc)　有(V_2)　閱覽(VC)　該(Nes)　著作(Na)　之(DE)　合理(VH)　可能性(Na)　（(PARENTHESISCATEGORY)　參考(VC)[+nom]　案例(Na)　：(COLONCATEGORY)
+***********************************************
+265.　：(COLONCATEGORY)　ＳｔｅｒｎＥｌｅｃｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+266.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+267.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+268.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+269.　．(PERIODCATEGORY)　Ｋａｕｆｍａｎ(FW)　(SEMICOLONCATEGORY)
+***********************************************
+270.　(SEMICOLONCATEGORY)　ＰｅａｒｌＳｙｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+271.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+272.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+273.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+274.　．(PERIODCATEGORY)　ＣｏｍｐｅｔｉｔｉｏｎＥｌｅｅｓ(FW)　(SEMICOLONCATEGORY)
+***********************************************
+275.　(SEMICOLONCATEGORY)　ＢｒｏｄｅｒｂｕｎｄＳｏｆｔｗａｒｅ(FW)　(COMMACATEGORY)
+***********************************************
+276.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+277.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+278.　．(PERIODCATEGORY)　ＵｎｉｓｏｎＷｏｒｌｄ(FW)　(COMMACATEGORY)
+***********************************************
+279.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+280.　．(PERIODCATEGORY)　等(Cab)　案(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+281.　。(PERIODCATEGORY)　間接(A)　證據(Na)　者(Na)　，(COMMACATEGORY)
+***********************************************
+282.　，(COMMACATEGORY)　例如(P)　在(P)　ＷＰＯＷ(FW)　(COMMACATEGORY)
+***********************************************
+283.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+284.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+285.　．(PERIODCATEGORY)　ＭＲＬＪＥｎｔｅｒｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+286.　．(PERIODCATEGORY)　案(Na)　，(COMMACATEGORY)
+***********************************************
+287.　，(COMMACATEGORY)　法院(Nc)　以(P)　系爭(A)　著作(Na)　係(VG)　一(Neu)　政府(Na)　機關(Na)　之(DE)　檔案(Na)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+288.　，(COMMACATEGORY)　而(Cbb)　該(Nes)　機關(Na)　又(D)　係(VG)　可(D)　供(VF)　大眾(Nh)　閱覽(VC)　其(Nep)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+289.　，(COMMACATEGORY)　因此(Cbb)　可(D)　推知(VE)　被告(Na)　有(V_2)　閱覽(VC)　系爭(A)　著作(Na)　之(DE)　可能性(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+290.　；(SEMICOLONCATEGORY)　又(D)　例如(P)　在(P)　ＯｒａｎｇｅＭｉｃｒｏ(FW)　(COMMACATEGORY)
+***********************************************
+291.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+292.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+293.　．(PERIODCATEGORY)　ＰａｃｉｆｉｃＢｌｕｅＭｉｃｒｏ(FW)　案(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+294.　，(COMMACATEGORY)　法院(Nc)　以(P)　全國性(Na)　之(DE)　販售(VD)[+nom]　行為(Na)　足以(VL)　推知(VE)　該(Nes)　系爭(A)　著作(Na)　有(V_2)　為(P)　被告(Na)　所(D)　閱覽(VC)　之(DE)　可能性(Na)　。(PERIODCATEGORY)
+***********************************************
+295.　。(PERIODCATEGORY)　除此之外(Dk)　，(COMMACATEGORY)
+***********************************************
+296.　，(COMMACATEGORY)　被告(Na)　之(DE)　著作(Na)　或(Caa)　與(Caa)　原告(Na)　之(DE)　著作(Na)　有(V_2)　非常(Dfa)　顯著(VH)　之(DE)　相同性(Na)　，(COMMACATEGORY)
+***********************************************
+297.　，(COMMACATEGORY)　例如(P)　幾乎(Da)　逐字(D)　拷貝(VC)　之(DE)　行為(Na)　，(COMMACATEGORY)
+***********************************************
+298.　，(COMMACATEGORY)　或(Caa)　二(Neu)　程式(Na)　中(Ng)　存有(VJ)　完全(D)　相同(VH)　之(DE)　錯誤(Na)　，(COMMACATEGORY)
+***********************************************
+299.　，(COMMACATEGORY)　則(D)　在(P)　此(Nep)　一(Neu)　情況(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+300.　，(COMMACATEGORY)　亦(D)　可(D)　推論(VE)　被告(Na)　有(V_2)　為(P)　拷貝(VC)　之(DE)　目的(Na)　而(Cbb)　閱覽(VC)　原告(Na)　著作(Na)　之(DE)　可能性(Na)　。(PERIODCATEGORY)
+***********************************************
+301.　。(PERIODCATEGORY)　而(Cbb)　綜合(VC)　各(Nes)　相關(VH)　案例(Na)　，(COMMACATEGORY)
+***********************************************
+302.　，(COMMACATEGORY)　學者(Na)　亦(D)　將(P)　構成(VG)　拷貝(VC)[+nom]　行為(Na)　之(DE)　因素(Na)　加以(D)　分別(D)　歸納(VC)　，(COMMACATEGORY)
+***********************************************
+303.　，(COMMACATEGORY)　共(Da)　有(V_2)　如(VG)　下(Ncd)　幾(Neu)　類(Nf)　：(COLONCATEGORY)
+***********************************************
+304.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+305.　．(PERIODCATEGORY)　Ｃｏｍｍｏｎｅｒｒｏｒｓ(FW)　，(COMMACATEGORY)
+***********************************************
+306.　，(COMMACATEGORY)　亦即(VG)　在(P)　二(Neu)　個(Nf)　程式(Na)　中(Ng)　發現(VE)　完全(D)　相同(VH)　之(DE)　錯誤(Na)　。(PERIODCATEGORY)
+***********************************************
+307.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　ＷｉｌｌｉａｍｓＥｌｅｃｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+308.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+309.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+310.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+311.　．(PERIODCATEGORY)　ＡｒｔｉｃＩｎｔ(FW)　(COMMACATEGORY)
+***********************************************
+312.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+313.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+314.　(SEMICOLONCATEGORY)　ＭｉｄｗａｙＭｆｇ(FW)　．(PERIODCATEGORY)
+***********************************************
+315.　．(PERIODCATEGORY)　Ｃｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+316.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+317.　．(PERIODCATEGORY)　ＡｒｔｉｃＩｎｔ(FW)　(COMMACATEGORY)
+***********************************************
+318.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+319.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+320.　(SEMICOLONCATEGORY)　Ｅ(FW)　．(PERIODCATEGORY)
+***********************************************
+321.　．(PERIODCATEGORY)　Ｆ(FW)　．(PERIODCATEGORY)
+***********************************************
+322.　．(PERIODCATEGORY)　ＪｏｈｎｓｏｎＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+323.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+324.　．(PERIODCATEGORY)　ＵｎｉｄｅｎＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+325.　．(PERIODCATEGORY)　ｏｆＡｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+326.　．(PERIODCATEGORY)　(PARENTHESISCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+327.　．(PERIODCATEGORY)　被(P)　訴(VC)　程式(Na)　上(Ng)　存有(VJ)　原告(Na)　程式(Na)　之(DE)　著作權(Na)　聲明(Na)　，(COMMACATEGORY)
+***********************************************
+328.　，(COMMACATEGORY)　或(Caa)　程式師(Na)　、(PAUSECATEGORY)　員工(Na)　之(DE)　姓名(Na)　或(Caa)　縮寫(Na)　字母(Na)　，(COMMACATEGORY)
+***********************************************
+329.　，(COMMACATEGORY)　或(Caa)　其他(Neqa)　嵌上(VC)　之(DE)　文字(Na)　或(Caa)　圖樣(Na)　。(PERIODCATEGORY)
+***********************************************
+330.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　ＡｐｐｌｅＣｏｍｐｕｔｅｒ(FW)　(COMMACATEGORY)
+***********************************************
+331.　(COMMACATEGORY)　　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+332.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+333.　．(PERIODCATEGORY)　ＦｒａｎｋｌｉｎＣｏｍｐｕｔｅｒＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+334.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+335.　(SEMICOLONCATEGORY)　Ｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+336.　．(PERIODCATEGORY)　ＫｒａｍｅｒＭｆｇ(FW)　．(PERIODCATEGORY)
+***********************************************
+337.　．(PERIODCATEGORY)　Ｃｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+338.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+339.　．(PERIODCATEGORY)　Ａｎｄｒｅｗｓ(FW)　(PARENTHESISCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+340.　．(PERIODCATEGORY)　零售商(Na)　引用(VC)　原告(Na)　著作(Na)　之(DE)　名稱(Na)　來(D)　形容(VE)　被告(Na)　之(DE)　著作(Na)　，(COMMACATEGORY)
+***********************************************
+341.　，(COMMACATEGORY)　亦即(VG)　至少(Da)　有(V_2)　某(Nes)　些(Nf)　非(A)　專業(VH)　人士(Na)　將(P)　此(Nep)　二(Neu)　著作(Na)　視為(VG)　相似(VH)　情形(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+342.　；(SEMICOLONCATEGORY)　或者(Caa)　終端(Nc)　使用(VC)　者(Na)　認為(VE)　二(Neu)　程式(Na)　係(VG)　相同(VH)　之(DE)　物(Na)　，(COMMACATEGORY)
+***********************************************
+343.　，(COMMACATEGORY)　並(Cbb)　無(VJ)　任何(Neqa)　實質(Na)　上(Ng)　之(DE)　差異(Na)　，(COMMACATEGORY)
+***********************************************
+344.　，(COMMACATEGORY)　抑或(Caa)　被告(Na)　之(DE)　廣告(Na)　文宣(Na)　上(Ng)　指出(VE)　其(Nep)　程式(Na)　與(Caa)　原告(Na)　之(DE)　程式(Na)　相同(VH)　，(COMMACATEGORY)
+***********************************************
+345.　，(COMMACATEGORY)　並(Cbb)　使用(VC)　原告(Na)　之(DE)　商標(Na)　。(PERIODCATEGORY)
+***********************************************
+346.　。(PERIODCATEGORY)　以上(Ng)　皆(D)　可(D)　認為(VE)　被告(Na)　有(V_2)　拷貝(VC)[+nom]　行為(Na)　之(DE)　嫌(Na)　。(PERIODCATEGORY)
+***********************************************
+347.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　Ａｔａｒｉ(FW)　(COMMACATEGORY)
+***********************************************
+348.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+349.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+350.　．(PERIODCATEGORY)　ＮｏｒｏｈＡｍＰｈｉｌｉｐｓＣｏｎｓｕｍｅｒ(FW)　(COMMACATEGORY)
+***********************************************
+351.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+352.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+353.　(SEMICOLONCATEGORY)　ＷｈｅｌａｎＡｓｓｏｃｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+354.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+355.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+356.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+357.　．(PERIODCATEGORY)　ＪａｓｌｏｗＤｅｎｔａｌＬａｂｏｒａｔｏｒｙ(FW)　(COMMACATEGORY)
+***********************************************
+358.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+359.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+360.　(COMMACATEGORY)　ＬｏｔｕｓＤｅｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+361.　．(PERIODCATEGORY)　Ｃｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+362.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+363.　．(PERIODCATEGORY)　ＰａｐｅｒｂａｃｋＳｏｆｔｗａｒｅＩｎｔ(FW)　(PARENTHESISCATEGORY)　４(FW)　．(PERIODCATEGORY)
+***********************************************
+364.　．(PERIODCATEGORY)　被告(Na)　無法(D)　提出(VC)　其(Nep)　程式(Na)　之(DE)　設計(Na)　文件(Na)　。(PERIODCATEGORY)
+***********************************************
+365.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　ＳＡＳＩｎｓｔ(FW)　．(PERIODCATEGORY)
+***********************************************
+366.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+367.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+368.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+369.　．(PERIODCATEGORY)　Ｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+370.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+371.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+372.　．(PERIODCATEGORY)　(PARENTHESISCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+373.　．(PERIODCATEGORY)　二(Neu)　程式(Na)　間(Ng)　完全(D)　相同(VH)　之(DE)　特徵(Na)　，(COMMACATEGORY)
+***********************************************
+374.　，(COMMACATEGORY)　毋(D)　須(D)　經(P)　原告(Na)　以(P)　文書(Na)　引證(VC)　，(COMMACATEGORY)
+***********************************************
+375.　，(COMMACATEGORY)　而(Cbb)　僅(Da)　藉由(P)　檢視(VC)　原告(Na)　程式(Na)　之(DE)　原始碼(Na)　，(COMMACATEGORY)
+***********************************************
+376.　，(COMMACATEGORY)　即可(D)　得知(VK)　。(PERIODCATEGORY)
+***********************************************
+377.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　ＳＡＳＩｎｓｔ(FW)　．(PERIODCATEGORY)
+***********************************************
+378.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+379.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+380.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+381.　．(PERIODCATEGORY)　Ｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+382.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+383.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+384.　．(PERIODCATEGORY)　(PARENTHESISCATEGORY)　　　６(Neu)　．(PERIODCATEGORY)
+***********************************************
+385.　．(PERIODCATEGORY)　被告(Na)　在(P)　得(D)　運用(VC)　較(Dfa)　佳(VH)　之(DE)　譯碼(VB)[+nom]　技術(Na)　之(DE)　情況(Na)　下(Ng)　，(COMMACATEGORY)
+***********************************************
+386.　，(COMMACATEGORY)　仍(D)　採用(VC)　與(P)　原告(Na)　相同(VH)　之(DE)　譯碼(VB)[+nom]　技術(Na)　（(PARENTHESISCATEGORY)　較(Dfa)　差(VH)　者(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+387.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　Ｅ(FW)　．(PERIODCATEGORY)
+***********************************************
+388.　．(PERIODCATEGORY)　Ｆ(FW)　．(PERIODCATEGORY)
+***********************************************
+389.　．(PERIODCATEGORY)　ＪｏｈｎｓｏｎＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+390.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+391.　．(PERIODCATEGORY)　ＵｎｉｄｅｎＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+392.　．(PERIODCATEGORY)　ｏｆＡｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+393.　．(PERIODCATEGORY)　(PARENTHESISCATEGORY)　７(Neu)　．(PERIODCATEGORY)
+***********************************************
+394.　．(PERIODCATEGORY)　資料群(Na)　之(DE)　模仿(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+395.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　ＮＭＥＳｐｅｃｉａｌｔｙＨｏｓｐｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+396.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+397.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+398.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+399.　．(PERIODCATEGORY)　Ｆｒｉｅｄｍａｎ(FW)　(PARENTHESISCATEGORY)　８(Neu)　．(PERIODCATEGORY)
+***********************************************
+400.　．(PERIODCATEGORY)　程式(Na)　資料(Na)　之(DE)　概念性(Na)　結構(Na)　及(Caa)　資料群(Na)　間(Ng)　之(DE)　相互(A)　關係(Na)　。(PERIODCATEGORY)
+***********************************************
+401.　。(PERIODCATEGORY)　((PARENTHESISCATEGORY)　參考(VC)　ＮＭＥＳｐｅｃｉａｌｔｙＨｏｓｐｓ(FW)　．(PERIODCATEGORY)
+***********************************************
+402.　．(PERIODCATEGORY)　(COMMACATEGORY)
+***********************************************
+403.　(COMMACATEGORY)　Ｉｎｃ(FW)　．(PERIODCATEGORY)
+***********************************************
+404.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+405.　．(PERIODCATEGORY)　Ｆｒｉｅｄｍａｎ(FW)　(PARENTHESISCATEGORY)　９(Neu)　．(PERIODCATEGORY)
+***********************************************
+406.　．(PERIODCATEGORY)　使用(VC)　者(Na)　手冊(Na)　之(DE)　逐字(D)　拷貝(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+407.　。(PERIODCATEGORY)　（(PARENTHESISCATEGORY)　參考(VC)　Ｅ(FW)　．(PERIODCATEGORY)
+***********************************************
+408.　．(PERIODCATEGORY)　Ｆ(FW)　．(PERIODCATEGORY)
+***********************************************
+409.　．(PERIODCATEGORY)　ＪｏｈｎｓｏｎＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+410.　．(PERIODCATEGORY)　ｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+411.　．(PERIODCATEGORY)　ＵｎｉｄｅｎＣｏｒｐ(FW)　．(PERIODCATEGORY)
+***********************************************
+412.　．(PERIODCATEGORY)　ｏｆＡｍ(FW)　．(PERIODCATEGORY)
+***********************************************
+413.　．(PERIODCATEGORY)　(SEMICOLONCATEGORY)
+***********************************************
+414.　(SEMICOLONCATEGORY)　ＳｙｎｅｒｃｏｍＴｅｃｈｎｏｌｏｇｙｖ(FW)　．(PERIODCATEGORY)
+***********************************************
+415.　．(PERIODCATEGORY)　ＵｎｉｖｅｒｓｉｔｙＣｏｍｐｕｔｉｎｇＣｏ(FW)　．(PERIODCATEGORY)
+***********************************************
+416.　．(PERIODCATEGORY)
+***********************************************
+%%  文體=說明
+%%  語式=written
+%%  主題=訊息
+%%  媒體=報紙
+%%  姓名=陳友芳
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+417.　．(PERIODCATEGORY)　您(Nh)　有(V_2)　興趣(Na)　嗎(T)　？(QUESTIONCATEGORY)
+***********************************************
+418.　？(QUESTIONCATEGORY)　二(Neu)　光碟(Na)　系統(Na)　課程(Na)　等(VC)　您(Nh)　來(T)　陳友芳(Nb)　中心(Nc)　將(D)　於(P)　下(Nes)　（(PARENTHESISCATEGORY)　十一(Neu)　）(PARENTHESISCATEGORY)　月(Na)　初(Ng)　舉辦(VC)　二(Neu)　場(Nf)　光碟(Na)　系統(Na)　介紹(Na)　課程(Na)　，(COMMACATEGORY)
+***********************************************
+419.　，(COMMACATEGORY)　分別(D)　是(SHI)　：(COLONCATEGORY)
+***********************************************
+420.　：(COLONCATEGORY)　「(PARENTHESISCATEGORY)　中華民國(Nc)　期刊(Na)　論文(Na)　索引(Na)　光碟(Na)　系統(Na)　介紹(VE)　」(PARENTHESISCATEGORY)　及(Caa)　「(PARENTHESISCATEGORY)　ＢＩＰｐｌｕｓ(FW)　光碟(Na)　系統(Na)　介紹(VC)　」(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+421.　。(PERIODCATEGORY)　請(VF)　有(V_2)　興趣(Na)　者(Na)　填妥(VC)　報名表(Na)　，(COMMACATEGORY)
+***********************************************
+422.　，(COMMACATEGORY)　並(Cbb)　擲回(VCL)　計算(VC)[+prop]　中心(Nc)　服務組(Nc)　。(PERIODCATEGORY)
+***********************************************
+423.　。(PERIODCATEGORY)　因(Cbb)　場地(Na)　限制(Na)　，(COMMACATEGORY)
+***********************************************
+424.　，(COMMACATEGORY)　上課(VA)　的(DE)　名額(Na)　有限(VH)　，(COMMACATEGORY)
+***********************************************
+425.　，(COMMACATEGORY)　請(VF)　儘速(D)　報名(VA)　以免(Cbb)　向隅(VH)　。(PERIODCATEGORY)
+***********************************************
+426.　。(PERIODCATEGORY)　報名(VA)　時間(Na)　至(Caa)　開課(VA)　前(Nes)　一(Neu)　週(Nf)　截止(VH)　。(PERIODCATEGORY)
+***********************************************
+427.　。(PERIODCATEGORY)　上課(VA)　地點(Na)　均(D)　在(P)　計算(VC)[+prop]　中心(Nc)　視聽(A)　教室(Nc)　。(PERIODCATEGORY)
+***********************************************
+428.　。(PERIODCATEGORY)
+***********************************************
+%%  文類=報導
+%%  文體=記敘
+%%  語式=written
+%%  主題=工程
+%%  媒體=報紙
+%%  姓名=管培悌
+%%  性別=男女
+%%  國籍=中華民國
+%%  母語=中文
+%%  出版單位=中研院計算機中心
+%%  出版地=臺灣台北市
+%%  出版日期=1993
+%%  版次=
+429.　。(PERIODCATEGORY)　資訊(Na)　話題(Na)　多媒體(Na)　的(DE)　好(VH)　夥伴(Na)　－－ＣＤ－ＲＯＭ(FW)　管培悌(Nb)　多媒體(Na)　((PARENTHESISCATEGORY)　Ｍｕｌｔｉｍｅｄｉａ(FW)　(PARENTHESISCATEGORY)　發展(VC)　是(SHI)　目前(Nd)　電腦界(Nc)　的(DE)　熱門(VH)　話題(Na)　，(COMMACATEGORY)
+***********************************************
+430.　，(COMMACATEGORY)　它(Nh)　使(VL)　電腦(Na)　所(D)　展現(VC)　的(DE)　不僅(Cbb)　是(SHI)　圖形(Na)　、(PAUSECATEGORY)　文字(Na)　，(COMMACATEGORY)
+***********************************************
+431.　，(COMMACATEGORY)　更(D)　增加(VHC)　了(Di)　聲音(Na)　、(PAUSECATEGORY)　影像(Na)　、(PAUSECATEGORY)　動畫(Na)　等(Cab)　視聽(A)　效果(Na)　，(COMMACATEGORY)
+***********************************************
+432.　，(COMMACATEGORY)　同時(Nd)　讓(VL)　使用(VC)　者(Na)　與(Caa)　電腦(Na)　之間(Ng)　具(VJ)　互動性(Na)　，(COMMACATEGORY)
+***********************************************
+433.　，(COMMACATEGORY)　使得(VL)　電腦(Na)　呈現(VJ)　更(D)　多采多姿(VH)　的(DE)　風貌(Na)　。(PERIODCATEGORY)
+***********************************************
+434.　。(PERIODCATEGORY)　而且(Cbb)　多媒體(Na)　又(D)　可(D)　廣泛(VH)　使用(VC)　於(P)　各行各業(Na)　，(COMMACATEGORY)
+***********************************************
+435.　，(COMMACATEGORY)　如(P)　簡報(Na)　、(PAUSECATEGORY)　教學(VA)　、(PAUSECATEGORY)　查詢(VE)　系統(Na)　．(PERIODCATEGORY)
+***********************************************
+436.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+437.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+438.　．(PERIODCATEGORY)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+439.　，(COMMACATEGORY)　可(D)　說(VE)　是(SHI)　未來(Nd)　電腦(Na)　業界(Nc)　的(DE)　主流(Na)　之(DE)　一(Neu)　。(PERIODCATEGORY)
+***********************************************
+440.　。(PERIODCATEGORY)　本(Nes)　文(Na)　主要(A)　在(P)　介紹(VE)　多媒體(Na)　的(DE)　好(VH)　夥伴(Na)　ＣＤ－ＲＯＭ(FW)　（(PARENTHESISCATEGORY)　唯讀型(Na)　光碟(Na)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+441.　。(PERIODCATEGORY)　ＣＤ－ＲＯＭ(FW)　因(Cbb)　具有(VJ)　大(VH)　儲存量(Na)　、(PAUSECATEGORY)　資料(Na)　儲存(VC)　可靠性(Na)　高(VH)　及(Caa)　體積(Na)　小(VH)　等(Cab)　特性(Na)　，(COMMACATEGORY)
+***********************************************
+442.　，(COMMACATEGORY)　已(D)　成為(VG)　１９８０年代(Nd)　資訊(Na)　儲存(VC)　的(DE)　重要(VH)　媒體(Na)　。(PERIODCATEGORY)
+***********************************************
+443.　。(PERIODCATEGORY)　今天(Nd)　，(COMMACATEGORY)
+***********************************************
+444.　，(COMMACATEGORY)　多媒體(Na)　在(P)　電腦界(Nc)　的(DE)　應用(Na)　發展(VC)[+nom]　需要(VK)　儲存(VC)　高(VH)　品質(Na)　的(DE)　聲音(Na)　、(PAUSECATEGORY)　影像(Na)　等(Cab)　占(VJ)　龐大(VH)　空間(Na)　的(DE)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+445.　，(COMMACATEGORY)　ＣＤ－ＲＯＭ(FW)　正(D)　是(SHI)　儲存(VC)　這些(Neqa)　資料(Na)　的(DE)　理想(VH)　媒體(Na)　，(COMMACATEGORY)
+***********************************************
+446.　，(COMMACATEGORY)　因此(Cbb)　使(VL)　它(Nh)　成為(VG)　多媒體(Na)　系統(Na)　的(DE)　標準(VH)　儲存(VC)　裝置(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+447.　。(PERIODCATEGORY)　大部分(Neqa)　的(DE)　多媒體(Na)　應用(Na)[+nom]　程式(Na)　亦(D)　是(SHI)　儲存(VC)　於(P)　ＣＤ－ＲＯＭ(FW)　中(Ncd)　銷售(VC)　，(COMMACATEGORY)
+***********************************************
+448.　，(COMMACATEGORY)　市面(Nc)　上(Ncd)　已(D)　可(D)　見到(VE)　相當(Dfa)　多(VH)　此(Nep)　類型(Na)　的(DE)　產品(Na)　，(COMMACATEGORY)
+***********************************************
+449.　，(COMMACATEGORY)　包括(VK)　百科全書(Na)　、(PAUSECATEGORY)　教學(VA)　、(PAUSECATEGORY)　故事(Na)　小說(Na)　、(PAUSECATEGORY)　藝術(Na)　文學(Na)　、(PAUSECATEGORY)　地理(Na)　風光(Na)　、(PAUSECATEGORY)　電腦(Na)　遊戲(Na)　軟體(Na)　．(PERIODCATEGORY)
+***********************************************
+450.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+451.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+452.　．(PERIODCATEGORY)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+453.　，(COMMACATEGORY)　種類(Na)　繁多(VH)　真(D)　是(SHI)　包羅萬象(VH)　。(PERIODCATEGORY)
+***********************************************
+454.　。(PERIODCATEGORY)　最(Dfa)　著名(VH)　的(DE)　(FW)　，(COMMACATEGORY)
+***********************************************
+455.　，(COMMACATEGORY)　結合(VHC)　了(T)　(COMMACATEGORY)
+***********************************************
+456.　(COMMACATEGORY)　３１３２３(Neu)　篇(Nf)　文章(Na)　、(PAUSECATEGORY)　(COMMACATEGORY)
+***********************************************
+457.　(COMMACATEGORY)　１５０００(Neu)　個(Nf)　影像(Na)　與(Caa)　圖畫(Na)　、(PAUSECATEGORY)　６０(Neu)　分鐘(Nf)　的(DE)　聲音(Na)　、(PAUSECATEGORY)　音樂(Na)　及(Caa)　語音(Na)　、(PAUSECATEGORY)　４５(Neu)　個(Nf)　動畫(Na)　續列(VC)　以及(Caa)　８００(Neu)　張(Nb)　彩色(A)　地圖(Na)　，(COMMACATEGORY)
+***********************************************
+458.　，(COMMACATEGORY)　是(SHI)　一(Neu)　典型(VH)　的(DE)　多媒體(Na)　ＣＤ－ＲＯＭ(FW)　。(PERIODCATEGORY)
+***********************************************
+459.　。(PERIODCATEGORY)　以(P)　此(Nep)　方式(Na)　發行(VC)　的(DE)　多媒體(Na)　電子(Na)　出版品(Na)　儼然(D)　已(D)　成為(VG)　未來(Nd)　一(Neu)　大(VH)　趨勢(Na)　。(PERIODCATEGORY)
+***********************************************
+460.　。(PERIODCATEGORY)　ＭＰＣ(FW)　與(Caa)　ＣＤ－Ｉ　　(FW)　多媒體(Na)　對(P)　一般(A)　人(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+461.　，(COMMACATEGORY)　並(D)　非(D)　遙不可及(VH)　，(COMMACATEGORY)
+***********************************************
+462.　，(COMMACATEGORY)　軟體(Na)　方面(Na)　若(Cbb)　具備(VJ)　了(Di)　多媒體(Na)　ＣＤ－ＲＯＭ(FW)　，(COMMACATEGORY)
+***********************************************
+463.　，(COMMACATEGORY)　硬體(Na)　方面(Na)　則(D)　有(V_2)　以下(Ng)　兩(Neu)　種(Nf)　方式(Na)　讓(VL)　人(Na)　更(D)　容易(VH)　地(DE)　接觸到(VC)　多媒體(Na)　：(COLONCATEGORY)
+***********************************************
+464.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+465.　．(PERIODCATEGORY)　將(D)　普通(VH)　的(DE)　個人(Na)　電腦(Na)　晉升為(VG)　ＭＰＣ(FW)　((PARENTHESISCATEGORY)　ＭｕｌｔｉｍｅｄｉａＰｅｒｓｏｎａｌＣｏｍｐｕｔｅｒ(FW)　(PARENTHESISCATEGORY)　　　ＭｕｌｔｉｍｅｄｉａＰＣＭａｒｋｅｔｉｎｇＣｏｎｃｉｌ(FW)　（(PARENTHESISCATEGORY)　為(P)　Ｍｉｃｒｏｓｏｆｔ(FW)　聯合(VC)　ＴａｎｄｙＣｒｅａｔｉｖｅＬａｂｓ(FW)　等(Cab)　１０(Neu)　家(Nf)　硬體(Na)　廠商(Na)　組成(VG)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+466.　，(COMMACATEGORY)　於(P)　１９９０(Neu)　年(Nf)　１１(Neu)　月(Na)　２７(Neu)　日(Nf)　制定(VC)　ＭＰＣ(FW)　最(Dfa)　低(VH)　的(DE)　硬體(Na)　規格(Na)　：(COLONCATEGORY)
+***********************************************
+467.　：(COLONCATEGORY)　‧(PERIODCATEGORY)
+***********************************************
+468.　‧(PERIODCATEGORY)　Ｉｎｔｅｌ８０２８６－１０ＭｈｚＣＰＵ(FW)　‧(PERIODCATEGORY)
+***********************************************
+469.　‧(PERIODCATEGORY)　２ＭｅｇａＲＡＭ(FW)　‧(PERIODCATEGORY)
+***********************************************
+470.　‧(PERIODCATEGORY)　ＶＧＡ(FW)　彩色(A)　螢幕(Na)　‧(PERIODCATEGORY)
+***********************************************
+471.　‧(PERIODCATEGORY)　３０Ｍｅｇａ(FW)　硬式(A)　磁碟機(Na)　‧(PERIODCATEGORY)
+***********************************************
+472.　‧(PERIODCATEGORY)　３(Neu)　吋(Nf)　半(Neqa)　．(PERIODCATEGORY)
+***********************************************
+473.　．(PERIODCATEGORY)　１４４(Neu)　Ｍｅｇａ(FW)　高密度(Na)　軟式(A)　磁碟機(Na)　‧(PERIODCATEGORY)
+***********************************************
+474.　‧(PERIODCATEGORY)　ＣＤ－ＲＯＭ(FW)　光碟機(Na)　‧(PERIODCATEGORY)
+***********************************************
+475.　‧(PERIODCATEGORY)　具有(VJ)　ＭＩＤＩ(FW)　標準(Na)　規格(Na)　、(PAUSECATEGORY)　混(VC)　音(Na)　功能(Na)　和(Caa)　麥克風(Na)　輸入(VC)　介面(Na)　音效卡(Na)　‧(PERIODCATEGORY)
+***********************************************
+476.　‧(PERIODCATEGORY)　滑鼠(Na)　、(PAUSECATEGORY)　鍵盤(Na)　搖桿(Na)　等(Cab)　輸入(VC)[+nom]　裝置(Na)　有(V_2)　了(Di)　這(Nep)　最(Dfa)　起碼(A)　的(DE)　規格(Na)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+477.　，(COMMACATEGORY)　促進(VK)　了(Di)　多媒體(Na)　進入(VCL)　個人電腦(Na)　的(DE)　市場(Nc)　，(COMMACATEGORY)
+***********************************************
+478.　，(COMMACATEGORY)　各(Nes)　種(Nf)　ＭＰＣ(FW)　產品(Na)　紛紛(D)　出籠(VA)　。(PERIODCATEGORY)
+***********************************************
+479.　。(PERIODCATEGORY)　不過(Cbb)　ＭＰＣ(FW)　的(DE)　硬體(Na)　能力(Na)　略(D)　嫌(VK)　不足(VH)　，(COMMACATEGORY)
+***********************************************
+480.　，(COMMACATEGORY)　因此(Cbb)　在(P)　影像(Na)　和(Caa)　動畫(Na)　處理(VC)[+nom]　效果(Na)　並(D)　不(D)　好(VH)　，(COMMACATEGORY)
+***********************************************
+481.　，(COMMACATEGORY)　且(Caa)　整體(Na)　執行(VC)[+nom]　速度(Na)　太(Dfa)　慢(VH)　。(PERIODCATEGORY)
+***********************************************
+482.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+483.　．(PERIODCATEGORY)　另(Nes)　購(VC)　ＣＤ－Ｉ(FW)　((PARENTHESISCATEGORY)　ＣｏｍｐａｃｔＤｉｓｋＩｎｔｅｒａｃｔｉｖｅ(FW)　(PARENTHESISCATEGORY)　光碟機(Na)　配合(VC)　電視機(Na)　使用(VC)　此(Nep)　種(Nf)　方式(Na)　不需(D)　使用(VC)　個人電腦(Na)　，(COMMACATEGORY)
+***********************************************
+484.　，(COMMACATEGORY)　只要(Cbb)　像(P)　使用(VC)　電子(Na)　遊樂器(Na)　般(Ng)　的(DE)　操作(VC)　，(COMMACATEGORY)
+***********************************************
+485.　，(COMMACATEGORY)　很(Dfa)　容易(VH)　為(P)　一般(A)　家庭(Na)　接受(VC)　。(PERIODCATEGORY)
+***********************************************
+486.　。(PERIODCATEGORY)　ＣＤ－Ｉ(FW)　是(SHI)　一(Neu)　種(Nf)　新(VH)　的(DE)　規格(Na)　標準(Na)　，(COMMACATEGORY)
+***********************************************
+487.　，(COMMACATEGORY)　它(Nh)　衍申(VJ)　自(P)　ＣＤ－ＲＯＭ(FW)　，(COMMACATEGORY)
+***********************************************
+488.　，(COMMACATEGORY)　其(Nep)　差異(Na)　主要(A)　在(P)　ＣＤ－Ｉ(FW)　的(DE)　聲音(Na)　與(Caa)　影像(Na)　資料(Na)　存放(VC)　是(SHI)　採(VC)　交錯(VH)　方式(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+489.　；(SEMICOLONCATEGORY)　ＣＤ－ＲＯＭ(FW)　所(D)　採用(VC)　的(DE)　邏輯(Na)　檔案(Na)　標準(VH)　格式(Na)　是(SHI)　ＨｉｇｈＳｉｅｒｒａＧｒｏｕｐＩＳＯ９６６０(FW)　規格(Na)　，(COMMACATEGORY)
+***********************************************
+490.　，(COMMACATEGORY)　在(P)　這(Nep)　格式(Na)　中(Ng)　影像(Na)　和(Caa)　聲音(Na)　資料(Na)　必須(D)　隔離(VC)　存放(VC)　，(COMMACATEGORY)
+***********************************************
+491.　，(COMMACATEGORY)　在(P)　聲光(Na)　效果(Na)　上(Ng)　會(D)　打折扣(VA)　，(COMMACATEGORY)
+***********************************************
+492.　，(COMMACATEGORY)　讀取(VC)　文字(Na)　資料(Na)　時(Ng)　無法(D)　同時(Nd)　播放(VC)　聲音(Na)　，(COMMACATEGORY)
+***********************************************
+493.　，(COMMACATEGORY)　播放(VC)　聲音(Na)　時(Ng)　無法(D)　同時(Nd)　讀取(VC)　文字(Na)　資料(Na)　。(PERIODCATEGORY)
+***********************************************
+494.　。(PERIODCATEGORY)　　　ＣＤ－Ｉ(FW)　儲存(VC)[+nom]　格式(Na)　下(Ng)　效果(Na)　大有(VJ)　改善(VC)　，(COMMACATEGORY)
+***********************************************
+495.　，(COMMACATEGORY)　同時(Nd)　具(VJ)　「(PARENTHESISCATEGORY)　互動性(Na)　」(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+496.　，(COMMACATEGORY)　使用(VC)　者(Na)　可(D)　答覆(VE)　螢幕(Na)　上(Ncd)　問題(Na)　或(Caa)　彈性(Na)　控制(VC)　其(Nep)　內容(Na)　劇情(Na)　。(PERIODCATEGORY)
+***********************************************
+497.　。(PERIODCATEGORY)　在(P)　美國(Nc)　、(PAUSECATEGORY)　日本(Nc)　已(D)　推出(VC)　ＣＤ－Ｉ(FW)　的(DE)　產品(Na)　。(PERIODCATEGORY)
+***********************************************
+498.　。(PERIODCATEGORY)　同時(Nd)　ＣＤ－Ｉ(FW)　系統(Na)　亦(D)　可(D)　讀取(VC)　ＣＤ－ＲＯＭ(FW)　，(COMMACATEGORY)
+***********************************************
+499.　，(COMMACATEGORY)　它(Nh)　的(DE)　缺點(Na)　就(D)　是(SHI)　缺乏(VJ)　顯示(VK)　真實(VH)　動畫(Na)　影像(Na)　能力(Na)　，(COMMACATEGORY)
+***********************************************
+500.　，(COMMACATEGORY)　許多(Neqa)　人(Na)　猜測(VE)　新(VH)　一(Neu)　代(Na)　的(DE)　影像(Na)　壓縮(VC)[+nom]　技術(Na)　會(D)　將(D)　ＣＤ－Ｉ(FW)　逐出(VCL)　多媒體(Na)　市場(Nc)　，(COMMACATEGORY)
+***********************************************
+501.　，(COMMACATEGORY)　但(Cbb)　其(Nep)　在(P)　家用(Na)　的(DE)　便利性(Na)　亦(D)　是(SHI)　不容(D)　忽視(VJ)　。(PERIODCATEGORY)
+***********************************************
+502.　。(PERIODCATEGORY)　ＣＤ－ＲＯＭＸＡ(FW)　標準(Na)　　　１９９１(Neu)　年(Nf)　ＰＨＩＬＩＰＳ(FW)　、(PAUSECATEGORY)　ＳＯＮＹ(FW)　和(Caa)　Ｍｉｃｒｏｓｏｆｔ(FW)　共同(A)　制定(VC)　ＣＤ－ＲＯＭＸＡ(FW)　((PARENTHESISCATEGORY)　ｅＸｔｅｎｄｅｄＡｒｃｈｉｔｅｃｔｕｒｅ(FW)　(PARENTHESISCATEGORY)　標準(Na)　，(COMMACATEGORY)
+***********************************************
+503.　，(COMMACATEGORY)　此(Nep)　規格(Na)　架構(Na)　在(P)　原來(A)　ＣＤ－ＲＯＭ(FW)　的(DE)　規格(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+504.　，(COMMACATEGORY)　加入(VC)　ＣＤ－Ｉ(FW)　，(COMMACATEGORY)
+***********************************************
+505.　，(COMMACATEGORY)　將(P)　影像(Na)　和(Caa)　聲音(Na)　交錯(VH)　存放(VC)　而(Cbb)　成(VG)　，(COMMACATEGORY)
+***********************************************
+506.　，(COMMACATEGORY)　ＣＤ－ＲＯＭＸＡ(FW)　光碟機(Na)　可(D)　同時(Nd)　讀取(VC)　ＣＤ－ＲＯＭ(FW)　和(Caa)　ＣＤ－Ｉ(FW)　光碟片(Na)　，(COMMACATEGORY)
+***********************************************
+507.　，(COMMACATEGORY)　而(Caa)　ＣＤ－ＲＯＭ(FW)　光碟機(Na)　不能(D)　讀取(VC)　ＣＤ－Ｉ(FW)　與(Caa)　ＣＤ－ＲＯＭＸＡ(FW)　光碟片(Na)　。(PERIODCATEGORY)
+***********************************************
+508.　。(PERIODCATEGORY)　目前(Nd)　多媒體(Na)　電子(Na)　出版品(Na)　以(P)　ＣＤ－ＲＯＭ(FW)　居多(VI)　，(COMMACATEGORY)
+***********************************************
+509.　，(COMMACATEGORY)　將來(Nd)　亦(D)　會(D)　依循(VJ)　ＣＤ－ＲＯＭＸＡ(FW)　的(DE)　規格(Na)　。(PERIODCATEGORY)
+***********************************************
+510.　。(PERIODCATEGORY)　ＩＢＭ(Nb)[+fw]　的(DE)　Ｕｌｔｉｍｅｄｉａ(FW)　系統(Na)　採用(VC)　(FW)　光碟機(Na)　規格(Na)　，(COMMACATEGORY)
+***********************************************
+511.　，(COMMACATEGORY)　雖然(Cbb)　Ｕｌｔｉｍｅｄｉａ(FW)　優於(VJ)　ＭＰＣ(FW)　，(COMMACATEGORY)
+***********************************************
+512.　，(COMMACATEGORY)　但(Cbb)　價格(Na)　較(Dfa)　貴(VH)　且(Cbb)　無法(D)　與(P)　ＭＰＣ(FW)　相容(VH)　，(COMMACATEGORY)
+***********************************************
+513.　，(COMMACATEGORY)　市面(Nc)　上(Ncd)　許多(Neqa)　ＣＤ－ＲＯＭ(FW)　軟體(Na)　仍(D)　無法(D)　在(P)　Ｕｌｔｉｍｅｄｉａ(FW)　機型(Na)　上(Ng)　執行(VC)　。(PERIODCATEGORY)
+***********************************************
+514.　。(PERIODCATEGORY)　結論(Na)　多媒體(Na)　的(DE)　技術(Na)　在(P)　電腦界(Nc)　萌發(VJ)　，(COMMACATEGORY)
+***********************************************
+515.　，(COMMACATEGORY)　多媒體(Na)　的(DE)　產品(Na)　雖(Cbb)　未(D)　達(VJ)　圓熟(VH)　的(DE)　境界(Na)　但(Cbb)　已(D)　略(D)　具(VJ)　大(VH)　般(Ng)　，(COMMACATEGORY)
+***********************************************
+516.　，(COMMACATEGORY)　目前(Nd)　仍(D)　有(V_2)　許多(Neqa)　技術(Na)　層面(Na)　尚(D)　需(D)　突破(VC)　，(COMMACATEGORY)
+***********************************************
+517.　，(COMMACATEGORY)　像(P)　如何(D)　使(VL)　聲音(Na)　品質(Na)　呈現(VJ)　更(D)　好(VH)　、(PAUSECATEGORY)　影像(Na)　處理(VC)[+nom]　效果(Na)　更(D)　清晰(VH)　、(PAUSECATEGORY)　加快(VHC)　ＣＤ－ＲＯＭ(FW)　讀取(VC)　的(DE)　速度(Na)　((PARENTHESISCATEGORY)　目前(Nd)　光碟機(Na)　的(DE)　速度(Na)　不如(VJ)　硬碟(Na)　(PARENTHESISCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+518.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+519.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+520.　．(PERIODCATEGORY)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+521.　。(PERIODCATEGORY)　同時(Nd)　廠商(Na)　呈現(VJ)　類似(VG)　ＶＨＳ(FW)　與(Caa)　Ｂａｔａ(FW)　之(DE)　爭(VC)　的(DE)　百家爭鳴(VA)　現象(Na)　，(COMMACATEGORY)
+***********************************************
+522.　，(COMMACATEGORY)　似乎(D)　讓(VL)　人(Na)　無所適從(VI)　，(COMMACATEGORY)
+***********************************************
+523.　，(COMMACATEGORY)　故(Cbb)　各(Nes)　軟硬體(Na)　勢必(D)　建立(VC)　統一(VHC)　的(DE)　標準(Na)　。(PERIODCATEGORY)
+***********************************************
+524.　。(PERIODCATEGORY)　但(Cbb)　相信(VK)　將來(Nd)　多媒體(Na)　技術(Na)　若(Cbb)　到達(VCL)　完滿(VH)　的(DE)　境界(Na)　，(COMMACATEGORY)
+***********************************************
+525.　，(COMMACATEGORY)　不僅(Cbb)　電腦(Na)　的(DE)　使用(VC)　者(Na)　介面(Na)　大有(VJ)　改善(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+526.　，(COMMACATEGORY)　我們(Nh)　的(DE)　生活(Na)　周遭(Nc)　會(D)　更(D)　具(VJ)　聲光(Na)　而(Cbb)　多采多姿(VH)　。(PERIODCATEGORY)
+***********************************************
+527.　。(PERIODCATEGORY)　參考(VC)[+nom]　書目(Na)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+528.　．(PERIODCATEGORY)　《(PARENTHESISCATEGORY)　產品(Na)　熱線(Na)　》(PARENTHESISCATEGORY)　碟(Na)　訊(Na)　創刊號(Na)　（(PARENTHESISCATEGORY)　民(Nd)　８０(Neu)　年(Nf)　７(Neu)　月(Na)　）(PARENTHESISCATEGORY)　頁(Nf)　５(Neu)　。(PERIODCATEGORY)
+***********************************************
+529.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+530.　．(PERIODCATEGORY)　傅尚裕(Nb)　《(PARENTHESISCATEGORY)　多媒體(Na)　簡介(Na)　》(PARENTHESISCATEGORY)　第三波(Nb)　１２０(Neu)　期(Na)　（(PARENTHESISCATEGORY)　民(Nd)　８１(Neu)　年(Nf)　８(Neu)　月(Na)　）(PARENTHESISCATEGORY)　頁(Nf)　５０(Neu)　。(PERIODCATEGORY)
+***********************************************
+531.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+532.　．(PERIODCATEGORY)　傅(Nb)　前(Ng)　《(PARENTHESISCATEGORY)　多媒體(Na)　的(DE)　技術(Na)　領域(Na)　》(PARENTHESISCATEGORY)　第三波(Nb)　１２０(Neu)　期(Na)　（(PARENTHESISCATEGORY)　民(Nd)　８１(Neu)　年(Nf)　８(Neu)　月(Na)　）(PARENTHESISCATEGORY)　頁(Nf)　５８(Neu)　。(PERIODCATEGORY)
+***********************************************
+533.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)
+***********************************************
+534.　．(PERIODCATEGORY)　陳俊仁(Nb)　《(PARENTHESISCATEGORY)　多媒體(Na)　世界(Nc)　下(Ncd)　的(DE)　電子(Na)　出版(VC)[+nom]　》(PARENTHESISCATEGORY)　倚天(Nb)　５８(Neu)　期(Na)　（(PARENTHESISCATEGORY)　民(Nd)　８１(Neu)　年(Nf)　１２(Neu)　月(Na)　）(PARENTHESISCATEGORY)　頁(Nf)　５７(Neu)　。(PERIODCATEGORY)
+***********************************************
+535.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+536.　．(PERIODCATEGORY)　牛楨蕙(Nb)　《(PARENTHESISCATEGORY)　發現(VE)　美麗(VH)　新(VH)　世界(Nc)　》(PARENTHESISCATEGORY)　大家用電腦(Na)　第１(Neu)　期(Na)　（(PARENTHESISCATEGORY)　民(Nd)　８１(Neu)　年(Nf)　１２(Neu)　月(Na)　）(PARENTHESISCATEGORY)　頁(Nf)　６６(Neu)　。(PERIODCATEGORY)
+***********************************************
+537.　。(PERIODCATEGORY)　６(Neu)　．(PERIODCATEGORY)
+***********************************************
+538.　．(PERIODCATEGORY)　何志仁(Nb)　《(PARENTHESISCATEGORY)　世紀(Na)　爭霸戰(Na)　（(PARENTHESISCATEGORY)　下(Ncd)　）(PARENTHESISCATEGORY)　》(PARENTHESISCATEGORY)　倚天(Nb)　３８(Neu)　期(Na)　（(PARENTHESISCATEGORY)　民(Nd)　８０(Neu)　年(Nf)　４(Neu)　月(Na)　）(PARENTHESISCATEGORY)　頁(Nf)　２０２(Neu)　。(PERIODCATEGORY)
+***********************************************
+539.　。(PERIODCATEGORY)
+***********************************************
+540.　。(PERIODCATEGORY)　專題(Na)　報導(VE)　多媒體(Na)　的(DE)　應用(Na)　賴彥丞(Nb)　前言(Na)　多媒體(Na)　的(DE)　應用(Na)　是(SHI)　近年(Nd)　來(Ng)　極為(Dfa)　熱門(VH)　的(DE)　話題(Na)　，(COMMACATEGORY)
+***********************************************
+541.　，(COMMACATEGORY)　它(Nh)　是(SHI)　一(Neu)　套(Nf)　運用(VC)　交談式(A)　的(DE)　方式(Na)　來(D)　讀取(VC)　、(PAUSECATEGORY)　操作(VC)　、(PAUSECATEGORY)　編輯(VC)　、(PAUSECATEGORY)　貯存(VC)　及(Caa)　播放(VC)　的(DE)　電腦(Na)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+542.　。(PERIODCATEGORY)　由於(Cbb)　其(Nep)　整合(VC)　了(Di)　文字(Na)　、(PAUSECATEGORY)　圖形(Na)　、(PAUSECATEGORY)　影像(Na)　、(PAUSECATEGORY)　音訊(Na)　、(PAUSECATEGORY)　視訊(Na)　及(Caa)　動畫(Na)　等(Cab)　多元(A)　而(Cbb)　複雜(VH)　的(DE)　處理(VC)[+nom]　單元(Na)　，(COMMACATEGORY)
+***********************************************
+543.　，(COMMACATEGORY)　因此(Cbb)　在(P)　電腦(Na)　上(Ng)　的(DE)　硬體(Na)　設備(Na)　也(D)　必須(D)　延伸(VH)　新(VH)　的(DE)　搭配(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+544.　，(COMMACATEGORY)　使(VL)　多媒體(Na)　能(D)　作(VC)　廣泛(VH)　地(DE)　運用(VC)　。(PERIODCATEGORY)
+***********************************************
+545.　。(PERIODCATEGORY)　就(P)　目前(Nd)　的(DE)　編輯(VC)[+nom]　技術(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+546.　，(COMMACATEGORY)　電腦(Na)　多媒體(Na)　的(DE)　應用(Na)　範圍(Na)　除(P)　可(D)　提供(VD)　教學(VA)　、(PAUSECATEGORY)　訓練(VC)　、(PAUSECATEGORY)　設計(VC)　、(PAUSECATEGORY)　資訊(Na)　檢索(VC)[+nom]　、(PAUSECATEGORY)　簡介(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+547.　，(COMMACATEGORY)　娛樂性(Na)　的(DE)　應用(Na)　也(D)　可(D)　涵蓋(VJ)　。(PERIODCATEGORY)
+***********************************************
+548.　。(PERIODCATEGORY)　在(P)　此(Nep)　筆者(Nh)　將(D)　以(P)　如何(D)　利用(VC)　多媒體(Na)　製作(VC)　一(Neu)　個(Nf)　簡報(Na)　系統(Na)　為(VG)　例(Na)　，(COMMACATEGORY)
+***********************************************
+549.　，(COMMACATEGORY)　來(D)　說明(VE)　多媒體(Na)　的(DE)　應用(Na)　。(PERIODCATEGORY)
+***********************************************
+550.　。(PERIODCATEGORY)　軟硬體(Na)　的(DE)　需求(Na)　多媒體(Na)　系統(Na)　所(D)　需(VK)　的(DE)　硬體(Na)　通常(D)　包括(VK)　：(COLONCATEGORY)
+***********************************************
+551.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+552.　．(PERIODCATEGORY)　功能(Na)　強大(VH)　的(DE)　ＣＰＵ(FW)　。(PERIODCATEGORY)
+***********************************************
+553.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+554.　．(PERIODCATEGORY)　大量(Neqa)　的(DE)　隨機(D)　存取(VC)　記憶體(Na)　((PARENTHESISCATEGORY)　ＲＡＭ(FW)　(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+***********************************************
+555.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+556.　．(PERIODCATEGORY)　大量(Neqa)　的(DE)　存放(VC)　資料(Na)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+557.　，(COMMACATEGORY)　如(P)　高容量(Na)　硬碟(Na)　及(Caa)　光碟(Na)　。(PERIODCATEGORY)
+***********************************************
+558.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)
+***********************************************
+559.　．(PERIODCATEGORY)　配備(VC)　ＣＤ－ＲＯＭ(FW)　唯讀(A)　光碟機(Na)　，(COMMACATEGORY)
+***********************************************
+560.　，(COMMACATEGORY)　以(P)　讀取(VC)　大量(Neqa)　多媒體(Na)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+561.　，(COMMACATEGORY)　如(P)　音效(Na)　、(PAUSECATEGORY)　影像(Na)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+562.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+563.　．(PERIODCATEGORY)　可(D)　產生(VHC)　數位化(VHC)　音效(Na)　的(DE)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+564.　，(COMMACATEGORY)　如(P)　音效卡(Na)　。(PERIODCATEGORY)
+***********************************************
+565.　。(PERIODCATEGORY)　６(Neu)　．(PERIODCATEGORY)
+***********************************************
+566.　．(PERIODCATEGORY)　ＭＩＤＩ(FW)　輸出入(VC)[+nom]　設備(Na)　。(PERIODCATEGORY)
+***********************************************
+567.　。(PERIODCATEGORY)　７(Neu)　．(PERIODCATEGORY)
+***********************************************
+568.　．(PERIODCATEGORY)　錄音(VB)　的(DE)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+569.　，(COMMACATEGORY)　如(P)　麥克風(Na)　。(PERIODCATEGORY)
+***********************************************
+570.　。(PERIODCATEGORY)　８(Neu)　．(PERIODCATEGORY)
+***********************************************
+571.　．(PERIODCATEGORY)　高解析度(Na)　的(DE)　快速(VH)　螢幕(Na)　顯示(VK)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+572.　。(PERIODCATEGORY)　９(Neu)　．(PERIODCATEGORY)
+***********************************************
+573.　．(PERIODCATEGORY)　進行(VC)　壓縮(VC)　影像(Na)　處理(VC)[+nom]　以(P)　加快(VHC)　速度(Na)　及(Caa)　執行(VC)[+nom]　效率(Na)　的(DE)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+574.　，(COMMACATEGORY)　如(P)　影像(Na)　處理(VC)[+nom]　卡(Na)　。(PERIODCATEGORY)
+***********************************************
+575.　。(PERIODCATEGORY)　１０(Neu)　．(PERIODCATEGORY)
+***********************************************
+576.　．(PERIODCATEGORY)　轉換(VC)　ＮＴＳＣ(FW)　或(Caa)　ＰＡＬ(FW)　等(Cab)　電視(Na)　訊號(Na)　和(Caa)　電腦(Na)　數位(A)　訊號(Na)　的(DE)　設備(Na)　，(COMMACATEGORY)
+***********************************************
+577.　，(COMMACATEGORY)　如(P)　ＶｉｄｅｏＣａｒｄ(FW)　。(PERIODCATEGORY)
+***********************************************
+578.　。(PERIODCATEGORY)　１１(Neu)　．(PERIODCATEGORY)
+***********************************************
+579.　．(PERIODCATEGORY)　其他(Neqa)　電子(Na)　媒體(Na)　如(P)　ＣＤ(Na)[+fw]　、(PAUSECATEGORY)　ＣＤ－ＲＯＭ(FW)　、(PAUSECATEGORY)　ＭＩＤＩ(FW)　設備(Na)　、(PAUSECATEGORY)　錄放影機(Na)　和(Caa)　ＬＤ(FW)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+580.　。(PERIODCATEGORY)　軟體(Na)　的(DE)　需求(Na)　則(D)　為(VG)　：(COLONCATEGORY)
+***********************************************
+581.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+582.　．(PERIODCATEGORY)　各(Nes)　種(Nf)　週邊(Nc)　設備(Na)　的(DE)　驅動(VC)[+nom]　程式(Na)　，(COMMACATEGORY)
+***********************************************
+583.　，(COMMACATEGORY)　如(P)　ＣＤ－ＲＯＭ(FW)　驅動(VC)[+nom]　程式(Na)　。(PERIODCATEGORY)
+***********************************************
+584.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+585.　．(PERIODCATEGORY)　多媒體(Na)　的(DE)　操作(VC)[+nom]　環境(Na)　，(COMMACATEGORY)
+***********************************************
+586.　，(COMMACATEGORY)　例如(P)　ＷｉｎｄｏｗｓＭｕｌｔｉ－ｍｅｄｉａＥｘｔｅｎｓｉｏｎ(FW)　和(Caa)　Ｗｏｒｋｓｔａｔｉｏｎ(FW)　上(Ncd)　的(DE)　ＭｕｌｔｉｍｅｄｉａＶｅｒｓｉｏｎ(FW)　。(PERIODCATEGORY)
+***********************************************
+587.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+588.　．(PERIODCATEGORY)　多媒體(Na)　的(DE)　編輯(VC)[+nom]　及(Caa)　播放(VC)[+nom]　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+589.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)
+***********************************************
+590.　．(PERIODCATEGORY)　專案(Na)　腳本(Na)　的(DE)　規劃(Na)　，(COMMACATEGORY)
+***********************************************
+591.　，(COMMACATEGORY)　如(P)　簡介(Na)　或(Caa)　訓練(Na)　課程(Na)　等(Cab)　腳本(Na)　的(DE)　撰寫(VC)[+nom]　與(Caa)　繪製(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+592.　。(PERIODCATEGORY)　軟硬體(Na)　整合(VC)　後(Ng)　的(DE)　多媒體(Na)　結構(Na)　在(P)　此(Nep)　，(COMMACATEGORY)
+***********************************************
+593.　，(COMMACATEGORY)　將(D)　從(P)　輸入(VC)　、(PAUSECATEGORY)　處理(VC)　和(Caa)　輸出(VC)　的(DE)　基本(A)　流程(Na)　來(D)　透視(VC)　多媒體(Na)　的(DE)　結構(Na)　。(PERIODCATEGORY)
+***********************************************
+594.　。(PERIODCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+595.　．(PERIODCATEGORY)　視覺(Na)　部份(Neqa)　　　１(Neu)　(PARENTHESISCATEGORY)　輸入(VC)　：(COLONCATEGORY)
+***********************************************
+596.　：(COLONCATEGORY)　電腦(Na)　本身(Nh)　產生(VHC)　的(DE)　各(Nes)　種(Nf)　圖形(Na)　、(PAUSECATEGORY)　動畫(Na)　和(Caa)　文字(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+597.　；(SEMICOLONCATEGORY)　利用(VC)　掃瞄器(Na)　（(PARENTHESISCATEGORY)　Ｓｃａｎｅｒ(FW)　）(PARENTHESISCATEGORY)　讀入(VC)　的(DE)　各(Nes)　種(Nf)　圖形(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+598.　；(SEMICOLONCATEGORY)　擷取(VC)　電視機(Na)　、(PAUSECATEGORY)　錄放影機(Na)　和(Caa)　影碟機(Na)　（(PARENTHESISCATEGORY)　ＬＤ(FW)　）(PARENTHESISCATEGORY)　等(Cab)　ＮＴＳＣ(FW)　系統(Na)　的(DE)　影像(Na)　畫面(Na)　。(PERIODCATEGORY)
+***********************************************
+599.　。(PERIODCATEGORY)　　　２(Neu)　(PARENTHESISCATEGORY)　處理(VC)　：(COLONCATEGORY)
+***********************************************
+600.　：(COLONCATEGORY)　編輯(VC)　各(Nes)　種(Nf)　畫面(Na)　來源(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+601.　；(SEMICOLONCATEGORY)　電腦(Na)　訊號(Na)　和(Caa)　其他(Neqa)　影像(Na)　媒體(Na)　訊號(Na)　的(DE)　轉換(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+602.　，(COMMACATEGORY)　例如(P)　ＶＧＡ(FW)　和(Caa)　ＮＴＳＣ(FW)　訊號(Na)　互轉(VAC)　；(SEMICOLONCATEGORY)
+***********************************************
+603.　；(SEMICOLONCATEGORY)　將(P)　ＮＴＳＣ(FW)　影像(Na)　畫面(Na)　重疊上(VH)　電腦(Na)　本身(Nh)　的(DE)　畫面(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+604.　；(SEMICOLONCATEGORY)　製作(VC)　各(Nes)　種(Nf)　特殊(VH)　的(DE)　編輯(VC)[+nom]　效果(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+605.　；(SEMICOLONCATEGORY)　畫面(Na)　和(Caa)　聲音(Na)　的(DE)　配合(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+606.　。(PERIODCATEGORY)　　　３(Neu)　(PARENTHESISCATEGORY)　輸出(VC)　：(COLONCATEGORY)
+***********************************************
+607.　：(COLONCATEGORY)　從(P)　電腦(Na)　螢幕(Na)　上(Ncd)　輸出(VC)　結合(VHC)　文字(Na)　、(PAUSECATEGORY)　圖形(Na)　、(PAUSECATEGORY)　影像(Na)　和(Caa)　動畫(Na)　的(DE)　精采(VH)　畫面(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+608.　；(SEMICOLONCATEGORY)　將(D)　處理(VC)　後(Ng)　的(DE)　影像(Na)　畫面(Na)　輸出到(VC)　電視(Na)　、(PAUSECATEGORY)　錄影機(Na)　和(Caa)　影碟機(Na)　等(Cab)　ＮＴＳＣ(FW)　訊號(Na)　的(DE)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+609.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+610.　．(PERIODCATEGORY)　聽覺(Na)　部份(Neqa)　　　１(Neu)　(PARENTHESISCATEGORY)　輸入(VC)　：(COLONCATEGORY)
+***********************************************
+611.　：(COLONCATEGORY)　利用(VC)　麥克風(Na)　錄下(VC)　自然(Na)　的(DE)　聲音(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+612.　；(SEMICOLONCATEGORY)　輸入(VC)　ＣＤ(Na)[+fw]　的(DE)　數位(A)　音效(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+613.　；(SEMICOLONCATEGORY)　使用(VC)　傳統(Na)　的(DE)　類比(A)　錄音(VB)[+nom]　設備(Na)　，(COMMACATEGORY)
+***********************************************
+614.　，(COMMACATEGORY)　輸入(VC)　類比(A)　音效(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+615.　；(SEMICOLONCATEGORY)　透過(P)　ＭＩＤＩ(FW)　設備(Na)　輸入(VC)　音源(Na)　。(PERIODCATEGORY)
+***********************************************
+616.　。(PERIODCATEGORY)　　　２(Neu)　(PARENTHESISCATEGORY)　處理(VC)　：(COLONCATEGORY)
+***********************************************
+617.　：(COLONCATEGORY)　編輯(VC)　各(Nes)　種(Nf)　聲音(Na)　來源(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+618.　；(SEMICOLONCATEGORY)　混(VC)　音(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+619.　；(SEMICOLONCATEGORY)　數位(A)　訊號(Na)　和(Caa)　類比(A)　訊號(Na)　的(DE)　轉換(VC)[+nom]　；(SEMICOLONCATEGORY)
+***********************************************
+620.　；(SEMICOLONCATEGORY)　聲音(Na)　和(Caa)　畫面(Na)　的(DE)　配合(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+621.　。(PERIODCATEGORY)　　　３(Neu)　(PARENTHESISCATEGORY)　輸出(VC)　：(COLONCATEGORY)
+***********************************************
+622.　：(COLONCATEGORY)　輸出(VC)　ＭＩＤＩ(FW)　訊號(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+623.　；(SEMICOLONCATEGORY)　以(P)　不同(VH)　的(DE)　傳真度(Na)　輸出(VC)　數位化(VHC)　的(DE)　聲音(Na)　，(COMMACATEGORY)
+***********************************************
+624.　，(COMMACATEGORY)　如(P)　語音(Na)　、(PAUSECATEGORY)　音樂(Na)　、(PAUSECATEGORY)　音效(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+625.　；(SEMICOLONCATEGORY)　由(P)　ＣＤ－ＲＯＭ(FW)　本身(Nh)　發出(VC)　音效(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+626.　；(SEMICOLONCATEGORY)　輸出到(VC)　錄音帶(Na)　等(Cab)　傳統(Na)　的(DE)　類比(A)　訊號(Na)　媒介(Na)　。(PERIODCATEGORY)
+***********************************************
+627.　。(PERIODCATEGORY)　多媒體(Na)　應用(Na)[+nom]　軟體(Na)　的(DE)　製作(VC)[+nom]　除了(P)　上述(Na)　必備(A)　的(DE)　軟硬體(Na)　之外(Ng)　，(COMMACATEGORY)
+***********************************************
+628.　，(COMMACATEGORY)　最(Dfa)　重要(VH)　的(DE)　就(D)　是(SHI)　應用(Na)[+nom]　軟體(Na)　的(DE)　製作(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+629.　。(PERIODCATEGORY)　應用(Na)[+nom]　軟體(Na)　的(DE)　製作(VC)[+nom]　大致(D)　可(D)　分為(VG)　幾(Neu)　個(Nf)　階段(Na)　：(COLONCATEGORY)
+***********************************************
+630.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+631.　．(PERIODCATEGORY)　計畫(VF)　構思(VE)　在(P)　計劃(VF)　構思(VE)　階段(Na)　首先(D)　需(D)　草擬(VC)　一(Neu)　個(Nf)　簡單(VH)　的(DE)　腹案(Na)　。(PERIODCATEGORY)
+***********************************************
+632.　。(PERIODCATEGORY)　例如(P)　我們(Nh)　想(VE)　用(P)　多媒體(Na)　製作(VC)　一(Neu)　個(Nf)　公司(Nc)　的(DE)　簡介(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+633.　，(COMMACATEGORY)　那麼(Dk)　，(COMMACATEGORY)
+***********************************************
+634.　，(COMMACATEGORY)　在(P)　這(Nep)　個(Nf)　簡介(Na)　中(Ng)　應該(D)　包含(VJ)　那些(Neqa)　部份(Neqa)　？(QUESTIONCATEGORY)
+***********************************************
+635.　？(QUESTIONCATEGORY)　涵蓋(VJ)　那些(Neqa)　內容(Na)　？(QUESTIONCATEGORY)
+***********************************************
+636.　？(QUESTIONCATEGORY)　其(Nep)　之間(Ng)　先後(Nd)　順序(Na)　和(Caa)　相關(VH)　的(DE)　程度(Na)　為何(D)　？(QUESTIONCATEGORY)
+***********************************************
+637.　？(QUESTIONCATEGORY)　有(V_2)　了(Di)　這樣(VH)　的(DE)　腹案(Na)　之後(Ng)　，(COMMACATEGORY)
+***********************************************
+638.　，(COMMACATEGORY)　便(D)　可(D)　進入(VCL)　第二(Neu)　階段(Na)　。(PERIODCATEGORY)
+***********************************************
+639.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+640.　．(PERIODCATEGORY)　系統(Na)　流程(Na)　規畫(Na)　第二(Neu)　階段(Na)　則(D)　是(SHI)　設計(VC)　螢幕(Na)　的(DE)　格式(Na)　和(Caa)　使用(VC)　介面(Na)　，(COMMACATEGORY)
+***********************************************
+641.　，(COMMACATEGORY)　規劃(VC)　在(P)　螢幕(Na)　上(Ncd)　供(VF)　使用(VC)　者(Na)　加以(D)　選擇(VC)　的(DE)　各(Nes)　種(Nf)　象徵(Na)　圖案(Na)　之(DE)　展示(VC)[+nom]　流程(Na)　。(PERIODCATEGORY)
+***********************************************
+642.　。(PERIODCATEGORY)　例如(P)　在(P)　簡介(Na)　系統(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+643.　，(COMMACATEGORY)　我們(Nh)　將(P)　各(Nes)　種(Nf)　不同(VH)　的(DE)　單元(Na)　整合(VC)　在(P)　同(Nes)　一(Neu)　螢幕(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+644.　，(COMMACATEGORY)　讓(VL)　使用(VC)　者(Na)　能(D)　清楚(VH)　明白(VK)　簡介(Na)　中(Ng)　有(V_2)　那些(Neqa)　單元(Na)　。(PERIODCATEGORY)
+***********************************************
+645.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+646.　．(PERIODCATEGORY)　設計(VC)　與(Caa)　製作(VC)　此(Nep)　階段(Na)　是(SHI)　分別(D)　完成(VC)　各(Nes)　個(Nf)　細部(A)　的(DE)　多媒體(Na)　元件(Na)　，(COMMACATEGORY)
+***********************************************
+647.　，(COMMACATEGORY)　通常(D)　都(D)　是(SHI)　先(D)　使用(VC)　各(Nes)　種(Nf)　合適(VH)　的(DE)　繪圖(VA)　、(PAUSECATEGORY)　動畫(Na)　或(Caa)　作曲(VA)　軟體(Na)　完成(VC)　各(Nes)　項(Nf)　基本(A)　元件(Na)　，(COMMACATEGORY)
+***********************************************
+648.　，(COMMACATEGORY)　然後(D)　以(P)　多媒體(Na)　編輯(VC)[+nom]　系統(Na)　加以(D)　整合(VC)　。(PERIODCATEGORY)
+***********************************************
+649.　。(PERIODCATEGORY)　例如(P)　在(P)　簡介(Na)　中(Ng)　各(Nes)　個(Nf)　單元(Na)　下(Ng)　的(DE)　細節(Na)　部份(Neqa)　，(COMMACATEGORY)
+***********************************************
+650.　，(COMMACATEGORY)　決定(VE)　該(D)　有(V_2)　那些(Neqa)　影像(Na)　、(PAUSECATEGORY)　圖形(Na)　及(Caa)　文字(Na)　要(D)　出現(VH)　，(COMMACATEGORY)
+***********************************************
+651.　，(COMMACATEGORY)　以(P)　Ｓｃａｎｅｒ(FW)　及(Caa)　繪圖(VA)　軟體(Na)　將(P)　各(Nes)　個(Nf)　基本(A)　元件(Na)　處理(VC)　完成(VC)　，(COMMACATEGORY)
+***********************************************
+652.　，(COMMACATEGORY)　再(D)　利用(VC)　多媒體(Na)　編輯(VC)[+nom]　系統(Na)　將(P)　元件(Na)　串聯成(VG)　單元(Na)　，(COMMACATEGORY)
+***********************************************
+653.　，(COMMACATEGORY)　最後(Nd)　將(P)　所有(Neqa)　單元(Na)　組合成(VG)　簡介(Na)　。(PERIODCATEGORY)
+***********************************************
+654.　。(PERIODCATEGORY)　這(Nep)　個(Nf)　階段(Na)　是(SHI)　最(Dfa)　繁雜(VH)　的(DE)　一(Neu)　個(Nf)　階段(Na)　，(COMMACATEGORY)
+***********************************************
+655.　，(COMMACATEGORY)　因為(Cbb)　這(Nep)　個(Nf)　階段(Na)　所(D)　需要(VK)　的(DE)　參與(VC)[+nom]　人數(Na)　最多(VH)　，(COMMACATEGORY)
+***********************************************
+656.　，(COMMACATEGORY)　光(Da)　是(SHI)　美工(Na)　人員(Na)　的(DE)　設計(Na)　、(PAUSECATEGORY)　圖形(Na)　的(DE)　繪製(VC)[+nom]　等(Cab)　，(COMMACATEGORY)
+***********************************************
+657.　，(COMMACATEGORY)　就(D)　幾乎(Da)　佔去(VJ)　整(Neqa)　個(Nf)　製作(VC)[+nom]　過程(Na)　的(DE)　二分之一(Neqa)　時間(Na)　。(PERIODCATEGORY)
+***********************************************
+658.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)
+***********************************************
+659.　．(PERIODCATEGORY)　系統(Na)　整合(VC)　與(Caa)　程式(Na)　撰寫(VC)　最後(Nd)　一(Neu)　個(Nf)　階段(Na)　再(D)　使用(VC)　多媒體(Na)　編輯(VC)[+nom]　系統(Na)　將(P)　聲音(Na)　部份(Neqa)　加入(VC)　。(PERIODCATEGORY)
+***********************************************
+660.　。(PERIODCATEGORY)　聲音(Na)　部份(Neqa)　包括(VK)　背景(Na)　音樂(Na)　、(PAUSECATEGORY)　旁白(Na)　說明(Na)　和(Caa)　特殊(VH)　音效(Na)　等(Cab)　已(D)　錄製(VC)　完成(VC)　的(DE)　聲音(Na)　，(COMMACATEGORY)
+***********************************************
+661.　，(COMMACATEGORY)　在(P)　系統(Na)　整合(VC)　時(Ng)　，(COMMACATEGORY)
+***********************************************
+662.　，(COMMACATEGORY)　必須(D)　將(P)　畫面(Na)　和(Caa)　聲音(Na)　採(VC)　同步(VH)　處理(VC)　，(COMMACATEGORY)
+***********************************************
+663.　，(COMMACATEGORY)　以(P)　達到(VJ)　兩(Neu)　者(Na)　同步(VH)　播放(VC)[+nom]　效果(Na)　，(COMMACATEGORY)
+***********************************************
+664.　，(COMMACATEGORY)　此時(Nd)　才(Da)　可(D)　算是(VG)　完成(VC)　整(Neqa)　個(Nf)　多媒體(Na)　應用(Na)[+nom]　軟體(Na)　成品(Na)　的(DE)　製作(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+665.　。(PERIODCATEGORY)　多媒體(Na)　應用(Na)[+nom]　軟體(Na)　製作(VC)　的(DE)　困難處(Na)　由(P)　上面(Ncd)　所(D)　講(VE)　的(DE)　各(Nes)　個(Nf)　製作(VC)[+nom]　階段(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+666.　，(COMMACATEGORY)　我們(Nh)　可以(D)　清楚(VH)　地(DE)　發現到(VE)　多媒體(Na)　在(P)　應用(Na)　上(Ng)　的(DE)　幾(Neu)　個(Nf)　困難(VH)　之(DE)　處(Na)　：(COLONCATEGORY)
+***********************************************
+667.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+668.　．(PERIODCATEGORY)　在(P)　整(Neqa)　個(Nf)　製作(VC)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+669.　，(COMMACATEGORY)　需要(VK)　具有(VJ)　藝術(Na)　、(PAUSECATEGORY)　傳播(VC)[+nom]　、(PAUSECATEGORY)　編劇(Na)　、(PAUSECATEGORY)　廣告(Na)　和(Caa)　美工(Na)　設計(Na)　等(Cab)　人才(Na)　的(DE)　參與(VC)[+nom]　配合(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+670.　，(COMMACATEGORY)　但(Cbb)　受限(VI)　於(P)　藝術(Na)　、(PAUSECATEGORY)　設計(VC)[+nom]　人員(Na)　不(D)　熟悉(VJ)　電腦(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+671.　，(COMMACATEGORY)　而(Cbb)　系統(Na)　工程(Na)　人員(Na)　又(D)　往往(D)　藝術(Na)　涵養(Na)　不足(VH)　，(COMMACATEGORY)
+***********************************************
+672.　，(COMMACATEGORY)　以致於(Cbb)　經常(D)　會(D)　有(V_2)　由(P)　一(Neu)　人(Na)　一手包辦(VC)　或(Caa)　身兼(VG)　數(Neu)　職(Na)　的(DE)　情況(Na)　產生(VHC)　，(COMMACATEGORY)
+***********************************************
+673.　，(COMMACATEGORY)　益發(Dfa)　凸顯出(VK)　各(Nes)　方面(Na)　人才(Na)　培養(VC)　的(DE)　重要性(Na)　。(PERIODCATEGORY)
+***********************************************
+674.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+675.　．(PERIODCATEGORY)　需要(VK)　有(V_2)　適當(VH)　的(DE)　輔助(VC)[+nom]　軟體(Na)　幫忙(VC)　，(COMMACATEGORY)
+***********************************************
+676.　，(COMMACATEGORY)　如(P)　繪圖(VA)　、(PAUSECATEGORY)　計算(VC)　、(PAUSECATEGORY)　錄音(VB)　和(Caa)　編曲(VA)　等(Cab)　軟體(Na)　的(DE)　輔助(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+677.　，(COMMACATEGORY)　否則(Cbb)　製作(VC)　的(DE)　過程(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+678.　，(COMMACATEGORY)　好(VH)　的(DE)　製作(VC)[+nom]　軟體(Na)　工具(Na)　對(P)　日後(Nd)　展示(VC)[+nom]　系統(Na)　的(DE)　整體(Na)　品質(Na)　高低(Na)　影響(Na)　甚(Dfa)　鉅(VH)　，(COMMACATEGORY)
+***********************************************
+679.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+680.　，(COMMACATEGORY)　若(Cbb)　無法(D)　齊備(VH)　各(Nes)　項(Nf)　所(D)　需(D)　輔助(VC)[+nom]　軟體(Na)　，(COMMACATEGORY)
+***********************************************
+681.　，(COMMACATEGORY)　勢必(D)　導致(VL)　整體(Na)　作業(Na)　的(DE)　延誤(VHC)　。(PERIODCATEGORY)
+***********************************************
+682.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+683.　，(COMMACATEGORY)　要(D)　審慎(VH)　考慮(VE)　的(DE)　便是(Cbb)　智慧(Na)　財產權(Na)　的(DE)　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+684.　。(PERIODCATEGORY)　在(P)　作品(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+685.　，(COMMACATEGORY)　我們(Nh)　通常(D)　會(D)　需要(VK)　用到(VC)　大量(Neqa)　的(DE)　Ａｕｄｉｏ(FW)　、(PAUSECATEGORY)　Ｖｉｄｅｏ(FW)　及(Caa)　影像(Na)　來(D)　搭配(VC)　，(COMMACATEGORY)
+***********************************************
+686.　，(COMMACATEGORY)　除非(Cbb)　我們(Nh)　擁有(VJ)　該(Nes)　項(Nf)　使用(VC)[+nom]　版權(Na)　，(COMMACATEGORY)
+***********************************************
+687.　，(COMMACATEGORY)　否則(Cbb)　需(D)　另行(D)　創作(VC)　，(COMMACATEGORY)
+***********************************************
+688.　，(COMMACATEGORY)　以(P)　避免(VE)　辛苦(VHC)　完成(VC)　的(DE)　作品(Na)　捲入(VCL)　智慧(Na)　財產權(Na)　的(DE)　侵(VC)　權(Na)　風波(Na)　中(Ng)　而(Cbb)　蒙受(VJ)　損失(Na)　。(PERIODCATEGORY)
+***********************************************
+689.　。(PERIODCATEGORY)　多媒體(Na)　應用(Na)[+nom]　軟體(Na)　製作(VC)　的(DE)　未來(Nd)　隨著(P)　資訊(Na)　科技(Na)　的(DE)　不斷(VH)　發展(VC)[+nom]　與(Caa)　多媒體(Na)　製作(VC)[+nom]　技巧(Na)　及(Caa)　表現(Na)　方式(Na)　的(DE)　日益(D)　圓熟(VH)　，(COMMACATEGORY)
+***********************************************
+690.　，(COMMACATEGORY)　展望(VJ)　未來(Nd)　，(COMMACATEGORY)
+***********************************************
+691.　，(COMMACATEGORY)　在(P)　教育(Na)　、(PAUSECATEGORY)　娛樂(Na)　、(PAUSECATEGORY)　軟體(Na)　教學(VA)　輔助(VC)　、(PAUSECATEGORY)　行銷(Na)　廣告(Na)　等(Cab)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+692.　，(COMMACATEGORY)　多媒體(Na)　所(D)　扮演(VC)　的(DE)　角色(Na)　將(D)　會(D)　日趨(D)　重要(VH)　。(PERIODCATEGORY)
+***********************************************
+693.　。(PERIODCATEGORY)　而(Cbb)　在(P)　即將(D)　步入(VCL)　的(DE)　二十一世紀(Nd)　未來(Nd)　世界(Nc)　中(Ncd)　，(COMMACATEGORY)
+***********************************************
+694.　，(COMMACATEGORY)　可以(D)　預見(VE)　多媒體(Na)　的(DE)　應用(Na)　將(D)　遍及(VJ)　我們(Nh)　週遭(Nc)　的(DE)　每(Nes)　一(Neu)　個(Nf)　角落(Nc)　。(PERIODCATEGORY)
+***********************************************
+695.　。(PERIODCATEGORY)
+***********************************************
+696.　。(PERIODCATEGORY)　專題(Na)　報導(VE)　美麗(VH)　新(VH)　世界(Nc)　漫談(VC)　多媒體(Na)　林雋淥(Nb)　「(PARENTHESISCATEGORY)　電腦(Na)　多媒體(Na)　」(PARENTHESISCATEGORY)　是(SHI)　近(Nes)　幾(Neu)　年(Nf)　來(Ng)　資訊業(Na)　中(Ng)　最(Dfa)　熱門(VH)　、(PAUSECATEGORY)　最(Dfa)　具(VJ)　發展(VC)[+nom]　潛力(Na)　的(DE)　新(VH)　領域(Na)　，(COMMACATEGORY)
+***********************************************
+697.　，(COMMACATEGORY)　它(Nh)　與(P)　一般(A)　傳統(VH)　多媒體(Na)　的(DE)　表現(Na)　型式(Na)　與(Caa)　風格(Na)　的(DE)　最(Dfa)　大(VH)　差異(Na)　處(Nc)　，(COMMACATEGORY)
+***********************************************
+698.　，(COMMACATEGORY)　在於(VK)　它(Nh)　不但(Cbb)　結合(VHC)　了(Di)　音樂(Na)　、(PAUSECATEGORY)　視訊(Na)　、(PAUSECATEGORY)　影像(Na)　、(PAUSECATEGORY)　文字(Na)　及(Caa)　動畫(Na)　，(COMMACATEGORY)
+***********************************************
+699.　，(COMMACATEGORY)　並(Cbb)　經由(P)　電腦(Na)　的(DE)　編輯(VC)　、(PAUSECATEGORY)　整合(VC)　處理(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+700.　，(COMMACATEGORY)　展現出(VJ)　生動(VH)　而(Cbb)　多采(VH)　的(DE)　視(Na)[+p1]　、(PAUSECATEGORY)　聽覺(Na)　特殊(VH)　效果(Na)　。(PERIODCATEGORY)
+***********************************************
+701.　。(PERIODCATEGORY)　同時(Nd)　，(COMMACATEGORY)
+***********************************************
+702.　，(COMMACATEGORY)　電腦(Na)　多媒體(Na)　所(D)　具有(VJ)　的(DE)　互動性(Na)　及(Caa)　使用(VC)　時(Ng)　的(DE)　親和性(Na)　與(Caa)　方便性(Na)　，(COMMACATEGORY)
+***********************************************
+703.　，(COMMACATEGORY)　在在(D)　促使(VL)　許多(Neqa)　市場(Nc)　分析師(Na)　將(P)　它(Nh)　視為(VG)　明日(Nd)　之(DE)　星(Na)　，(COMMACATEGORY)
+***********************************************
+704.　，(COMMACATEGORY)　國內外(Nc)　諸多(Neqa)　知名(VH)　廠商(Na)　更(D)　不惜(VL)　投下(VC)　巨資(Na)　協助(VC)　其(Nep)　新(VH)　技術(Na)　的(DE)　開發(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+705.　，(COMMACATEGORY)　以期(VK)　在(P)　未來(Nd)　競爭(VA)　市場(Nc)　上(Ncd)　能(D)　坐擁(VC)　一席之地(Na)　。(PERIODCATEGORY)
+***********************************************
+706.　。(PERIODCATEGORY)　由(P)　此(Nep)　可見(Dk)　，(COMMACATEGORY)
+***********************************************
+707.　，(COMMACATEGORY)　多媒體(Na)　所(D)　造成(VG)　的(DE)　聲勢(Na)　與(Caa)　魅力(Na)　，(COMMACATEGORY)
+***********************************************
+708.　，(COMMACATEGORY)　實在(D)　不容(D)　忽視(VJ)　。(PERIODCATEGORY)
+***********************************************
+709.　。(PERIODCATEGORY)　到底(D)　多媒體(Na)　可以(D)　為(P)　我們(Nh)　帶來(VC)　什麼(Nep)　好處(Na)　？(QUESTIONCATEGORY)
+***********************************************
+710.　？(QUESTIONCATEGORY)　其實(D)　在(P)　我們(Nh)　的(DE)　週遭(Nc)　俯拾(VC)　皆(D)　有(V_2)　可資(VL)　援用(VC)　的(DE)　實例(Na)　。(PERIODCATEGORY)
+***********************************************
+711.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+712.　：(COLONCATEGORY)　在(P)　工作(Na)　環境(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+713.　，(COMMACATEGORY)　多媒體(Na)　環境(Na)　提供給(VD)　使用(VC)　者(Na)　與(Caa)　電腦(Na)　之間(Ng)　一(Neu)　個(Nf)　極為(Dfa)　自然(VH)　的(DE)　講解(VE)　、(PAUSECATEGORY)　溝通(VC)[+nom]　方式(Na)　，(COMMACATEGORY)
+***********************************************
+714.　，(COMMACATEGORY)　它(Nh)　可以(D)　是(SHI)　簡報(Na)　工具(Na)　，(COMMACATEGORY)
+***********************************************
+715.　，(COMMACATEGORY)　也(D)　可以(D)　是(SHI)　應用(Na)[+nom]　軟體(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+716.　；(SEMICOLONCATEGORY)　在(P)　學習(VC)[+nom]　環境(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+717.　，(COMMACATEGORY)　它(Nh)　提供(VD)　使用(VC)　者(Na)　一(Neu)　個(Nf)　具(VJ)　臨場感(Na)　的(DE)　學習(VC)[+nom]　環境(Na)　，(COMMACATEGORY)
+***********************************************
+718.　，(COMMACATEGORY)　例如(P)　訓練(VC)　飛行員(Na)　的(DE)　應用(Na)　軟體(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+719.　；(SEMICOLONCATEGORY)　在(P)　交談式(A)　的(DE)　環境(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+720.　，(COMMACATEGORY)　它(Nh)　可以(D)　扮演(VC)　教師(Na)　、(PAUSECATEGORY)　訓練(VC)　者(Na)　、(PAUSECATEGORY)　指導員(Na)　的(DE)　角色(Na)　，(COMMACATEGORY)
+***********************************************
+721.　，(COMMACATEGORY)　使(VL)　原本(D)　枯燥(VH)　乏味(VH)　的(DE)　課程(Na)　，(COMMACATEGORY)
+***********************************************
+722.　，(COMMACATEGORY)　變(VH)　得(DE)　聲光(Na)　曼妙(VH)　、(PAUSECATEGORY)　圖(Na)　文(Na)　並(Cbb)　茂(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+723.　；(SEMICOLONCATEGORY)　而(Cbb)　在(P)　娛樂(Na)　活動(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+724.　，(COMMACATEGORY)　多媒體(Na)　結合(VHC)　音樂(Na)　及(Caa)　高品質(Na)　畫面(Na)　，(COMMACATEGORY)
+***********************************************
+725.　，(COMMACATEGORY)　使得(VL)　電腦(Na)　遊戲(Na)　有(V_2)　了(Di)　新(VH)　的(DE)　風貌(Na)　。(PERIODCATEGORY)
+***********************************************
+726.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+727.　，(COMMACATEGORY)　它(Nh)　也(D)　提供(VD)　使用(VC)　者(Na)　於(P)　既有(A)　的(DE)　設備(Na)　和(Caa)　功能(Na)　中(Ng)　，(COMMACATEGORY)
+***********************************************
+728.　，(COMMACATEGORY)　發揮(VJ)　個人(Na)　巧思(Na)　與(Caa)　創意(Na)　，(COMMACATEGORY)
+***********************************************
+729.　，(COMMACATEGORY)　創作出(VC)　屬於(VG)　個人(Na)　風格(Na)　的(DE)　藝術(Na)　作品(Na)　。(PERIODCATEGORY)
+***********************************************
+730.　。(PERIODCATEGORY)　在(P)　過去(Nd)　，(COMMACATEGORY)
+***********************************************
+731.　，(COMMACATEGORY)　國內外(Nc)　在(P)　多媒體(Na)　的(DE)　發展(VC)[+nom]　上(Ng)　，(COMMACATEGORY)
+***********************************************
+732.　，(COMMACATEGORY)　大抵(D)　較(Dfa)　偏重於(VJ)　查詢(VE)　系統(Na)　或(Caa)　展示(VC)[+nom]　系統(Na)　等(Cab)　方面(Na)　的(DE)　應用(Na)　，(COMMACATEGORY)
+***********************************************
+733.　，(COMMACATEGORY)　如(P)　展覽(Na)　會場(Nc)　查詢(VE)　作業(Na)　或(Caa)　公司(Nc)　行號(Na)　簡介(Na)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+734.　。(PERIODCATEGORY)　以(P)　目前(Nd)　國內外(Nc)　在(P)　這(Nep)　方面(Na)　的(DE)　發展(VC)[+nom]　狀況(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+735.　，(COMMACATEGORY)　大致(D)　可(D)　分為(VG)　如(VG)　下(Ncd)　數(Neu)　項(Nf)　：(COLONCATEGORY)
+***********************************************
+736.　：(COLONCATEGORY)　１(Neu)　．(PERIODCATEGORY)
+***********************************************
+737.　．(PERIODCATEGORY)　查詢(VE)　系統(Na)　基本(Na)　上(Ng)　它(Nh)　是(SHI)　一(Neu)　個(Nf)　經過(VCL)　處理(VC)　、(PAUSECATEGORY)　可以(D)　重覆(VC)　查詢(VE)　的(DE)　資料庫(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+738.　，(COMMACATEGORY)　亦即(VG)　應用(VC)　各(Nes)　式(Nf)　資料(Na)　儲存(VC)[+nom]　設備(Na)　（(PARENTHESISCATEGORY)　如(P)　ＣＤ－ＲＯＭ(FW)　或(Caa)　ＩＶＤ(FW)　等(Cab)　(PARENTHESISCATEGORY)　儲存(VC)　大量(Neqa)　的(DE)　影像(Na)　、(PAUSECATEGORY)　語音(Na)　等(Cab)　資料(Na)　，(COMMACATEGORY)
+***********************************************
+739.　，(COMMACATEGORY)　並(Cbb)　透過(P)　播放(VC)[+nom]　系統(Na)　將(P)　內容(Na)　顯示(VK)　於(P)　螢幕(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+740.　，(COMMACATEGORY)　以(P)　達到(VJ)　即時(VH)　而(Cbb)　方便(VH)　的(DE)　資訊(Na)　提供(VD)　功能(Na)　。(PERIODCATEGORY)
+***********************************************
+741.　。(PERIODCATEGORY)　舉(VC)　個(Nf)　例子(Na)　來(D)　說(VE)　，(COMMACATEGORY)
+***********************************************
+742.　，(COMMACATEGORY)　在(P)　某(Nes)　些(Nf)　觀光(VA)　地區(Nc)　或(Caa)　一些(Neqa)　大型(Na)　商業區(Nc)　，(COMMACATEGORY)
+***********************************************
+743.　，(COMMACATEGORY)　便(D)　設有(VJ)　多媒體(Na)　查詢(VE)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+744.　，(COMMACATEGORY)　以(P)　互動式(A)　的(DE)　視訊(Na)　與(Caa)　觸控式(A)　的(DE)　螢幕(Na)　，(COMMACATEGORY)
+***********************************************
+745.　，(COMMACATEGORY)　為(P)　使用(VC)　者(Na)　提供(VD)　立即(D)　解說(VC)　或(Caa)　導覽(VC)　服務(VC)　。(PERIODCATEGORY)
+***********************************************
+746.　。(PERIODCATEGORY)　２(Neu)　．(PERIODCATEGORY)
+***********************************************
+747.　．(PERIODCATEGORY)　簡報(Na)　系統(Na)　雖然(Cbb)　有(V_2)　許多(Neqa)　人(Na)　將(D)　查詢(VE)　系統(Na)　與(Caa)　簡報(Na)　系統(Na)　混為一談(VB)　，(COMMACATEGORY)
+***********************************************
+748.　，(COMMACATEGORY)　但(Cbb)　若(Cbb)　按照(P)　功能(Na)　和(Caa)　用處(Na)　來(D)　看(VE)　的話(Cba)　，(COMMACATEGORY)
+***********************************************
+749.　，(COMMACATEGORY)　兩(Neu)　者(Na)　之間(Ng)　是(SHI)　有(V_2)　相當(VH)　的(DE)　差異(Na)　存在(VA)　。(PERIODCATEGORY)
+***********************************************
+750.　。(PERIODCATEGORY)　以(P)　簡報(Na)　系統(Na)　而(Cbb)　言(VE)　，(COMMACATEGORY)
+***********************************************
+751.　，(COMMACATEGORY)　它(Nh)　必須(D)　能(D)　與(P)　資料庫(Na)　結合(VHC)　，(COMMACATEGORY)
+***********************************************
+752.　，(COMMACATEGORY)　以(P)　達到(VJ)　即(D)　取(VC)　即(D)　用(VC)　的(DE)　功能(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+753.　；(SEMICOLONCATEGORY)　另外(Cbb)　，(COMMACATEGORY)
+***********************************************
+754.　，(COMMACATEGORY)　其(Nep)　在(P)　影像(Na)　輸出(VC)[+nom]　品質(Na)　的(DE)　要求(Na)　上(Ng)　，(COMMACATEGORY)
+***********************************************
+755.　，(COMMACATEGORY)　也(D)　較(Dfa)　查詢(VE)　系統(Na)　為(P)　高(VH)　；(SEMICOLONCATEGORY)
+***********************************************
+756.　；(SEMICOLONCATEGORY)　在(P)　硬體(Na)　設備(Na)　方面(Na)　，(COMMACATEGORY)
+***********************************************
+757.　，(COMMACATEGORY)　通常(D)　較(Dfa)　具(VJ)　規模(Na)　的(DE)　簡報(Na)　系統(Na)　，(COMMACATEGORY)
+***********************************************
+758.　，(COMMACATEGORY)　應(D)　具有(VJ)　輸出到(VC)　投影機(Na)　的(DE)　功能(Na)　以及(Caa)　無線(A)　滑鼠(Na)　與(Caa)　觸控式(A)　螢幕(Na)　等(Cab)　週邊(Nc)　硬體(Na)　的(DE)　搭配(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+759.　。(PERIODCATEGORY)　透過(P)　上述(Na)　功能(Na)　的(DE)　結合(VHC)　，(COMMACATEGORY)
+***********************************************
+760.　，(COMMACATEGORY)　應用(VC)　於(P)　企業(Na)　公司(Nc)　或(Caa)　商業(Na)　集團(Na)　簡報(Na)　系統(Na)　中(Ng)　以(P)　協助(VC)　企業(Na)　經營(VC)[+nom]　理念(Na)　的(DE)　推展(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+761.　，(COMMACATEGORY)　或(Caa)　用(VC)　於(P)　新進(A)　人員(Na)　的(DE)　教育(Na)　訓練(Na)　上(Ng)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+762.　，(COMMACATEGORY)　皆(D)　是(SHI)　簡報(Na)　系統(Na)　的(DE)　絕佳(VH)　表現(Na)　。(PERIODCATEGORY)
+***********************************************
+763.　。(PERIODCATEGORY)　３(Neu)　．(PERIODCATEGORY)
+***********************************************
+764.　．(PERIODCATEGORY)　服務性(Na)　系統(Na)　這(Nep)　應該(D)　是(SHI)　多媒體(Na)　應用(Na)　上(Ng)　最(Dfa)　風光(VH)　也(D)　最(Dfa)　寬廣(VH)　的(DE)　領域(Na)　，(COMMACATEGORY)
+***********************************************
+765.　，(COMMACATEGORY)　不論(Cbb)　是(SHI)　在(P)　商業(Na)　、(PAUSECATEGORY)　服務業(Na)　或(Caa)　金融業(Na)　，(COMMACATEGORY)
+***********************************************
+766.　，(COMMACATEGORY)　均(D)　可(D)　派上用場(VB)　。(PERIODCATEGORY)
+***********************************************
+767.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+768.　：(COLONCATEGORY)　餐飲業(Na)　上(Ng)　的(DE)　自動(VH)　點菜(VA)　系統(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+769.　；(SEMICOLONCATEGORY)　百貨公司(Nc)　的(DE)　產品(Na)　或(Caa)　客戶(Na)　服務(VC)[+nom]　系統(Na)　；(SEMICOLONCATEGORY)
+***********************************************
+770.　；(SEMICOLONCATEGORY)　金融業(Na)　的(DE)　金融(Na)　服務(VC)[+nom]　系統(Na)　、(PAUSECATEGORY)　加值(A)　網路(Na)　．(PERIODCATEGORY)
+***********************************************
+771.　．(PERIODCATEGORY)　．(PERIODCATEGORY)
+***********************************************
+772.　．(PERIODCATEGORY)　等(Cab)　。(PERIODCATEGORY)
+***********************************************
+773.　。(PERIODCATEGORY)　另外(Cbb)　，(COMMACATEGORY)
+***********************************************
+774.　，(COMMACATEGORY)　在(P)　此(Nep)　方面(Na)　較(Dfa)　有(V_2)　效率(Na)　的(DE)　應用(Na)　，(COMMACATEGORY)
+***********************************************
+775.　，(COMMACATEGORY)　應(D)　屬(VG)　醫院(Nc)　的(DE)　掛號(VA)　系統(Na)　。(PERIODCATEGORY)
+***********************************************
+776.　。(PERIODCATEGORY)　４(Neu)　．(PERIODCATEGORY)
+***********************************************
+777.　．(PERIODCATEGORY)　工業(Na)　實用(VH)　系統(Na)　應用(VC)　多媒體(Na)　「(PARENTHESISCATEGORY)　視聽(A)　」(PARENTHESISCATEGORY)　的(DE)　傳輸(VC)[+nom]　功能(Na)　於(P)　大型(Na)　廠房(Nc)　的(DE)　製程(Na)　或(Caa)　倉儲(Na)　管理(VC)　等(Cab)　規畫(Na)　上(Ncd)　，(COMMACATEGORY)
+***********************************************
+778.　，(COMMACATEGORY)　可(D)　大幅(D)　提高(VC)　整(Neqa)　廠(Nc)　生產(VC)[+nom]　效率(Na)　與(Caa)　管理(VC)[+nom]　效能(Na)　。(PERIODCATEGORY)
+***********************************************
+779.　。(PERIODCATEGORY)　５(Neu)　．(PERIODCATEGORY)
+***********************************************
+780.　．(PERIODCATEGORY)　視訊(Na)　傳真(VD)　這(Nep)　是(SHI)　多媒體(Na)　應用(Na)　中(Ng)　所(D)　遇到(VC)　的(DE)　較(Dfa)　大(VH)　瓶頸(Na)　，(COMMACATEGORY)
+***********************************************
+781.　，(COMMACATEGORY)　譬如(P)　影像(Na)　數位化(VHC)　傳輸(VC)[+nom]　速率(Na)　的(DE)　要求(Na)　，(COMMACATEGORY)
+***********************************************
+782.　，(COMMACATEGORY)　及(Caa)　資料(Na)　壓縮(VC)[+nom]　技術(Na)　的(DE)　急待(VC)　突破(Na)　（(PARENTHESISCATEGORY)　尤其(D)　是(SHI)　影像(Na)　資料(Na)　在(P)　經過(VCL)　壓縮(VC)　傳輸(VC)　後(Ng)　產生(VHC)　失真(VH)　問題(Na)　）(PARENTHESISCATEGORY)　；(SEMICOLONCATEGORY)
+***********************************************
+783.　；(SEMICOLONCATEGORY)　相較(VB)　於(P)　上(Nes)　項(Nf)　，(COMMACATEGORY)
+***********************************************
+784.　，(COMMACATEGORY)　語音(Na)　壓縮(VC)[+nom]　技術(Na)　倒(D)　算是(VG)　進步(VH)　多(VH)　了(T)　。(PERIODCATEGORY)
+***********************************************
+785.　。(PERIODCATEGORY)　除了(P)　視訊(Na)　傳真(Na)　外(Ng)　，(COMMACATEGORY)
+***********************************************
+786.　，(COMMACATEGORY)　另外(Cbb)　較(Dfa)　新興(A)　的(DE)　應用(Na)　包括(VK)　視訊(Na)　電子(Na)　郵件(Na)　、(PAUSECATEGORY)　桌(Na)　上(Ncd)　視訊(Na)　會議(Na)　等(Cab)　，(COMMACATEGORY)
+***********************************************
+787.　，(COMMACATEGORY)　這些(Neqa)　技術(Na)　大都(D)　應用(VC)　在(P)　網路(Na)　上(Ncd)　。(PERIODCATEGORY)
+***********************************************
+788.　。(PERIODCATEGORY)　例如(P)　：(COLONCATEGORY)
+***********************************************
+789.　：(COLONCATEGORY)　美國(Nc)　有(V_2)　家(Nf)　公司(Nc)　，(COMMACATEGORY)
+***********************************************
+790.　，(COMMACATEGORY)　他們(Nh)　便是(Cbb)　利用(VC)　視訊(Na)　會議(Na)　，(COMMACATEGORY)
+***********************************************
+791.　，(COMMACATEGORY)　為(P)　他們(Nh)　散布(VC)　於(P)　各(Nes)　地(Na)　的(DE)　分公司(Nc)　之間(Ng)　建立(VC)　通訊(Na)　鏈(Na)　，(COMMACATEGORY)
+***********************************************
+792.　，(COMMACATEGORY)　藉著(P)　影像(Na)　與(Caa)　電話(Na)　的(DE)　輔助(VC)[+nom]　，(COMMACATEGORY)
+***********************************************
+793.　，(COMMACATEGORY)　不但(Cbb)　為(P)　公司(Nc)　省下(VJ)　可觀(VH)　的(DE)　通訊(Na)　成本(Na)　，(COMMACATEGORY)
+***********************************************
+794.　，(COMMACATEGORY)　並(Cbb)　輕而易舉(VH)　地(DE)　完成(VC)　工作(Na)　。(PERIODCATEGORY)
+***********************************************
+795.　。(PERIODCATEGORY)　此外(Cbb)　，(COMMACATEGORY)
+***********************************************
+796.　，(COMMACATEGORY)　多媒體(Na)　已經(D)　正式(VH)　進入(VCL)　網路(Na)　世界(Nc)　，(COMMACATEGORY)
+***********************************************
+797.　，(COMMACATEGORY)　它(Nh)　的(DE)　應用(Na)　範圍(Na)　涵蓋(VJ)　科學(Na)　、(PAUSECATEGORY)　軍事(Na)　、(PAUSECATEGORY)　商業(Na)　、(PAUSECATEGORY)　廣告(Na)　、(PAUSECATEGORY)　娛樂(Na)　、(PAUSECATEGORY)　教育(Na)　、(PAUSECATEGORY)　訓練(Na)　等(Cab)　各(Nes)　領域(Na)　。(PERIODCATEGORY)
+***********************************************
+798.　。(PERIODCATEGORY)　而(Cbb)　多媒體(Na)　在(P)　網路(Na)　上(Ncd)　的(DE)　通訊(Na)　模式(Na)　可(D)　分為(VG)　單向(A)　的(DE)　訊號(Na)　處理(VC)[+nom]　（(PARENTHESISCATEGORY)　如(P)　視訊(Na)　與(Caa)　音訊(Na)　資料(Na)　的(DE)　傳送(VD)[+nom]　或(Caa)　接收(VC)[+nom]　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+799.　，(COMMACATEGORY)　以及(Caa)　雙向(A)　的(DE)　訊號(Na)　處理(VC)　（(PARENTHESISCATEGORY)　如(P)　同時(Nd)　處理(VC)　視訊(Na)　與(Caa)　音訊(Na)　資料(Na)　的(DE)　傳送(VD)[+nom]　或(Caa)　接收(VC)[+nom]　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+800.　，(COMMACATEGORY)　再(D)　經過(VCL)　包裝(VC)　後(Ng)　，(COMMACATEGORY)
+***********************************************
+801.　，(COMMACATEGORY)　即可(D)　提供(VD)　多彩多姿(VH)　的(DE)　多媒體(Na)　應用(Na)[+nom]　軟體(Na)　了(T)　。(PERIODCATEGORY)
+***********************************************
+802.　。(PERIODCATEGORY)　不過(Cbb)　，(COMMACATEGORY)
+***********************************************
+803.　，(COMMACATEGORY)　多媒體(Na)　在(P)　網路(Na)　上(Ncd)　所(D)　碰到(VC)　的(DE)　問題(Na)　，(COMMACATEGORY)
+***********************************************
+804.　，(COMMACATEGORY)　可想而知(Dk)　的(DE)　，(COMMACATEGORY)
+***********************************************
+805.　，(COMMACATEGORY)　是(SHI)　資料(Na)　傳輸(VC)[+nom]　問題(Na)　。(PERIODCATEGORY)
+***********************************************
+806.　。(PERIODCATEGORY)　由於(Cbb)　音訊(Na)　與(Caa)　視訊(Na)　的(DE)　傳輸(VC)[+nom]　資料量(Na)　相當(Dfa)　大(VH)　，(COMMACATEGORY)
+***********************************************
+807.　，(COMMACATEGORY)　而且(Cbb)　必須(D)　以(P)　即時(VH)　方式(Na)　進行(VC)　傳輸(VC)　，(COMMACATEGORY)
+***********************************************
+808.　，(COMMACATEGORY)　以(P)　避免(VE)　畫面(Na)　品質(Na)　在(P)　傳輸(VC)[+nom]　過程(Na)　中(Ng)　受到(VJ)　影響(Na)　，(COMMACATEGORY)
+***********************************************
+809.　，(COMMACATEGORY)　因此(Cbb)　，(COMMACATEGORY)
+***********************************************
+810.　，(COMMACATEGORY)　較為(Dfa)　複雜(VH)　的(DE)　交談式(A)　多媒體(Na)　應用(Na)　（(PARENTHESISCATEGORY)　如(P)　視訊(Na)　會議(Na)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+***********************************************
+811.　，(COMMACATEGORY)　並(D)　不(D)　是(SHI)　能(D)　輕易(D)　在(P)　網路(Na)　上(Ncd)　使用(VC)　。(PERIODCATEGORY)
+***********************************************
+812.　。(PERIODCATEGORY)　不過(Cbb)　，(COMMACATEGORY)
+***********************************************
+813.　，(COMMACATEGORY)　綜合(VC)　來(D)　說(VE)　，(COMMACATEGORY)
+***********************************************
+814.　，(COMMACATEGORY)　多媒體(Na)　在(P)　網路(Na)　上(Ncd)　的(DE)　應用(Na)　確實(D)　擁有(VJ)　無限(VH)　發展(VC)[+nom]　潛力(Na)　，(COMMACATEGORY)
+***********************************************
+815.　，(COMMACATEGORY)　國內外(Nc)　有(V_2)　許多(Neqa)　廠商(Na)　並(D)　已(D)　相繼(D)　投入(VC)　此(Nep)　一(Neu)　領域(Na)　的(DE)　開發(VC)[+nom]　。(PERIODCATEGORY)
+***********************************************
+816.　。(PERIODCATEGORY)　無論如何(Dk)　，(COMMACATEGORY)
+***********************************************
+817.　，(COMMACATEGORY)　多媒體(Na)　的(DE)　發展(VC)[+nom]　都(D)　將(D)　會(D)　是(SHI)　未來(Nd)　媒介(Na)　的(DE)　主流(Na)　，(COMMACATEGORY)
+***********************************************
+818.　，(COMMACATEGORY)　尤其(D)　可以(D)　肯定(VK)　的(DE)　是(SHI)　，(COMMACATEGORY)
+***********************************************
+819.　，(COMMACATEGORY)　在(P)　科技(Na)　發展(Na)　一日千里(VH)　的(DE)　今日(Nd)　，(COMMACATEGORY)
+***********************************************
+820.　，(COMMACATEGORY)　也許(D)　就(D)　在(P)　短短(VH)　的(DE)　幾(Neu)　年(Nf)　之內(Ng)　，(COMMACATEGORY)
+***********************************************
+821.　，(COMMACATEGORY)　多媒體(Na)　將(D)　成為(VG)　商業(Na)　和(Caa)　消費者(Na)　運算(VC)　與(Caa)　通訊(Na)　領域(Na)　的(DE)　一(Neu)　項(Nf)　新(VH)　標準(VH)　配備(Na)　，(COMMACATEGORY)
+***********************************************
+822.　，(COMMACATEGORY)　它(Nh)　的(DE)　影響力(Na)　也(D)　必(D)　將(D)　隨著(P)　資訊化(VHC)　程度(Na)　的(DE)　日益(D)　加深(VHC)[+nom]　，(COMMACATEGORY)
+***********************************************
+823.　，(COMMACATEGORY)　而(Cbb)　自然(D)　融入(VC)　於(P)　我們(Nh)　的(DE)　食(Na)　、(PAUSECATEGORY)　衣(Na)　、(PAUSECATEGORY)　住(VCL)　、(PAUSECATEGORY)　行(VA)　等(Cab)　日常(A)　之中(Ng)　，(COMMACATEGORY)
+***********************************************
+824.　，(COMMACATEGORY)　成為(VG)　生活(Na)　上(Ng)　不可或缺(A)　的(DE)　一(Neu)　部份(Neqa)　。(PERIODCATEGORY)
+***********************************************
+825.　。(PERIODCATEGORY)　這(Nep)　一(Neu)　點(Nf)　，(COMMACATEGORY)
+***********************************************
+826.　，(COMMACATEGORY)　且(Cbb)　讓(VL)　我們(Nh)　拭目以待(VA)　吧(T)　！(EXCLANATIONCATEGORY)
+***********************************************

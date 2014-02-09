@@ -1,0 +1,12 @@
+Installation instructions
+(Must be installed unless you already have it in your system)
+
+===========================
+1. install python-2.7.3.msi
+2. install PyYAML or numpy or nltk
+
+python-2.7.3.msi is the only software that
+must be installed first.
+PyYAML, numpy and nltk are the plugin of Python,
+there's no differences that install which one first.
+
